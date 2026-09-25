@@ -1,0 +1,3001 @@
+model,condition,image_id,class_index,class_name,tsne_1,tsne_2
+ResNet-50,Clean,3,0,airplane,13.65079,-25.13038
+ResNet-50,Clean,42,0,airplane,5.868548,-27.429485
+ResNet-50,Clean,81,0,airplane,17.127588,-24.4207
+ResNet-50,Clean,484,0,airplane,30.349167,-15.900635
+ResNet-50,Clean,562,0,airplane,16.961948,-26.45334
+ResNet-50,Clean,1175,0,airplane,17.124798,-30.380737
+ResNet-50,Clean,1389,0,airplane,11.36202,-27.750843
+ResNet-50,Clean,1553,0,airplane,9.317159,-29.841473
+ResNet-50,Clean,1596,0,airplane,30.13885,-15.05689
+ResNet-50,Clean,1648,0,airplane,13.682936,-30.704702
+ResNet-50,Clean,1977,0,airplane,19.040142,-31.024424
+ResNet-50,Clean,2024,0,airplane,21.44741,-14.710158
+ResNet-50,Clean,2242,0,airplane,27.507391,-15.006466
+ResNet-50,Clean,2750,0,airplane,28.583473,-16.60226
+ResNet-50,Clean,2888,0,airplane,8.599994,-30.524357
+ResNet-50,Clean,3025,0,airplane,19.875694,-23.018158
+ResNet-50,Clean,3083,0,airplane,29.267368,-14.364298
+ResNet-50,Clean,3347,0,airplane,21.160145,-27.399796
+ResNet-50,Clean,3437,0,airplane,27.57422,-16.782038
+ResNet-50,Clean,3455,0,airplane,18.854939,-29.295883
+ResNet-50,Clean,3876,0,airplane,26.506025,-13.559349
+ResNet-50,Clean,3965,0,airplane,15.002953,-31.842276
+ResNet-50,Clean,4130,0,airplane,12.441133,-27.490656
+ResNet-50,Clean,4399,0,airplane,19.504736,-25.817307
+ResNet-50,Clean,4539,0,airplane,20.737352,-28.280577
+ResNet-50,Clean,4615,0,airplane,18.740128,-32.799557
+ResNet-50,Clean,4617,0,airplane,22.360115,-28.408564
+ResNet-50,Clean,4675,0,airplane,15.405883,-30.90328
+ResNet-50,Clean,4785,0,airplane,12.358151,-30.952435
+ResNet-50,Clean,4819,0,airplane,22.11458,-27.61995
+ResNet-50,Clean,4893,0,airplane,16.185804,-32.953407
+ResNet-50,Clean,5117,0,airplane,20.327019,-30.824154
+ResNet-50,Clean,5478,0,airplane,21.506996,-14.27953
+ResNet-50,Clean,5912,0,airplane,18.00998,-27.269424
+ResNet-50,Clean,5918,0,airplane,17.04043,-28.402475
+ResNet-50,Clean,5999,0,airplane,15.496434,-27.20042
+ResNet-50,Clean,6437,0,airplane,13.9401455,-33.069572
+ResNet-50,Clean,6455,0,airplane,20.364473,-15.575284
+ResNet-50,Clean,6609,0,airplane,23.964312,-25.361685
+ResNet-50,Clean,6844,0,airplane,18.796274,-31.553984
+ResNet-50,Clean,6986,0,airplane,30.238811,-16.712547
+ResNet-50,Clean,7009,0,airplane,9.831398,-26.991568
+ResNet-50,Clean,7150,0,airplane,16.400295,-31.449919
+ResNet-50,Clean,7262,0,airplane,21.129383,-29.18516
+ResNet-50,Clean,7309,0,airplane,9.596451,-29.0488
+ResNet-50,Clean,7320,0,airplane,12.269461,-29.20542
+ResNet-50,Clean,7372,0,airplane,15.104005,-32.779526
+ResNet-50,Clean,7373,0,airplane,8.289778,-29.729387
+ResNet-50,Clean,7465,0,airplane,10.61986,-29.366753
+ResNet-50,Clean,7634,0,airplane,15.9528265,-33.949265
+ResNet-50,Clean,95,1,bird,-22.19378,-30.193476
+ResNet-50,Clean,116,1,bird,-18.74458,-23.28917
+ResNet-50,Clean,198,1,bird,-24.821863,-19.911808
+ResNet-50,Clean,261,1,bird,-13.050946,-26.280128
+ResNet-50,Clean,304,1,bird,-21.778336,-21.34097
+ResNet-50,Clean,825,1,bird,-13.960676,-24.949583
+ResNet-50,Clean,1090,1,bird,-13.546367,-24.300245
+ResNet-50,Clean,1109,1,bird,-17.956053,-23.307825
+ResNet-50,Clean,1115,1,bird,-21.603788,-25.76456
+ResNet-50,Clean,1230,1,bird,-16.394592,-26.19105
+ResNet-50,Clean,1436,1,bird,-17.08242,-34.12046
+ResNet-50,Clean,1568,1,bird,-27.323334,-11.427653
+ResNet-50,Clean,1852,1,bird,-24.568037,-30.880432
+ResNet-50,Clean,1871,1,bird,-8.268313,-11.762625
+ResNet-50,Clean,1986,1,bird,-6.0391164,-11.098021
+ResNet-50,Clean,1993,1,bird,-23.433468,-28.58281
+ResNet-50,Clean,2070,1,bird,-24.898245,-20.872444
+ResNet-50,Clean,2095,1,bird,-24.388561,-22.600658
+ResNet-50,Clean,2116,1,bird,-29.774244,-2.6694748
+ResNet-50,Clean,2157,1,bird,-22.993681,-23.468994
+ResNet-50,Clean,2178,1,bird,-19.593859,-24.517387
+ResNet-50,Clean,2687,1,bird,-24.97304,-29.128239
+ResNet-50,Clean,2690,1,bird,-21.983082,-28.414738
+ResNet-50,Clean,3079,1,bird,-17.855097,-34.83108
+ResNet-50,Clean,3413,1,bird,-23.093859,-30.151773
+ResNet-50,Clean,3491,1,bird,-24.451939,-26.339136
+ResNet-50,Clean,3550,1,bird,-15.206857,-20.319014
+ResNet-50,Clean,3937,1,bird,-19.50133,-30.244423
+ResNet-50,Clean,4298,1,bird,-23.70842,-31.217066
+ResNet-50,Clean,4640,1,bird,-27.74304,-24.456673
+ResNet-50,Clean,5092,1,bird,-17.808668,-33.764206
+ResNet-50,Clean,5123,1,bird,-15.097188,-25.292513
+ResNet-50,Clean,5220,1,bird,-21.975353,-18.912312
+ResNet-50,Clean,5256,1,bird,-19.120962,-30.137117
+ResNet-50,Clean,5488,1,bird,-46.084805,-18.472004
+ResNet-50,Clean,5560,1,bird,-6.4188504,-9.523611
+ResNet-50,Clean,6076,1,bird,-22.583412,-31.22757
+ResNet-50,Clean,6169,1,bird,-16.29119,-22.533266
+ResNet-50,Clean,6349,1,bird,-24.90711,-26.239094
+ResNet-50,Clean,6594,1,bird,-15.353468,-23.079487
+ResNet-50,Clean,6733,1,bird,-6.49073,-10.92599
+ResNet-50,Clean,6805,1,bird,-12.964737,-25.391766
+ResNet-50,Clean,6836,1,bird,-16.075466,-35.27646
+ResNet-50,Clean,6938,1,bird,-23.555021,-30.69341
+ResNet-50,Clean,6954,1,bird,-23.695297,-21.770903
+ResNet-50,Clean,7029,1,bird,-16.627583,-35.006016
+ResNet-50,Clean,7033,1,bird,-24.949066,-25.764513
+ResNet-50,Clean,7202,1,bird,-15.522919,-35.756615
+ResNet-50,Clean,7390,1,bird,-16.532171,-27.770554
+ResNet-50,Clean,7955,1,bird,-22.264738,-29.350376
+ResNet-50,Clean,35,2,car,35.56151,23.220041
+ResNet-50,Clean,49,2,car,34.95941,21.74869
+ResNet-50,Clean,317,2,car,29.321346,26.966076
+ResNet-50,Clean,409,2,car,36.344296,25.324963
+ResNet-50,Clean,470,2,car,23.706116,33.480724
+ResNet-50,Clean,483,2,car,27.021255,24.818956
+ResNet-50,Clean,714,2,car,24.718502,22.289177
+ResNet-50,Clean,981,2,car,30.756578,31.883087
+ResNet-50,Clean,1202,2,car,28.022682,26.955065
+ResNet-50,Clean,1403,2,car,34.931847,26.520634
+ResNet-50,Clean,1520,2,car,39.232285,23.191704
+ResNet-50,Clean,1586,2,car,33.368675,32.33474
+ResNet-50,Clean,1814,2,car,34.470634,21.412392
+ResNet-50,Clean,1839,2,car,31.63194,32.43103
+ResNet-50,Clean,2082,2,car,27.743818,24.104004
+ResNet-50,Clean,2392,2,car,34.187454,24.438868
+ResNet-50,Clean,2502,2,car,23.419012,32.006927
+ResNet-50,Clean,3024,2,car,32.555664,22.312168
+ResNet-50,Clean,3067,2,car,35.82658,21.080635
+ResNet-50,Clean,3163,2,car,33.810917,26.050352
+ResNet-50,Clean,3362,2,car,22.254725,32.31566
+ResNet-50,Clean,3454,2,car,33.251953,29.911825
+ResNet-50,Clean,3755,2,car,36.325283,32.681087
+ResNet-50,Clean,4065,2,car,34.888424,28.372507
+ResNet-50,Clean,4735,2,car,33.12104,21.116083
+ResNet-50,Clean,4913,2,car,32.54565,23.245752
+ResNet-50,Clean,4921,2,car,35.483932,32.44166
+ResNet-50,Clean,5030,2,car,22.597118,32.910717
+ResNet-50,Clean,5183,2,car,22.72239,33.939205
+ResNet-50,Clean,5218,2,car,22.22481,33.34357
+ResNet-50,Clean,5237,2,car,28.54163,24.844097
+ResNet-50,Clean,5318,2,car,26.1564,23.671085
+ResNet-50,Clean,5333,2,car,32.672417,27.317623
+ResNet-50,Clean,5395,2,car,36.645683,27.851492
+ResNet-50,Clean,5512,2,car,26.808174,4.158006
+ResNet-50,Clean,5677,2,car,35.99528,29.380026
+ResNet-50,Clean,5756,2,car,38.119392,27.491623
+ResNet-50,Clean,5824,2,car,36.15507,34.039032
+ResNet-50,Clean,6028,2,car,32.469227,32.27597
+ResNet-50,Clean,6244,2,car,32.218613,28.490084
+ResNet-50,Clean,6264,2,car,36.302773,30.886564
+ResNet-50,Clean,6271,2,car,24.299112,34.126587
+ResNet-50,Clean,6332,2,car,32.41646,19.24757
+ResNet-50,Clean,6354,2,car,31.114338,29.918262
+ResNet-50,Clean,6426,2,car,36.29122,26.7184
+ResNet-50,Clean,6503,2,car,32.122387,21.458553
+ResNet-50,Clean,6616,2,car,31.415127,25.73981
+ResNet-50,Clean,6692,2,car,30.116018,24.663305
+ResNet-50,Clean,7084,2,car,38.023815,29.078136
+ResNet-50,Clean,7425,2,car,38.148582,26.350616
+ResNet-50,Clean,176,3,cat,-29.791359,-1.2703611
+ResNet-50,Clean,365,3,cat,-21.42486,-2.2359715
+ResNet-50,Clean,372,3,cat,-24.16841,1.817073
+ResNet-50,Clean,391,3,cat,-29.402948,1.3345412
+ResNet-50,Clean,632,3,cat,-28.246458,-1.7803795
+ResNet-50,Clean,672,3,cat,-27.88095,0.84873915
+ResNet-50,Clean,677,3,cat,-23.248398,-4.3599615
+ResNet-50,Clean,738,3,cat,-10.055549,-1.1699395
+ResNet-50,Clean,791,3,cat,-24.169205,-4.086357
+ResNet-50,Clean,979,3,cat,-20.08503,-4.190188
+ResNet-50,Clean,1204,3,cat,-31.300179,-1.5854304
+ResNet-50,Clean,1263,3,cat,-29.489222,4.893774
+ResNet-50,Clean,1370,3,cat,-20.50142,-2.2772563
+ResNet-50,Clean,1401,3,cat,-25.631157,-0.9760771
+ResNet-50,Clean,1431,3,cat,-15.320673,-4.4132457
+ResNet-50,Clean,1531,3,cat,-24.832659,7.964881
+ResNet-50,Clean,1563,3,cat,-35.61321,-8.97368
+ResNet-50,Clean,2028,3,cat,-25.685848,2.8523762
+ResNet-50,Clean,2291,3,cat,-34.505505,-6.5349245
+ResNet-50,Clean,2536,3,cat,-30.791035,0.051770087
+ResNet-50,Clean,2539,3,cat,-27.679249,-6.050842
+ResNet-50,Clean,2754,3,cat,-32.427837,2.895581
+ResNet-50,Clean,2861,3,cat,-24.751635,-1.5872692
+ResNet-50,Clean,3276,3,cat,-29.11068,7.814008
+ResNet-50,Clean,3375,3,cat,-25.939785,7.185445
+ResNet-50,Clean,3383,3,cat,-31.272121,3.0715945
+ResNet-50,Clean,3562,3,cat,-27.473494,8.1692295
+ResNet-50,Clean,3778,3,cat,-18.20989,-8.2965765
+ResNet-50,Clean,3851,3,cat,-17.357622,-5.410715
+ResNet-50,Clean,3914,3,cat,-31.58097,2.4505174
+ResNet-50,Clean,4023,3,cat,-27.389809,6.919694
+ResNet-50,Clean,4168,3,cat,-22.967447,-4.9938397
+ResNet-50,Clean,4215,3,cat,-24.409056,-16.541412
+ResNet-50,Clean,4229,3,cat,-27.20008,-1.4034852
+ResNet-50,Clean,4323,3,cat,-18.897854,-3.169787
+ResNet-50,Clean,4330,3,cat,-24.831547,12.367493
+ResNet-50,Clean,4463,3,cat,-25.013641,-2.5358586
+ResNet-50,Clean,4531,3,cat,-29.05116,5.3234315
+ResNet-50,Clean,4590,3,cat,-25.912107,-2.147755
+ResNet-50,Clean,4609,3,cat,-34.22565,-0.62137043
+ResNet-50,Clean,4821,3,cat,-23.332275,-7.361744
+ResNet-50,Clean,4881,3,cat,-33.507694,-3.219331
+ResNet-50,Clean,4908,3,cat,-27.814968,-3.5698993
+ResNet-50,Clean,5528,3,cat,-17.553205,-2.2862625
+ResNet-50,Clean,6490,3,cat,-31.256723,-4.5549474
+ResNet-50,Clean,6952,3,cat,-22.081266,0.78200674
+ResNet-50,Clean,7416,3,cat,-16.121855,-6.026923
+ResNet-50,Clean,7744,3,cat,-14.798411,-5.0591903
+ResNet-50,Clean,7793,3,cat,-8.177576,-4.3557754
+ResNet-50,Clean,7797,3,cat,-33.131046,1.9173998
+ResNet-50,Clean,171,4,deer,-24.602865,32.799683
+ResNet-50,Clean,506,4,deer,-28.7641,22.795856
+ResNet-50,Clean,691,4,deer,-28.790096,26.311869
+ResNet-50,Clean,766,4,deer,-6.9401927,17.132187
+ResNet-50,Clean,855,4,deer,-13.26871,23.332582
+ResNet-50,Clean,1111,4,deer,-18.386337,34.143253
+ResNet-50,Clean,1124,4,deer,-29.255787,29.883726
+ResNet-50,Clean,1211,4,deer,-21.589104,29.757128
+ResNet-50,Clean,1266,4,deer,-29.88799,29.079046
+ResNet-50,Clean,1429,4,deer,-19.937506,18.745316
+ResNet-50,Clean,1960,4,deer,-18.347187,10.557211
+ResNet-50,Clean,2399,4,deer,-19.613823,28.698332
+ResNet-50,Clean,2704,4,deer,-30.134777,28.008545
+ResNet-50,Clean,2757,4,deer,-14.688745,26.737123
+ResNet-50,Clean,2898,4,deer,-22.12912,32.766235
+ResNet-50,Clean,3034,4,deer,-24.663649,30.160069
+ResNet-50,Clean,3078,4,deer,-28.933035,27.013235
+ResNet-50,Clean,3122,4,deer,-27.624277,27.012846
+ResNet-50,Clean,3179,4,deer,-16.611393,31.014008
+ResNet-50,Clean,3287,4,deer,-23.039057,34.121872
+ResNet-50,Clean,3365,4,deer,-15.2919,31.14867
+ResNet-50,Clean,3458,4,deer,-23.465038,28.150545
+ResNet-50,Clean,3512,4,deer,-26.082125,31.681332
+ResNet-50,Clean,3763,4,deer,-21.84826,31.5425
+ResNet-50,Clean,3891,4,deer,-28.390545,28.011753
+ResNet-50,Clean,3994,4,deer,-26.140738,29.358082
+ResNet-50,Clean,4054,4,deer,-20.110012,36.186028
+ResNet-50,Clean,4629,4,deer,-26.982393,28.404558
+ResNet-50,Clean,4642,4,deer,-27.67542,29.555231
+ResNet-50,Clean,4740,4,deer,-19.537386,32.96407
+ResNet-50,Clean,5062,4,deer,-27.045744,30.276558
+ResNet-50,Clean,5077,4,deer,-19.286318,34.836315
+ResNet-50,Clean,5135,4,deer,-22.227503,21.83169
+ResNet-50,Clean,5213,4,deer,-20.861238,32.813072
+ResNet-50,Clean,5402,4,deer,-21.322786,35.853477
+ResNet-50,Clean,5467,4,deer,-20.362656,31.680937
+ResNet-50,Clean,5556,4,deer,-20.33599,30.757
+ResNet-50,Clean,5623,4,deer,-18.57437,30.117832
+ResNet-50,Clean,5789,4,deer,-16.462543,32.797783
+ResNet-50,Clean,6033,4,deer,-25.352142,35.043045
+ResNet-50,Clean,6097,4,deer,-21.112375,35.372234
+ResNet-50,Clean,6288,4,deer,-25.578075,26.683722
+ResNet-50,Clean,6508,4,deer,-20.275106,34.3235
+ResNet-50,Clean,6528,4,deer,-24.873083,21.393967
+ResNet-50,Clean,7475,4,deer,-18.41759,31.531384
+ResNet-50,Clean,7610,4,deer,-25.963644,27.289595
+ResNet-50,Clean,7692,4,deer,-21.774796,25.897566
+ResNet-50,Clean,7864,4,deer,-21.221533,36.482834
+ResNet-50,Clean,7940,4,deer,-25.349884,30.978664
+ResNet-50,Clean,7944,4,deer,-17.30436,23.969131
+ResNet-50,Clean,97,5,dog,-12.952766,-8.44277
+ResNet-50,Clean,319,5,dog,-5.802172,-2.7073088
+ResNet-50,Clean,378,5,dog,-15.889723,-8.508615
+ResNet-50,Clean,568,5,dog,-15.395884,-9.641003
+ResNet-50,Clean,645,5,dog,-12.6617,7.7590456
+ResNet-50,Clean,685,5,dog,-5.678534,2.980106
+ResNet-50,Clean,1095,5,dog,-3.300219,2.46569
+ResNet-50,Clean,1552,5,dog,-6.0078454,7.141095
+ResNet-50,Clean,1626,5,dog,-14.341089,4.9751024
+ResNet-50,Clean,1644,5,dog,-3.3259478,-1.8235197
+ResNet-50,Clean,1877,5,dog,-3.5063858,7.639985
+ResNet-50,Clean,2265,5,dog,-5.5233026,6.5448484
+ResNet-50,Clean,2268,5,dog,-15.439537,-8.8338375
+ResNet-50,Clean,2334,5,dog,-1.1081692,8.74313
+ResNet-50,Clean,2391,5,dog,-13.839711,13.532175
+ResNet-50,Clean,2427,5,dog,-1.3827548,6.8751783
+ResNet-50,Clean,2458,5,dog,-12.650971,10.595577
+ResNet-50,Clean,2623,5,dog,-15.353177,7.256247
+ResNet-50,Clean,2766,5,dog,-13.927683,-7.880358
+ResNet-50,Clean,2807,5,dog,-31.266962,-14.126129
+ResNet-50,Clean,2950,5,dog,-15.375882,0.2940102
+ResNet-50,Clean,3353,5,dog,-11.183519,0.97850347
+ResNet-50,Clean,3852,5,dog,-13.540203,3.0615327
+ResNet-50,Clean,3863,5,dog,-1.9512748,2.358181
+ResNet-50,Clean,3889,5,dog,-11.142536,-5.492908
+ResNet-50,Clean,4106,5,dog,-11.834864,11.287211
+ResNet-50,Clean,4290,5,dog,-14.243442,14.160996
+ResNet-50,Clean,4547,5,dog,-6.401377,-3.299411
+ResNet-50,Clean,4570,5,dog,-1.057485,7.4751806
+ResNet-50,Clean,4850,5,dog,-14.112999,6.522785
+ResNet-50,Clean,4953,5,dog,-4.983079,-2.083842
+ResNet-50,Clean,4966,5,dog,-9.053486,-2.5599198
+ResNet-50,Clean,5101,5,dog,-5.1242933,-0.08188433
+ResNet-50,Clean,5332,5,dog,-12.155858,6.361763
+ResNet-50,Clean,5381,5,dog,-8.359597,6.215014
+ResNet-50,Clean,5496,5,dog,-3.7093503,-4.5251193
+ResNet-50,Clean,5701,5,dog,-16.031416,2.516509
+ResNet-50,Clean,5924,5,dog,-2.1007445,8.456248
+ResNet-50,Clean,6224,5,dog,-2.0676515,7.3356924
+ResNet-50,Clean,6358,5,dog,-16.72627,8.324734
+ResNet-50,Clean,6414,5,dog,-8.227263,-2.4071932
+ResNet-50,Clean,6716,5,dog,-6.7863035,-4.929976
+ResNet-50,Clean,6922,5,dog,-11.990777,8.789793
+ResNet-50,Clean,6989,5,dog,-1.3133514,-1.5638826
+ResNet-50,Clean,7041,5,dog,-10.332689,-4.25138
+ResNet-50,Clean,7130,5,dog,-0.4352971,0.82073206
+ResNet-50,Clean,7413,5,dog,-14.045669,-9.440436
+ResNet-50,Clean,7474,5,dog,-7.73503,4.024523
+ResNet-50,Clean,7706,5,dog,-8.42913,2.4661622
+ResNet-50,Clean,7776,5,dog,-1.0240383,-0.03078556
+ResNet-50,Clean,449,6,horse,-1.1726458,29.54741
+ResNet-50,Clean,545,6,horse,8.037775,23.798075
+ResNet-50,Clean,873,6,horse,-10.428455,19.336018
+ResNet-50,Clean,890,6,horse,-1.4639616,30.545893
+ResNet-50,Clean,920,6,horse,-9.285014,21.02763
+ResNet-50,Clean,929,6,horse,-5.7073097,25.373907
+ResNet-50,Clean,964,6,horse,0.1731354,20.604807
+ResNet-50,Clean,977,6,horse,0.6994752,31.832401
+ResNet-50,Clean,1534,6,horse,5.1447487,20.215326
+ResNet-50,Clean,1667,6,horse,5.9200916,20.122318
+ResNet-50,Clean,2003,6,horse,-1.94698,28.755573
+ResNet-50,Clean,2610,6,horse,-4.083324,18.851189
+ResNet-50,Clean,2676,6,horse,3.6138756,20.409716
+ResNet-50,Clean,2958,6,horse,0.13566783,32.484787
+ResNet-50,Clean,3191,6,horse,6.7781606,23.99991
+ResNet-50,Clean,3292,6,horse,3.313849,22.035494
+ResNet-50,Clean,3418,6,horse,0.90031314,33.828663
+ResNet-50,Clean,3494,6,horse,3.6672595,31.15573
+ResNet-50,Clean,3515,6,horse,-12.087814,24.294106
+ResNet-50,Clean,3777,6,horse,-0.5720005,32.944836
+ResNet-50,Clean,3779,6,horse,-9.41421,21.944466
+ResNet-50,Clean,3844,6,horse,-2.1411417,32.344845
+ResNet-50,Clean,3962,6,horse,-6.8921824,26.499144
+ResNet-50,Clean,4011,6,horse,-1.35018,25.866629
+ResNet-50,Clean,4093,6,horse,-0.43028986,20.09032
+ResNet-50,Clean,4254,6,horse,-5.2468424,27.432247
+ResNet-50,Clean,4341,6,horse,1.034163,32.633453
+ResNet-50,Clean,4411,6,horse,2.4365308,21.680353
+ResNet-50,Clean,4620,6,horse,3.0338092,26.581255
+ResNet-50,Clean,4731,6,horse,1.5550672,30.618176
+ResNet-50,Clean,4746,6,horse,-9.72856,24.830534
+ResNet-50,Clean,4754,6,horse,-3.6701283,28.807512
+ResNet-50,Clean,4827,6,horse,0.60117483,25.964155
+ResNet-50,Clean,5082,6,horse,2.2571123,33.470627
+ResNet-50,Clean,5382,6,horse,4.081001,23.675093
+ResNet-50,Clean,5408,6,horse,-8.897966,26.745468
+ResNet-50,Clean,5580,6,horse,-3.63857,25.546623
+ResNet-50,Clean,5729,6,horse,-2.9071844,29.920387
+ResNet-50,Clean,5857,6,horse,-13.919658,19.60266
+ResNet-50,Clean,5858,6,horse,-11.547399,25.953154
+ResNet-50,Clean,6381,6,horse,5.5668516,22.554258
+ResNet-50,Clean,6713,6,horse,6.0085044,22.703325
+ResNet-50,Clean,7108,6,horse,-9.921477,30.772038
+ResNet-50,Clean,7338,6,horse,-6.5030107,21.642117
+ResNet-50,Clean,7555,6,horse,7.422408,24.698242
+ResNet-50,Clean,7600,6,horse,2.1738226,31.797808
+ResNet-50,Clean,7726,6,horse,-2.66526,26.504412
+ResNet-50,Clean,7779,6,horse,2.1312995,24.843653
+ResNet-50,Clean,7781,6,horse,-8.41697,24.006142
+ResNet-50,Clean,7996,6,horse,1.6017047,31.616604
+ResNet-50,Clean,29,7,monkey,-46.327457,-14.250455
+ResNet-50,Clean,269,7,monkey,-42.869102,-13.178321
+ResNet-50,Clean,323,7,monkey,-43.90297,-10.9077425
+ResNet-50,Clean,370,7,monkey,-47.40611,-10.0257635
+ResNet-50,Clean,1032,7,monkey,-40.063984,-21.424942
+ResNet-50,Clean,1048,7,monkey,-46.525784,-8.794481
+ResNet-50,Clean,1220,7,monkey,-57.260418,-3.4702632
+ResNet-50,Clean,1287,7,monkey,-57.92965,-3.484644
+ResNet-50,Clean,1296,7,monkey,-39.251896,-15.069558
+ResNet-50,Clean,1440,7,monkey,-43.74611,-9.806335
+ResNet-50,Clean,1473,7,monkey,-46.069584,-19.898634
+ResNet-50,Clean,1579,7,monkey,-48.1839,-18.627007
+ResNet-50,Clean,1703,7,monkey,-60.480453,-5.0109262
+ResNet-50,Clean,1711,7,monkey,-48.525578,-18.25295
+ResNet-50,Clean,1771,7,monkey,-40.74551,-7.1916018
+ResNet-50,Clean,1884,7,monkey,-40.96407,-22.444593
+ResNet-50,Clean,1927,7,monkey,-46.567444,-11.520696
+ResNet-50,Clean,1956,7,monkey,-12.143181,0.089092486
+ResNet-50,Clean,2501,7,monkey,-45.59253,-11.64419
+ResNet-50,Clean,2668,7,monkey,-57.962563,-4.2179513
+ResNet-50,Clean,2746,7,monkey,-46.044483,-16.937517
+ResNet-50,Clean,2854,7,monkey,-56.64357,-5.7946043
+ResNet-50,Clean,3153,7,monkey,-57.24706,-4.8756266
+ResNet-50,Clean,3288,7,monkey,-58.742077,-3.8463128
+ResNet-50,Clean,3404,7,monkey,-48.06028,-11.5561695
+ResNet-50,Clean,3446,7,monkey,-39.260826,-14.764004
+ResNet-50,Clean,3467,7,monkey,-40.602585,-13.074311
+ResNet-50,Clean,3542,7,monkey,-46.18202,-10.4363165
+ResNet-50,Clean,3867,7,monkey,-44.662342,-12.977711
+ResNet-50,Clean,4172,7,monkey,-56.876724,-4.267672
+ResNet-50,Clean,4236,7,monkey,-41.901638,-22.234108
+ResNet-50,Clean,4308,7,monkey,-42.220417,-15.115892
+ResNet-50,Clean,4403,7,monkey,-47.779095,-12.529444
+ResNet-50,Clean,4661,7,monkey,-43.95046,-16.026419
+ResNet-50,Clean,4704,7,monkey,-44.684765,-17.736609
+ResNet-50,Clean,4748,7,monkey,-43.87619,-23.663311
+ResNet-50,Clean,4791,7,monkey,-47.525284,-10.981898
+ResNet-50,Clean,5436,7,monkey,-58.98743,-3.3056772
+ResNet-50,Clean,5450,7,monkey,-44.256508,-22.708836
+ResNet-50,Clean,5719,7,monkey,-42.075115,-23.72764
+ResNet-50,Clean,5848,7,monkey,-60.013645,-3.2958252
+ResNet-50,Clean,5977,7,monkey,-41.86,-23.383512
+ResNet-50,Clean,6084,7,monkey,-42.12192,-24.5368
+ResNet-50,Clean,6190,7,monkey,-56.431118,-5.4777412
+ResNet-50,Clean,6650,7,monkey,-39.114376,-17.636496
+ResNet-50,Clean,6726,7,monkey,-42.22575,-11.044247
+ResNet-50,Clean,6772,7,monkey,-37.721466,-16.055283
+ResNet-50,Clean,7081,7,monkey,-40.656906,-22.728825
+ResNet-50,Clean,7270,7,monkey,-43.282825,-18.554838
+ResNet-50,Clean,7835,7,monkey,-45.469177,-9.42138
+ResNet-50,Clean,151,8,ship,50.201035,-21.014942
+ResNet-50,Clean,194,8,ship,47.25179,-18.354958
+ResNet-50,Clean,667,8,ship,43.563244,-16.137167
+ResNet-50,Clean,706,8,ship,38.96353,-21.51971
+ResNet-50,Clean,716,8,ship,51.226746,-20.550285
+ResNet-50,Clean,739,8,ship,48.856136,-18.549202
+ResNet-50,Clean,962,8,ship,45.818024,-18.697676
+ResNet-50,Clean,1129,8,ship,42.33167,-24.66959
+ResNet-50,Clean,1247,8,ship,49.785282,-13.838905
+ResNet-50,Clean,1640,8,ship,38.788795,-24.87912
+ResNet-50,Clean,1783,8,ship,43.38961,-25.955029
+ResNet-50,Clean,1833,8,ship,50.28994,-15.870719
+ResNet-50,Clean,1954,8,ship,32.632603,-18.127392
+ResNet-50,Clean,2109,8,ship,39.222324,-22.452738
+ResNet-50,Clean,2191,8,ship,48.673126,-25.49142
+ResNet-50,Clean,2230,8,ship,46.475048,-13.145837
+ResNet-50,Clean,2340,8,ship,48.34761,-17.223232
+ResNet-50,Clean,2342,8,ship,44.944126,-22.772453
+ResNet-50,Clean,2745,8,ship,46.393967,-20.427189
+ResNet-50,Clean,2844,8,ship,40.874832,-23.264513
+ResNet-50,Clean,3015,8,ship,46.71318,-16.711477
+ResNet-50,Clean,3157,8,ship,45.281483,-16.82542
+ResNet-50,Clean,3412,8,ship,42.456364,-15.842478
+ResNet-50,Clean,3905,8,ship,41.60828,-21.686954
+ResNet-50,Clean,3948,8,ship,39.50477,-19.250027
+ResNet-50,Clean,4069,8,ship,29.38227,-8.75751
+ResNet-50,Clean,4170,8,ship,40.911976,-14.265819
+ResNet-50,Clean,4177,8,ship,44.73673,-18.850163
+ResNet-50,Clean,4242,8,ship,49.59171,-15.744648
+ResNet-50,Clean,4311,8,ship,45.323563,-24.364798
+ResNet-50,Clean,4355,8,ship,41.566353,-10.245519
+ResNet-50,Clean,4552,8,ship,44.560795,-13.5158615
+ResNet-50,Clean,4662,8,ship,46.669777,-23.889853
+ResNet-50,Clean,4676,8,ship,46.382763,-17.497805
+ResNet-50,Clean,4990,8,ship,45.892395,-14.207489
+ResNet-50,Clean,5000,8,ship,34.378128,-14.777995
+ResNet-50,Clean,5451,8,ship,43.275032,-17.566849
+ResNet-50,Clean,5525,8,ship,40.760406,-24.64624
+ResNet-50,Clean,5694,8,ship,40.291626,-20.493404
+ResNet-50,Clean,5705,8,ship,47.271324,-22.650394
+ResNet-50,Clean,6434,8,ship,46.478912,-25.420282
+ResNet-50,Clean,6689,8,ship,42.206757,-13.370851
+ResNet-50,Clean,7138,8,ship,39.767033,-16.312372
+ResNet-50,Clean,7446,8,ship,38.939564,-20.352505
+ResNet-50,Clean,7460,8,ship,43.95248,-11.635395
+ResNet-50,Clean,7476,8,ship,32.220863,-15.856047
+ResNet-50,Clean,7810,8,ship,44.90123,-25.11695
+ResNet-50,Clean,7818,8,ship,48.428463,-14.082287
+ResNet-50,Clean,7875,8,ship,43.66241,-24.770645
+ResNet-50,Clean,7999,8,ship,43.10697,-16.513138
+ResNet-50,Clean,131,9,truck,37.300755,1.9177539
+ResNet-50,Clean,191,9,truck,39.578285,1.9449136
+ResNet-50,Clean,239,9,truck,36.840736,0.91257703
+ResNet-50,Clean,276,9,truck,38.666798,0.79152954
+ResNet-50,Clean,303,9,truck,43.327225,9.366805
+ResNet-50,Clean,419,9,truck,38.908005,4.3012404
+ResNet-50,Clean,603,9,truck,42.398964,-0.48812068
+ResNet-50,Clean,805,9,truck,32.690777,3.1949837
+ResNet-50,Clean,852,9,truck,40.428364,8.002098
+ResNet-50,Clean,1022,9,truck,38.053146,-0.3125101
+ResNet-50,Clean,1411,9,truck,46.623436,3.790505
+ResNet-50,Clean,1430,9,truck,31.331028,3.4250479
+ResNet-50,Clean,1468,9,truck,34.259777,8.366382
+ResNet-50,Clean,1515,9,truck,42.40288,6.1790485
+ResNet-50,Clean,1654,9,truck,35.360737,2.0520728
+ResNet-50,Clean,1836,9,truck,43.20533,10.400147
+ResNet-50,Clean,2011,9,truck,42.392445,2.4605045
+ResNet-50,Clean,2062,9,truck,42.21983,4.6575403
+ResNet-50,Clean,2114,9,truck,33.533882,8.17292
+ResNet-50,Clean,2167,9,truck,29.824371,-1.8515205
+ResNet-50,Clean,2351,9,truck,43.83144,9.493636
+ResNet-50,Clean,2414,9,truck,34.89625,-4.5524726
+ResNet-50,Clean,2655,9,truck,36.901,3.7785332
+ResNet-50,Clean,3318,9,truck,28.007784,2.6406033
+ResNet-50,Clean,3893,9,truck,33.223743,8.951572
+ResNet-50,Clean,3942,9,truck,29.83609,0.43181223
+ResNet-50,Clean,3996,9,truck,27.42059,6.833367
+ResNet-50,Clean,4094,9,truck,46.022892,4.88155
+ResNet-50,Clean,4449,9,truck,31.551964,-1.3113838
+ResNet-50,Clean,4723,9,truck,35.577442,-1.0974591
+ResNet-50,Clean,5284,9,truck,30.085152,1.1754919
+ResNet-50,Clean,5301,9,truck,40.01003,-0.69515175
+ResNet-50,Clean,5360,9,truck,33.543083,4.7917824
+ResNet-50,Clean,5447,9,truck,44.119495,6.018887
+ResNet-50,Clean,5452,9,truck,43.163822,2.8610156
+ResNet-50,Clean,5508,9,truck,42.99635,4.0677457
+ResNet-50,Clean,5572,9,truck,33.76869,-1.7559696
+ResNet-50,Clean,5590,9,truck,45.9425,2.6965597
+ResNet-50,Clean,5788,9,truck,35.180588,7.3360105
+ResNet-50,Clean,5851,9,truck,44.63912,9.91653
+ResNet-50,Clean,5915,9,truck,32.17138,0.8659259
+ResNet-50,Clean,5981,9,truck,43.772003,1.5931457
+ResNet-50,Clean,6931,9,truck,30.956861,-5.214612
+ResNet-50,Clean,7047,9,truck,44.976776,8.968531
+ResNet-50,Clean,7266,9,truck,29.790413,-6.7752757
+ResNet-50,Clean,7380,9,truck,43.026875,7.1580825
+ResNet-50,Clean,7544,9,truck,31.600376,6.430451
+ResNet-50,Clean,7752,9,truck,32.698418,6.848795
+ResNet-50,Clean,7938,9,truck,34.390503,1.6364238
+ResNet-50,Clean,7995,9,truck,39.281464,3.1000702
+ResNet-50,Translation 32px,3,0,airplane,13.644535,-25.29211
+ResNet-50,Translation 32px,42,0,airplane,5.765118,-27.392073
+ResNet-50,Translation 32px,81,0,airplane,17.378218,-24.496141
+ResNet-50,Translation 32px,484,0,airplane,30.711212,-15.809366
+ResNet-50,Translation 32px,562,0,airplane,17.049152,-26.081934
+ResNet-50,Translation 32px,1175,0,airplane,17.8399,-29.73545
+ResNet-50,Translation 32px,1389,0,airplane,11.076541,-27.866266
+ResNet-50,Translation 32px,1553,0,airplane,8.884588,-29.008295
+ResNet-50,Translation 32px,1596,0,airplane,30.508831,-14.985196
+ResNet-50,Translation 32px,1648,0,airplane,14.627811,-30.324833
+ResNet-50,Translation 32px,1977,0,airplane,20.088884,-31.311348
+ResNet-50,Translation 32px,2024,0,airplane,21.177244,-14.729007
+ResNet-50,Translation 32px,2242,0,airplane,27.544655,-15.136481
+ResNet-50,Translation 32px,2750,0,airplane,28.759935,-16.637367
+ResNet-50,Translation 32px,2888,0,airplane,8.37142,-30.599022
+ResNet-50,Translation 32px,3025,0,airplane,19.90717,-22.950874
+ResNet-50,Translation 32px,3083,0,airplane,29.241003,-14.27644
+ResNet-50,Translation 32px,3347,0,airplane,21.142115,-26.697765
+ResNet-50,Translation 32px,3437,0,airplane,27.269365,-16.91047
+ResNet-50,Translation 32px,3455,0,airplane,18.916483,-28.887875
+ResNet-50,Translation 32px,3876,0,airplane,26.40648,-13.574194
+ResNet-50,Translation 32px,3965,0,airplane,14.684186,-31.965227
+ResNet-50,Translation 32px,4130,0,airplane,12.357245,-27.328907
+ResNet-50,Translation 32px,4399,0,airplane,19.372307,-25.715149
+ResNet-50,Translation 32px,4539,0,airplane,20.51094,-27.966106
+ResNet-50,Translation 32px,4615,0,airplane,19.345182,-32.743526
+ResNet-50,Translation 32px,4617,0,airplane,22.61948,-28.258095
+ResNet-50,Translation 32px,4675,0,airplane,15.279653,-30.097744
+ResNet-50,Translation 32px,4785,0,airplane,12.214203,-30.852327
+ResNet-50,Translation 32px,4819,0,airplane,22.317774,-27.271776
+ResNet-50,Translation 32px,4893,0,airplane,16.55354,-32.82642
+ResNet-50,Translation 32px,5117,0,airplane,20.599113,-30.353859
+ResNet-50,Translation 32px,5478,0,airplane,21.234043,-14.22865
+ResNet-50,Translation 32px,5912,0,airplane,18.159813,-27.20639
+ResNet-50,Translation 32px,5918,0,airplane,17.040411,-27.871532
+ResNet-50,Translation 32px,5999,0,airplane,15.535324,-26.969637
+ResNet-50,Translation 32px,6437,0,airplane,14.0953245,-33.424316
+ResNet-50,Translation 32px,6455,0,airplane,20.173874,-15.552877
+ResNet-50,Translation 32px,6609,0,airplane,23.993334,-25.325306
+ResNet-50,Translation 32px,6844,0,airplane,19.622646,-31.838491
+ResNet-50,Translation 32px,6986,0,airplane,30.14819,-16.860577
+ResNet-50,Translation 32px,7009,0,airplane,9.909483,-26.942127
+ResNet-50,Translation 32px,7150,0,airplane,17.22312,-31.334522
+ResNet-50,Translation 32px,7262,0,airplane,21.33662,-29.245121
+ResNet-50,Translation 32px,7309,0,airplane,9.404025,-28.143068
+ResNet-50,Translation 32px,7320,0,airplane,12.512262,-29.005589
+ResNet-50,Translation 32px,7372,0,airplane,15.525959,-32.70651
+ResNet-50,Translation 32px,7373,0,airplane,7.8946605,-29.997873
+ResNet-50,Translation 32px,7465,0,airplane,10.6996565,-28.89553
+ResNet-50,Translation 32px,7634,0,airplane,16.336897,-33.901794
+ResNet-50,Translation 32px,95,1,bird,-21.829855,-29.904896
+ResNet-50,Translation 32px,116,1,bird,-18.94107,-22.412954
+ResNet-50,Translation 32px,198,1,bird,-24.664137,-19.899696
+ResNet-50,Translation 32px,261,1,bird,-13.20279,-26.246983
+ResNet-50,Translation 32px,304,1,bird,-21.397314,-21.602684
+ResNet-50,Translation 32px,825,1,bird,-13.955674,-25.052868
+ResNet-50,Translation 32px,1090,1,bird,-14.013441,-24.045052
+ResNet-50,Translation 32px,1109,1,bird,-18.00479,-22.51046
+ResNet-50,Translation 32px,1115,1,bird,-21.682816,-25.59138
+ResNet-50,Translation 32px,1230,1,bird,-17.229614,-26.014309
+ResNet-50,Translation 32px,1436,1,bird,-17.244474,-33.784634
+ResNet-50,Translation 32px,1568,1,bird,-27.357496,-11.432352
+ResNet-50,Translation 32px,1852,1,bird,-24.773642,-30.532959
+ResNet-50,Translation 32px,1871,1,bird,-8.287746,-11.796418
+ResNet-50,Translation 32px,1986,1,bird,-5.7410736,-11.012311
+ResNet-50,Translation 32px,1993,1,bird,-23.100508,-28.2865
+ResNet-50,Translation 32px,2070,1,bird,-23.93369,-20.302546
+ResNet-50,Translation 32px,2095,1,bird,-24.1969,-22.486841
+ResNet-50,Translation 32px,2116,1,bird,-29.678812,-2.7058072
+ResNet-50,Translation 32px,2157,1,bird,-22.43108,-22.418753
+ResNet-50,Translation 32px,2178,1,bird,-19.550076,-24.250542
+ResNet-50,Translation 32px,2687,1,bird,-24.951588,-28.497612
+ResNet-50,Translation 32px,2690,1,bird,-21.67834,-27.710005
+ResNet-50,Translation 32px,3079,1,bird,-18.261024,-34.698578
+ResNet-50,Translation 32px,3413,1,bird,-23.24939,-29.474733
+ResNet-50,Translation 32px,3491,1,bird,-23.601322,-25.572598
+ResNet-50,Translation 32px,3550,1,bird,-15.213781,-20.330938
+ResNet-50,Translation 32px,3937,1,bird,-19.460577,-29.993032
+ResNet-50,Translation 32px,4298,1,bird,-24.230408,-29.761173
+ResNet-50,Translation 32px,4640,1,bird,-27.806284,-24.404825
+ResNet-50,Translation 32px,5092,1,bird,-18.28275,-33.96044
+ResNet-50,Translation 32px,5123,1,bird,-15.264453,-25.256437
+ResNet-50,Translation 32px,5220,1,bird,-21.655907,-18.81319
+ResNet-50,Translation 32px,5256,1,bird,-18.937757,-29.344402
+ResNet-50,Translation 32px,5488,1,bird,-46.09283,-18.451067
+ResNet-50,Translation 32px,5560,1,bird,-6.414157,-9.538347
+ResNet-50,Translation 32px,6076,1,bird,-21.739283,-30.88153
+ResNet-50,Translation 32px,6169,1,bird,-17.201744,-22.291817
+ResNet-50,Translation 32px,6349,1,bird,-24.137291,-25.639315
+ResNet-50,Translation 32px,6594,1,bird,-15.35461,-23.034544
+ResNet-50,Translation 32px,6733,1,bird,-6.3446984,-10.92739
+ResNet-50,Translation 32px,6805,1,bird,-12.876417,-25.247112
+ResNet-50,Translation 32px,6836,1,bird,-16.546415,-36.313995
+ResNet-50,Translation 32px,6938,1,bird,-23.747795,-29.997606
+ResNet-50,Translation 32px,6954,1,bird,-23.5611,-21.795444
+ResNet-50,Translation 32px,7029,1,bird,-16.842741,-35.527145
+ResNet-50,Translation 32px,7033,1,bird,-23.672514,-24.83998
+ResNet-50,Translation 32px,7202,1,bird,-15.855217,-36.44351
+ResNet-50,Translation 32px,7390,1,bird,-16.61288,-27.77268
+ResNet-50,Translation 32px,7955,1,bird,-21.403952,-28.833855
+ResNet-50,Translation 32px,35,2,car,35.584045,23.286688
+ResNet-50,Translation 32px,49,2,car,34.102905,22.713102
+ResNet-50,Translation 32px,317,2,car,29.575132,27.089357
+ResNet-50,Translation 32px,409,2,car,36.39926,25.284004
+ResNet-50,Translation 32px,470,2,car,24.10636,33.05866
+ResNet-50,Translation 32px,483,2,car,26.217028,24.345007
+ResNet-50,Translation 32px,714,2,car,24.687485,22.26254
+ResNet-50,Translation 32px,981,2,car,30.78134,31.455868
+ResNet-50,Translation 32px,1202,2,car,27.770098,26.850311
+ResNet-50,Translation 32px,1403,2,car,34.516193,26.820492
+ResNet-50,Translation 32px,1520,2,car,39.25482,23.186842
+ResNet-50,Translation 32px,1586,2,car,33.43695,31.611801
+ResNet-50,Translation 32px,1814,2,car,34.165745,21.93752
+ResNet-50,Translation 32px,1839,2,car,31.874224,31.382154
+ResNet-50,Translation 32px,2082,2,car,27.555882,23.91561
+ResNet-50,Translation 32px,2392,2,car,34.372555,24.604235
+ResNet-50,Translation 32px,2502,2,car,24.150503,32.01726
+ResNet-50,Translation 32px,3024,2,car,31.651945,22.437962
+ResNet-50,Translation 32px,3067,2,car,35.63558,21.077806
+ResNet-50,Translation 32px,3163,2,car,33.48822,25.953878
+ResNet-50,Translation 32px,3362,2,car,22.592825,31.81929
+ResNet-50,Translation 32px,3454,2,car,33.2439,29.80459
+ResNet-50,Translation 32px,3755,2,car,36.044537,32.79152
+ResNet-50,Translation 32px,4065,2,car,34.41645,28.53712
+ResNet-50,Translation 32px,4735,2,car,32.841255,21.103657
+ResNet-50,Translation 32px,4913,2,car,32.52417,23.350464
+ResNet-50,Translation 32px,4921,2,car,34.821873,32.066376
+ResNet-50,Translation 32px,5030,2,car,23.403404,32.578365
+ResNet-50,Translation 32px,5183,2,car,23.240133,34.068645
+ResNet-50,Translation 32px,5218,2,car,23.072937,33.12955
+ResNet-50,Translation 32px,5237,2,car,28.654367,25.104895
+ResNet-50,Translation 32px,5318,2,car,26.173128,23.770288
+ResNet-50,Translation 32px,5333,2,car,32.761818,27.708551
+ResNet-50,Translation 32px,5395,2,car,35.864727,28.175222
+ResNet-50,Translation 32px,5512,2,car,26.696863,4.2052193
+ResNet-50,Translation 32px,5677,2,car,35.68822,29.399687
+ResNet-50,Translation 32px,5756,2,car,37.765438,27.49444
+ResNet-50,Translation 32px,5824,2,car,36.100105,34.063026
+ResNet-50,Translation 32px,6028,2,car,32.33685,31.730238
+ResNet-50,Translation 32px,6244,2,car,32.00404,28.702635
+ResNet-50,Translation 32px,6264,2,car,35.878403,30.77635
+ResNet-50,Translation 32px,6271,2,car,25.064623,33.957947
+ResNet-50,Translation 32px,6332,2,car,32.36686,19.130196
+ResNet-50,Translation 32px,6354,2,car,30.819206,29.768988
+ResNet-50,Translation 32px,6426,2,car,35.89581,26.897547
+ResNet-50,Translation 32px,6503,2,car,31.964167,21.702816
+ResNet-50,Translation 32px,6616,2,car,30.964224,26.055422
+ResNet-50,Translation 32px,6692,2,car,30.199045,24.762938
+ResNet-50,Translation 32px,7084,2,car,37.839947,29.104593
+ResNet-50,Translation 32px,7425,2,car,37.87329,26.462921
+ResNet-50,Translation 32px,176,3,cat,-29.208786,-0.93457705
+ResNet-50,Translation 32px,365,3,cat,-21.520811,-2.2437844
+ResNet-50,Translation 32px,372,3,cat,-24.227215,2.0002577
+ResNet-50,Translation 32px,391,3,cat,-29.482897,2.0478969
+ResNet-50,Translation 32px,632,3,cat,-28.652502,-1.2782981
+ResNet-50,Translation 32px,672,3,cat,-27.603264,0.7603871
+ResNet-50,Translation 32px,677,3,cat,-23.011429,-4.2341056
+ResNet-50,Translation 32px,738,3,cat,-9.844594,-1.2644081
+ResNet-50,Translation 32px,791,3,cat,-24.272785,-4.046663
+ResNet-50,Translation 32px,979,3,cat,-20.021776,-4.122987
+ResNet-50,Translation 32px,1204,3,cat,-31.960684,-1.6477118
+ResNet-50,Translation 32px,1263,3,cat,-29.493168,4.9653254
+ResNet-50,Translation 32px,1370,3,cat,-20.432503,-2.1631956
+ResNet-50,Translation 32px,1401,3,cat,-25.730034,-0.58549786
+ResNet-50,Translation 32px,1431,3,cat,-15.277955,-4.421011
+ResNet-50,Translation 32px,1531,3,cat,-24.67224,8.028144
+ResNet-50,Translation 32px,1563,3,cat,-35.624928,-8.99673
+ResNet-50,Translation 32px,2028,3,cat,-25.68167,2.9387367
+ResNet-50,Translation 32px,2291,3,cat,-34.4893,-6.5031133
+ResNet-50,Translation 32px,2536,3,cat,-30.766695,-0.0762067
+ResNet-50,Translation 32px,2539,3,cat,-27.697361,-6.009705
+ResNet-50,Translation 32px,2754,3,cat,-32.461243,2.926472
+ResNet-50,Translation 32px,2861,3,cat,-24.78005,-1.2547164
+ResNet-50,Translation 32px,3276,3,cat,-29.39228,7.105205
+ResNet-50,Translation 32px,3375,3,cat,-26.058672,7.1537385
+ResNet-50,Translation 32px,3383,3,cat,-32.27627,0.9404506
+ResNet-50,Translation 32px,3562,3,cat,-27.597666,8.323119
+ResNet-50,Translation 32px,3778,3,cat,-18.232332,-8.271319
+ResNet-50,Translation 32px,3851,3,cat,-17.429007,-5.388146
+ResNet-50,Translation 32px,3914,3,cat,-31.521347,1.8889238
+ResNet-50,Translation 32px,4023,3,cat,-28.12219,6.870679
+ResNet-50,Translation 32px,4168,3,cat,-22.82904,-4.984949
+ResNet-50,Translation 32px,4215,3,cat,-24.395432,-16.50876
+ResNet-50,Translation 32px,4229,3,cat,-27.379555,-0.6986593
+ResNet-50,Translation 32px,4323,3,cat,-18.820202,-3.0912547
+ResNet-50,Translation 32px,4330,3,cat,-24.85163,12.329184
+ResNet-50,Translation 32px,4463,3,cat,-26.28849,0.2388292
+ResNet-50,Translation 32px,4531,3,cat,-29.000055,6.5034866
+ResNet-50,Translation 32px,4590,3,cat,-25.869589,-2.1918063
+ResNet-50,Translation 32px,4609,3,cat,-34.055687,-0.62545455
+ResNet-50,Translation 32px,4821,3,cat,-23.329134,-7.342683
+ResNet-50,Translation 32px,4881,3,cat,-33.552887,-3.2544188
+ResNet-50,Translation 32px,4908,3,cat,-27.814445,-3.6180859
+ResNet-50,Translation 32px,5528,3,cat,-17.535034,-2.2674239
+ResNet-50,Translation 32px,6490,3,cat,-31.242733,-4.5412908
+ResNet-50,Translation 32px,6952,3,cat,-22.11802,0.87044334
+ResNet-50,Translation 32px,7416,3,cat,-16.111391,-5.747915
+ResNet-50,Translation 32px,7744,3,cat,-14.712211,-5.129837
+ResNet-50,Translation 32px,7793,3,cat,-8.148989,-4.343448
+ResNet-50,Translation 32px,7797,3,cat,-32.88612,1.2882292
+ResNet-50,Translation 32px,171,4,deer,-24.13896,32.701675
+ResNet-50,Translation 32px,506,4,deer,-28.724741,22.827017
+ResNet-50,Translation 32px,691,4,deer,-28.685757,25.853779
+ResNet-50,Translation 32px,766,4,deer,-6.923792,17.164236
+ResNet-50,Translation 32px,855,4,deer,-13.304773,23.285088
+ResNet-50,Translation 32px,1111,4,deer,-18.424532,34.083656
+ResNet-50,Translation 32px,1124,4,deer,-29.27615,29.777706
+ResNet-50,Translation 32px,1211,4,deer,-21.869274,29.065485
+ResNet-50,Translation 32px,1266,4,deer,-26.260767,24.146833
+ResNet-50,Translation 32px,1429,4,deer,-19.927893,18.730452
+ResNet-50,Translation 32px,1960,4,deer,-18.329971,10.554864
+ResNet-50,Translation 32px,2399,4,deer,-19.63797,28.585724
+ResNet-50,Translation 32px,2704,4,deer,-30.078794,27.758726
+ResNet-50,Translation 32px,2757,4,deer,-14.675959,26.701426
+ResNet-50,Translation 32px,2898,4,deer,-22.344908,32.985767
+ResNet-50,Translation 32px,3034,4,deer,-24.408161,30.085375
+ResNet-50,Translation 32px,3078,4,deer,-27.567488,25.382574
+ResNet-50,Translation 32px,3122,4,deer,-27.366446,26.478159
+ResNet-50,Translation 32px,3179,4,deer,-16.605145,30.526644
+ResNet-50,Translation 32px,3287,4,deer,-23.172552,33.94406
+ResNet-50,Translation 32px,3365,4,deer,-15.099133,31.032785
+ResNet-50,Translation 32px,3458,4,deer,-23.758036,26.625404
+ResNet-50,Translation 32px,3512,4,deer,-25.799562,31.780863
+ResNet-50,Translation 32px,3763,4,deer,-22.325933,31.35796
+ResNet-50,Translation 32px,3891,4,deer,-26.622486,24.882212
+ResNet-50,Translation 32px,3994,4,deer,-25.70531,28.572948
+ResNet-50,Translation 32px,4054,4,deer,-19.168734,36.790604
+ResNet-50,Translation 32px,4629,4,deer,-25.462223,24.670017
+ResNet-50,Translation 32px,4642,4,deer,-27.857792,29.203386
+ResNet-50,Translation 32px,4740,4,deer,-19.2487,32.74879
+ResNet-50,Translation 32px,5062,4,deer,-27.075565,30.241978
+ResNet-50,Translation 32px,5077,4,deer,-18.650867,35.362274
+ResNet-50,Translation 32px,5135,4,deer,-22.174728,21.829416
+ResNet-50,Translation 32px,5213,4,deer,-21.001472,32.689365
+ResNet-50,Translation 32px,5402,4,deer,-21.913107,36.059227
+ResNet-50,Translation 32px,5467,4,deer,-20.125437,31.79258
+ResNet-50,Translation 32px,5556,4,deer,-20.316742,30.404219
+ResNet-50,Translation 32px,5623,4,deer,-17.586489,29.761408
+ResNet-50,Translation 32px,5789,4,deer,-16.484041,32.744316
+ResNet-50,Translation 32px,6033,4,deer,-25.3392,35.09251
+ResNet-50,Translation 32px,6097,4,deer,-21.81002,35.34643
+ResNet-50,Translation 32px,6288,4,deer,-24.943863,26.056381
+ResNet-50,Translation 32px,6508,4,deer,-20.112583,34.148117
+ResNet-50,Translation 32px,6528,4,deer,-24.86678,21.400747
+ResNet-50,Translation 32px,7475,4,deer,-18.3988,31.58241
+ResNet-50,Translation 32px,7610,4,deer,-26.069208,26.752771
+ResNet-50,Translation 32px,7692,4,deer,-23.710712,24.889679
+ResNet-50,Translation 32px,7864,4,deer,-21.617119,36.755413
+ResNet-50,Translation 32px,7940,4,deer,-24.698475,31.367535
+ResNet-50,Translation 32px,7944,4,deer,-17.279423,23.95785
+ResNet-50,Translation 32px,97,5,dog,-12.964253,-8.380238
+ResNet-50,Translation 32px,319,5,dog,-5.312766,-3.0640087
+ResNet-50,Translation 32px,378,5,dog,-14.829407,-7.598189
+ResNet-50,Translation 32px,568,5,dog,-15.20607,-9.524752
+ResNet-50,Translation 32px,645,5,dog,-12.737628,7.7081594
+ResNet-50,Translation 32px,685,5,dog,-5.5813084,2.9234655
+ResNet-50,Translation 32px,1095,5,dog,-3.1505108,2.4413671
+ResNet-50,Translation 32px,1552,5,dog,-6.066214,7.097518
+ResNet-50,Translation 32px,1626,5,dog,-14.309737,4.915737
+ResNet-50,Translation 32px,1644,5,dog,-3.316727,-1.9529451
+ResNet-50,Translation 32px,1877,5,dog,-3.5158823,7.65385
+ResNet-50,Translation 32px,2265,5,dog,-5.4345455,6.5230174
+ResNet-50,Translation 32px,2268,5,dog,-15.1305685,-8.402471
+ResNet-50,Translation 32px,2334,5,dog,-1.0335535,8.862974
+ResNet-50,Translation 32px,2391,5,dog,-13.675118,13.775001
+ResNet-50,Translation 32px,2427,5,dog,-1.421378,6.343885
+ResNet-50,Translation 32px,2458,5,dog,-12.662139,10.590333
+ResNet-50,Translation 32px,2623,5,dog,-15.437815,7.2412076
+ResNet-50,Translation 32px,2766,5,dog,-13.961362,-7.5596385
+ResNet-50,Translation 32px,2807,5,dog,-31.176098,-14.002383
+ResNet-50,Translation 32px,2950,5,dog,-15.404025,0.3313132
+ResNet-50,Translation 32px,3353,5,dog,-11.193503,1.0123458
+ResNet-50,Translation 32px,3852,5,dog,-13.538576,3.0938954
+ResNet-50,Translation 32px,3863,5,dog,-1.9607863,2.357012
+ResNet-50,Translation 32px,3889,5,dog,-11.064037,-5.390572
+ResNet-50,Translation 32px,4106,5,dog,-11.592916,11.489071
+ResNet-50,Translation 32px,4290,5,dog,-14.141964,14.181867
+ResNet-50,Translation 32px,4547,5,dog,-6.341204,-3.5219123
+ResNet-50,Translation 32px,4570,5,dog,-1.243356,7.504337
+ResNet-50,Translation 32px,4850,5,dog,-14.464167,6.670555
+ResNet-50,Translation 32px,4953,5,dog,-4.80975,-2.6669507
+ResNet-50,Translation 32px,4966,5,dog,-9.178876,-2.452533
+ResNet-50,Translation 32px,5101,5,dog,-5.1246386,-0.09783584
+ResNet-50,Translation 32px,5332,5,dog,-12.166299,6.1356273
+ResNet-50,Translation 32px,5381,5,dog,-8.377415,6.2215204
+ResNet-50,Translation 32px,5496,5,dog,-3.7193484,-4.558332
+ResNet-50,Translation 32px,5701,5,dog,-15.997203,2.5407064
+ResNet-50,Translation 32px,5924,5,dog,-2.2633386,8.6767235
+ResNet-50,Translation 32px,6224,5,dog,-2.1464415,7.2470307
+ResNet-50,Translation 32px,6358,5,dog,-16.725412,8.283883
+ResNet-50,Translation 32px,6414,5,dog,-8.526543,-1.7552315
+ResNet-50,Translation 32px,6716,5,dog,-6.689766,-5.086722
+ResNet-50,Translation 32px,6922,5,dog,-11.986478,8.735415
+ResNet-50,Translation 32px,6989,5,dog,-1.3256222,-1.5217248
+ResNet-50,Translation 32px,7041,5,dog,-10.26096,-4.169338
+ResNet-50,Translation 32px,7130,5,dog,-0.270982,0.72922987
+ResNet-50,Translation 32px,7413,5,dog,-13.917179,-9.216742
+ResNet-50,Translation 32px,7474,5,dog,-7.770489,4.0139785
+ResNet-50,Translation 32px,7706,5,dog,-8.445704,2.439648
+ResNet-50,Translation 32px,7776,5,dog,-0.91439354,0.25302964
+ResNet-50,Translation 32px,449,6,horse,-0.8531033,29.70042
+ResNet-50,Translation 32px,545,6,horse,7.920668,23.720068
+ResNet-50,Translation 32px,873,6,horse,-10.421919,19.317005
+ResNet-50,Translation 32px,890,6,horse,-2.1585803,30.824009
+ResNet-50,Translation 32px,920,6,horse,-9.214146,21.09869
+ResNet-50,Translation 32px,929,6,horse,-5.7989426,25.277267
+ResNet-50,Translation 32px,964,6,horse,0.17039254,20.634504
+ResNet-50,Translation 32px,977,6,horse,0.43217477,31.32564
+ResNet-50,Translation 32px,1534,6,horse,5.063872,20.053242
+ResNet-50,Translation 32px,1667,6,horse,5.830589,19.90382
+ResNet-50,Translation 32px,2003,6,horse,-2.1789093,28.597488
+ResNet-50,Translation 32px,2610,6,horse,-4.0869536,18.828249
+ResNet-50,Translation 32px,2676,6,horse,3.6695974,20.395979
+ResNet-50,Translation 32px,2958,6,horse,-1.1064901,32.018295
+ResNet-50,Translation 32px,3191,6,horse,6.193699,24.80543
+ResNet-50,Translation 32px,3292,6,horse,3.0132158,22.076962
+ResNet-50,Translation 32px,3418,6,horse,0.9649954,34.137894
+ResNet-50,Translation 32px,3494,6,horse,3.617393,30.775372
+ResNet-50,Translation 32px,3515,6,horse,-12.246319,24.22118
+ResNet-50,Translation 32px,3777,6,horse,-2.971942,31.54783
+ResNet-50,Translation 32px,3779,6,horse,-9.503728,22.040218
+ResNet-50,Translation 32px,3844,6,horse,-2.2257566,32.52285
+ResNet-50,Translation 32px,3962,6,horse,-6.940681,26.490433
+ResNet-50,Translation 32px,4011,6,horse,-1.0001453,25.60265
+ResNet-50,Translation 32px,4093,6,horse,-0.4514829,20.07261
+ResNet-50,Translation 32px,4254,6,horse,-5.2122474,27.449005
+ResNet-50,Translation 32px,4341,6,horse,1.4415176,32.46213
+ResNet-50,Translation 32px,4411,6,horse,2.3693938,21.755825
+ResNet-50,Translation 32px,4620,6,horse,3.048667,26.511534
+ResNet-50,Translation 32px,4731,6,horse,1.7389961,29.86614
+ResNet-50,Translation 32px,4746,6,horse,-9.716595,24.81059
+ResNet-50,Translation 32px,4754,6,horse,-4.054016,28.540457
+ResNet-50,Translation 32px,4827,6,horse,0.79484624,25.552109
+ResNet-50,Translation 32px,5082,6,horse,2.394418,32.901253
+ResNet-50,Translation 32px,5382,6,horse,3.8848567,23.83267
+ResNet-50,Translation 32px,5408,6,horse,-8.844512,26.718382
+ResNet-50,Translation 32px,5580,6,horse,-3.7025037,25.220459
+ResNet-50,Translation 32px,5729,6,horse,-2.619438,30.97121
+ResNet-50,Translation 32px,5857,6,horse,-13.908799,19.616184
+ResNet-50,Translation 32px,5858,6,horse,-11.52306,25.84662
+ResNet-50,Translation 32px,6381,6,horse,5.256931,23.215826
+ResNet-50,Translation 32px,6713,6,horse,5.53046,23.002209
+ResNet-50,Translation 32px,7108,6,horse,-10.0500765,30.694302
+ResNet-50,Translation 32px,7338,6,horse,-6.5647497,21.638952
+ResNet-50,Translation 32px,7555,6,horse,7.0851,24.799856
+ResNet-50,Translation 32px,7600,6,horse,2.530328,31.41233
+ResNet-50,Translation 32px,7726,6,horse,-2.5948427,26.375475
+ResNet-50,Translation 32px,7779,6,horse,2.225946,24.464323
+ResNet-50,Translation 32px,7781,6,horse,-8.420748,24.018309
+ResNet-50,Translation 32px,7996,6,horse,0.79777694,30.672956
+ResNet-50,Translation 32px,29,7,monkey,-45.78076,-14.815963
+ResNet-50,Translation 32px,269,7,monkey,-42.860043,-13.30019
+ResNet-50,Translation 32px,323,7,monkey,-43.91142,-11.030667
+ResNet-50,Translation 32px,370,7,monkey,-46.921635,-10.139101
+ResNet-50,Translation 32px,1032,7,monkey,-39.897976,-21.764938
+ResNet-50,Translation 32px,1048,7,monkey,-46.811203,-9.08028
+ResNet-50,Translation 32px,1220,7,monkey,-59.2192,-5.5225506
+ResNet-50,Translation 32px,1287,7,monkey,-57.83652,-4.8241987
+ResNet-50,Translation 32px,1296,7,monkey,-38.19839,-14.208005
+ResNet-50,Translation 32px,1440,7,monkey,-43.24939,-9.820384
+ResNet-50,Translation 32px,1473,7,monkey,-46.078686,-19.848854
+ResNet-50,Translation 32px,1579,7,monkey,-47.93554,-18.473051
+ResNet-50,Translation 32px,1703,7,monkey,-60.758038,-5.313603
+ResNet-50,Translation 32px,1711,7,monkey,-48.257957,-17.965334
+ResNet-50,Translation 32px,1771,7,monkey,-40.686512,-7.1385856
+ResNet-50,Translation 32px,1884,7,monkey,-39.84924,-23.514608
+ResNet-50,Translation 32px,1927,7,monkey,-46.258358,-12.420182
+ResNet-50,Translation 32px,1956,7,monkey,-12.065363,0.053035818
+ResNet-50,Translation 32px,2501,7,monkey,-45.72384,-11.96309
+ResNet-50,Translation 32px,2668,7,monkey,-58.413197,-5.0919633
+ResNet-50,Translation 32px,2746,7,monkey,-45.872234,-16.678757
+ResNet-50,Translation 32px,2854,7,monkey,-57.221115,-6.3443437
+ResNet-50,Translation 32px,3153,7,monkey,-58.173416,-5.5792894
+ResNet-50,Translation 32px,3288,7,monkey,-59.209763,-4.5537467
+ResNet-50,Translation 32px,3404,7,monkey,-47.15646,-12.338494
+ResNet-50,Translation 32px,3446,7,monkey,-38.763134,-14.031968
+ResNet-50,Translation 32px,3467,7,monkey,-40.363235,-13.064048
+ResNet-50,Translation 32px,3542,7,monkey,-46.120052,-11.164652
+ResNet-50,Translation 32px,3867,7,monkey,-44.403282,-13.700371
+ResNet-50,Translation 32px,4172,7,monkey,-58.443314,-6.3870325
+ResNet-50,Translation 32px,4236,7,monkey,-41.91607,-21.643557
+ResNet-50,Translation 32px,4308,7,monkey,-42.121567,-15.439867
+ResNet-50,Translation 32px,4403,7,monkey,-47.018337,-13.103133
+ResNet-50,Translation 32px,4661,7,monkey,-44.089283,-16.153942
+ResNet-50,Translation 32px,4704,7,monkey,-44.72653,-17.435658
+ResNet-50,Translation 32px,4748,7,monkey,-43.6774,-23.713669
+ResNet-50,Translation 32px,4791,7,monkey,-47.200146,-11.32
+ResNet-50,Translation 32px,5436,7,monkey,-59.515224,-4.137559
+ResNet-50,Translation 32px,5450,7,monkey,-44.295288,-22.656124
+ResNet-50,Translation 32px,5719,7,monkey,-41.328465,-24.0684
+ResNet-50,Translation 32px,5848,7,monkey,-60.39334,-3.9628272
+ResNet-50,Translation 32px,5977,7,monkey,-40.84882,-23.966078
+ResNet-50,Translation 32px,6084,7,monkey,-41.162148,-24.753885
+ResNet-50,Translation 32px,6190,7,monkey,-57.878624,-6.599825
+ResNet-50,Translation 32px,6650,7,monkey,-38.98108,-17.456701
+ResNet-50,Translation 32px,6726,7,monkey,-41.93388,-11.216065
+ResNet-50,Translation 32px,6772,7,monkey,-37.66336,-16.021376
+ResNet-50,Translation 32px,7081,7,monkey,-39.64734,-23.564482
+ResNet-50,Translation 32px,7270,7,monkey,-43.214195,-18.491812
+ResNet-50,Translation 32px,7835,7,monkey,-45.28308,-9.729503
+ResNet-50,Translation 32px,151,8,ship,50.144848,-20.984224
+ResNet-50,Translation 32px,194,8,ship,47.332706,-18.062328
+ResNet-50,Translation 32px,667,8,ship,43.498928,-15.963472
+ResNet-50,Translation 32px,706,8,ship,38.81317,-21.614517
+ResNet-50,Translation 32px,716,8,ship,51.278,-20.529484
+ResNet-50,Translation 32px,739,8,ship,48.827656,-18.731966
+ResNet-50,Translation 32px,962,8,ship,45.860073,-18.522182
+ResNet-50,Translation 32px,1129,8,ship,42.499233,-24.710634
+ResNet-50,Translation 32px,1247,8,ship,49.54008,-13.47361
+ResNet-50,Translation 32px,1640,8,ship,38.694416,-24.939383
+ResNet-50,Translation 32px,1783,8,ship,43.275036,-26.06654
+ResNet-50,Translation 32px,1833,8,ship,50.28717,-15.488834
+ResNet-50,Translation 32px,1954,8,ship,32.62961,-18.11521
+ResNet-50,Translation 32px,2109,8,ship,38.823456,-22.77783
+ResNet-50,Translation 32px,2191,8,ship,48.755203,-25.511066
+ResNet-50,Translation 32px,2230,8,ship,46.420082,-12.84221
+ResNet-50,Translation 32px,2340,8,ship,48.661827,-17.013868
+ResNet-50,Translation 32px,2342,8,ship,44.7265,-22.71665
+ResNet-50,Translation 32px,2745,8,ship,46.038868,-20.025301
+ResNet-50,Translation 32px,2844,8,ship,40.804092,-23.30991
+ResNet-50,Translation 32px,3015,8,ship,46.407364,-16.486935
+ResNet-50,Translation 32px,3157,8,ship,45.40593,-16.604155
+ResNet-50,Translation 32px,3412,8,ship,42.24246,-15.687171
+ResNet-50,Translation 32px,3905,8,ship,41.51682,-21.87864
+ResNet-50,Translation 32px,3948,8,ship,39.656227,-18.355549
+ResNet-50,Translation 32px,4069,8,ship,29.370188,-8.7376995
+ResNet-50,Translation 32px,4170,8,ship,40.77868,-14.298003
+ResNet-50,Translation 32px,4177,8,ship,44.32864,-18.971521
+ResNet-50,Translation 32px,4242,8,ship,49.29482,-15.626207
+ResNet-50,Translation 32px,4311,8,ship,44.973644,-24.260504
+ResNet-50,Translation 32px,4355,8,ship,41.574123,-10.208714
+ResNet-50,Translation 32px,4552,8,ship,44.572506,-13.058874
+ResNet-50,Translation 32px,4662,8,ship,47.0562,-23.700611
+ResNet-50,Translation 32px,4676,8,ship,46.628574,-17.392368
+ResNet-50,Translation 32px,4990,8,ship,46.18346,-13.912424
+ResNet-50,Translation 32px,5000,8,ship,34.389626,-14.753925
+ResNet-50,Translation 32px,5451,8,ship,43.480526,-17.432991
+ResNet-50,Translation 32px,5525,8,ship,40.7559,-24.9479
+ResNet-50,Translation 32px,5694,8,ship,40.201958,-20.526619
+ResNet-50,Translation 32px,5705,8,ship,46.986614,-22.614826
+ResNet-50,Translation 32px,6434,8,ship,46.460472,-25.703548
+ResNet-50,Translation 32px,6689,8,ship,42.035088,-13.447034
+ResNet-50,Translation 32px,7138,8,ship,39.78488,-16.099735
+ResNet-50,Translation 32px,7446,8,ship,38.97069,-20.11296
+ResNet-50,Translation 32px,7460,8,ship,43.977604,-11.5940895
+ResNet-50,Translation 32px,7476,8,ship,32.30323,-15.855871
+ResNet-50,Translation 32px,7810,8,ship,44.94178,-25.195745
+ResNet-50,Translation 32px,7818,8,ship,47.529675,-13.428711
+ResNet-50,Translation 32px,7875,8,ship,43.322475,-24.791245
+ResNet-50,Translation 32px,7999,8,ship,42.748302,-16.553501
+ResNet-50,Translation 32px,131,9,truck,37.42823,1.7302579
+ResNet-50,Translation 32px,191,9,truck,39.574997,1.7982439
+ResNet-50,Translation 32px,239,9,truck,37.10359,0.69438845
+ResNet-50,Translation 32px,276,9,truck,38.566143,-0.9687323
+ResNet-50,Translation 32px,303,9,truck,42.66705,9.051553
+ResNet-50,Translation 32px,419,9,truck,38.87343,4.3409615
+ResNet-50,Translation 32px,603,9,truck,42.367653,-0.49306798
+ResNet-50,Translation 32px,805,9,truck,32.684395,3.2726471
+ResNet-50,Translation 32px,852,9,truck,40.141506,7.9430084
+ResNet-50,Translation 32px,1022,9,truck,38.097034,-0.3788632
+ResNet-50,Translation 32px,1411,9,truck,46.5913,3.7024944
+ResNet-50,Translation 32px,1430,9,truck,31.267403,3.398452
+ResNet-50,Translation 32px,1468,9,truck,34.369137,8.63991
+ResNet-50,Translation 32px,1515,9,truck,42.228565,6.066681
+ResNet-50,Translation 32px,1654,9,truck,35.326042,1.970022
+ResNet-50,Translation 32px,1836,9,truck,42.951023,10.461541
+ResNet-50,Translation 32px,2011,9,truck,41.938625,1.7012314
+ResNet-50,Translation 32px,2062,9,truck,42.31261,4.6121993
+ResNet-50,Translation 32px,2114,9,truck,33.272507,8.162473
+ResNet-50,Translation 32px,2167,9,truck,29.82268,-1.8704531
+ResNet-50,Translation 32px,2351,9,truck,43.9869,9.156051
+ResNet-50,Translation 32px,2414,9,truck,34.88211,-4.569139
+ResNet-50,Translation 32px,2655,9,truck,36.929604,3.5565832
+ResNet-50,Translation 32px,3318,9,truck,27.924469,2.733866
+ResNet-50,Translation 32px,3893,9,truck,33.17303,9.067184
+ResNet-50,Translation 32px,3942,9,truck,29.840397,0.2155078
+ResNet-50,Translation 32px,3996,9,truck,27.415121,6.821874
+ResNet-50,Translation 32px,4094,9,truck,46.101227,4.7421007
+ResNet-50,Translation 32px,4449,9,truck,31.60835,-1.367162
+ResNet-50,Translation 32px,4723,9,truck,35.603455,-1.0372938
+ResNet-50,Translation 32px,5284,9,truck,30.218262,1.2522374
+ResNet-50,Translation 32px,5301,9,truck,39.98478,-0.8367547
+ResNet-50,Translation 32px,5360,9,truck,33.61791,4.638798
+ResNet-50,Translation 32px,5447,9,truck,44.113712,5.974334
+ResNet-50,Translation 32px,5452,9,truck,43.18644,2.8652391
+ResNet-50,Translation 32px,5508,9,truck,42.672894,3.8719525
+ResNet-50,Translation 32px,5572,9,truck,33.651085,-1.8088987
+ResNet-50,Translation 32px,5590,9,truck,46.03348,2.6826801
+ResNet-50,Translation 32px,5788,9,truck,35.05689,7.4510145
+ResNet-50,Translation 32px,5851,9,truck,44.207947,10.141633
+ResNet-50,Translation 32px,5915,9,truck,32.208805,0.5767048
+ResNet-50,Translation 32px,5981,9,truck,43.814915,1.3739383
+ResNet-50,Translation 32px,6931,9,truck,30.926384,-5.2171617
+ResNet-50,Translation 32px,7047,9,truck,44.788,8.508663
+ResNet-50,Translation 32px,7266,9,truck,29.852514,-6.5955696
+ResNet-50,Translation 32px,7380,9,truck,42.92998,6.878111
+ResNet-50,Translation 32px,7544,9,truck,31.536873,6.3096614
+ResNet-50,Translation 32px,7752,9,truck,32.830296,6.68081
+ResNet-50,Translation 32px,7938,9,truck,34.556824,1.3233844
+ResNet-50,Translation 32px,7995,9,truck,39.27861,3.0551589
+ViT-B/16,Clean,3,0,airplane,-28.87604,37.875725
+ViT-B/16,Clean,42,0,airplane,-21.083988,41.364494
+ViT-B/16,Clean,81,0,airplane,-18.33459,33.45196
+ViT-B/16,Clean,484,0,airplane,-39.488003,15.923617
+ViT-B/16,Clean,562,0,airplane,-24.911276,36.513622
+ViT-B/16,Clean,1175,0,airplane,-22.383636,41.1198
+ViT-B/16,Clean,1389,0,airplane,-23.052452,39.85234
+ViT-B/16,Clean,1553,0,airplane,-27.258102,40.885258
+ViT-B/16,Clean,1596,0,airplane,-38.392677,17.990582
+ViT-B/16,Clean,1648,0,airplane,-25.588867,41.890568
+ViT-B/16,Clean,1977,0,airplane,-15.441391,40.75051
+ViT-B/16,Clean,2024,0,airplane,-22.086185,17.52147
+ViT-B/16,Clean,2242,0,airplane,-35.61869,17.185047
+ViT-B/16,Clean,2750,0,airplane,-34.47341,17.415798
+ViT-B/16,Clean,2888,0,airplane,-25.600306,44.058422
+ViT-B/16,Clean,3025,0,airplane,-19.614868,36.274235
+ViT-B/16,Clean,3083,0,airplane,-37.17088,17.905493
+ViT-B/16,Clean,3347,0,airplane,-16.54306,39.062992
+ViT-B/16,Clean,3437,0,airplane,-35.24162,15.793066
+ViT-B/16,Clean,3455,0,airplane,-14.7686405,40.029552
+ViT-B/16,Clean,3876,0,airplane,-28.706554,36.3838
+ViT-B/16,Clean,3965,0,airplane,-26.69889,41.90897
+ViT-B/16,Clean,4130,0,airplane,-19.249062,38.76973
+ViT-B/16,Clean,4399,0,airplane,-18.907854,34.79754
+ViT-B/16,Clean,4539,0,airplane,-16.500896,39.90491
+ViT-B/16,Clean,4615,0,airplane,-20.56937,40.238873
+ViT-B/16,Clean,4617,0,airplane,-17.429073,39.195103
+ViT-B/16,Clean,4675,0,airplane,-26.275341,42.740406
+ViT-B/16,Clean,4785,0,airplane,-28.098133,43.669598
+ViT-B/16,Clean,4819,0,airplane,-16.720325,37.74516
+ViT-B/16,Clean,4893,0,airplane,-27.899567,41.605797
+ViT-B/16,Clean,5117,0,airplane,-16.750751,41.011536
+ViT-B/16,Clean,5478,0,airplane,-22.227802,16.778273
+ViT-B/16,Clean,5912,0,airplane,-24.042349,36.730984
+ViT-B/16,Clean,5918,0,airplane,-21.768274,37.09337
+ViT-B/16,Clean,5999,0,airplane,-21.440388,34.898476
+ViT-B/16,Clean,6437,0,airplane,-28.676933,42.318737
+ViT-B/16,Clean,6455,0,airplane,-22.83477,18.122185
+ViT-B/16,Clean,6609,0,airplane,-16.278023,42.583496
+ViT-B/16,Clean,6844,0,airplane,-19.09025,41.224903
+ViT-B/16,Clean,6986,0,airplane,-38.912937,15.780654
+ViT-B/16,Clean,7009,0,airplane,-24.423119,38.73892
+ViT-B/16,Clean,7150,0,airplane,-24.16744,41.728283
+ViT-B/16,Clean,7262,0,airplane,-17.58962,40.413643
+ViT-B/16,Clean,7309,0,airplane,-27.745152,39.95015
+ViT-B/16,Clean,7320,0,airplane,-17.065372,34.953827
+ViT-B/16,Clean,7372,0,airplane,-27.170881,43.14692
+ViT-B/16,Clean,7373,0,airplane,-29.025162,41.1891
+ViT-B/16,Clean,7465,0,airplane,-26.584698,40.542133
+ViT-B/16,Clean,7634,0,airplane,-21.623178,39.31653
+ViT-B/16,Clean,95,1,bird,-0.39462966,17.580717
+ViT-B/16,Clean,116,1,bird,-2.0591536,12.285181
+ViT-B/16,Clean,198,1,bird,3.6376622,12.938283
+ViT-B/16,Clean,261,1,bird,-3.2592955,3.323077
+ViT-B/16,Clean,304,1,bird,9.94146,16.114384
+ViT-B/16,Clean,825,1,bird,-2.409174,4.989276
+ViT-B/16,Clean,1090,1,bird,-1.2280045,5.758175
+ViT-B/16,Clean,1109,1,bird,0.46921006,6.289699
+ViT-B/16,Clean,1115,1,bird,7.909929,13.49559
+ViT-B/16,Clean,1230,1,bird,10.205827,3.9828162
+ViT-B/16,Clean,1436,1,bird,-1.9644148,21.630182
+ViT-B/16,Clean,1568,1,bird,13.9014225,5.107558
+ViT-B/16,Clean,1852,1,bird,0.7003017,15.984756
+ViT-B/16,Clean,1871,1,bird,11.216165,7.6653643
+ViT-B/16,Clean,1986,1,bird,11.22003,8.469476
+ViT-B/16,Clean,1993,1,bird,-1.627147,16.657763
+ViT-B/16,Clean,2070,1,bird,5.1031356,13.693567
+ViT-B/16,Clean,2095,1,bird,6.3073106,9.7622
+ViT-B/16,Clean,2116,1,bird,29.55293,6.9950185
+ViT-B/16,Clean,2157,1,bird,5.9458284,15.615899
+ViT-B/16,Clean,2178,1,bird,-2.2571368,13.381391
+ViT-B/16,Clean,2687,1,bird,-1.4618026,14.649516
+ViT-B/16,Clean,2690,1,bird,4.192163,14.272239
+ViT-B/16,Clean,3079,1,bird,-2.4091287,22.149298
+ViT-B/16,Clean,3413,1,bird,-0.18798876,15.475167
+ViT-B/16,Clean,3491,1,bird,2.1882112,16.341534
+ViT-B/16,Clean,3550,1,bird,3.3689468,6.4073153
+ViT-B/16,Clean,3937,1,bird,1.5282927,12.543667
+ViT-B/16,Clean,4298,1,bird,-1.2913485,15.718806
+ViT-B/16,Clean,4640,1,bird,4.8604984,17.46778
+ViT-B/16,Clean,5092,1,bird,-1.8166382,19.208471
+ViT-B/16,Clean,5123,1,bird,1.7959051,9.14351
+ViT-B/16,Clean,5220,1,bird,15.468057,4.437741
+ViT-B/16,Clean,5256,1,bird,0.91684407,13.171486
+ViT-B/16,Clean,5488,1,bird,12.363237,11.385086
+ViT-B/16,Clean,5560,1,bird,8.535405,3.685215
+ViT-B/16,Clean,6076,1,bird,-2.4997172,16.835243
+ViT-B/16,Clean,6169,1,bird,8.800073,5.6084814
+ViT-B/16,Clean,6349,1,bird,3.2689145,16.335995
+ViT-B/16,Clean,6594,1,bird,0.8487351,5.8112226
+ViT-B/16,Clean,6733,1,bird,10.720979,8.370509
+ViT-B/16,Clean,6805,1,bird,-3.01622,4.102463
+ViT-B/16,Clean,6836,1,bird,-2.6103106,23.471714
+ViT-B/16,Clean,6938,1,bird,-0.6448523,16.521648
+ViT-B/16,Clean,6954,1,bird,6.721499,9.300044
+ViT-B/16,Clean,7029,1,bird,-2.5849473,22.96517
+ViT-B/16,Clean,7033,1,bird,2.2501488,15.236261
+ViT-B/16,Clean,7202,1,bird,-1.6769028,23.723734
+ViT-B/16,Clean,7390,1,bird,7.4622803,4.954325
+ViT-B/16,Clean,7955,1,bird,-2.3897228,15.600841
+ViT-B/16,Clean,35,2,car,-25.980345,-31.966385
+ViT-B/16,Clean,49,2,car,-29.007442,-31.702837
+ViT-B/16,Clean,317,2,car,-31.224289,-28.933933
+ViT-B/16,Clean,409,2,car,-33.48542,-26.549988
+ViT-B/16,Clean,470,2,car,-36.255753,-28.068226
+ViT-B/16,Clean,483,2,car,-29.211672,-26.778406
+ViT-B/16,Clean,714,2,car,-2.0805,-7.2901974
+ViT-B/16,Clean,981,2,car,-26.099354,-27.699915
+ViT-B/16,Clean,1202,2,car,-33.47861,-29.138216
+ViT-B/16,Clean,1403,2,car,-26.92202,-20.4244
+ViT-B/16,Clean,1520,2,car,-31.041372,-21.962273
+ViT-B/16,Clean,1586,2,car,-24.862585,-27.214464
+ViT-B/16,Clean,1814,2,car,-28.014627,-32.356113
+ViT-B/16,Clean,1839,2,car,-25.84568,-28.872969
+ViT-B/16,Clean,2082,2,car,-27.70478,-37.35964
+ViT-B/16,Clean,2392,2,car,-28.749186,-22.522478
+ViT-B/16,Clean,2502,2,car,-35.302773,-26.2493
+ViT-B/16,Clean,3024,2,car,-26.914232,-36.676765
+ViT-B/16,Clean,3067,2,car,-28.959421,-30.733776
+ViT-B/16,Clean,3163,2,car,-29.67416,-29.38848
+ViT-B/16,Clean,3362,2,car,-36.594166,-26.49487
+ViT-B/16,Clean,3454,2,car,-24.971182,-25.573065
+ViT-B/16,Clean,3755,2,car,-23.715233,-21.04902
+ViT-B/16,Clean,4065,2,car,-24.068054,-23.111029
+ViT-B/16,Clean,4735,2,car,-25.946714,-34.493977
+ViT-B/16,Clean,4913,2,car,-26.058634,-35.671227
+ViT-B/16,Clean,4921,2,car,-24.638817,-21.062468
+ViT-B/16,Clean,5030,2,car,-35.9955,-27.259523
+ViT-B/16,Clean,5183,2,car,-34.549637,-26.384657
+ViT-B/16,Clean,5218,2,car,-35.030178,-27.251503
+ViT-B/16,Clean,5237,2,car,-28.981356,-37.237606
+ViT-B/16,Clean,5318,2,car,-24.808674,-17.2645
+ViT-B/16,Clean,5333,2,car,-27.090656,-30.902016
+ViT-B/16,Clean,5395,2,car,-28.251781,-21.670141
+ViT-B/16,Clean,5512,2,car,0.28970328,-17.453882
+ViT-B/16,Clean,5677,2,car,-25.407463,-19.417778
+ViT-B/16,Clean,5756,2,car,-21.882488,-23.217289
+ViT-B/16,Clean,5824,2,car,-24.02282,-19.595785
+ViT-B/16,Clean,6028,2,car,-27.308887,-27.742542
+ViT-B/16,Clean,6244,2,car,-26.918554,-26.524996
+ViT-B/16,Clean,6264,2,car,-27.028059,-23.074919
+ViT-B/16,Clean,6271,2,car,-34.785114,-28.325602
+ViT-B/16,Clean,6332,2,car,-24.63681,-33.89822
+ViT-B/16,Clean,6354,2,car,-30.322105,-27.477804
+ViT-B/16,Clean,6426,2,car,-27.23203,-28.650887
+ViT-B/16,Clean,6503,2,car,-28.425928,-36.013527
+ViT-B/16,Clean,6616,2,car,-27.956106,-30.137684
+ViT-B/16,Clean,6692,2,car,-26.968925,-34.788887
+ViT-B/16,Clean,7084,2,car,-22.555086,-22.500237
+ViT-B/16,Clean,7425,2,car,-29.9943,-24.390625
+ViT-B/16,Clean,176,3,cat,35.652275,7.750108
+ViT-B/16,Clean,365,3,cat,27.386808,5.038306
+ViT-B/16,Clean,372,3,cat,22.710346,2.0093257
+ViT-B/16,Clean,391,3,cat,35.387222,-1.0265716
+ViT-B/16,Clean,632,3,cat,34.885345,5.9255967
+ViT-B/16,Clean,672,3,cat,33.099712,-3.0687366
+ViT-B/16,Clean,677,3,cat,27.803463,4.1915503
+ViT-B/16,Clean,738,3,cat,19.994987,2.8275561
+ViT-B/16,Clean,791,3,cat,28.635656,4.182441
+ViT-B/16,Clean,979,3,cat,23.70945,4.87463
+ViT-B/16,Clean,1204,3,cat,36.768013,5.1409745
+ViT-B/16,Clean,1263,3,cat,35.576168,-2.826942
+ViT-B/16,Clean,1370,3,cat,26.017393,1.9432411
+ViT-B/16,Clean,1401,3,cat,33.297333,4.0904016
+ViT-B/16,Clean,1431,3,cat,18.482355,7.2040067
+ViT-B/16,Clean,1531,3,cat,38.85777,-4.40849
+ViT-B/16,Clean,1563,3,cat,39.00852,4.5145698
+ViT-B/16,Clean,2028,3,cat,35.519955,-5.695346
+ViT-B/16,Clean,2291,3,cat,32.34306,-4.792483
+ViT-B/16,Clean,2536,3,cat,35.111687,4.7386127
+ViT-B/16,Clean,2539,3,cat,34.264824,8.290168
+ViT-B/16,Clean,2754,3,cat,35.47739,0.68791884
+ViT-B/16,Clean,2861,3,cat,25.291185,3.5697563
+ViT-B/16,Clean,3276,3,cat,38.458843,-8.199303
+ViT-B/16,Clean,3375,3,cat,39.02184,-6.016334
+ViT-B/16,Clean,3383,3,cat,37.01448,-0.35861263
+ViT-B/16,Clean,3562,3,cat,38.4118,-5.532087
+ViT-B/16,Clean,3778,3,cat,17.367517,2.4028482
+ViT-B/16,Clean,3851,3,cat,19.608994,6.287336
+ViT-B/16,Clean,3914,3,cat,34.57984,2.129587
+ViT-B/16,Clean,4023,3,cat,38.340183,-6.576241
+ViT-B/16,Clean,4168,3,cat,27.635704,2.3131018
+ViT-B/16,Clean,4215,3,cat,23.939398,6.6999702
+ViT-B/16,Clean,4229,3,cat,32.713425,2.5723903
+ViT-B/16,Clean,4323,3,cat,21.192297,3.4768355
+ViT-B/16,Clean,4330,3,cat,37.01918,1.290857
+ViT-B/16,Clean,4463,3,cat,31.218985,1.9784383
+ViT-B/16,Clean,4531,3,cat,37.60869,-2.0115993
+ViT-B/16,Clean,4590,3,cat,27.505966,3.463618
+ViT-B/16,Clean,4609,3,cat,31.402727,-3.595549
+ViT-B/16,Clean,4821,3,cat,26.570967,4.495858
+ViT-B/16,Clean,4881,3,cat,36.47646,6.6779866
+ViT-B/16,Clean,4908,3,cat,30.77543,4.8154597
+ViT-B/16,Clean,5528,3,cat,22.401676,3.6876156
+ViT-B/16,Clean,6490,3,cat,34.801586,7.4557314
+ViT-B/16,Clean,6952,3,cat,23.732325,3.4777575
+ViT-B/16,Clean,7416,3,cat,20.239695,5.210966
+ViT-B/16,Clean,7744,3,cat,18.559452,4.695399
+ViT-B/16,Clean,7793,3,cat,21.227343,8.233402
+ViT-B/16,Clean,7797,3,cat,33.54513,-1.0773727
+ViT-B/16,Clean,171,4,deer,37.993774,-27.307854
+ViT-B/16,Clean,506,4,deer,41.250996,-28.297653
+ViT-B/16,Clean,691,4,deer,35.284363,-23.365608
+ViT-B/16,Clean,766,4,deer,9.705639,-29.60193
+ViT-B/16,Clean,855,4,deer,36.4893,-27.404585
+ViT-B/16,Clean,1111,4,deer,31.778786,-38.757786
+ViT-B/16,Clean,1124,4,deer,39.244328,-26.298704
+ViT-B/16,Clean,1211,4,deer,36.289112,-34.189682
+ViT-B/16,Clean,1266,4,deer,39.488834,-29.41338
+ViT-B/16,Clean,1429,4,deer,28.382694,-29.712988
+ViT-B/16,Clean,1960,4,deer,14.739517,-8.265131
+ViT-B/16,Clean,2399,4,deer,28.853327,-32.868637
+ViT-B/16,Clean,2704,4,deer,38.3395,-28.444878
+ViT-B/16,Clean,2757,4,deer,27.569958,-25.837627
+ViT-B/16,Clean,2898,4,deer,37.229248,-28.942791
+ViT-B/16,Clean,3034,4,deer,29.777943,-25.5788
+ViT-B/16,Clean,3078,4,deer,39.645683,-27.999775
+ViT-B/16,Clean,3122,4,deer,33.627914,-27.230618
+ViT-B/16,Clean,3179,4,deer,26.700197,-23.817146
+ViT-B/16,Clean,3287,4,deer,37.388382,-32.048096
+ViT-B/16,Clean,3365,4,deer,30.140892,-30.569302
+ViT-B/16,Clean,3458,4,deer,37.67071,-33.365612
+ViT-B/16,Clean,3512,4,deer,30.621954,-27.082996
+ViT-B/16,Clean,3763,4,deer,31.476326,-32.955246
+ViT-B/16,Clean,3891,4,deer,37.14972,-25.302675
+ViT-B/16,Clean,3994,4,deer,31.858793,-26.443188
+ViT-B/16,Clean,4054,4,deer,32.219563,-35.18779
+ViT-B/16,Clean,4629,4,deer,33.185726,-25.674269
+ViT-B/16,Clean,4642,4,deer,35.404293,-28.320232
+ViT-B/16,Clean,4740,4,deer,28.916832,-36.627068
+ViT-B/16,Clean,5062,4,deer,35.20156,-25.783615
+ViT-B/16,Clean,5077,4,deer,30.420107,-38.522537
+ViT-B/16,Clean,5135,4,deer,33.159798,-21.147026
+ViT-B/16,Clean,5213,4,deer,30.555136,-34.51179
+ViT-B/16,Clean,5402,4,deer,34.32144,-34.808502
+ViT-B/16,Clean,5467,4,deer,32.984013,-33.281315
+ViT-B/16,Clean,5556,4,deer,32.839993,-37.273727
+ViT-B/16,Clean,5623,4,deer,30.657888,-32.393055
+ViT-B/16,Clean,5789,4,deer,29.467962,-31.792028
+ViT-B/16,Clean,6033,4,deer,35.757767,-32.818054
+ViT-B/16,Clean,6097,4,deer,33.975143,-35.4555
+ViT-B/16,Clean,6288,4,deer,32.64055,-28.620024
+ViT-B/16,Clean,6508,4,deer,31.114536,-37.514767
+ViT-B/16,Clean,6528,4,deer,31.947405,-23.665289
+ViT-B/16,Clean,7475,4,deer,31.833452,-31.66663
+ViT-B/16,Clean,7610,4,deer,33.52434,-29.319225
+ViT-B/16,Clean,7692,4,deer,39.17404,-32.30013
+ViT-B/16,Clean,7864,4,deer,35.74055,-36.339638
+ViT-B/16,Clean,7940,4,deer,33.74179,-30.622078
+ViT-B/16,Clean,7944,4,deer,38.936203,-24.29524
+ViT-B/16,Clean,97,5,dog,17.677998,12.818063
+ViT-B/16,Clean,319,5,dog,6.947794,-1.5661958
+ViT-B/16,Clean,378,5,dog,17.318804,12.269669
+ViT-B/16,Clean,568,5,dog,18.938833,12.1224375
+ViT-B/16,Clean,645,5,dog,16.881193,-6.934139
+ViT-B/16,Clean,685,5,dog,7.1760187,-8.627717
+ViT-B/16,Clean,1095,5,dog,6.2272263,-8.562718
+ViT-B/16,Clean,1552,5,dog,11.863217,-12.660959
+ViT-B/16,Clean,1626,5,dog,13.60098,-7.0617666
+ViT-B/16,Clean,1644,5,dog,4.4728413,-2.3409405
+ViT-B/16,Clean,1877,5,dog,11.426225,-13.388206
+ViT-B/16,Clean,2265,5,dog,12.969241,-13.492963
+ViT-B/16,Clean,2268,5,dog,18.09104,12.038221
+ViT-B/16,Clean,2334,5,dog,8.588314,-15.3164215
+ViT-B/16,Clean,2391,5,dog,20.892284,-9.056897
+ViT-B/16,Clean,2427,5,dog,7.180283,-14.770743
+ViT-B/16,Clean,2458,5,dog,19.411959,-6.3602934
+ViT-B/16,Clean,2623,5,dog,14.1325035,-9.401936
+ViT-B/16,Clean,2766,5,dog,17.302711,11.071797
+ViT-B/16,Clean,2807,5,dog,14.902728,-4.9649696
+ViT-B/16,Clean,2950,5,dog,3.0027258,1.3812681
+ViT-B/16,Clean,3353,5,dog,15.112891,-1.3804425
+ViT-B/16,Clean,3852,5,dog,11.326098,-2.3545017
+ViT-B/16,Clean,3863,5,dog,5.5030017,-8.431866
+ViT-B/16,Clean,3889,5,dog,14.746941,1.0446498
+ViT-B/16,Clean,4106,5,dog,19.686766,-5.0871115
+ViT-B/16,Clean,4290,5,dog,21.564245,-9.988667
+ViT-B/16,Clean,4547,5,dog,8.064191,-1.6917684
+ViT-B/16,Clean,4570,5,dog,7.8391495,-15.537738
+ViT-B/16,Clean,4850,5,dog,12.432304,-10.923365
+ViT-B/16,Clean,4953,5,dog,5.732691,-1.4587036
+ViT-B/16,Clean,4966,5,dog,12.28217,-4.35116
+ViT-B/16,Clean,5101,5,dog,6.8159075,2.0631716
+ViT-B/16,Clean,5332,5,dog,10.071471,-5.9562936
+ViT-B/16,Clean,5381,5,dog,12.866116,-7.9383745
+ViT-B/16,Clean,5496,5,dog,5.981051,-3.1942027
+ViT-B/16,Clean,5701,5,dog,3.332234,0.93584365
+ViT-B/16,Clean,5924,5,dog,8.64654,-14.4829445
+ViT-B/16,Clean,6224,5,dog,7.820377,-14.261783
+ViT-B/16,Clean,6358,5,dog,12.250802,-9.012591
+ViT-B/16,Clean,6414,5,dog,8.796649,-1.2756766
+ViT-B/16,Clean,6716,5,dog,10.05694,2.0674114
+ViT-B/16,Clean,6922,5,dog,17.445936,-5.221619
+ViT-B/16,Clean,6989,5,dog,4.230808,-3.0079226
+ViT-B/16,Clean,7041,5,dog,12.21745,-0.30538076
+ViT-B/16,Clean,7130,5,dog,1.6850158,-4.182711
+ViT-B/16,Clean,7413,5,dog,18.564981,11.271757
+ViT-B/16,Clean,7474,5,dog,11.735678,1.3417056
+ViT-B/16,Clean,7706,5,dog,9.06396,0.718611
+ViT-B/16,Clean,7776,5,dog,1.219547,-4.105794
+ViT-B/16,Clean,449,6,horse,6.0597224,-35.205803
+ViT-B/16,Clean,545,6,horse,-3.9994862,-25.491833
+ViT-B/16,Clean,873,6,horse,8.877578,-27.304966
+ViT-B/16,Clean,890,6,horse,10.800031,-35.642155
+ViT-B/16,Clean,920,6,horse,13.342228,-30.095203
+ViT-B/16,Clean,929,6,horse,11.107422,-26.391844
+ViT-B/16,Clean,964,6,horse,3.0499945,-23.97591
+ViT-B/16,Clean,977,6,horse,7.145438,-35.23656
+ViT-B/16,Clean,1534,6,horse,-0.17467338,-23.89908
+ViT-B/16,Clean,1667,6,horse,-2.1710865,-24.439722
+ViT-B/16,Clean,2003,6,horse,7.2338977,-29.355341
+ViT-B/16,Clean,2610,6,horse,0.25058103,-27.54348
+ViT-B/16,Clean,2676,6,horse,-0.055071775,-15.965339
+ViT-B/16,Clean,2958,6,horse,5.7120757,-37.441277
+ViT-B/16,Clean,3191,6,horse,-2.7448468,-25.39836
+ViT-B/16,Clean,3292,6,horse,3.2570627,-24.887617
+ViT-B/16,Clean,3418,6,horse,5.59351,-38.329407
+ViT-B/16,Clean,3494,6,horse,4.8270473,-34.184494
+ViT-B/16,Clean,3515,6,horse,35.27787,-30.755623
+ViT-B/16,Clean,3777,6,horse,7.2989426,-36.667645
+ViT-B/16,Clean,3779,6,horse,12.695208,-28.660498
+ViT-B/16,Clean,3844,6,horse,2.9758172,-34.094116
+ViT-B/16,Clean,3962,6,horse,7.9283257,-38.8723
+ViT-B/16,Clean,4011,6,horse,5.078066,-27.413914
+ViT-B/16,Clean,4093,6,horse,2.4130757,-23.880217
+ViT-B/16,Clean,4254,6,horse,24.469032,-26.501795
+ViT-B/16,Clean,4341,6,horse,7.289782,-33.126312
+ViT-B/16,Clean,4411,6,horse,5.6284504,-26.195349
+ViT-B/16,Clean,4620,6,horse,3.7868943,-26.735603
+ViT-B/16,Clean,4731,6,horse,5.634555,-36.573757
+ViT-B/16,Clean,4746,6,horse,6.620899,-39.192524
+ViT-B/16,Clean,4754,6,horse,8.675824,-33.816128
+ViT-B/16,Clean,4827,6,horse,4.8544583,-28.867052
+ViT-B/16,Clean,5082,6,horse,4.8106666,-37.827038
+ViT-B/16,Clean,5382,6,horse,-3.1927605,-27.06986
+ViT-B/16,Clean,5408,6,horse,14.823158,-26.825691
+ViT-B/16,Clean,5580,6,horse,11.222833,-24.679752
+ViT-B/16,Clean,5729,6,horse,9.47676,-35.40048
+ViT-B/16,Clean,5857,6,horse,26.09607,-31.2663
+ViT-B/16,Clean,5858,6,horse,8.258409,-37.2644
+ViT-B/16,Clean,6381,6,horse,-2.5478158,-26.371384
+ViT-B/16,Clean,6713,6,horse,-3.8909826,-26.194273
+ViT-B/16,Clean,7108,6,horse,13.812646,-32.858734
+ViT-B/16,Clean,7338,6,horse,15.538466,-30.96409
+ViT-B/16,Clean,7555,6,horse,-3.684144,-24.743708
+ViT-B/16,Clean,7600,6,horse,6.1215086,-29.792885
+ViT-B/16,Clean,7726,6,horse,11.266239,-30.13637
+ViT-B/16,Clean,7779,6,horse,3.344446,-27.899315
+ViT-B/16,Clean,7781,6,horse,11.11427,-32.498127
+ViT-B/16,Clean,7996,6,horse,4.6145473,-36.619057
+ViT-B/16,Clean,29,7,monkey,25.538025,29.124388
+ViT-B/16,Clean,269,7,monkey,28.518318,28.48548
+ViT-B/16,Clean,323,7,monkey,25.691412,27.551317
+ViT-B/16,Clean,370,7,monkey,27.623327,29.324387
+ViT-B/16,Clean,1032,7,monkey,9.839412,29.16172
+ViT-B/16,Clean,1048,7,monkey,29.378088,30.3377
+ViT-B/16,Clean,1220,7,monkey,19.219423,39.63183
+ViT-B/16,Clean,1287,7,monkey,16.521908,40.871822
+ViT-B/16,Clean,1296,7,monkey,18.05844,37.230576
+ViT-B/16,Clean,1440,7,monkey,29.541521,27.921423
+ViT-B/16,Clean,1473,7,monkey,19.6837,25.99202
+ViT-B/16,Clean,1579,7,monkey,22.623411,21.19423
+ViT-B/16,Clean,1703,7,monkey,19.210579,38.04957
+ViT-B/16,Clean,1711,7,monkey,22.567505,20.771378
+ViT-B/16,Clean,1771,7,monkey,17.846745,-10.545193
+ViT-B/16,Clean,1884,7,monkey,11.803557,27.906134
+ViT-B/16,Clean,1927,7,monkey,27.097198,28.50324
+ViT-B/16,Clean,1956,7,monkey,18.551397,20.421444
+ViT-B/16,Clean,2501,7,monkey,27.593681,27.576214
+ViT-B/16,Clean,2668,7,monkey,17.224539,38.759514
+ViT-B/16,Clean,2746,7,monkey,22.100243,25.656048
+ViT-B/16,Clean,2854,7,monkey,17.838003,38.26202
+ViT-B/16,Clean,3153,7,monkey,16.338781,39.144825
+ViT-B/16,Clean,3288,7,monkey,16.92601,40.27833
+ViT-B/16,Clean,3404,7,monkey,29.533413,29.338987
+ViT-B/16,Clean,3446,7,monkey,19.967155,28.636572
+ViT-B/16,Clean,3467,7,monkey,27.067331,26.26892
+ViT-B/16,Clean,3542,7,monkey,27.154842,30.422272
+ViT-B/16,Clean,3867,7,monkey,16.803497,24.875818
+ViT-B/16,Clean,4172,7,monkey,18.17115,41.20385
+ViT-B/16,Clean,4236,7,monkey,11.728374,29.23553
+ViT-B/16,Clean,4308,7,monkey,24.307348,26.286835
+ViT-B/16,Clean,4403,7,monkey,23.59704,28.836937
+ViT-B/16,Clean,4661,7,monkey,20.844257,24.189262
+ViT-B/16,Clean,4704,7,monkey,18.136847,27.175903
+ViT-B/16,Clean,4748,7,monkey,18.080439,29.503656
+ViT-B/16,Clean,4791,7,monkey,26.838375,29.463655
+ViT-B/16,Clean,5436,7,monkey,17.455843,39.940838
+ViT-B/16,Clean,5450,7,monkey,18.543045,29.66045
+ViT-B/16,Clean,5719,7,monkey,10.566217,30.262121
+ViT-B/16,Clean,5848,7,monkey,18.111143,39.723156
+ViT-B/16,Clean,5977,7,monkey,10.558553,29.574478
+ViT-B/16,Clean,6084,7,monkey,11.298504,29.736092
+ViT-B/16,Clean,6190,7,monkey,17.877872,39.07223
+ViT-B/16,Clean,6650,7,monkey,12.832115,28.255236
+ViT-B/16,Clean,6726,7,monkey,25.558393,30.639118
+ViT-B/16,Clean,6772,7,monkey,19.98529,24.092098
+ViT-B/16,Clean,7081,7,monkey,10.499694,28.205772
+ViT-B/16,Clean,7270,7,monkey,18.830032,23.442621
+ViT-B/16,Clean,7835,7,monkey,28.213442,30.273897
+ViT-B/16,Clean,151,8,ship,-56.82303,10.905627
+ViT-B/16,Clean,194,8,ship,-51.664722,11.277256
+ViT-B/16,Clean,667,8,ship,-52.22955,16.149746
+ViT-B/16,Clean,706,8,ship,-43.24842,9.898287
+ViT-B/16,Clean,716,8,ship,-57.41405,10.171101
+ViT-B/16,Clean,739,8,ship,-54.24977,10.12186
+ViT-B/16,Clean,962,8,ship,-46.41039,15.1439295
+ViT-B/16,Clean,1129,8,ship,-49.802567,13.047122
+ViT-B/16,Clean,1247,8,ship,-57.166355,8.042522
+ViT-B/16,Clean,1640,8,ship,-49.4536,17.343046
+ViT-B/16,Clean,1783,8,ship,-48.129543,13.363562
+ViT-B/16,Clean,1833,8,ship,-56.32604,8.576966
+ViT-B/16,Clean,1954,8,ship,-44.757713,18.093142
+ViT-B/16,Clean,2109,8,ship,-44.036774,9.614726
+ViT-B/16,Clean,2191,8,ship,-49.41724,16.156404
+ViT-B/16,Clean,2230,8,ship,-48.09855,9.728549
+ViT-B/16,Clean,2340,8,ship,-53.062637,12.084802
+ViT-B/16,Clean,2342,8,ship,-49.70225,18.78899
+ViT-B/16,Clean,2745,8,ship,-52.520496,10.448739
+ViT-B/16,Clean,2844,8,ship,-41.984467,10.202545
+ViT-B/16,Clean,3015,8,ship,-51.759945,13.542737
+ViT-B/16,Clean,3157,8,ship,-50.828045,12.067557
+ViT-B/16,Clean,3412,8,ship,-51.08277,17.6134
+ViT-B/16,Clean,3905,8,ship,-41.401268,8.743587
+ViT-B/16,Clean,3948,8,ship,-40.763523,9.714665
+ViT-B/16,Clean,4069,8,ship,-34.148273,11.634865
+ViT-B/16,Clean,4170,8,ship,-44.93792,14.357711
+ViT-B/16,Clean,4177,8,ship,-46.513897,15.841594
+ViT-B/16,Clean,4242,8,ship,-56.33105,9.692976
+ViT-B/16,Clean,4311,8,ship,-52.636528,14.028499
+ViT-B/16,Clean,4355,8,ship,-24.565636,17.296406
+ViT-B/16,Clean,4552,8,ship,-49.832203,10.861258
+ViT-B/16,Clean,4662,8,ship,-51.141815,14.058996
+ViT-B/16,Clean,4676,8,ship,-51.293217,12.854271
+ViT-B/16,Clean,4990,8,ship,-55.431896,11.58532
+ViT-B/16,Clean,5000,8,ship,-42.887146,16.748796
+ViT-B/16,Clean,5451,8,ship,-52.492237,16.911867
+ViT-B/16,Clean,5525,8,ship,-44.20212,10.557397
+ViT-B/16,Clean,5694,8,ship,-41.826305,7.873308
+ViT-B/16,Clean,5705,8,ship,-54.479347,8.397874
+ViT-B/16,Clean,6434,8,ship,-48.29058,17.619835
+ViT-B/16,Clean,6689,8,ship,-33.587315,8.256738
+ViT-B/16,Clean,7138,8,ship,-41.548523,16.170439
+ViT-B/16,Clean,7446,8,ship,-42.574707,8.97693
+ViT-B/16,Clean,7460,8,ship,-35.07079,7.897336
+ViT-B/16,Clean,7476,8,ship,-38.191227,14.967733
+ViT-B/16,Clean,7810,8,ship,-48.13964,12.157422
+ViT-B/16,Clean,7818,8,ship,-57.25095,9.016353
+ViT-B/16,Clean,7875,8,ship,-48.10883,11.150106
+ViT-B/16,Clean,7999,8,ship,-51.240253,16.227114
+ViT-B/16,Clean,131,9,truck,-17.515112,-7.153136
+ViT-B/16,Clean,191,9,truck,-27.232122,-12.246704
+ViT-B/16,Clean,239,9,truck,-25.275894,-5.597002
+ViT-B/16,Clean,276,9,truck,-26.916449,-10.138988
+ViT-B/16,Clean,303,9,truck,-32.47666,-8.627914
+ViT-B/16,Clean,419,9,truck,-25.283228,-8.931251
+ViT-B/16,Clean,603,9,truck,-27.778378,-7.266633
+ViT-B/16,Clean,805,9,truck,-22.631935,-5.2764497
+ViT-B/16,Clean,852,9,truck,-30.633987,-6.712609
+ViT-B/16,Clean,1022,9,truck,-23.311722,-13.666809
+ViT-B/16,Clean,1411,9,truck,-33.966522,-5.91275
+ViT-B/16,Clean,1430,9,truck,-26.26904,-4.2344456
+ViT-B/16,Clean,1468,9,truck,-21.01196,4.7911663
+ViT-B/16,Clean,1515,9,truck,-32.670685,-6.4303493
+ViT-B/16,Clean,1654,9,truck,-15.570235,-9.079472
+ViT-B/16,Clean,1836,9,truck,-29.564041,-11.261031
+ViT-B/16,Clean,2011,9,truck,-33.788982,-10.036836
+ViT-B/16,Clean,2062,9,truck,-32.04505,-7.200227
+ViT-B/16,Clean,2114,9,truck,-21.893425,4.3069587
+ViT-B/16,Clean,2167,9,truck,-29.18694,-9.643906
+ViT-B/16,Clean,2351,9,truck,-31.450268,-8.123446
+ViT-B/16,Clean,2414,9,truck,-24.124884,-2.611348
+ViT-B/16,Clean,2655,9,truck,-24.205313,-8.5090065
+ViT-B/16,Clean,3318,9,truck,-14.583199,-9.1070595
+ViT-B/16,Clean,3893,9,truck,-20.960264,3.825788
+ViT-B/16,Clean,3942,9,truck,-16.731928,-9.359265
+ViT-B/16,Clean,3996,9,truck,-17.295546,-2.0147767
+ViT-B/16,Clean,4094,9,truck,-31.91596,-5.47683
+ViT-B/16,Clean,4449,9,truck,-24.403872,-11.539384
+ViT-B/16,Clean,4723,9,truck,-21.315058,-5.4950085
+ViT-B/16,Clean,5284,9,truck,-18.26278,-10.262506
+ViT-B/16,Clean,5301,9,truck,-21.650093,-3.2855399
+ViT-B/16,Clean,5360,9,truck,-21.512115,3.1771631
+ViT-B/16,Clean,5447,9,truck,-30.017382,-8.028528
+ViT-B/16,Clean,5452,9,truck,-34.32698,-8.844591
+ViT-B/16,Clean,5508,9,truck,-32.561863,-10.150595
+ViT-B/16,Clean,5572,9,truck,-19.619724,-7.7643456
+ViT-B/16,Clean,5590,9,truck,-33.07648,-4.2931814
+ViT-B/16,Clean,5788,9,truck,-22.526825,1.964655
+ViT-B/16,Clean,5851,9,truck,-33.36461,-8.1446
+ViT-B/16,Clean,5915,9,truck,-22.756598,-11.992583
+ViT-B/16,Clean,5981,9,truck,-30.528408,-4.421744
+ViT-B/16,Clean,6931,9,truck,-19.473032,-5.508833
+ViT-B/16,Clean,7047,9,truck,-32.67123,-7.6079965
+ViT-B/16,Clean,7266,9,truck,-20.816017,-8.621722
+ViT-B/16,Clean,7380,9,truck,-33.9395,-7.338728
+ViT-B/16,Clean,7544,9,truck,-23.253021,4.367197
+ViT-B/16,Clean,7752,9,truck,-22.282982,3.635069
+ViT-B/16,Clean,7938,9,truck,-16.117382,-9.943541
+ViT-B/16,Clean,7995,9,truck,-25.784983,-14.08149
+ViT-B/16,Translation 32px,3,0,airplane,-28.857023,37.875465
+ViT-B/16,Translation 32px,42,0,airplane,-20.997637,41.589283
+ViT-B/16,Translation 32px,81,0,airplane,-18.303923,33.379814
+ViT-B/16,Translation 32px,484,0,airplane,-39.77856,15.853217
+ViT-B/16,Translation 32px,562,0,airplane,-24.838865,36.69868
+ViT-B/16,Translation 32px,1175,0,airplane,-21.900433,40.9505
+ViT-B/16,Translation 32px,1389,0,airplane,-23.357124,40.351704
+ViT-B/16,Translation 32px,1553,0,airplane,-26.690874,39.77206
+ViT-B/16,Translation 32px,1596,0,airplane,-38.498306,18.04667
+ViT-B/16,Translation 32px,1648,0,airplane,-25.38744,41.17705
+ViT-B/16,Translation 32px,1977,0,airplane,-15.740165,40.930004
+ViT-B/16,Translation 32px,2024,0,airplane,-22.106396,17.433105
+ViT-B/16,Translation 32px,2242,0,airplane,-35.66092,17.151743
+ViT-B/16,Translation 32px,2750,0,airplane,-34.481014,17.4716
+ViT-B/16,Translation 32px,2888,0,airplane,-25.39925,43.97555
+ViT-B/16,Translation 32px,3025,0,airplane,-19.654224,36.295208
+ViT-B/16,Translation 32px,3083,0,airplane,-37.155396,17.917538
+ViT-B/16,Translation 32px,3347,0,airplane,-16.11074,38.858456
+ViT-B/16,Translation 32px,3437,0,airplane,-35.227455,15.711961
+ViT-B/16,Translation 32px,3455,0,airplane,-14.815628,39.707474
+ViT-B/16,Translation 32px,3876,0,airplane,-28.72978,36.27247
+ViT-B/16,Translation 32px,3965,0,airplane,-26.88401,42.18011
+ViT-B/16,Translation 32px,4130,0,airplane,-19.077703,38.79449
+ViT-B/16,Translation 32px,4399,0,airplane,-18.88463,34.74764
+ViT-B/16,Translation 32px,4539,0,airplane,-16.132189,40.03561
+ViT-B/16,Translation 32px,4615,0,airplane,-20.131153,40.179752
+ViT-B/16,Translation 32px,4617,0,airplane,-17.556133,39.27275
+ViT-B/16,Translation 32px,4675,0,airplane,-26.05243,42.273045
+ViT-B/16,Translation 32px,4785,0,airplane,-28.548456,43.42207
+ViT-B/16,Translation 32px,4819,0,airplane,-16.705387,37.731815
+ViT-B/16,Translation 32px,4893,0,airplane,-28.142609,41.561962
+ViT-B/16,Translation 32px,5117,0,airplane,-16.771542,40.847248
+ViT-B/16,Translation 32px,5478,0,airplane,-22.1691,16.829885
+ViT-B/16,Translation 32px,5912,0,airplane,-23.450449,37.230915
+ViT-B/16,Translation 32px,5918,0,airplane,-21.5897,37.07091
+ViT-B/16,Translation 32px,5999,0,airplane,-21.474606,34.89806
+ViT-B/16,Translation 32px,6437,0,airplane,-28.086224,42.29008
+ViT-B/16,Translation 32px,6455,0,airplane,-22.868708,17.814232
+ViT-B/16,Translation 32px,6609,0,airplane,-16.268711,42.46657
+ViT-B/16,Translation 32px,6844,0,airplane,-18.185452,41.401966
+ViT-B/16,Translation 32px,6986,0,airplane,-38.78046,15.828208
+ViT-B/16,Translation 32px,7009,0,airplane,-24.38759,38.77722
+ViT-B/16,Translation 32px,7150,0,airplane,-23.679068,41.6196
+ViT-B/16,Translation 32px,7262,0,airplane,-18.03754,40.44006
+ViT-B/16,Translation 32px,7309,0,airplane,-27.68522,39.47266
+ViT-B/16,Translation 32px,7320,0,airplane,-17.051085,34.849052
+ViT-B/16,Translation 32px,7372,0,airplane,-27.4043,42.80074
+ViT-B/16,Translation 32px,7373,0,airplane,-29.029606,40.837624
+ViT-B/16,Translation 32px,7465,0,airplane,-25.968597,39.819866
+ViT-B/16,Translation 32px,7634,0,airplane,-20.900356,39.09909
+ViT-B/16,Translation 32px,95,1,bird,-0.39575964,17.61709
+ViT-B/16,Translation 32px,116,1,bird,-2.128488,11.913585
+ViT-B/16,Translation 32px,198,1,bird,3.6402762,12.777554
+ViT-B/16,Translation 32px,261,1,bird,-3.254233,3.3403966
+ViT-B/16,Translation 32px,304,1,bird,9.956374,16.108156
+ViT-B/16,Translation 32px,825,1,bird,-2.433286,4.9488726
+ViT-B/16,Translation 32px,1090,1,bird,-1.1670104,5.769203
+ViT-B/16,Translation 32px,1109,1,bird,0.30736658,6.312245
+ViT-B/16,Translation 32px,1115,1,bird,7.9101257,13.501882
+ViT-B/16,Translation 32px,1230,1,bird,10.223756,3.9662335
+ViT-B/16,Translation 32px,1436,1,bird,-2.058315,21.363537
+ViT-B/16,Translation 32px,1568,1,bird,13.956224,5.054297
+ViT-B/16,Translation 32px,1852,1,bird,0.8043382,15.799714
+ViT-B/16,Translation 32px,1871,1,bird,11.177254,7.569636
+ViT-B/16,Translation 32px,1986,1,bird,11.39157,8.323301
+ViT-B/16,Translation 32px,1993,1,bird,-1.4562244,16.939383
+ViT-B/16,Translation 32px,2070,1,bird,5.399412,13.570139
+ViT-B/16,Translation 32px,2095,1,bird,6.320458,9.738456
+ViT-B/16,Translation 32px,2116,1,bird,29.532505,7.019499
+ViT-B/16,Translation 32px,2157,1,bird,6.126872,15.61205
+ViT-B/16,Translation 32px,2178,1,bird,-2.348819,13.265966
+ViT-B/16,Translation 32px,2687,1,bird,-1.0028015,14.3595
+ViT-B/16,Translation 32px,2690,1,bird,4.2759695,14.413675
+ViT-B/16,Translation 32px,3079,1,bird,-1.7882894,22.541971
+ViT-B/16,Translation 32px,3413,1,bird,-0.07838922,15.203509
+ViT-B/16,Translation 32px,3491,1,bird,2.3697546,16.32853
+ViT-B/16,Translation 32px,3550,1,bird,3.3586931,6.4007583
+ViT-B/16,Translation 32px,3937,1,bird,1.5940596,12.527626
+ViT-B/16,Translation 32px,4298,1,bird,-1.118162,15.488487
+ViT-B/16,Translation 32px,4640,1,bird,4.8678846,17.463215
+ViT-B/16,Translation 32px,5092,1,bird,-1.8193642,19.230524
+ViT-B/16,Translation 32px,5123,1,bird,1.8180882,9.098126
+ViT-B/16,Translation 32px,5220,1,bird,15.522283,4.406873
+ViT-B/16,Translation 32px,5256,1,bird,0.93351495,13.014671
+ViT-B/16,Translation 32px,5488,1,bird,12.399737,11.4886675
+ViT-B/16,Translation 32px,5560,1,bird,8.533284,3.6872072
+ViT-B/16,Translation 32px,6076,1,bird,-2.460174,16.485712
+ViT-B/16,Translation 32px,6169,1,bird,8.845599,5.6103497
+ViT-B/16,Translation 32px,6349,1,bird,3.416311,16.350132
+ViT-B/16,Translation 32px,6594,1,bird,0.87100387,5.7843146
+ViT-B/16,Translation 32px,6733,1,bird,10.714445,8.243392
+ViT-B/16,Translation 32px,6805,1,bird,-3.0259168,4.087633
+ViT-B/16,Translation 32px,6836,1,bird,-2.355077,23.878836
+ViT-B/16,Translation 32px,6938,1,bird,-0.32526073,16.506935
+ViT-B/16,Translation 32px,6954,1,bird,6.720721,9.283672
+ViT-B/16,Translation 32px,7029,1,bird,-2.0208914,23.12541
+ViT-B/16,Translation 32px,7033,1,bird,2.4184592,15.230781
+ViT-B/16,Translation 32px,7202,1,bird,-1.3597159,23.446424
+ViT-B/16,Translation 32px,7390,1,bird,7.441351,4.988277
+ViT-B/16,Translation 32px,7955,1,bird,-2.6341774,15.277077
+ViT-B/16,Translation 32px,35,2,car,-25.96971,-31.75926
+ViT-B/16,Translation 32px,49,2,car,-28.750748,-31.433014
+ViT-B/16,Translation 32px,317,2,car,-31.691881,-28.765957
+ViT-B/16,Translation 32px,409,2,car,-33.508766,-26.987648
+ViT-B/16,Translation 32px,470,2,car,-35.90373,-28.16477
+ViT-B/16,Translation 32px,483,2,car,-29.367443,-26.853294
+ViT-B/16,Translation 32px,714,2,car,-2.0704057,-7.293062
+ViT-B/16,Translation 32px,981,2,car,-26.344765,-27.409996
+ViT-B/16,Translation 32px,1202,2,car,-33.65016,-29.146484
+ViT-B/16,Translation 32px,1403,2,car,-26.944698,-20.265543
+ViT-B/16,Translation 32px,1520,2,car,-31.118237,-21.979704
+ViT-B/16,Translation 32px,1586,2,car,-24.896204,-27.03949
+ViT-B/16,Translation 32px,1814,2,car,-28.001417,-32.103275
+ViT-B/16,Translation 32px,1839,2,car,-25.686062,-28.565067
+ViT-B/16,Translation 32px,2082,2,car,-27.706781,-37.326176
+ViT-B/16,Translation 32px,2392,2,car,-29.019388,-22.642853
+ViT-B/16,Translation 32px,2502,2,car,-35.50166,-25.920712
+ViT-B/16,Translation 32px,3024,2,car,-26.788956,-36.63632
+ViT-B/16,Translation 32px,3067,2,car,-29.308989,-30.752634
+ViT-B/16,Translation 32px,3163,2,car,-29.768555,-29.56559
+ViT-B/16,Translation 32px,3362,2,car,-36.58033,-26.12087
+ViT-B/16,Translation 32px,3454,2,car,-24.874435,-24.998253
+ViT-B/16,Translation 32px,3755,2,car,-23.723467,-20.966644
+ViT-B/16,Translation 32px,4065,2,car,-24.108803,-23.069014
+ViT-B/16,Translation 32px,4735,2,car,-25.527279,-34.409256
+ViT-B/16,Translation 32px,4913,2,car,-26.306818,-35.764065
+ViT-B/16,Translation 32px,4921,2,car,-24.738638,-21.174738
+ViT-B/16,Translation 32px,5030,2,car,-36.487988,-27.343248
+ViT-B/16,Translation 32px,5183,2,car,-34.50109,-25.875517
+ViT-B/16,Translation 32px,5218,2,car,-35.208584,-27.391693
+ViT-B/16,Translation 32px,5237,2,car,-28.869726,-36.84324
+ViT-B/16,Translation 32px,5318,2,car,-24.805714,-17.217737
+ViT-B/16,Translation 32px,5333,2,car,-26.927301,-30.19971
+ViT-B/16,Translation 32px,5395,2,car,-28.32894,-21.636908
+ViT-B/16,Translation 32px,5512,2,car,0.3091416,-17.494888
+ViT-B/16,Translation 32px,5677,2,car,-25.484865,-18.99844
+ViT-B/16,Translation 32px,5756,2,car,-21.998579,-23.301992
+ViT-B/16,Translation 32px,5824,2,car,-24.074163,-19.575357
+ViT-B/16,Translation 32px,6028,2,car,-27.768808,-27.930122
+ViT-B/16,Translation 32px,6244,2,car,-26.75492,-25.865606
+ViT-B/16,Translation 32px,6264,2,car,-26.99631,-23.25532
+ViT-B/16,Translation 32px,6271,2,car,-35.18103,-28.5201
+ViT-B/16,Translation 32px,6332,2,car,-24.510036,-33.93575
+ViT-B/16,Translation 32px,6354,2,car,-30.512331,-27.176783
+ViT-B/16,Translation 32px,6426,2,car,-28.056316,-28.960619
+ViT-B/16,Translation 32px,6503,2,car,-28.059559,-36.19754
+ViT-B/16,Translation 32px,6616,2,car,-28.210564,-30.258444
+ViT-B/16,Translation 32px,6692,2,car,-27.146536,-35.12156
+ViT-B/16,Translation 32px,7084,2,car,-22.356068,-22.617638
+ViT-B/16,Translation 32px,7425,2,car,-30.155085,-24.454311
+ViT-B/16,Translation 32px,176,3,cat,35.551502,7.9269004
+ViT-B/16,Translation 32px,365,3,cat,27.76752,5.02899
+ViT-B/16,Translation 32px,372,3,cat,22.609015,1.9189142
+ViT-B/16,Translation 32px,391,3,cat,35.493603,-1.130954
+ViT-B/16,Translation 32px,632,3,cat,34.7998,6.1112194
+ViT-B/16,Translation 32px,672,3,cat,33.017235,-3.2341383
+ViT-B/16,Translation 32px,677,3,cat,27.461845,4.0845456
+ViT-B/16,Translation 32px,738,3,cat,19.788576,2.6797588
+ViT-B/16,Translation 32px,791,3,cat,28.552687,3.8784797
+ViT-B/16,Translation 32px,979,3,cat,23.645247,4.8439345
+ViT-B/16,Translation 32px,1204,3,cat,36.909668,5.0198975
+ViT-B/16,Translation 32px,1263,3,cat,35.53651,-2.8340888
+ViT-B/16,Translation 32px,1370,3,cat,25.960388,1.8839483
+ViT-B/16,Translation 32px,1401,3,cat,33.21778,4.0389643
+ViT-B/16,Translation 32px,1431,3,cat,18.41704,7.281678
+ViT-B/16,Translation 32px,1531,3,cat,38.870102,-4.160138
+ViT-B/16,Translation 32px,1563,3,cat,38.987392,4.5205517
+ViT-B/16,Translation 32px,2028,3,cat,35.4432,-5.707196
+ViT-B/16,Translation 32px,2291,3,cat,32.33373,-4.808908
+ViT-B/16,Translation 32px,2536,3,cat,35.085533,4.950822
+ViT-B/16,Translation 32px,2539,3,cat,34.274418,8.281614
+ViT-B/16,Translation 32px,2754,3,cat,35.416416,0.7439715
+ViT-B/16,Translation 32px,2861,3,cat,25.227575,3.5532942
+ViT-B/16,Translation 32px,3276,3,cat,38.456097,-8.342085
+ViT-B/16,Translation 32px,3375,3,cat,39.00768,-6.1375566
+ViT-B/16,Translation 32px,3383,3,cat,36.95157,-0.23901142
+ViT-B/16,Translation 32px,3562,3,cat,38.3848,-5.5604424
+ViT-B/16,Translation 32px,3778,3,cat,17.369015,2.4036558
+ViT-B/16,Translation 32px,3851,3,cat,19.61665,6.257306
+ViT-B/16,Translation 32px,3914,3,cat,34.582085,2.1076453
+ViT-B/16,Translation 32px,4023,3,cat,38.303616,-6.6482425
+ViT-B/16,Translation 32px,4168,3,cat,27.600473,2.2325783
+ViT-B/16,Translation 32px,4215,3,cat,23.93629,6.712551
+ViT-B/16,Translation 32px,4229,3,cat,32.933395,2.4534688
+ViT-B/16,Translation 32px,4323,3,cat,21.309336,3.4136841
+ViT-B/16,Translation 32px,4330,3,cat,37.00881,1.2420702
+ViT-B/16,Translation 32px,4463,3,cat,31.349602,1.9895324
+ViT-B/16,Translation 32px,4531,3,cat,37.82645,-2.4968648
+ViT-B/16,Translation 32px,4590,3,cat,26.990536,3.4886198
+ViT-B/16,Translation 32px,4609,3,cat,31.416414,-3.62184
+ViT-B/16,Translation 32px,4821,3,cat,26.393482,4.541202
+ViT-B/16,Translation 32px,4881,3,cat,36.399292,6.705684
+ViT-B/16,Translation 32px,4908,3,cat,30.733852,4.8165402
+ViT-B/16,Translation 32px,5528,3,cat,22.239853,3.8872397
+ViT-B/16,Translation 32px,6490,3,cat,34.97836,7.474043
+ViT-B/16,Translation 32px,6952,3,cat,23.895275,3.4544175
+ViT-B/16,Translation 32px,7416,3,cat,20.25034,5.0534835
+ViT-B/16,Translation 32px,7744,3,cat,18.554512,4.6830597
+ViT-B/16,Translation 32px,7793,3,cat,21.22989,8.265008
+ViT-B/16,Translation 32px,7797,3,cat,33.525963,-1.059889
+ViT-B/16,Translation 32px,171,4,deer,37.835835,-27.29197
+ViT-B/16,Translation 32px,506,4,deer,41.210693,-28.295694
+ViT-B/16,Translation 32px,691,4,deer,35.25361,-23.298288
+ViT-B/16,Translation 32px,766,4,deer,9.665436,-29.671576
+ViT-B/16,Translation 32px,855,4,deer,36.54194,-27.3706
+ViT-B/16,Translation 32px,1111,4,deer,31.973778,-38.6878
+ViT-B/16,Translation 32px,1124,4,deer,39.31959,-26.565552
+ViT-B/16,Translation 32px,1211,4,deer,36.33893,-34.230515
+ViT-B/16,Translation 32px,1266,4,deer,39.772026,-29.71478
+ViT-B/16,Translation 32px,1429,4,deer,28.374413,-29.74233
+ViT-B/16,Translation 32px,1960,4,deer,14.75816,-8.323834
+ViT-B/16,Translation 32px,2399,4,deer,28.962225,-33.024902
+ViT-B/16,Translation 32px,2704,4,deer,38.341366,-28.378729
+ViT-B/16,Translation 32px,2757,4,deer,27.491995,-25.815372
+ViT-B/16,Translation 32px,2898,4,deer,37.426952,-28.936316
+ViT-B/16,Translation 32px,3034,4,deer,29.754261,-25.536888
+ViT-B/16,Translation 32px,3078,4,deer,39.538673,-28.038301
+ViT-B/16,Translation 32px,3122,4,deer,33.581623,-27.175055
+ViT-B/16,Translation 32px,3179,4,deer,26.587982,-23.724644
+ViT-B/16,Translation 32px,3287,4,deer,37.3972,-32.044228
+ViT-B/16,Translation 32px,3365,4,deer,30.300789,-30.593576
+ViT-B/16,Translation 32px,3458,4,deer,37.79156,-33.567726
+ViT-B/16,Translation 32px,3512,4,deer,30.579494,-27.10662
+ViT-B/16,Translation 32px,3763,4,deer,31.61533,-32.984295
+ViT-B/16,Translation 32px,3891,4,deer,37.200436,-25.333197
+ViT-B/16,Translation 32px,3994,4,deer,31.863747,-26.357592
+ViT-B/16,Translation 32px,4054,4,deer,32.1995,-35.127655
+ViT-B/16,Translation 32px,4629,4,deer,33.19398,-25.63179
+ViT-B/16,Translation 32px,4642,4,deer,35.118507,-28.389523
+ViT-B/16,Translation 32px,4740,4,deer,28.973337,-36.603302
+ViT-B/16,Translation 32px,5062,4,deer,35.22916,-25.70302
+ViT-B/16,Translation 32px,5077,4,deer,30.443602,-38.441746
+ViT-B/16,Translation 32px,5135,4,deer,33.153,-21.26774
+ViT-B/16,Translation 32px,5213,4,deer,30.709837,-34.34667
+ViT-B/16,Translation 32px,5402,4,deer,34.54432,-34.91084
+ViT-B/16,Translation 32px,5467,4,deer,33.07933,-33.35013
+ViT-B/16,Translation 32px,5556,4,deer,33.022022,-37.14077
+ViT-B/16,Translation 32px,5623,4,deer,30.66033,-32.267574
+ViT-B/16,Translation 32px,5789,4,deer,29.163254,-31.649307
+ViT-B/16,Translation 32px,6033,4,deer,35.881016,-32.953373
+ViT-B/16,Translation 32px,6097,4,deer,34.043808,-35.500618
+ViT-B/16,Translation 32px,6288,4,deer,32.38471,-28.325495
+ViT-B/16,Translation 32px,6508,4,deer,31.10395,-37.55477
+ViT-B/16,Translation 32px,6528,4,deer,31.933004,-23.666553
+ViT-B/16,Translation 32px,7475,4,deer,31.926928,-31.718958
+ViT-B/16,Translation 32px,7610,4,deer,33.51007,-29.413662
+ViT-B/16,Translation 32px,7692,4,deer,39.203255,-32.239296
+ViT-B/16,Translation 32px,7864,4,deer,35.752518,-36.376385
+ViT-B/16,Translation 32px,7940,4,deer,33.692963,-30.595972
+ViT-B/16,Translation 32px,7944,4,deer,38.951538,-24.251291
+ViT-B/16,Translation 32px,97,5,dog,18.082645,12.918949
+ViT-B/16,Translation 32px,319,5,dog,6.7958536,-1.5793828
+ViT-B/16,Translation 32px,378,5,dog,17.041252,12.101184
+ViT-B/16,Translation 32px,568,5,dog,18.790266,12.502541
+ViT-B/16,Translation 32px,645,5,dog,16.886097,-6.9232016
+ViT-B/16,Translation 32px,685,5,dog,6.9437857,-8.606934
+ViT-B/16,Translation 32px,1095,5,dog,6.1511316,-8.571379
+ViT-B/16,Translation 32px,1552,5,dog,11.78176,-12.802954
+ViT-B/16,Translation 32px,1626,5,dog,13.60676,-7.099285
+ViT-B/16,Translation 32px,1644,5,dog,4.416025,-2.380636
+ViT-B/16,Translation 32px,1877,5,dog,11.49301,-13.463466
+ViT-B/16,Translation 32px,2265,5,dog,12.944476,-13.549968
+ViT-B/16,Translation 32px,2268,5,dog,17.889164,11.845819
+ViT-B/16,Translation 32px,2334,5,dog,8.755725,-15.215443
+ViT-B/16,Translation 32px,2391,5,dog,20.995527,-9.121459
+ViT-B/16,Translation 32px,2427,5,dog,7.1016603,-14.41353
+ViT-B/16,Translation 32px,2458,5,dog,19.415781,-6.32696
+ViT-B/16,Translation 32px,2623,5,dog,13.977707,-9.397365
+ViT-B/16,Translation 32px,2766,5,dog,17.095629,11.201934
+ViT-B/16,Translation 32px,2807,5,dog,14.911181,-4.9708776
+ViT-B/16,Translation 32px,2950,5,dog,3.0009193,1.3846611
+ViT-B/16,Translation 32px,3353,5,dog,15.109697,-1.3600267
+ViT-B/16,Translation 32px,3852,5,dog,11.32785,-2.3594916
+ViT-B/16,Translation 32px,3863,5,dog,5.499484,-8.430567
+ViT-B/16,Translation 32px,3889,5,dog,14.7309265,1.0183042
+ViT-B/16,Translation 32px,4106,5,dog,19.696087,-5.0755754
+ViT-B/16,Translation 32px,4290,5,dog,21.584288,-10.024056
+ViT-B/16,Translation 32px,4547,5,dog,8.074256,-1.6905707
+ViT-B/16,Translation 32px,4570,5,dog,7.667259,-15.573024
+ViT-B/16,Translation 32px,4850,5,dog,12.500239,-10.795067
+ViT-B/16,Translation 32px,4953,5,dog,5.809896,-1.4286517
+ViT-B/16,Translation 32px,4966,5,dog,12.282653,-4.343232
+ViT-B/16,Translation 32px,5101,5,dog,6.838318,2.0680509
+ViT-B/16,Translation 32px,5332,5,dog,10.000701,-5.8630414
+ViT-B/16,Translation 32px,5381,5,dog,12.901837,-7.985393
+ViT-B/16,Translation 32px,5496,5,dog,5.954459,-3.1807108
+ViT-B/16,Translation 32px,5701,5,dog,3.3830771,0.8872338
+ViT-B/16,Translation 32px,5924,5,dog,8.485263,-14.091621
+ViT-B/16,Translation 32px,6224,5,dog,7.9058137,-14.627562
+ViT-B/16,Translation 32px,6358,5,dog,12.225627,-9.066385
+ViT-B/16,Translation 32px,6414,5,dog,9.145507,-1.0767964
+ViT-B/16,Translation 32px,6716,5,dog,10.068793,2.0940626
+ViT-B/16,Translation 32px,6922,5,dog,17.42062,-5.23517
+ViT-B/16,Translation 32px,6989,5,dog,4.246685,-3.0191026
+ViT-B/16,Translation 32px,7041,5,dog,12.202433,-0.3206664
+ViT-B/16,Translation 32px,7130,5,dog,1.7508577,-4.204526
+ViT-B/16,Translation 32px,7413,5,dog,18.279783,10.97456
+ViT-B/16,Translation 32px,7474,5,dog,11.746349,1.3445605
+ViT-B/16,Translation 32px,7706,5,dog,9.094799,0.70779765
+ViT-B/16,Translation 32px,7776,5,dog,1.2712145,-4.0986176
+ViT-B/16,Translation 32px,449,6,horse,6.2516303,-35.30897
+ViT-B/16,Translation 32px,545,6,horse,-3.3199737,-25.678043
+ViT-B/16,Translation 32px,873,6,horse,8.953086,-27.027098
+ViT-B/16,Translation 32px,890,6,horse,10.777166,-35.61706
+ViT-B/16,Translation 32px,920,6,horse,13.280734,-29.98508
+ViT-B/16,Translation 32px,929,6,horse,11.137309,-26.352995
+ViT-B/16,Translation 32px,964,6,horse,2.8933182,-23.792612
+ViT-B/16,Translation 32px,977,6,horse,7.3733664,-35.01292
+ViT-B/16,Translation 32px,1534,6,horse,-0.089523084,-23.894821
+ViT-B/16,Translation 32px,1667,6,horse,-1.6234465,-24.256838
+ViT-B/16,Translation 32px,2003,6,horse,7.2065597,-29.411734
+ViT-B/16,Translation 32px,2610,6,horse,0.2494442,-27.541475
+ViT-B/16,Translation 32px,2676,6,horse,-0.06379798,-15.946407
+ViT-B/16,Translation 32px,2958,6,horse,6.156511,-37.12823
+ViT-B/16,Translation 32px,3191,6,horse,-2.427545,-25.613941
+ViT-B/16,Translation 32px,3292,6,horse,3.260411,-25.06464
+ViT-B/16,Translation 32px,3418,6,horse,6.1833057,-38.06536
+ViT-B/16,Translation 32px,3494,6,horse,4.893857,-33.890415
+ViT-B/16,Translation 32px,3515,6,horse,35.368267,-30.450624
+ViT-B/16,Translation 32px,3777,6,horse,7.8387437,-36.428253
+ViT-B/16,Translation 32px,3779,6,horse,12.708308,-28.638975
+ViT-B/16,Translation 32px,3844,6,horse,2.9170852,-34.03566
+ViT-B/16,Translation 32px,3962,6,horse,7.906161,-38.85028
+ViT-B/16,Translation 32px,4011,6,horse,5.148683,-27.273678
+ViT-B/16,Translation 32px,4093,6,horse,2.5018928,-23.397453
+ViT-B/16,Translation 32px,4254,6,horse,24.55327,-26.497244
+ViT-B/16,Translation 32px,4341,6,horse,7.2388597,-33.154694
+ViT-B/16,Translation 32px,4411,6,horse,5.6227593,-26.128872
+ViT-B/16,Translation 32px,4620,6,horse,3.8060546,-26.794565
+ViT-B/16,Translation 32px,4731,6,horse,5.6202674,-36.357407
+ViT-B/16,Translation 32px,4746,6,horse,6.6720867,-39.159233
+ViT-B/16,Translation 32px,4754,6,horse,8.854677,-33.711765
+ViT-B/16,Translation 32px,4827,6,horse,4.6917953,-28.87368
+ViT-B/16,Translation 32px,5082,6,horse,5.026344,-37.501343
+ViT-B/16,Translation 32px,5382,6,horse,-2.9004614,-27.194426
+ViT-B/16,Translation 32px,5408,6,horse,14.838529,-26.833513
+ViT-B/16,Translation 32px,5580,6,horse,11.238422,-24.615456
+ViT-B/16,Translation 32px,5729,6,horse,9.456158,-35.49272
+ViT-B/16,Translation 32px,5857,6,horse,26.154425,-31.280615
+ViT-B/16,Translation 32px,5858,6,horse,7.6708546,-37.492596
+ViT-B/16,Translation 32px,6381,6,horse,-2.0350008,-26.52931
+ViT-B/16,Translation 32px,6713,6,horse,-3.4937644,-26.326084
+ViT-B/16,Translation 32px,7108,6,horse,13.787378,-32.851574
+ViT-B/16,Translation 32px,7338,6,horse,15.563415,-30.973593
+ViT-B/16,Translation 32px,7555,6,horse,-3.5026412,-24.648687
+ViT-B/16,Translation 32px,7600,6,horse,6.128,-29.813469
+ViT-B/16,Translation 32px,7726,6,horse,11.242535,-30.04915
+ViT-B/16,Translation 32px,7779,6,horse,3.1070127,-27.924393
+ViT-B/16,Translation 32px,7781,6,horse,11.1210375,-32.46542
+ViT-B/16,Translation 32px,7996,6,horse,4.787793,-36.096764
+ViT-B/16,Translation 32px,29,7,monkey,25.594023,29.023407
+ViT-B/16,Translation 32px,269,7,monkey,28.602472,28.914473
+ViT-B/16,Translation 32px,323,7,monkey,25.539207,27.525164
+ViT-B/16,Translation 32px,370,7,monkey,27.978107,29.505053
+ViT-B/16,Translation 32px,1032,7,monkey,10.960018,28.722115
+ViT-B/16,Translation 32px,1048,7,monkey,28.822222,30.084099
+ViT-B/16,Translation 32px,1220,7,monkey,19.276558,40.23397
+ViT-B/16,Translation 32px,1287,7,monkey,16.145765,40.024597
+ViT-B/16,Translation 32px,1296,7,monkey,17.456472,37.29547
+ViT-B/16,Translation 32px,1440,7,monkey,29.160036,27.571363
+ViT-B/16,Translation 32px,1473,7,monkey,19.690529,25.964735
+ViT-B/16,Translation 32px,1579,7,monkey,22.622515,21.141872
+ViT-B/16,Translation 32px,1703,7,monkey,19.70131,38.480366
+ViT-B/16,Translation 32px,1711,7,monkey,22.546356,20.823502
+ViT-B/16,Translation 32px,1771,7,monkey,17.818874,-10.52101
+ViT-B/16,Translation 32px,1884,7,monkey,11.680912,28.247038
+ViT-B/16,Translation 32px,1927,7,monkey,27.716282,28.464436
+ViT-B/16,Translation 32px,1956,7,monkey,18.528702,20.384182
+ViT-B/16,Translation 32px,2501,7,monkey,27.952078,27.402094
+ViT-B/16,Translation 32px,2668,7,monkey,16.73613,38.305344
+ViT-B/16,Translation 32px,2746,7,monkey,21.994158,25.626905
+ViT-B/16,Translation 32px,2854,7,monkey,18.396654,38.419865
+ViT-B/16,Translation 32px,3153,7,monkey,16.9839,39.440132
+ViT-B/16,Translation 32px,3288,7,monkey,17.624838,40.589756
+ViT-B/16,Translation 32px,3404,7,monkey,29.323265,28.926527
+ViT-B/16,Translation 32px,3446,7,monkey,19.978825,28.527142
+ViT-B/16,Translation 32px,3467,7,monkey,26.976862,26.071936
+ViT-B/16,Translation 32px,3542,7,monkey,27.182549,30.728685
+ViT-B/16,Translation 32px,3867,7,monkey,16.817669,24.882767
+ViT-B/16,Translation 32px,4172,7,monkey,18.775183,40.938774
+ViT-B/16,Translation 32px,4236,7,monkey,12.19665,29.503159
+ViT-B/16,Translation 32px,4308,7,monkey,24.248783,26.192171
+ViT-B/16,Translation 32px,4403,7,monkey,23.930796,28.854876
+ViT-B/16,Translation 32px,4661,7,monkey,20.845598,24.141947
+ViT-B/16,Translation 32px,4704,7,monkey,18.117584,27.015572
+ViT-B/16,Translation 32px,4748,7,monkey,18.013874,29.558187
+ViT-B/16,Translation 32px,4791,7,monkey,26.483433,29.733984
+ViT-B/16,Translation 32px,5436,7,monkey,17.349813,41.25849
+ViT-B/16,Translation 32px,5450,7,monkey,18.626822,29.515142
+ViT-B/16,Translation 32px,5719,7,monkey,9.982147,29.929401
+ViT-B/16,Translation 32px,5848,7,monkey,18.328436,40.18536
+ViT-B/16,Translation 32px,5977,7,monkey,10.668441,29.17589
+ViT-B/16,Translation 32px,6084,7,monkey,11.4309,30.200634
+ViT-B/16,Translation 32px,6190,7,monkey,18.641367,39.184402
+ViT-B/16,Translation 32px,6650,7,monkey,12.91776,28.19733
+ViT-B/16,Translation 32px,6726,7,monkey,25.42286,30.56916
+ViT-B/16,Translation 32px,6772,7,monkey,19.89729,24.127987
+ViT-B/16,Translation 32px,7081,7,monkey,10.029657,28.519627
+ViT-B/16,Translation 32px,7270,7,monkey,18.789427,23.283916
+ViT-B/16,Translation 32px,7835,7,monkey,28.423548,30.815855
+ViT-B/16,Translation 32px,151,8,ship,-56.75671,11.429222
+ViT-B/16,Translation 32px,194,8,ship,-51.382458,10.848428
+ViT-B/16,Translation 32px,667,8,ship,-52.590637,16.024523
+ViT-B/16,Translation 32px,706,8,ship,-43.247192,9.952496
+ViT-B/16,Translation 32px,716,8,ship,-57.702427,10.133471
+ViT-B/16,Translation 32px,739,8,ship,-54.735863,9.873637
+ViT-B/16,Translation 32px,962,8,ship,-46.243023,15.179486
+ViT-B/16,Translation 32px,1129,8,ship,-49.797134,13.126591
+ViT-B/16,Translation 32px,1247,8,ship,-57.606903,8.124816
+ViT-B/16,Translation 32px,1640,8,ship,-49.41335,17.30563
+ViT-B/16,Translation 32px,1783,8,ship,-48.344143,13.311792
+ViT-B/16,Translation 32px,1833,8,ship,-56.217735,8.910103
+ViT-B/16,Translation 32px,1954,8,ship,-44.75187,18.10012
+ViT-B/16,Translation 32px,2109,8,ship,-43.557804,9.073894
+ViT-B/16,Translation 32px,2191,8,ship,-48.196342,16.064201
+ViT-B/16,Translation 32px,2230,8,ship,-47.794537,9.595132
+ViT-B/16,Translation 32px,2340,8,ship,-53.08759,11.353577
+ViT-B/16,Translation 32px,2342,8,ship,-49.7533,18.871096
+ViT-B/16,Translation 32px,2745,8,ship,-51.92293,10.027745
+ViT-B/16,Translation 32px,2844,8,ship,-41.620293,10.600793
+ViT-B/16,Translation 32px,3015,8,ship,-52.02673,12.79932
+ViT-B/16,Translation 32px,3157,8,ship,-50.843132,12.164668
+ViT-B/16,Translation 32px,3412,8,ship,-51.054256,17.721262
+ViT-B/16,Translation 32px,3905,8,ship,-41.726006,9.092803
+ViT-B/16,Translation 32px,3948,8,ship,-40.79571,9.98393
+ViT-B/16,Translation 32px,4069,8,ship,-34.146538,11.658264
+ViT-B/16,Translation 32px,4170,8,ship,-44.650986,14.55881
+ViT-B/16,Translation 32px,4177,8,ship,-45.033367,15.586579
+ViT-B/16,Translation 32px,4242,8,ship,-56.49236,9.834986
+ViT-B/16,Translation 32px,4311,8,ship,-52.92124,13.987084
+ViT-B/16,Translation 32px,4355,8,ship,-24.584858,17.28301
+ViT-B/16,Translation 32px,4552,8,ship,-49.60964,10.446027
+ViT-B/16,Translation 32px,4662,8,ship,-50.82287,14.087419
+ViT-B/16,Translation 32px,4676,8,ship,-52.279057,12.102126
+ViT-B/16,Translation 32px,4990,8,ship,-55.266216,11.728063
+ViT-B/16,Translation 32px,5000,8,ship,-42.552246,16.847061
+ViT-B/16,Translation 32px,5451,8,ship,-52.739273,16.761456
+ViT-B/16,Translation 32px,5525,8,ship,-44.216206,10.669877
+ViT-B/16,Translation 32px,5694,8,ship,-41.630226,7.921347
+ViT-B/16,Translation 32px,5705,8,ship,-54.718937,8.493665
+ViT-B/16,Translation 32px,6434,8,ship,-47.757626,17.674114
+ViT-B/16,Translation 32px,6689,8,ship,-33.560566,8.250382
+ViT-B/16,Translation 32px,7138,8,ship,-41.590294,16.173885
+ViT-B/16,Translation 32px,7446,8,ship,-42.78084,8.601471
+ViT-B/16,Translation 32px,7460,8,ship,-35.083088,7.894444
+ViT-B/16,Translation 32px,7476,8,ship,-38.14002,14.962733
+ViT-B/16,Translation 32px,7810,8,ship,-48.397152,13.993406
+ViT-B/16,Translation 32px,7818,8,ship,-57.674625,9.073534
+ViT-B/16,Translation 32px,7875,8,ship,-48.984287,14.114329
+ViT-B/16,Translation 32px,7999,8,ship,-50.63077,16.086065
+ViT-B/16,Translation 32px,131,9,truck,-17.566378,-7.0773277
+ViT-B/16,Translation 32px,191,9,truck,-27.291817,-12.242617
+ViT-B/16,Translation 32px,239,9,truck,-25.331387,-5.631929
+ViT-B/16,Translation 32px,276,9,truck,-26.87334,-10.152557
+ViT-B/16,Translation 32px,303,9,truck,-31.772738,-8.824997
+ViT-B/16,Translation 32px,419,9,truck,-25.370249,-9.070221
+ViT-B/16,Translation 32px,603,9,truck,-27.621145,-7.3041615
+ViT-B/16,Translation 32px,805,9,truck,-22.6461,-5.288245
+ViT-B/16,Translation 32px,852,9,truck,-29.65306,-6.4660015
+ViT-B/16,Translation 32px,1022,9,truck,-23.2519,-13.662206
+ViT-B/16,Translation 32px,1411,9,truck,-33.947998,-5.400602
+ViT-B/16,Translation 32px,1430,9,truck,-26.32394,-4.246158
+ViT-B/16,Translation 32px,1468,9,truck,-20.719582,4.605247
+ViT-B/16,Translation 32px,1515,9,truck,-32.928555,-6.538615
+ViT-B/16,Translation 32px,1654,9,truck,-15.628943,-9.106419
+ViT-B/16,Translation 32px,1836,9,truck,-29.25578,-11.422449
+ViT-B/16,Translation 32px,2011,9,truck,-33.683205,-10.265015
+ViT-B/16,Translation 32px,2062,9,truck,-31.667328,-7.2501645
+ViT-B/16,Translation 32px,2114,9,truck,-21.9122,4.708956
+ViT-B/16,Translation 32px,2167,9,truck,-29.230785,-9.608208
+ViT-B/16,Translation 32px,2351,9,truck,-31.02917,-8.055844
+ViT-B/16,Translation 32px,2414,9,truck,-24.11593,-2.6064038
+ViT-B/16,Translation 32px,2655,9,truck,-24.206972,-8.493002
+ViT-B/16,Translation 32px,3318,9,truck,-14.570428,-9.085916
+ViT-B/16,Translation 32px,3893,9,truck,-21.252789,3.9463725
+ViT-B/16,Translation 32px,3942,9,truck,-16.781452,-9.292228
+ViT-B/16,Translation 32px,3996,9,truck,-17.253147,-1.990868
+ViT-B/16,Translation 32px,4094,9,truck,-31.821527,-5.309392
+ViT-B/16,Translation 32px,4449,9,truck,-24.406708,-11.579656
+ViT-B/16,Translation 32px,4723,9,truck,-21.305885,-5.4458017
+ViT-B/16,Translation 32px,5284,9,truck,-18.430912,-10.323673
+ViT-B/16,Translation 32px,5301,9,truck,-21.652056,-3.2622814
+ViT-B/16,Translation 32px,5360,9,truck,-21.372538,3.019605
+ViT-B/16,Translation 32px,5447,9,truck,-29.602259,-8.063367
+ViT-B/16,Translation 32px,5452,9,truck,-34.730495,-8.713233
+ViT-B/16,Translation 32px,5508,9,truck,-32.47343,-10.297404
+ViT-B/16,Translation 32px,5572,9,truck,-19.64074,-7.72997
+ViT-B/16,Translation 32px,5590,9,truck,-33.147507,-4.3087745
+ViT-B/16,Translation 32px,5788,9,truck,-22.574678,2.0014365
+ViT-B/16,Translation 32px,5851,9,truck,-33.267742,-7.7641926
+ViT-B/16,Translation 32px,5915,9,truck,-22.733097,-11.946829
+ViT-B/16,Translation 32px,5981,9,truck,-30.31552,-4.1869545
+ViT-B/16,Translation 32px,6931,9,truck,-19.477526,-5.4919047
+ViT-B/16,Translation 32px,7047,9,truck,-32.474865,-7.935034
+ViT-B/16,Translation 32px,7266,9,truck,-20.829233,-8.594086
+ViT-B/16,Translation 32px,7380,9,truck,-33.68275,-6.809831
+ViT-B/16,Translation 32px,7544,9,truck,-23.172134,4.386982
+ViT-B/16,Translation 32px,7752,9,truck,-22.83553,3.4258204
+ViT-B/16,Translation 32px,7938,9,truck,-16.20815,-10.161521
+ViT-B/16,Translation 32px,7995,9,truck,-25.794102,-14.16151
+CLIP ViT-B/32,Clean,3,0,airplane,-74.721825,-5.502247
+CLIP ViT-B/32,Clean,42,0,airplane,-67.03673,-1.56671
+CLIP ViT-B/32,Clean,81,0,airplane,-64.43436,-0.8063798
+CLIP ViT-B/32,Clean,484,0,airplane,-60.399586,-13.081811
+CLIP ViT-B/32,Clean,562,0,airplane,-64.27752,-6.40363
+CLIP ViT-B/32,Clean,1175,0,airplane,-66.998985,-3.8233125
+CLIP ViT-B/32,Clean,1389,0,airplane,-65.30862,-4.41381
+CLIP ViT-B/32,Clean,1553,0,airplane,-74.32687,-3.4511855
+CLIP ViT-B/32,Clean,1596,0,airplane,-57.945408,-12.19185
+CLIP ViT-B/32,Clean,1648,0,airplane,-70.266136,-3.045779
+CLIP ViT-B/32,Clean,1977,0,airplane,-66.07554,-0.10502388
+CLIP ViT-B/32,Clean,2024,0,airplane,-64.23531,-12.614794
+CLIP ViT-B/32,Clean,2242,0,airplane,-57.321934,-11.086368
+CLIP ViT-B/32,Clean,2750,0,airplane,-55.218956,-13.135036
+CLIP ViT-B/32,Clean,2888,0,airplane,-73.536316,-2.145834
+CLIP ViT-B/32,Clean,3025,0,airplane,-61.273605,-1.2716047
+CLIP ViT-B/32,Clean,3083,0,airplane,-59.126255,-11.36148
+CLIP ViT-B/32,Clean,3347,0,airplane,-61.115486,-6.5196195
+CLIP ViT-B/32,Clean,3437,0,airplane,-56.712643,-14.721114
+CLIP ViT-B/32,Clean,3455,0,airplane,-58.518436,-2.112784
+CLIP ViT-B/32,Clean,3876,0,airplane,-61.451946,-15.621539
+CLIP ViT-B/32,Clean,3965,0,airplane,-71.256874,-3.3188233
+CLIP ViT-B/32,Clean,4130,0,airplane,-60.283134,-5.140105
+CLIP ViT-B/32,Clean,4399,0,airplane,-60.497086,-2.8778338
+CLIP ViT-B/32,Clean,4539,0,airplane,-62.493473,-6.267085
+CLIP ViT-B/32,Clean,4615,0,airplane,-63.063713,-4.591377
+CLIP ViT-B/32,Clean,4617,0,airplane,-60.205135,-8.017734
+CLIP ViT-B/32,Clean,4675,0,airplane,-69.41084,-3.29956
+CLIP ViT-B/32,Clean,4785,0,airplane,-75.400276,-4.84809
+CLIP ViT-B/32,Clean,4819,0,airplane,-59.755108,-6.859801
+CLIP ViT-B/32,Clean,4893,0,airplane,-69.67566,-6.5328727
+CLIP ViT-B/32,Clean,5117,0,airplane,-57.870567,-4.951581
+CLIP ViT-B/32,Clean,5478,0,airplane,-64.71942,-13.729301
+CLIP ViT-B/32,Clean,5912,0,airplane,-62.36032,-8.460497
+CLIP ViT-B/32,Clean,5918,0,airplane,-61.00182,-9.981162
+CLIP ViT-B/32,Clean,5999,0,airplane,-64.38373,-2.1310525
+CLIP ViT-B/32,Clean,6437,0,airplane,-71.89761,-1.850586
+CLIP ViT-B/32,Clean,6455,0,airplane,-65.73632,-12.881053
+CLIP ViT-B/32,Clean,6609,0,airplane,-58.550617,-7.6225877
+CLIP ViT-B/32,Clean,6844,0,airplane,-67.96359,0.9847072
+CLIP ViT-B/32,Clean,6986,0,airplane,-59.670647,-13.504836
+CLIP ViT-B/32,Clean,7009,0,airplane,-63.583782,2.138509
+CLIP ViT-B/32,Clean,7150,0,airplane,-68.43099,-4.019698
+CLIP ViT-B/32,Clean,7262,0,airplane,-61.58765,-7.6943126
+CLIP ViT-B/32,Clean,7309,0,airplane,-73.20734,-4.050674
+CLIP ViT-B/32,Clean,7320,0,airplane,-61.484524,-3.486818
+CLIP ViT-B/32,Clean,7372,0,airplane,-72.383446,-3.5617688
+CLIP ViT-B/32,Clean,7373,0,airplane,-72.50491,-6.264389
+CLIP ViT-B/32,Clean,7465,0,airplane,-69.10601,-1.8025581
+CLIP ViT-B/32,Clean,7634,0,airplane,-64.63067,-8.20605
+CLIP ViT-B/32,Clean,95,1,bird,36.828983,-32.62186
+CLIP ViT-B/32,Clean,116,1,bird,31.533436,-23.037924
+CLIP ViT-B/32,Clean,198,1,bird,40.462143,-29.571823
+CLIP ViT-B/32,Clean,261,1,bird,25.011154,-25.984076
+CLIP ViT-B/32,Clean,304,1,bird,32.31745,-19.47127
+CLIP ViT-B/32,Clean,825,1,bird,27.672823,-26.166634
+CLIP ViT-B/32,Clean,1090,1,bird,27.62602,-25.405779
+CLIP ViT-B/32,Clean,1109,1,bird,29.049702,-23.441942
+CLIP ViT-B/32,Clean,1115,1,bird,37.144604,-21.964241
+CLIP ViT-B/32,Clean,1230,1,bird,47.54249,-10.331575
+CLIP ViT-B/32,Clean,1436,1,bird,35.862335,-33.619026
+CLIP ViT-B/32,Clean,1568,1,bird,42.942856,-25.994308
+CLIP ViT-B/32,Clean,1852,1,bird,40.72289,-27.117
+CLIP ViT-B/32,Clean,1871,1,bird,23.87991,-33.499184
+CLIP ViT-B/32,Clean,1986,1,bird,24.997957,-32.975628
+CLIP ViT-B/32,Clean,1993,1,bird,34.492004,-29.475187
+CLIP ViT-B/32,Clean,2070,1,bird,36.43184,-26.653027
+CLIP ViT-B/32,Clean,2095,1,bird,42.187954,-22.702364
+CLIP ViT-B/32,Clean,2116,1,bird,42.77214,-21.77382
+CLIP ViT-B/32,Clean,2157,1,bird,35.152744,-27.564768
+CLIP ViT-B/32,Clean,2178,1,bird,31.228058,-24.386404
+CLIP ViT-B/32,Clean,2687,1,bird,37.671288,-28.55515
+CLIP ViT-B/32,Clean,2690,1,bird,36.842613,-27.782793
+CLIP ViT-B/32,Clean,3079,1,bird,34.118534,-32.95251
+CLIP ViT-B/32,Clean,3413,1,bird,39.306896,-28.574762
+CLIP ViT-B/32,Clean,3491,1,bird,40.35346,-25.488403
+CLIP ViT-B/32,Clean,3550,1,bird,29.545446,-26.347904
+CLIP ViT-B/32,Clean,3937,1,bird,34.717335,-30.564724
+CLIP ViT-B/32,Clean,4298,1,bird,38.743244,-29.888895
+CLIP ViT-B/32,Clean,4640,1,bird,37.9428,-26.463255
+CLIP ViT-B/32,Clean,5092,1,bird,33.11966,-32.211437
+CLIP ViT-B/32,Clean,5123,1,bird,27.544882,-28.277975
+CLIP ViT-B/32,Clean,5220,1,bird,37.71649,16.550814
+CLIP ViT-B/32,Clean,5256,1,bird,30.617653,-30.416985
+CLIP ViT-B/32,Clean,5488,1,bird,43.19752,-17.070059
+CLIP ViT-B/32,Clean,5560,1,bird,29.979336,-31.558256
+CLIP ViT-B/32,Clean,6076,1,bird,36.16084,-30.372305
+CLIP ViT-B/32,Clean,6169,1,bird,28.728971,-20.662619
+CLIP ViT-B/32,Clean,6349,1,bird,39.546486,-26.272846
+CLIP ViT-B/32,Clean,6594,1,bird,28.269861,-23.746895
+CLIP ViT-B/32,Clean,6733,1,bird,24.35135,-32.899185
+CLIP ViT-B/32,Clean,6805,1,bird,26.647655,-24.612547
+CLIP ViT-B/32,Clean,6836,1,bird,35.47302,-34.444687
+CLIP ViT-B/32,Clean,6938,1,bird,37.788513,-31.082058
+CLIP ViT-B/32,Clean,6954,1,bird,42.830227,-22.946617
+CLIP ViT-B/32,Clean,7029,1,bird,33.62947,-33.62945
+CLIP ViT-B/32,Clean,7033,1,bird,39.231476,-25.996874
+CLIP ViT-B/32,Clean,7202,1,bird,33.922714,-35.025654
+CLIP ViT-B/32,Clean,7390,1,bird,31.540396,-27.447525
+CLIP ViT-B/32,Clean,7955,1,bird,36.49405,-28.776875
+CLIP ViT-B/32,Clean,35,2,car,-40.07025,26.218353
+CLIP ViT-B/32,Clean,49,2,car,-36.615788,30.299006
+CLIP ViT-B/32,Clean,317,2,car,-29.824602,35.55305
+CLIP ViT-B/32,Clean,409,2,car,-30.24352,36.569023
+CLIP ViT-B/32,Clean,470,2,car,-29.529745,39.468513
+CLIP ViT-B/32,Clean,483,2,car,-35.454556,32.47148
+CLIP ViT-B/32,Clean,714,2,car,-39.022823,17.105864
+CLIP ViT-B/32,Clean,981,2,car,-31.315256,28.637983
+CLIP ViT-B/32,Clean,1202,2,car,-27.829357,36.756046
+CLIP ViT-B/32,Clean,1403,2,car,-28.5113,21.177044
+CLIP ViT-B/32,Clean,1520,2,car,-37.78158,24.285147
+CLIP ViT-B/32,Clean,1586,2,car,-29.735544,25.24754
+CLIP ViT-B/32,Clean,1814,2,car,-35.129646,28.206347
+CLIP ViT-B/32,Clean,1839,2,car,-30.205704,28.882591
+CLIP ViT-B/32,Clean,2082,2,car,-39.6408,23.717049
+CLIP ViT-B/32,Clean,2392,2,car,-32.60109,30.736588
+CLIP ViT-B/32,Clean,2502,2,car,-27.968527,38.61484
+CLIP ViT-B/32,Clean,3024,2,car,-41.685566,23.888184
+CLIP ViT-B/32,Clean,3067,2,car,-33.486145,30.023539
+CLIP ViT-B/32,Clean,3163,2,car,-26.936106,22.489283
+CLIP ViT-B/32,Clean,3362,2,car,-30.8079,38.51807
+CLIP ViT-B/32,Clean,3454,2,car,-28.667273,26.88337
+CLIP ViT-B/32,Clean,3755,2,car,-25.23588,24.193684
+CLIP ViT-B/32,Clean,4065,2,car,-31.01096,23.29678
+CLIP ViT-B/32,Clean,4735,2,car,-41.72374,25.06008
+CLIP ViT-B/32,Clean,4913,2,car,-37.881363,27.759336
+CLIP ViT-B/32,Clean,4921,2,car,-25.714869,27.63294
+CLIP ViT-B/32,Clean,5030,2,car,-28.61822,39.45269
+CLIP ViT-B/32,Clean,5183,2,car,-32.71934,36.624245
+CLIP ViT-B/32,Clean,5218,2,car,-29.435085,37.92291
+CLIP ViT-B/32,Clean,5237,2,car,-38.882412,28.167528
+CLIP ViT-B/32,Clean,5318,2,car,-24.482359,19.082424
+CLIP ViT-B/32,Clean,5333,2,car,-34.973152,29.595114
+CLIP ViT-B/32,Clean,5395,2,car,-28.917849,23.346949
+CLIP ViT-B/32,Clean,5512,2,car,-26.650581,8.62447
+CLIP ViT-B/32,Clean,5677,2,car,-29.689615,22.591387
+CLIP ViT-B/32,Clean,5756,2,car,-27.701447,25.267054
+CLIP ViT-B/32,Clean,5824,2,car,-23.656136,21.260801
+CLIP ViT-B/32,Clean,6028,2,car,-30.351591,27.050451
+CLIP ViT-B/32,Clean,6244,2,car,-31.22969,24.787846
+CLIP ViT-B/32,Clean,6264,2,car,-27.150436,28.210056
+CLIP ViT-B/32,Clean,6271,2,car,-28.450684,37.390476
+CLIP ViT-B/32,Clean,6332,2,car,-42.215134,25.596825
+CLIP ViT-B/32,Clean,6354,2,car,-35.852028,23.687305
+CLIP ViT-B/32,Clean,6426,2,car,-30.05262,30.346533
+CLIP ViT-B/32,Clean,6503,2,car,-38.675144,25.551998
+CLIP ViT-B/32,Clean,6616,2,car,-32.166782,26.705181
+CLIP ViT-B/32,Clean,6692,2,car,-40.544327,24.84704
+CLIP ViT-B/32,Clean,7084,2,car,-25.418144,25.979656
+CLIP ViT-B/32,Clean,7425,2,car,-27.882542,29.382246
+CLIP ViT-B/32,Clean,176,3,cat,34.12732,-5.8426538
+CLIP ViT-B/32,Clean,365,3,cat,42.417416,24.001648
+CLIP ViT-B/32,Clean,372,3,cat,41.253998,20.333113
+CLIP ViT-B/32,Clean,391,3,cat,29.872923,3.3601677
+CLIP ViT-B/32,Clean,632,3,cat,33.562656,-4.390474
+CLIP ViT-B/32,Clean,672,3,cat,35.20006,0.074641496
+CLIP ViT-B/32,Clean,677,3,cat,43.785576,22.987436
+CLIP ViT-B/32,Clean,738,3,cat,39.896954,22.61815
+CLIP ViT-B/32,Clean,791,3,cat,44.197563,23.667896
+CLIP ViT-B/32,Clean,979,3,cat,47.02516,27.392696
+CLIP ViT-B/32,Clean,1204,3,cat,32.871185,-7.142117
+CLIP ViT-B/32,Clean,1263,3,cat,32.792133,0.5270157
+CLIP ViT-B/32,Clean,1370,3,cat,41.376114,23.873577
+CLIP ViT-B/32,Clean,1401,3,cat,46.142696,18.994875
+CLIP ViT-B/32,Clean,1431,3,cat,41.76009,26.037243
+CLIP ViT-B/32,Clean,1531,3,cat,34.929375,6.4877005
+CLIP ViT-B/32,Clean,1563,3,cat,38.538216,-1.6677983
+CLIP ViT-B/32,Clean,2028,3,cat,35.127304,2.100831
+CLIP ViT-B/32,Clean,2291,3,cat,36.55613,-1.0218725
+CLIP ViT-B/32,Clean,2536,3,cat,35.060143,-4.6560345
+CLIP ViT-B/32,Clean,2539,3,cat,38.066303,11.147153
+CLIP ViT-B/32,Clean,2754,3,cat,31.775543,-2.6809907
+CLIP ViT-B/32,Clean,2861,3,cat,44.667587,21.077631
+CLIP ViT-B/32,Clean,3276,3,cat,38.30532,1.4234768
+CLIP ViT-B/32,Clean,3375,3,cat,36.973568,3.6601918
+CLIP ViT-B/32,Clean,3383,3,cat,34.81617,-3.3429704
+CLIP ViT-B/32,Clean,3562,3,cat,31.953905,9.047294
+CLIP ViT-B/32,Clean,3778,3,cat,45.990902,21.437683
+CLIP ViT-B/32,Clean,3851,3,cat,43.150124,28.819092
+CLIP ViT-B/32,Clean,3914,3,cat,30.57959,-3.3755333
+CLIP ViT-B/32,Clean,4023,3,cat,39.299953,4.4953494
+CLIP ViT-B/32,Clean,4168,3,cat,45.640553,26.888615
+CLIP ViT-B/32,Clean,4215,3,cat,46.95941,25.892424
+CLIP ViT-B/32,Clean,4229,3,cat,32.022667,-5.1235933
+CLIP ViT-B/32,Clean,4323,3,cat,41.79428,24.697397
+CLIP ViT-B/32,Clean,4330,3,cat,32.65367,12.599439
+CLIP ViT-B/32,Clean,4463,3,cat,44.675655,18.23114
+CLIP ViT-B/32,Clean,4531,3,cat,36.447777,1.7442336
+CLIP ViT-B/32,Clean,4590,3,cat,46.443863,22.883915
+CLIP ViT-B/32,Clean,4609,3,cat,28.965103,4.888959
+CLIP ViT-B/32,Clean,4821,3,cat,38.673702,26.320206
+CLIP ViT-B/32,Clean,4881,3,cat,36.244522,-4.964517
+CLIP ViT-B/32,Clean,4908,3,cat,39.270947,28.139227
+CLIP ViT-B/32,Clean,5528,3,cat,40.77796,28.09799
+CLIP ViT-B/32,Clean,6490,3,cat,35.11452,-6.2938027
+CLIP ViT-B/32,Clean,6952,3,cat,41.92928,23.009192
+CLIP ViT-B/32,Clean,7416,3,cat,42.954678,25.49717
+CLIP ViT-B/32,Clean,7744,3,cat,40.70178,25.603506
+CLIP ViT-B/32,Clean,7793,3,cat,38.6792,24.4809
+CLIP ViT-B/32,Clean,7797,3,cat,30.04674,-6.45424
+CLIP ViT-B/32,Clean,171,4,deer,6.7376604,-14.15872
+CLIP ViT-B/32,Clean,506,4,deer,7.3390326,-18.395039
+CLIP ViT-B/32,Clean,691,4,deer,13.097739,-14.322418
+CLIP ViT-B/32,Clean,766,4,deer,-3.3137364,17.922604
+CLIP ViT-B/32,Clean,855,4,deer,3.5997689,-7.059017
+CLIP ViT-B/32,Clean,1111,4,deer,-0.54200804,-11.79972
+CLIP ViT-B/32,Clean,1124,4,deer,10.495589,-14.625834
+CLIP ViT-B/32,Clean,1211,4,deer,3.5115972,-9.488728
+CLIP ViT-B/32,Clean,1266,4,deer,8.699459,-11.165128
+CLIP ViT-B/32,Clean,1429,4,deer,9.676409,-8.186667
+CLIP ViT-B/32,Clean,1960,4,deer,6.6449666,-8.507214
+CLIP ViT-B/32,Clean,2399,4,deer,-1.2494292,-20.82421
+CLIP ViT-B/32,Clean,2704,4,deer,6.511008,-12.422323
+CLIP ViT-B/32,Clean,2757,4,deer,1.2805316,-5.5819473
+CLIP ViT-B/32,Clean,2898,4,deer,0.10730284,-8.756561
+CLIP ViT-B/32,Clean,3034,4,deer,3.9894967,-13.145589
+CLIP ViT-B/32,Clean,3078,4,deer,6.306471,-18.16084
+CLIP ViT-B/32,Clean,3122,4,deer,15.651173,-10.798246
+CLIP ViT-B/32,Clean,3179,4,deer,3.4185326,-19.70392
+CLIP ViT-B/32,Clean,3287,4,deer,0.5924924,-10.224682
+CLIP ViT-B/32,Clean,3365,4,deer,0.90652424,-19.948019
+CLIP ViT-B/32,Clean,3458,4,deer,2.4832265,-14.990094
+CLIP ViT-B/32,Clean,3512,4,deer,10.329319,-13.166441
+CLIP ViT-B/32,Clean,3763,4,deer,-0.7931782,-15.120922
+CLIP ViT-B/32,Clean,3891,4,deer,8.141957,-11.809952
+CLIP ViT-B/32,Clean,3994,4,deer,8.528246,-13.620242
+CLIP ViT-B/32,Clean,4054,4,deer,0.14265952,-17.402906
+CLIP ViT-B/32,Clean,4629,4,deer,7.615636,-16.051353
+CLIP ViT-B/32,Clean,4642,4,deer,7.199283,-11.810789
+CLIP ViT-B/32,Clean,4740,4,deer,3.2027254,-11.820598
+CLIP ViT-B/32,Clean,5062,4,deer,5.639495,-11.7845335
+CLIP ViT-B/32,Clean,5077,4,deer,0.57553476,-13.238673
+CLIP ViT-B/32,Clean,5135,4,deer,5.6925077,-5.9598837
+CLIP ViT-B/32,Clean,5213,4,deer,-4.28524,-16.740126
+CLIP ViT-B/32,Clean,5402,4,deer,-1.9722118,-16.69944
+CLIP ViT-B/32,Clean,5467,4,deer,0.5294109,-15.232612
+CLIP ViT-B/32,Clean,5556,4,deer,-1.1701334,-12.968287
+CLIP ViT-B/32,Clean,5623,4,deer,2.3756497,-18.08726
+CLIP ViT-B/32,Clean,5789,4,deer,-0.46544737,-18.599771
+CLIP ViT-B/32,Clean,6033,4,deer,5.3523164,-15.895259
+CLIP ViT-B/32,Clean,6097,4,deer,-1.7851236,-16.076286
+CLIP ViT-B/32,Clean,6288,4,deer,12.746881,-12.289976
+CLIP ViT-B/32,Clean,6508,4,deer,-2.9012516,-14.249944
+CLIP ViT-B/32,Clean,6528,4,deer,9.43667,-5.0679517
+CLIP ViT-B/32,Clean,7475,4,deer,-1.9947325,-18.323814
+CLIP ViT-B/32,Clean,7610,4,deer,12.256545,-11.124096
+CLIP ViT-B/32,Clean,7692,4,deer,6.7218285,-19.988972
+CLIP ViT-B/32,Clean,7864,4,deer,-0.47960043,-16.83522
+CLIP ViT-B/32,Clean,7940,4,deer,7.9268146,-13.000676
+CLIP ViT-B/32,Clean,7944,4,deer,13.405,-7.904015
+CLIP ViT-B/32,Clean,97,5,dog,28.059149,23.683268
+CLIP ViT-B/32,Clean,319,5,dog,30.664772,29.565798
+CLIP ViT-B/32,Clean,378,5,dog,30.156775,24.80579
+CLIP ViT-B/32,Clean,568,5,dog,34.445522,31.39897
+CLIP ViT-B/32,Clean,645,5,dog,22.752354,24.03907
+CLIP ViT-B/32,Clean,685,5,dog,31.8439,24.688932
+CLIP ViT-B/32,Clean,1095,5,dog,32.64,26.369175
+CLIP ViT-B/32,Clean,1552,5,dog,25.421412,14.336975
+CLIP ViT-B/32,Clean,1626,5,dog,27.083353,27.75101
+CLIP ViT-B/32,Clean,1644,5,dog,25.775417,24.135977
+CLIP ViT-B/32,Clean,1877,5,dog,24.61612,18.933273
+CLIP ViT-B/32,Clean,2265,5,dog,25.623875,20.557423
+CLIP ViT-B/32,Clean,2268,5,dog,30.161818,26.383526
+CLIP ViT-B/32,Clean,2334,5,dog,26.382484,22.039652
+CLIP ViT-B/32,Clean,2391,5,dog,20.555647,15.590276
+CLIP ViT-B/32,Clean,2427,5,dog,24.96811,22.736294
+CLIP ViT-B/32,Clean,2458,5,dog,25.579744,26.541895
+CLIP ViT-B/32,Clean,2623,5,dog,33.31138,24.252682
+CLIP ViT-B/32,Clean,2766,5,dog,26.82117,30.266802
+CLIP ViT-B/32,Clean,2807,5,dog,24.242643,7.0702305
+CLIP ViT-B/32,Clean,2950,5,dog,30.549856,22.923113
+CLIP ViT-B/32,Clean,3353,5,dog,35.216072,19.295351
+CLIP ViT-B/32,Clean,3852,5,dog,29.191137,30.77384
+CLIP ViT-B/32,Clean,3863,5,dog,20.858624,27.740387
+CLIP ViT-B/32,Clean,3889,5,dog,27.880985,25.618238
+CLIP ViT-B/32,Clean,4106,5,dog,26.643724,16.660992
+CLIP ViT-B/32,Clean,4290,5,dog,19.68611,14.053083
+CLIP ViT-B/32,Clean,4547,5,dog,31.361422,28.334867
+CLIP ViT-B/32,Clean,4570,5,dog,23.390205,22.165674
+CLIP ViT-B/32,Clean,4850,5,dog,32.35729,24.280716
+CLIP ViT-B/32,Clean,4953,5,dog,29.29721,20.366682
+CLIP ViT-B/32,Clean,4966,5,dog,30.425404,31.390574
+CLIP ViT-B/32,Clean,5101,5,dog,24.421547,28.154596
+CLIP ViT-B/32,Clean,5332,5,dog,23.943993,16.608294
+CLIP ViT-B/32,Clean,5381,5,dog,22.683525,31.446272
+CLIP ViT-B/32,Clean,5496,5,dog,29.22013,28.635921
+CLIP ViT-B/32,Clean,5701,5,dog,33.339905,29.503935
+CLIP ViT-B/32,Clean,5924,5,dog,23.657791,12.535269
+CLIP ViT-B/32,Clean,6224,5,dog,21.711603,21.220974
+CLIP ViT-B/32,Clean,6358,5,dog,33.502186,20.8947
+CLIP ViT-B/32,Clean,6414,5,dog,35.107758,24.540081
+CLIP ViT-B/32,Clean,6716,5,dog,30.368279,18.168264
+CLIP ViT-B/32,Clean,6922,5,dog,24.042097,24.796492
+CLIP ViT-B/32,Clean,6989,5,dog,19.456192,20.4897
+CLIP ViT-B/32,Clean,7041,5,dog,34.165157,17.196032
+CLIP ViT-B/32,Clean,7130,5,dog,21.514782,25.900072
+CLIP ViT-B/32,Clean,7413,5,dog,31.625948,4.893119
+CLIP ViT-B/32,Clean,7474,5,dog,22.346567,17.998957
+CLIP ViT-B/32,Clean,7706,5,dog,28.378284,34.31213
+CLIP ViT-B/32,Clean,7776,5,dog,19.91371,23.581188
+CLIP ViT-B/32,Clean,449,6,horse,0.33816,12.654158
+CLIP ViT-B/32,Clean,545,6,horse,-9.090361,16.007856
+CLIP ViT-B/32,Clean,873,6,horse,4.570717,-3.2086408
+CLIP ViT-B/32,Clean,890,6,horse,0.39229944,15.759846
+CLIP ViT-B/32,Clean,920,6,horse,5.504778,11.417073
+CLIP ViT-B/32,Clean,929,6,horse,4.2416344,22.294102
+CLIP ViT-B/32,Clean,964,6,horse,-5.2057924,25.995432
+CLIP ViT-B/32,Clean,977,6,horse,1.2004995,18.41748
+CLIP ViT-B/32,Clean,1534,6,horse,-9.849088,13.727078
+CLIP ViT-B/32,Clean,1667,6,horse,-3.890119,14.814294
+CLIP ViT-B/32,Clean,2003,6,horse,-1.2957542,18.85232
+CLIP ViT-B/32,Clean,2610,6,horse,-2.1751535,25.32716
+CLIP ViT-B/32,Clean,2676,6,horse,-1.6138983,22.065338
+CLIP ViT-B/32,Clean,2958,6,horse,2.7955348,18.236958
+CLIP ViT-B/32,Clean,3191,6,horse,-7.428663,15.764627
+CLIP ViT-B/32,Clean,3292,6,horse,-7.3177223,23.778002
+CLIP ViT-B/32,Clean,3418,6,horse,4.3472247,19.575298
+CLIP ViT-B/32,Clean,3494,6,horse,0.3847667,20.629017
+CLIP ViT-B/32,Clean,3515,6,horse,5.500657,12.56579
+CLIP ViT-B/32,Clean,3777,6,horse,0.82543266,14.313387
+CLIP ViT-B/32,Clean,3779,6,horse,3.014757,12.030456
+CLIP ViT-B/32,Clean,3844,6,horse,7.2130733,18.877922
+CLIP ViT-B/32,Clean,3962,6,horse,6.011863,14.984017
+CLIP ViT-B/32,Clean,4011,6,horse,1.0984564,23.793346
+CLIP ViT-B/32,Clean,4093,6,horse,-4.606149,25.608856
+CLIP ViT-B/32,Clean,4254,6,horse,5.986536,13.463911
+CLIP ViT-B/32,Clean,4341,6,horse,1.857344,16.114649
+CLIP ViT-B/32,Clean,4411,6,horse,-4.149575,23.074675
+CLIP ViT-B/32,Clean,4620,6,horse,-6.0771403,22.56986
+CLIP ViT-B/32,Clean,4731,6,horse,2.3744047,19.418512
+CLIP ViT-B/32,Clean,4746,6,horse,6.758795,13.570661
+CLIP ViT-B/32,Clean,4754,6,horse,4.177775,16.290245
+CLIP ViT-B/32,Clean,4827,6,horse,-0.3890787,26.45381
+CLIP ViT-B/32,Clean,5082,6,horse,3.714954,19.884035
+CLIP ViT-B/32,Clean,5382,6,horse,-7.571543,19.040133
+CLIP ViT-B/32,Clean,5408,6,horse,7.5508413,16.010502
+CLIP ViT-B/32,Clean,5580,6,horse,2.4931517,21.223804
+CLIP ViT-B/32,Clean,5729,6,horse,0.37630147,16.972153
+CLIP ViT-B/32,Clean,5857,6,horse,-5.783322,12.4926815
+CLIP ViT-B/32,Clean,5858,6,horse,4.862224,13.997496
+CLIP ViT-B/32,Clean,6381,6,horse,-9.240788,19.518915
+CLIP ViT-B/32,Clean,6713,6,horse,-8.939353,17.38589
+CLIP ViT-B/32,Clean,7108,6,horse,2.7345479,14.423469
+CLIP ViT-B/32,Clean,7338,6,horse,-3.5623074,11.600167
+CLIP ViT-B/32,Clean,7555,6,horse,-6.0301595,16.067907
+CLIP ViT-B/32,Clean,7600,6,horse,0.89328104,26.657848
+CLIP ViT-B/32,Clean,7726,6,horse,5.5526857,16.93711
+CLIP ViT-B/32,Clean,7779,6,horse,-4.3140965,21.37179
+CLIP ViT-B/32,Clean,7781,6,horse,7.702783,13.080229
+CLIP ViT-B/32,Clean,7996,6,horse,-1.964749,15.874562
+CLIP ViT-B/32,Clean,29,7,monkey,57.919,-0.22507653
+CLIP ViT-B/32,Clean,269,7,monkey,57.649822,2.116626
+CLIP ViT-B/32,Clean,323,7,monkey,55.53126,4.75267
+CLIP ViT-B/32,Clean,370,7,monkey,54.510708,-0.88551605
+CLIP ViT-B/32,Clean,1032,7,monkey,49.764977,-8.622985
+CLIP ViT-B/32,Clean,1048,7,monkey,52.33171,7.3938174
+CLIP ViT-B/32,Clean,1220,7,monkey,44.92004,2.5640936
+CLIP ViT-B/32,Clean,1287,7,monkey,42.196297,4.583658
+CLIP ViT-B/32,Clean,1296,7,monkey,48.254723,-0.2957429
+CLIP ViT-B/32,Clean,1440,7,monkey,46.95976,-0.63608223
+CLIP ViT-B/32,Clean,1473,7,monkey,57.01754,-6.0024147
+CLIP ViT-B/32,Clean,1579,7,monkey,60.555916,-2.7016516
+CLIP ViT-B/32,Clean,1703,7,monkey,41.17066,2.2000525
+CLIP ViT-B/32,Clean,1711,7,monkey,58.96118,-3.4643905
+CLIP ViT-B/32,Clean,1771,7,monkey,58.502632,4.2101254
+CLIP ViT-B/32,Clean,1884,7,monkey,46.205906,-7.5642
+CLIP ViT-B/32,Clean,1927,7,monkey,55.043793,1.8838856
+CLIP ViT-B/32,Clean,1956,7,monkey,42.85112,-5.0956197
+CLIP ViT-B/32,Clean,2501,7,monkey,55.574993,-2.656547
+CLIP ViT-B/32,Clean,2668,7,monkey,48.072258,1.5281897
+CLIP ViT-B/32,Clean,2746,7,monkey,52.70288,2.4226863
+CLIP ViT-B/32,Clean,2854,7,monkey,49.10726,2.7665653
+CLIP ViT-B/32,Clean,3153,7,monkey,46.743023,3.3145244
+CLIP ViT-B/32,Clean,3288,7,monkey,50.033813,-0.5484966
+CLIP ViT-B/32,Clean,3404,7,monkey,52.577255,-1.6863099
+CLIP ViT-B/32,Clean,3446,7,monkey,49.56126,-5.5175247
+CLIP ViT-B/32,Clean,3467,7,monkey,42.78039,-0.36557174
+CLIP ViT-B/32,Clean,3542,7,monkey,52.95615,0.1178332
+CLIP ViT-B/32,Clean,3867,7,monkey,53.606308,-2.3233726
+CLIP ViT-B/32,Clean,4172,7,monkey,47.44535,2.552527
+CLIP ViT-B/32,Clean,4236,7,monkey,51.715897,-5.1924314
+CLIP ViT-B/32,Clean,4308,7,monkey,47.72704,-4.2357187
+CLIP ViT-B/32,Clean,4403,7,monkey,51.169758,-0.7386756
+CLIP ViT-B/32,Clean,4661,7,monkey,46.01802,1.4710543
+CLIP ViT-B/32,Clean,4704,7,monkey,49.57794,-2.6878903
+CLIP ViT-B/32,Clean,4748,7,monkey,51.872406,-4.4492335
+CLIP ViT-B/32,Clean,4791,7,monkey,51.622623,-3.1766553
+CLIP ViT-B/32,Clean,5436,7,monkey,50.344353,2.5014946
+CLIP ViT-B/32,Clean,5450,7,monkey,52.38429,-6.614905
+CLIP ViT-B/32,Clean,5719,7,monkey,54.302525,-6.735512
+CLIP ViT-B/32,Clean,5848,7,monkey,48.968903,-0.82634234
+CLIP ViT-B/32,Clean,5977,7,monkey,50.761242,-7.531513
+CLIP ViT-B/32,Clean,6084,7,monkey,50.50828,-8.955032
+CLIP ViT-B/32,Clean,6190,7,monkey,50.755142,1.4357156
+CLIP ViT-B/32,Clean,6650,7,monkey,46.019554,-6.6304517
+CLIP ViT-B/32,Clean,6726,7,monkey,50.04623,5.630572
+CLIP ViT-B/32,Clean,6772,7,monkey,43.47463,-6.2635503
+CLIP ViT-B/32,Clean,7081,7,monkey,53.173462,-10.005252
+CLIP ViT-B/32,Clean,7270,7,monkey,43.737175,-3.0971377
+CLIP ViT-B/32,Clean,7835,7,monkey,53.794067,-4.2586384
+CLIP ViT-B/32,Clean,151,8,ship,-20.027084,-39.275936
+CLIP ViT-B/32,Clean,194,8,ship,-24.68712,-40.634663
+CLIP ViT-B/32,Clean,667,8,ship,-28.782393,-44.939243
+CLIP ViT-B/32,Clean,706,8,ship,-32.19195,-35.713665
+CLIP ViT-B/32,Clean,716,8,ship,-18.575802,-38.316948
+CLIP ViT-B/32,Clean,739,8,ship,-22.718208,-37.97584
+CLIP ViT-B/32,Clean,962,8,ship,-20.046055,-40.814053
+CLIP ViT-B/32,Clean,1129,8,ship,-32.614227,-40.981964
+CLIP ViT-B/32,Clean,1247,8,ship,-19.814106,-35.499695
+CLIP ViT-B/32,Clean,1640,8,ship,-24.717926,-43.269268
+CLIP ViT-B/32,Clean,1783,8,ship,-21.377445,-45.316708
+CLIP ViT-B/32,Clean,1833,8,ship,-19.720827,-37.52706
+CLIP ViT-B/32,Clean,1954,8,ship,-33.77764,-43.585503
+CLIP ViT-B/32,Clean,2109,8,ship,-31.748806,-38.558594
+CLIP ViT-B/32,Clean,2191,8,ship,-27.767212,-42.14861
+CLIP ViT-B/32,Clean,2230,8,ship,-24.01497,-38.518494
+CLIP ViT-B/32,Clean,2340,8,ship,-21.397232,-42.32335
+CLIP ViT-B/32,Clean,2342,8,ship,-23.937624,-44.29211
+CLIP ViT-B/32,Clean,2745,8,ship,-22.810783,-40.511986
+CLIP ViT-B/32,Clean,2844,8,ship,-36.12882,-37.92712
+CLIP ViT-B/32,Clean,3015,8,ship,-23.259336,-41.780735
+CLIP ViT-B/32,Clean,3157,8,ship,-19.605078,-41.643715
+CLIP ViT-B/32,Clean,3412,8,ship,-27.756712,-44.5058
+CLIP ViT-B/32,Clean,3905,8,ship,-35.185665,-35.71543
+CLIP ViT-B/32,Clean,3948,8,ship,-34.756763,-37.097244
+CLIP ViT-B/32,Clean,4069,8,ship,-31.42801,-31.96469
+CLIP ViT-B/32,Clean,4170,8,ship,-27.027718,-33.99519
+CLIP ViT-B/32,Clean,4177,8,ship,-21.104876,-40.59651
+CLIP ViT-B/32,Clean,4242,8,ship,-21.433228,-38.104122
+CLIP ViT-B/32,Clean,4311,8,ship,-22.507114,-42.15585
+CLIP ViT-B/32,Clean,4355,8,ship,-26.580772,-38.583073
+CLIP ViT-B/32,Clean,4552,8,ship,-23.731565,-36.533646
+CLIP ViT-B/32,Clean,4662,8,ship,-19.983501,-43.234653
+CLIP ViT-B/32,Clean,4676,8,ship,-23.570835,-40.365803
+CLIP ViT-B/32,Clean,4990,8,ship,-22.64863,-33.590252
+CLIP ViT-B/32,Clean,5000,8,ship,-24.063982,-46.88428
+CLIP ViT-B/32,Clean,5451,8,ship,-29.0722,-43.500698
+CLIP ViT-B/32,Clean,5525,8,ship,-31.580269,-40.64999
+CLIP ViT-B/32,Clean,5694,8,ship,-36.14624,-35.608337
+CLIP ViT-B/32,Clean,5705,8,ship,-22.00678,-43.765785
+CLIP ViT-B/32,Clean,6434,8,ship,-28.718271,-46.93312
+CLIP ViT-B/32,Clean,6689,8,ship,-27.46188,-35.41829
+CLIP ViT-B/32,Clean,7138,8,ship,-26.422153,-45.75667
+CLIP ViT-B/32,Clean,7446,8,ship,-33.15449,-38.126583
+CLIP ViT-B/32,Clean,7460,8,ship,-30.365738,-34.561363
+CLIP ViT-B/32,Clean,7476,8,ship,-36.085056,-42.452038
+CLIP ViT-B/32,Clean,7810,8,ship,-30.24313,-41.70633
+CLIP ViT-B/32,Clean,7818,8,ship,-21.775679,-36.129322
+CLIP ViT-B/32,Clean,7875,8,ship,-30.725079,-36.89731
+CLIP ViT-B/32,Clean,7999,8,ship,-30.553423,-44.211746
+CLIP ViT-B/32,Clean,131,9,truck,-31.382425,5.1024313
+CLIP ViT-B/32,Clean,191,9,truck,-30.36446,13.72972
+CLIP ViT-B/32,Clean,239,9,truck,-33.974094,4.0216446
+CLIP ViT-B/32,Clean,276,9,truck,-27.55168,7.749077
+CLIP ViT-B/32,Clean,303,9,truck,-38.177074,7.65135
+CLIP ViT-B/32,Clean,419,9,truck,-34.573917,0.3253881
+CLIP ViT-B/32,Clean,603,9,truck,-35.06383,2.483401
+CLIP ViT-B/32,Clean,805,9,truck,-27.281782,-1.6730132
+CLIP ViT-B/32,Clean,852,9,truck,-36.373528,5.716495
+CLIP ViT-B/32,Clean,1022,9,truck,-29.638548,11.330211
+CLIP ViT-B/32,Clean,1411,9,truck,-35.79513,7.031617
+CLIP ViT-B/32,Clean,1430,9,truck,-30.143335,3.0035152
+CLIP ViT-B/32,Clean,1468,9,truck,-31.281355,-3.9106596
+CLIP ViT-B/32,Clean,1515,9,truck,-39.982048,10.101601
+CLIP ViT-B/32,Clean,1654,9,truck,-26.631392,4.0136824
+CLIP ViT-B/32,Clean,1836,9,truck,-34.7604,8.729615
+CLIP ViT-B/32,Clean,2011,9,truck,-33.43572,7.2592506
+CLIP ViT-B/32,Clean,2062,9,truck,-39.202576,6.5704823
+CLIP ViT-B/32,Clean,2114,9,truck,-29.858442,-4.4377527
+CLIP ViT-B/32,Clean,2167,9,truck,-35.639397,10.025106
+CLIP ViT-B/32,Clean,2351,9,truck,-37.95067,9.214048
+CLIP ViT-B/32,Clean,2414,9,truck,-23.815731,-0.059683405
+CLIP ViT-B/32,Clean,2655,9,truck,-22.99458,6.9854984
+CLIP ViT-B/32,Clean,3318,9,truck,-24.911049,8.833834
+CLIP ViT-B/32,Clean,3893,9,truck,-32.918278,11.765111
+CLIP ViT-B/32,Clean,3942,9,truck,-25.183952,4.5958247
+CLIP ViT-B/32,Clean,3996,9,truck,-40.196846,5.42707
+CLIP ViT-B/32,Clean,4094,9,truck,-37.065998,4.0765214
+CLIP ViT-B/32,Clean,4449,9,truck,-31.658382,0.5722606
+CLIP ViT-B/32,Clean,4723,9,truck,-25.232752,0.90691966
+CLIP ViT-B/32,Clean,5284,9,truck,-29.359966,5.084297
+CLIP ViT-B/32,Clean,5301,9,truck,-32.5363,2.7860496
+CLIP ViT-B/32,Clean,5360,9,truck,-31.81479,-2.4469166
+CLIP ViT-B/32,Clean,5447,9,truck,-41.24493,8.00857
+CLIP ViT-B/32,Clean,5452,9,truck,-33.462814,5.6893764
+CLIP ViT-B/32,Clean,5508,9,truck,-42.326263,5.1421556
+CLIP ViT-B/32,Clean,5572,9,truck,-29.629799,7.5551233
+CLIP ViT-B/32,Clean,5590,9,truck,-38.496643,2.837448
+CLIP ViT-B/32,Clean,5788,9,truck,-30.61347,-4.622028
+CLIP ViT-B/32,Clean,5851,9,truck,-37.403755,7.4498305
+CLIP ViT-B/32,Clean,5915,9,truck,-28.803818,0.7840006
+CLIP ViT-B/32,Clean,5981,9,truck,-31.522425,8.003264
+CLIP ViT-B/32,Clean,6931,9,truck,-24.706078,2.185493
+CLIP ViT-B/32,Clean,7047,9,truck,-37.861732,5.851767
+CLIP ViT-B/32,Clean,7266,9,truck,-28.422804,3.904629
+CLIP ViT-B/32,Clean,7380,9,truck,-39.076805,7.531467
+CLIP ViT-B/32,Clean,7544,9,truck,-31.94135,-4.382532
+CLIP ViT-B/32,Clean,7752,9,truck,-30.288734,-3.1707761
+CLIP ViT-B/32,Clean,7938,9,truck,-26.669243,5.929342
+CLIP ViT-B/32,Clean,7995,9,truck,-38.281357,12.286916
+CLIP ViT-B/32,Translation 32px,3,0,airplane,-74.517586,-5.417587
+CLIP ViT-B/32,Translation 32px,42,0,airplane,-66.73223,-1.3880451
+CLIP ViT-B/32,Translation 32px,81,0,airplane,-64.72355,-0.6537625
+CLIP ViT-B/32,Translation 32px,484,0,airplane,-60.487213,-13.265764
+CLIP ViT-B/32,Translation 32px,562,0,airplane,-64.156265,-6.1608
+CLIP ViT-B/32,Translation 32px,1175,0,airplane,-67.09605,-3.6820283
+CLIP ViT-B/32,Translation 32px,1389,0,airplane,-64.95023,-4.629206
+CLIP ViT-B/32,Translation 32px,1553,0,airplane,-74.21394,-3.5491447
+CLIP ViT-B/32,Translation 32px,1596,0,airplane,-58.024307,-12.4465885
+CLIP ViT-B/32,Translation 32px,1648,0,airplane,-70.33008,-4.1079526
+CLIP ViT-B/32,Translation 32px,1977,0,airplane,-65.9721,-0.11851301
+CLIP ViT-B/32,Translation 32px,2024,0,airplane,-64.3687,-12.729807
+CLIP ViT-B/32,Translation 32px,2242,0,airplane,-57.217308,-11.035881
+CLIP ViT-B/32,Translation 32px,2750,0,airplane,-54.967636,-13.305947
+CLIP ViT-B/32,Translation 32px,2888,0,airplane,-73.63325,-1.8955014
+CLIP ViT-B/32,Translation 32px,3025,0,airplane,-61.356167,-1.3175753
+CLIP ViT-B/32,Translation 32px,3083,0,airplane,-59.18081,-11.255842
+CLIP ViT-B/32,Translation 32px,3347,0,airplane,-61.365387,-6.2715116
+CLIP ViT-B/32,Translation 32px,3437,0,airplane,-56.571774,-14.806257
+CLIP ViT-B/32,Translation 32px,3455,0,airplane,-58.539127,-2.0855012
+CLIP ViT-B/32,Translation 32px,3876,0,airplane,-61.467583,-15.627514
+CLIP ViT-B/32,Translation 32px,3965,0,airplane,-71.29057,-3.8464005
+CLIP ViT-B/32,Translation 32px,4130,0,airplane,-60.778,-4.9380474
+CLIP ViT-B/32,Translation 32px,4399,0,airplane,-60.588818,-2.8435416
+CLIP ViT-B/32,Translation 32px,4539,0,airplane,-62.75395,-6.2283893
+CLIP ViT-B/32,Translation 32px,4615,0,airplane,-62.77214,-4.792083
+CLIP ViT-B/32,Translation 32px,4617,0,airplane,-60.31908,-8.006934
+CLIP ViT-B/32,Translation 32px,4675,0,airplane,-69.53311,-3.5976517
+CLIP ViT-B/32,Translation 32px,4785,0,airplane,-75.026886,-4.5919695
+CLIP ViT-B/32,Translation 32px,4819,0,airplane,-60.049828,-6.926614
+CLIP ViT-B/32,Translation 32px,4893,0,airplane,-69.63089,-6.5288734
+CLIP ViT-B/32,Translation 32px,5117,0,airplane,-57.884586,-4.9477515
+CLIP ViT-B/32,Translation 32px,5478,0,airplane,-64.709145,-13.8856125
+CLIP ViT-B/32,Translation 32px,5912,0,airplane,-63.025288,-8.392869
+CLIP ViT-B/32,Translation 32px,5918,0,airplane,-61.075485,-10.020068
+CLIP ViT-B/32,Translation 32px,5999,0,airplane,-63.964725,-2.689085
+CLIP ViT-B/32,Translation 32px,6437,0,airplane,-71.813675,-2.2536597
+CLIP ViT-B/32,Translation 32px,6455,0,airplane,-65.42959,-13.037517
+CLIP ViT-B/32,Translation 32px,6609,0,airplane,-58.422245,-7.697233
+CLIP ViT-B/32,Translation 32px,6844,0,airplane,-67.9651,1.0388774
+CLIP ViT-B/32,Translation 32px,6986,0,airplane,-59.676865,-13.701104
+CLIP ViT-B/32,Translation 32px,7009,0,airplane,-63.55605,2.1455476
+CLIP ViT-B/32,Translation 32px,7150,0,airplane,-68.02255,-4.263965
+CLIP ViT-B/32,Translation 32px,7262,0,airplane,-62.092754,-7.5614166
+CLIP ViT-B/32,Translation 32px,7309,0,airplane,-73.382965,-4.606363
+CLIP ViT-B/32,Translation 32px,7320,0,airplane,-61.839085,-3.476769
+CLIP ViT-B/32,Translation 32px,7372,0,airplane,-72.172966,-4.312677
+CLIP ViT-B/32,Translation 32px,7373,0,airplane,-72.492256,-6.2499247
+CLIP ViT-B/32,Translation 32px,7465,0,airplane,-68.91354,-1.9350132
+CLIP ViT-B/32,Translation 32px,7634,0,airplane,-64.43924,-8.051346
+CLIP ViT-B/32,Translation 32px,95,1,bird,37.02825,-32.739807
+CLIP ViT-B/32,Translation 32px,116,1,bird,31.804607,-23.13671
+CLIP ViT-B/32,Translation 32px,198,1,bird,40.556023,-29.603527
+CLIP ViT-B/32,Translation 32px,261,1,bird,24.947699,-26.008741
+CLIP ViT-B/32,Translation 32px,304,1,bird,32.332928,-19.537395
+CLIP ViT-B/32,Translation 32px,825,1,bird,27.664095,-26.189182
+CLIP ViT-B/32,Translation 32px,1090,1,bird,28.17773,-25.374327
+CLIP ViT-B/32,Translation 32px,1109,1,bird,33.766262,-22.000782
+CLIP ViT-B/32,Translation 32px,1115,1,bird,36.966022,-21.809944
+CLIP ViT-B/32,Translation 32px,1230,1,bird,47.425705,-10.138298
+CLIP ViT-B/32,Translation 32px,1436,1,bird,36.464626,-33.871532
+CLIP ViT-B/32,Translation 32px,1568,1,bird,42.983112,-25.879322
+CLIP ViT-B/32,Translation 32px,1852,1,bird,40.635197,-27.063324
+CLIP ViT-B/32,Translation 32px,1871,1,bird,23.910954,-34.108578
+CLIP ViT-B/32,Translation 32px,1986,1,bird,25.100052,-33.438023
+CLIP ViT-B/32,Translation 32px,1993,1,bird,33.920277,-28.973597
+CLIP ViT-B/32,Translation 32px,2070,1,bird,35.475033,-24.172226
+CLIP ViT-B/32,Translation 32px,2095,1,bird,42.19106,-22.479784
+CLIP ViT-B/32,Translation 32px,2116,1,bird,42.885452,-21.388708
+CLIP ViT-B/32,Translation 32px,2157,1,bird,34.776863,-23.174017
+CLIP ViT-B/32,Translation 32px,2178,1,bird,31.446165,-24.293047
+CLIP ViT-B/32,Translation 32px,2687,1,bird,36.23933,-24.454742
+CLIP ViT-B/32,Translation 32px,2690,1,bird,36.034603,-25.717955
+CLIP ViT-B/32,Translation 32px,3079,1,bird,34.48598,-33.15987
+CLIP ViT-B/32,Translation 32px,3413,1,bird,39.07601,-28.638824
+CLIP ViT-B/32,Translation 32px,3491,1,bird,40.079803,-24.772713
+CLIP ViT-B/32,Translation 32px,3550,1,bird,29.577908,-26.297827
+CLIP ViT-B/32,Translation 32px,3937,1,bird,34.727184,-30.542538
+CLIP ViT-B/32,Translation 32px,4298,1,bird,38.59142,-29.642454
+CLIP ViT-B/32,Translation 32px,4640,1,bird,37.80259,-26.383238
+CLIP ViT-B/32,Translation 32px,5092,1,bird,32.891632,-31.8628
+CLIP ViT-B/32,Translation 32px,5123,1,bird,27.53904,-28.259027
+CLIP ViT-B/32,Translation 32px,5220,1,bird,37.70307,16.196426
+CLIP ViT-B/32,Translation 32px,5256,1,bird,30.569658,-30.327911
+CLIP ViT-B/32,Translation 32px,5488,1,bird,43.186607,-17.084911
+CLIP ViT-B/32,Translation 32px,5560,1,bird,29.798763,-31.804712
+CLIP ViT-B/32,Translation 32px,6076,1,bird,36.037518,-30.303284
+CLIP ViT-B/32,Translation 32px,6169,1,bird,28.759306,-20.606499
+CLIP ViT-B/32,Translation 32px,6349,1,bird,38.775238,-24.876629
+CLIP ViT-B/32,Translation 32px,6594,1,bird,28.230844,-23.795408
+CLIP ViT-B/32,Translation 32px,6733,1,bird,24.574648,-33.565407
+CLIP ViT-B/32,Translation 32px,6805,1,bird,26.71352,-24.608198
+CLIP ViT-B/32,Translation 32px,6836,1,bird,35.829556,-34.82637
+CLIP ViT-B/32,Translation 32px,6938,1,bird,37.781567,-30.893951
+CLIP ViT-B/32,Translation 32px,6954,1,bird,42.94323,-22.691706
+CLIP ViT-B/32,Translation 32px,7029,1,bird,33.189625,-33.52902
+CLIP ViT-B/32,Translation 32px,7033,1,bird,37.69452,-24.606674
+CLIP ViT-B/32,Translation 32px,7202,1,bird,34.143887,-34.92882
+CLIP ViT-B/32,Translation 32px,7390,1,bird,31.5073,-27.385874
+CLIP ViT-B/32,Translation 32px,7955,1,bird,35.259853,-25.682333
+CLIP ViT-B/32,Translation 32px,35,2,car,-39.422752,26.144558
+CLIP ViT-B/32,Translation 32px,49,2,car,-36.58741,30.187048
+CLIP ViT-B/32,Translation 32px,317,2,car,-29.698261,35.459267
+CLIP ViT-B/32,Translation 32px,409,2,car,-30.609047,36.577404
+CLIP ViT-B/32,Translation 32px,470,2,car,-30.08249,39.322502
+CLIP ViT-B/32,Translation 32px,483,2,car,-35.436028,32.51226
+CLIP ViT-B/32,Translation 32px,714,2,car,-39.01658,17.093948
+CLIP ViT-B/32,Translation 32px,981,2,car,-31.264372,28.18104
+CLIP ViT-B/32,Translation 32px,1202,2,car,-27.959625,36.249294
+CLIP ViT-B/32,Translation 32px,1403,2,car,-28.527683,21.142374
+CLIP ViT-B/32,Translation 32px,1520,2,car,-37.495472,24.312347
+CLIP ViT-B/32,Translation 32px,1586,2,car,-29.923752,25.223602
+CLIP ViT-B/32,Translation 32px,1814,2,car,-35.235004,28.095053
+CLIP ViT-B/32,Translation 32px,1839,2,car,-30.351906,28.191431
+CLIP ViT-B/32,Translation 32px,2082,2,car,-39.557484,23.764996
+CLIP ViT-B/32,Translation 32px,2392,2,car,-32.58377,30.644203
+CLIP ViT-B/32,Translation 32px,2502,2,car,-28.214066,38.40455
+CLIP ViT-B/32,Translation 32px,3024,2,car,-41.22415,23.89067
+CLIP ViT-B/32,Translation 32px,3067,2,car,-33.33059,29.994818
+CLIP ViT-B/32,Translation 32px,3163,2,car,-26.893227,22.514912
+CLIP ViT-B/32,Translation 32px,3362,2,car,-31.130152,38.821102
+CLIP ViT-B/32,Translation 32px,3454,2,car,-28.717546,26.832207
+CLIP ViT-B/32,Translation 32px,3755,2,car,-25.362387,24.432796
+CLIP ViT-B/32,Translation 32px,4065,2,car,-31.579773,23.152863
+CLIP ViT-B/32,Translation 32px,4735,2,car,-41.146744,25.634857
+CLIP ViT-B/32,Translation 32px,4913,2,car,-38.01574,27.881998
+CLIP ViT-B/32,Translation 32px,4921,2,car,-26.082806,27.116049
+CLIP ViT-B/32,Translation 32px,5030,2,car,-29.093979,38.751404
+CLIP ViT-B/32,Translation 32px,5183,2,car,-32.739326,36.671097
+CLIP ViT-B/32,Translation 32px,5218,2,car,-29.860598,38.07703
+CLIP ViT-B/32,Translation 32px,5237,2,car,-38.91265,28.18267
+CLIP ViT-B/32,Translation 32px,5318,2,car,-24.469208,19.137852
+CLIP ViT-B/32,Translation 32px,5333,2,car,-35.195927,29.528893
+CLIP ViT-B/32,Translation 32px,5395,2,car,-28.794937,23.538254
+CLIP ViT-B/32,Translation 32px,5512,2,car,-27.847935,9.647486
+CLIP ViT-B/32,Translation 32px,5677,2,car,-30.046658,22.708542
+CLIP ViT-B/32,Translation 32px,5756,2,car,-27.641792,25.224388
+CLIP ViT-B/32,Translation 32px,5824,2,car,-23.615858,21.258919
+CLIP ViT-B/32,Translation 32px,6028,2,car,-30.565111,26.726336
+CLIP ViT-B/32,Translation 32px,6244,2,car,-31.209888,24.627888
+CLIP ViT-B/32,Translation 32px,6264,2,car,-27.324999,27.900972
+CLIP ViT-B/32,Translation 32px,6271,2,car,-28.666557,36.642345
+CLIP ViT-B/32,Translation 32px,6332,2,car,-41.75689,25.955915
+CLIP ViT-B/32,Translation 32px,6354,2,car,-35.554977,23.53125
+CLIP ViT-B/32,Translation 32px,6426,2,car,-30.269714,30.251774
+CLIP ViT-B/32,Translation 32px,6503,2,car,-38.126453,25.437141
+CLIP ViT-B/32,Translation 32px,6616,2,car,-32.394928,26.67842
+CLIP ViT-B/32,Translation 32px,6692,2,car,-39.967136,24.756804
+CLIP ViT-B/32,Translation 32px,7084,2,car,-25.476545,25.980242
+CLIP ViT-B/32,Translation 32px,7425,2,car,-27.786058,29.241629
+CLIP ViT-B/32,Translation 32px,176,3,cat,34.43422,-6.2296352
+CLIP ViT-B/32,Translation 32px,365,3,cat,44.69167,24.554205
+CLIP ViT-B/32,Translation 32px,372,3,cat,41.280483,20.263727
+CLIP ViT-B/32,Translation 32px,391,3,cat,29.759552,3.4018288
+CLIP ViT-B/32,Translation 32px,632,3,cat,33.385605,-4.114976
+CLIP ViT-B/32,Translation 32px,672,3,cat,35.15443,0.1201243
+CLIP ViT-B/32,Translation 32px,677,3,cat,44.377575,22.539816
+CLIP ViT-B/32,Translation 32px,738,3,cat,39.58249,22.410894
+CLIP ViT-B/32,Translation 32px,791,3,cat,44.977703,23.836971
+CLIP ViT-B/32,Translation 32px,979,3,cat,46.93531,27.219324
+CLIP ViT-B/32,Translation 32px,1204,3,cat,32.7837,-7.6573005
+CLIP ViT-B/32,Translation 32px,1263,3,cat,32.792366,0.531189
+CLIP ViT-B/32,Translation 32px,1370,3,cat,40.769955,23.715162
+CLIP ViT-B/32,Translation 32px,1401,3,cat,46.145252,19.00877
+CLIP ViT-B/32,Translation 32px,1431,3,cat,41.90631,25.92913
+CLIP ViT-B/32,Translation 32px,1531,3,cat,34.962025,6.4820642
+CLIP ViT-B/32,Translation 32px,1563,3,cat,38.45425,-1.6111994
+CLIP ViT-B/32,Translation 32px,2028,3,cat,34.913326,2.5657222
+CLIP ViT-B/32,Translation 32px,2291,3,cat,36.54925,-0.8775856
+CLIP ViT-B/32,Translation 32px,2536,3,cat,35.248775,-4.895324
+CLIP ViT-B/32,Translation 32px,2539,3,cat,38.057827,11.259154
+CLIP ViT-B/32,Translation 32px,2754,3,cat,31.764853,-2.653895
+CLIP ViT-B/32,Translation 32px,2861,3,cat,44.796818,20.923529
+CLIP ViT-B/32,Translation 32px,3276,3,cat,38.47639,1.3662486
+CLIP ViT-B/32,Translation 32px,3375,3,cat,36.999798,3.7057812
+CLIP ViT-B/32,Translation 32px,3383,3,cat,35.087303,-3.231062
+CLIP ViT-B/32,Translation 32px,3562,3,cat,31.957262,9.071757
+CLIP ViT-B/32,Translation 32px,3778,3,cat,45.807705,21.711477
+CLIP ViT-B/32,Translation 32px,3851,3,cat,43.162685,28.817019
+CLIP ViT-B/32,Translation 32px,3914,3,cat,30.542978,-3.5040426
+CLIP ViT-B/32,Translation 32px,4023,3,cat,39.72534,4.688641
+CLIP ViT-B/32,Translation 32px,4168,3,cat,45.676636,26.809689
+CLIP ViT-B/32,Translation 32px,4215,3,cat,47.079983,25.096823
+CLIP ViT-B/32,Translation 32px,4229,3,cat,32.06349,-5.1290526
+CLIP ViT-B/32,Translation 32px,4323,3,cat,42.70633,24.407871
+CLIP ViT-B/32,Translation 32px,4330,3,cat,32.68659,12.538737
+CLIP ViT-B/32,Translation 32px,4463,3,cat,44.747395,18.23966
+CLIP ViT-B/32,Translation 32px,4531,3,cat,36.774734,1.6952441
+CLIP ViT-B/32,Translation 32px,4590,3,cat,46.54812,22.929289
+CLIP ViT-B/32,Translation 32px,4609,3,cat,28.888252,4.910981
+CLIP ViT-B/32,Translation 32px,4821,3,cat,38.773224,26.324955
+CLIP ViT-B/32,Translation 32px,4881,3,cat,36.399605,-5.143705
+CLIP ViT-B/32,Translation 32px,4908,3,cat,39.391685,28.04224
+CLIP ViT-B/32,Translation 32px,5528,3,cat,40.73288,28.463045
+CLIP ViT-B/32,Translation 32px,6490,3,cat,35.3133,-6.8061085
+CLIP ViT-B/32,Translation 32px,6952,3,cat,42.4763,22.074976
+CLIP ViT-B/32,Translation 32px,7416,3,cat,43.413345,25.301212
+CLIP ViT-B/32,Translation 32px,7744,3,cat,40.258446,25.079592
+CLIP ViT-B/32,Translation 32px,7793,3,cat,39.092655,23.901632
+CLIP ViT-B/32,Translation 32px,7797,3,cat,30.018026,-6.5280285
+CLIP ViT-B/32,Translation 32px,171,4,deer,6.623517,-14.318578
+CLIP ViT-B/32,Translation 32px,506,4,deer,7.324214,-18.489016
+CLIP ViT-B/32,Translation 32px,691,4,deer,13.089235,-14.254512
+CLIP ViT-B/32,Translation 32px,766,4,deer,-3.3651037,17.95504
+CLIP ViT-B/32,Translation 32px,855,4,deer,3.601749,-6.8763976
+CLIP ViT-B/32,Translation 32px,1111,4,deer,-0.65741783,-11.265334
+CLIP ViT-B/32,Translation 32px,1124,4,deer,10.480415,-14.5442095
+CLIP ViT-B/32,Translation 32px,1211,4,deer,3.4997063,-9.444108
+CLIP ViT-B/32,Translation 32px,1266,4,deer,9.200666,-10.359619
+CLIP ViT-B/32,Translation 32px,1429,4,deer,9.70571,-8.184779
+CLIP ViT-B/32,Translation 32px,1960,4,deer,6.689711,-8.46538
+CLIP ViT-B/32,Translation 32px,2399,4,deer,-1.1932527,-20.759869
+CLIP ViT-B/32,Translation 32px,2704,4,deer,6.5737867,-12.437633
+CLIP ViT-B/32,Translation 32px,2757,4,deer,1.3153327,-5.550195
+CLIP ViT-B/32,Translation 32px,2898,4,deer,0.082696185,-8.812158
+CLIP ViT-B/32,Translation 32px,3034,4,deer,4.0734506,-13.060105
+CLIP ViT-B/32,Translation 32px,3078,4,deer,5.9797826,-17.217031
+CLIP ViT-B/32,Translation 32px,3122,4,deer,15.701934,-10.782569
+CLIP ViT-B/32,Translation 32px,3179,4,deer,3.3866744,-19.694122
+CLIP ViT-B/32,Translation 32px,3287,4,deer,0.56805,-10.134259
+CLIP ViT-B/32,Translation 32px,3365,4,deer,0.9136685,-20.002636
+CLIP ViT-B/32,Translation 32px,3458,4,deer,2.7245488,-15.161032
+CLIP ViT-B/32,Translation 32px,3512,4,deer,10.281141,-12.933233
+CLIP ViT-B/32,Translation 32px,3763,4,deer,-0.6556599,-15.168487
+CLIP ViT-B/32,Translation 32px,3891,4,deer,9.332589,-11.648797
+CLIP ViT-B/32,Translation 32px,3994,4,deer,8.956943,-14.118244
+CLIP ViT-B/32,Translation 32px,4054,4,deer,0.5748342,-17.046574
+CLIP ViT-B/32,Translation 32px,4629,4,deer,7.9208527,-15.797578
+CLIP ViT-B/32,Translation 32px,4642,4,deer,10.067744,-11.813894
+CLIP ViT-B/32,Translation 32px,4740,4,deer,3.1459732,-11.761132
+CLIP ViT-B/32,Translation 32px,5062,4,deer,5.396063,-11.627065
+CLIP ViT-B/32,Translation 32px,5077,4,deer,0.8221744,-13.090455
+CLIP ViT-B/32,Translation 32px,5135,4,deer,5.6527386,-5.8584914
+CLIP ViT-B/32,Translation 32px,5213,4,deer,-4.350805,-16.743706
+CLIP ViT-B/32,Translation 32px,5402,4,deer,-1.2308007,-16.928703
+CLIP ViT-B/32,Translation 32px,5467,4,deer,0.84279674,-15.210677
+CLIP ViT-B/32,Translation 32px,5556,4,deer,-1.16001,-12.999412
+CLIP ViT-B/32,Translation 32px,5623,4,deer,2.3997293,-18.09056
+CLIP ViT-B/32,Translation 32px,5789,4,deer,-0.4892509,-19.182077
+CLIP ViT-B/32,Translation 32px,6033,4,deer,5.324031,-15.861221
+CLIP ViT-B/32,Translation 32px,6097,4,deer,-1.2377783,-16.137602
+CLIP ViT-B/32,Translation 32px,6288,4,deer,12.637062,-12.4468
+CLIP ViT-B/32,Translation 32px,6508,4,deer,-2.8232436,-14.298199
+CLIP ViT-B/32,Translation 32px,6528,4,deer,9.433349,-5.075818
+CLIP ViT-B/32,Translation 32px,7475,4,deer,-1.8994353,-18.48879
+CLIP ViT-B/32,Translation 32px,7610,4,deer,12.313187,-11.009336
+CLIP ViT-B/32,Translation 32px,7692,4,deer,6.7854595,-20.050976
+CLIP ViT-B/32,Translation 32px,7864,4,deer,0.0411889,-16.328045
+CLIP ViT-B/32,Translation 32px,7940,4,deer,8.920697,-12.759615
+CLIP ViT-B/32,Translation 32px,7944,4,deer,13.420541,-7.8756166
+CLIP ViT-B/32,Translation 32px,97,5,dog,28.353733,23.589972
+CLIP ViT-B/32,Translation 32px,319,5,dog,31.005209,29.75115
+CLIP ViT-B/32,Translation 32px,378,5,dog,30.199097,24.838675
+CLIP ViT-B/32,Translation 32px,568,5,dog,34.458096,31.415033
+CLIP ViT-B/32,Translation 32px,645,5,dog,22.636024,24.055765
+CLIP ViT-B/32,Translation 32px,685,5,dog,32.887676,25.626558
+CLIP ViT-B/32,Translation 32px,1095,5,dog,32.775616,26.611427
+CLIP ViT-B/32,Translation 32px,1552,5,dog,25.451061,14.111266
+CLIP ViT-B/32,Translation 32px,1626,5,dog,27.286283,28.182087
+CLIP ViT-B/32,Translation 32px,1644,5,dog,25.798143,24.225407
+CLIP ViT-B/32,Translation 32px,1877,5,dog,24.583826,18.826563
+CLIP ViT-B/32,Translation 32px,2265,5,dog,25.628838,20.487898
+CLIP ViT-B/32,Translation 32px,2268,5,dog,30.273495,26.339417
+CLIP ViT-B/32,Translation 32px,2334,5,dog,26.326323,21.862274
+CLIP ViT-B/32,Translation 32px,2391,5,dog,20.459448,15.396433
+CLIP ViT-B/32,Translation 32px,2427,5,dog,24.990202,22.781675
+CLIP ViT-B/32,Translation 32px,2458,5,dog,25.522703,26.5608
+CLIP ViT-B/32,Translation 32px,2623,5,dog,33.528805,24.790407
+CLIP ViT-B/32,Translation 32px,2766,5,dog,26.876444,30.408573
+CLIP ViT-B/32,Translation 32px,2807,5,dog,24.239737,7.053604
+CLIP ViT-B/32,Translation 32px,2950,5,dog,30.52989,22.92669
+CLIP ViT-B/32,Translation 32px,3353,5,dog,35.30719,19.0384
+CLIP ViT-B/32,Translation 32px,3852,5,dog,29.434458,30.927353
+CLIP ViT-B/32,Translation 32px,3863,5,dog,20.817543,27.792284
+CLIP ViT-B/32,Translation 32px,3889,5,dog,27.921745,25.614723
+CLIP ViT-B/32,Translation 32px,4106,5,dog,26.669035,16.61725
+CLIP ViT-B/32,Translation 32px,4290,5,dog,19.652824,14.042091
+CLIP ViT-B/32,Translation 32px,4547,5,dog,31.580727,28.593157
+CLIP ViT-B/32,Translation 32px,4570,5,dog,22.884459,22.291588
+CLIP ViT-B/32,Translation 32px,4850,5,dog,34.14441,25.404547
+CLIP ViT-B/32,Translation 32px,4953,5,dog,29.33537,20.372015
+CLIP ViT-B/32,Translation 32px,4966,5,dog,30.61458,31.649256
+CLIP ViT-B/32,Translation 32px,5101,5,dog,24.423347,28.214972
+CLIP ViT-B/32,Translation 32px,5332,5,dog,24.01923,16.389334
+CLIP ViT-B/32,Translation 32px,5381,5,dog,22.682098,31.44148
+CLIP ViT-B/32,Translation 32px,5496,5,dog,29.288952,28.643154
+CLIP ViT-B/32,Translation 32px,5701,5,dog,33.291527,29.186852
+CLIP ViT-B/32,Translation 32px,5924,5,dog,23.675522,12.539464
+CLIP ViT-B/32,Translation 32px,6224,5,dog,21.520702,21.07528
+CLIP ViT-B/32,Translation 32px,6358,5,dog,33.51055,20.89181
+CLIP ViT-B/32,Translation 32px,6414,5,dog,37.554924,15.63071
+CLIP ViT-B/32,Translation 32px,6716,5,dog,30.446018,18.057095
+CLIP ViT-B/32,Translation 32px,6922,5,dog,23.756474,24.994265
+CLIP ViT-B/32,Translation 32px,6989,5,dog,19.510101,20.510899
+CLIP ViT-B/32,Translation 32px,7041,5,dog,34.21122,17.135807
+CLIP ViT-B/32,Translation 32px,7130,5,dog,21.45544,25.861952
+CLIP ViT-B/32,Translation 32px,7413,5,dog,31.614817,4.9118414
+CLIP ViT-B/32,Translation 32px,7474,5,dog,22.332136,17.921074
+CLIP ViT-B/32,Translation 32px,7706,5,dog,28.382788,34.274704
+CLIP ViT-B/32,Translation 32px,7776,5,dog,19.628551,23.499592
+CLIP ViT-B/32,Translation 32px,449,6,horse,0.4162308,12.8105
+CLIP ViT-B/32,Translation 32px,545,6,horse,-9.107536,15.908589
+CLIP ViT-B/32,Translation 32px,873,6,horse,4.5759683,-3.22623
+CLIP ViT-B/32,Translation 32px,890,6,horse,0.1501521,15.774038
+CLIP ViT-B/32,Translation 32px,920,6,horse,4.201705,11.1464615
+CLIP ViT-B/32,Translation 32px,929,6,horse,4.2889314,22.281275
+CLIP ViT-B/32,Translation 32px,964,6,horse,-5.279875,25.771751
+CLIP ViT-B/32,Translation 32px,977,6,horse,0.7091627,18.138626
+CLIP ViT-B/32,Translation 32px,1534,6,horse,-9.839737,13.696828
+CLIP ViT-B/32,Translation 32px,1667,6,horse,-3.695313,14.824309
+CLIP ViT-B/32,Translation 32px,2003,6,horse,-1.3110124,18.438612
+CLIP ViT-B/32,Translation 32px,2610,6,horse,-2.1105137,25.35201
+CLIP ViT-B/32,Translation 32px,2676,6,horse,-1.5980375,22.057278
+CLIP ViT-B/32,Translation 32px,2958,6,horse,2.4741964,17.559929
+CLIP ViT-B/32,Translation 32px,3191,6,horse,-7.0613303,15.670296
+CLIP ViT-B/32,Translation 32px,3292,6,horse,-7.2430077,23.791124
+CLIP ViT-B/32,Translation 32px,3418,6,horse,3.960101,18.723763
+CLIP ViT-B/32,Translation 32px,3494,6,horse,0.39433604,20.270939
+CLIP ViT-B/32,Translation 32px,3515,6,horse,4.5424848,12.727429
+CLIP ViT-B/32,Translation 32px,3777,6,horse,0.930525,14.524097
+CLIP ViT-B/32,Translation 32px,3779,6,horse,3.0029604,12.02711
+CLIP ViT-B/32,Translation 32px,3844,6,horse,7.259963,18.935253
+CLIP ViT-B/32,Translation 32px,3962,6,horse,5.813748,15.089046
+CLIP ViT-B/32,Translation 32px,4011,6,horse,1.0993171,23.808987
+CLIP ViT-B/32,Translation 32px,4093,6,horse,-5.2322288,24.946274
+CLIP ViT-B/32,Translation 32px,4254,6,horse,4.3756027,12.159383
+CLIP ViT-B/32,Translation 32px,4341,6,horse,1.8113244,16.124647
+CLIP ViT-B/32,Translation 32px,4411,6,horse,-4.1816316,23.144154
+CLIP ViT-B/32,Translation 32px,4620,6,horse,-6.0777593,22.624594
+CLIP ViT-B/32,Translation 32px,4731,6,horse,2.2262855,19.208178
+CLIP ViT-B/32,Translation 32px,4746,6,horse,6.696482,13.8615885
+CLIP ViT-B/32,Translation 32px,4754,6,horse,3.7663584,16.321157
+CLIP ViT-B/32,Translation 32px,4827,6,horse,-0.38912052,26.440123
+CLIP ViT-B/32,Translation 32px,5082,6,horse,3.1116602,19.458265
+CLIP ViT-B/32,Translation 32px,5382,6,horse,-7.4761925,19.035858
+CLIP ViT-B/32,Translation 32px,5408,6,horse,7.3910065,16.085955
+CLIP ViT-B/32,Translation 32px,5580,6,horse,2.4575384,21.122778
+CLIP ViT-B/32,Translation 32px,5729,6,horse,-0.3977115,17.129923
+CLIP ViT-B/32,Translation 32px,5857,6,horse,-5.819178,12.539453
+CLIP ViT-B/32,Translation 32px,5858,6,horse,3.9863667,13.829555
+CLIP ViT-B/32,Translation 32px,6381,6,horse,-9.232824,19.533278
+CLIP ViT-B/32,Translation 32px,6713,6,horse,-8.920588,17.527843
+CLIP ViT-B/32,Translation 32px,7108,6,horse,2.6761217,14.400608
+CLIP ViT-B/32,Translation 32px,7338,6,horse,-3.5656514,11.607579
+CLIP ViT-B/32,Translation 32px,7555,6,horse,-6.241517,16.195673
+CLIP ViT-B/32,Translation 32px,7600,6,horse,0.83283955,26.643402
+CLIP ViT-B/32,Translation 32px,7726,6,horse,5.3334503,16.915573
+CLIP ViT-B/32,Translation 32px,7779,6,horse,-4.8924007,20.939037
+CLIP ViT-B/32,Translation 32px,7781,6,horse,7.68449,12.935686
+CLIP ViT-B/32,Translation 32px,7996,6,horse,-1.5933905,15.898872
+CLIP ViT-B/32,Translation 32px,29,7,monkey,57.921288,-0.2507125
+CLIP ViT-B/32,Translation 32px,269,7,monkey,57.69026,2.141061
+CLIP ViT-B/32,Translation 32px,323,7,monkey,55.600224,4.7760935
+CLIP ViT-B/32,Translation 32px,370,7,monkey,54.545376,-0.8916687
+CLIP ViT-B/32,Translation 32px,1032,7,monkey,48.106033,-8.260271
+CLIP ViT-B/32,Translation 32px,1048,7,monkey,52.357964,7.438566
+CLIP ViT-B/32,Translation 32px,1220,7,monkey,44.533367,2.662106
+CLIP ViT-B/32,Translation 32px,1287,7,monkey,42.00811,4.7047777
+CLIP ViT-B/32,Translation 32px,1296,7,monkey,46.02993,-3.8623233
+CLIP ViT-B/32,Translation 32px,1440,7,monkey,46.818592,-0.7160311
+CLIP ViT-B/32,Translation 32px,1473,7,monkey,57.036167,-5.990211
+CLIP ViT-B/32,Translation 32px,1579,7,monkey,60.563908,-2.6922076
+CLIP ViT-B/32,Translation 32px,1703,7,monkey,41.028313,2.2037952
+CLIP ViT-B/32,Translation 32px,1711,7,monkey,58.97749,-3.4310992
+CLIP ViT-B/32,Translation 32px,1771,7,monkey,58.536327,4.236246
+CLIP ViT-B/32,Translation 32px,1884,7,monkey,46.16144,-7.6071777
+CLIP ViT-B/32,Translation 32px,1927,7,monkey,55.050526,1.8601755
+CLIP ViT-B/32,Translation 32px,1956,7,monkey,43.12196,-4.547587
+CLIP ViT-B/32,Translation 32px,2501,7,monkey,55.5426,-2.631581
+CLIP ViT-B/32,Translation 32px,2668,7,monkey,48.06537,1.377636
+CLIP ViT-B/32,Translation 32px,2746,7,monkey,52.66849,2.3724236
+CLIP ViT-B/32,Translation 32px,2854,7,monkey,49.086464,2.6577048
+CLIP ViT-B/32,Translation 32px,3153,7,monkey,46.78214,3.3489568
+CLIP ViT-B/32,Translation 32px,3288,7,monkey,50.22122,-1.2030351
+CLIP ViT-B/32,Translation 32px,3404,7,monkey,52.05859,-2.0356307
+CLIP ViT-B/32,Translation 32px,3446,7,monkey,49.28918,-5.401536
+CLIP ViT-B/32,Translation 32px,3467,7,monkey,42.71886,-0.4017163
+CLIP ViT-B/32,Translation 32px,3542,7,monkey,53.052185,0.23480082
+CLIP ViT-B/32,Translation 32px,3867,7,monkey,53.436977,-2.419854
+CLIP ViT-B/32,Translation 32px,4172,7,monkey,45.835148,-2.5347185
+CLIP ViT-B/32,Translation 32px,4236,7,monkey,51.032467,-5.483357
+CLIP ViT-B/32,Translation 32px,4308,7,monkey,47.47506,-4.3437243
+CLIP ViT-B/32,Translation 32px,4403,7,monkey,50.867405,-1.9210361
+CLIP ViT-B/32,Translation 32px,4661,7,monkey,45.94532,1.0040333
+CLIP ViT-B/32,Translation 32px,4704,7,monkey,49.526997,-2.8808854
+CLIP ViT-B/32,Translation 32px,4748,7,monkey,51.01094,-4.456464
+CLIP ViT-B/32,Translation 32px,4791,7,monkey,50.893852,-3.486686
+CLIP ViT-B/32,Translation 32px,5436,7,monkey,50.35554,2.472103
+CLIP ViT-B/32,Translation 32px,5450,7,monkey,51.983078,-6.62873
+CLIP ViT-B/32,Translation 32px,5719,7,monkey,54.183876,-6.6601305
+CLIP ViT-B/32,Translation 32px,5848,7,monkey,48.650986,-1.8475925
+CLIP ViT-B/32,Translation 32px,5977,7,monkey,50.13775,-6.806259
+CLIP ViT-B/32,Translation 32px,6084,7,monkey,50.323498,-8.55513
+CLIP ViT-B/32,Translation 32px,6190,7,monkey,50.805065,1.2569721
+CLIP ViT-B/32,Translation 32px,6650,7,monkey,45.523804,-5.522931
+CLIP ViT-B/32,Translation 32px,6726,7,monkey,50.052193,5.631452
+CLIP ViT-B/32,Translation 32px,6772,7,monkey,43.28872,-6.0396037
+CLIP ViT-B/32,Translation 32px,7081,7,monkey,53.14058,-9.988458
+CLIP ViT-B/32,Translation 32px,7270,7,monkey,43.754005,-3.2167802
+CLIP ViT-B/32,Translation 32px,7835,7,monkey,53.771496,-4.2873483
+CLIP ViT-B/32,Translation 32px,151,8,ship,-20.065506,-38.779404
+CLIP ViT-B/32,Translation 32px,194,8,ship,-24.553886,-40.3478
+CLIP ViT-B/32,Translation 32px,667,8,ship,-28.88471,-44.634026
+CLIP ViT-B/32,Translation 32px,706,8,ship,-32.21351,-35.522224
+CLIP ViT-B/32,Translation 32px,716,8,ship,-18.480333,-38.35424
+CLIP ViT-B/32,Translation 32px,739,8,ship,-22.658127,-37.763847
+CLIP ViT-B/32,Translation 32px,962,8,ship,-20.301525,-40.53554
+CLIP ViT-B/32,Translation 32px,1129,8,ship,-32.658176,-41.07987
+CLIP ViT-B/32,Translation 32px,1247,8,ship,-19.968494,-35.421307
+CLIP ViT-B/32,Translation 32px,1640,8,ship,-24.483324,-42.891853
+CLIP ViT-B/32,Translation 32px,1783,8,ship,-21.300817,-45.361572
+CLIP ViT-B/32,Translation 32px,1833,8,ship,-19.98575,-37.163353
+CLIP ViT-B/32,Translation 32px,1954,8,ship,-33.876553,-43.58084
+CLIP ViT-B/32,Translation 32px,2109,8,ship,-31.81195,-38.40386
+CLIP ViT-B/32,Translation 32px,2191,8,ship,-27.78868,-42.016594
+CLIP ViT-B/32,Translation 32px,2230,8,ship,-24.772705,-38.002293
+CLIP ViT-B/32,Translation 32px,2340,8,ship,-21.32713,-42.099365
+CLIP ViT-B/32,Translation 32px,2342,8,ship,-23.90529,-44.355316
+CLIP ViT-B/32,Translation 32px,2745,8,ship,-22.469662,-40.221638
+CLIP ViT-B/32,Translation 32px,2844,8,ship,-36.217777,-38.080814
+CLIP ViT-B/32,Translation 32px,3015,8,ship,-23.7525,-41.961926
+CLIP ViT-B/32,Translation 32px,3157,8,ship,-20.194109,-41.517605
+CLIP ViT-B/32,Translation 32px,3412,8,ship,-27.635149,-44.407692
+CLIP ViT-B/32,Translation 32px,3905,8,ship,-35.057316,-35.638645
+CLIP ViT-B/32,Translation 32px,3948,8,ship,-34.760498,-36.965477
+CLIP ViT-B/32,Translation 32px,4069,8,ship,-31.428171,-31.946632
+CLIP ViT-B/32,Translation 32px,4170,8,ship,-26.979523,-33.93121
+CLIP ViT-B/32,Translation 32px,4177,8,ship,-26.1764,-35.273624
+CLIP ViT-B/32,Translation 32px,4242,8,ship,-21.269218,-38.007847
+CLIP ViT-B/32,Translation 32px,4311,8,ship,-22.66857,-42.65546
+CLIP ViT-B/32,Translation 32px,4355,8,ship,-26.508852,-38.44738
+CLIP ViT-B/32,Translation 32px,4552,8,ship,-23.873178,-36.252113
+CLIP ViT-B/32,Translation 32px,4662,8,ship,-20.0693,-43.48623
+CLIP ViT-B/32,Translation 32px,4676,8,ship,-23.229422,-39.80899
+CLIP ViT-B/32,Translation 32px,4990,8,ship,-22.731657,-33.57504
+CLIP ViT-B/32,Translation 32px,5000,8,ship,-24.150156,-47.068596
+CLIP ViT-B/32,Translation 32px,5451,8,ship,-29.162409,-43.423588
+CLIP ViT-B/32,Translation 32px,5525,8,ship,-30.880047,-40.71877
+CLIP ViT-B/32,Translation 32px,5694,8,ship,-36.069183,-35.390324
+CLIP ViT-B/32,Translation 32px,5705,8,ship,-21.92105,-43.61349
+CLIP ViT-B/32,Translation 32px,6434,8,ship,-28.716574,-47.032207
+CLIP ViT-B/32,Translation 32px,6689,8,ship,-27.349823,-35.435795
+CLIP ViT-B/32,Translation 32px,7138,8,ship,-26.491676,-45.728863
+CLIP ViT-B/32,Translation 32px,7446,8,ship,-33.084198,-38.081818
+CLIP ViT-B/32,Translation 32px,7460,8,ship,-30.354992,-34.490585
+CLIP ViT-B/32,Translation 32px,7476,8,ship,-36.08629,-42.44761
+CLIP ViT-B/32,Translation 32px,7810,8,ship,-30.233664,-41.417892
+CLIP ViT-B/32,Translation 32px,7818,8,ship,-21.896584,-36.001217
+CLIP ViT-B/32,Translation 32px,7875,8,ship,-30.669712,-37.109825
+CLIP ViT-B/32,Translation 32px,7999,8,ship,-30.50547,-43.98893
+CLIP ViT-B/32,Translation 32px,131,9,truck,-31.561771,5.179016
+CLIP ViT-B/32,Translation 32px,191,9,truck,-30.299822,13.623498
+CLIP ViT-B/32,Translation 32px,239,9,truck,-34.085667,4.102747
+CLIP ViT-B/32,Translation 32px,276,9,truck,-27.856379,8.051792
+CLIP ViT-B/32,Translation 32px,303,9,truck,-38.064972,7.195003
+CLIP ViT-B/32,Translation 32px,419,9,truck,-34.54924,0.3538986
+CLIP ViT-B/32,Translation 32px,603,9,truck,-35.09054,2.4588773
+CLIP ViT-B/32,Translation 32px,805,9,truck,-27.250166,-1.6308317
+CLIP ViT-B/32,Translation 32px,852,9,truck,-36.795403,6.0521545
+CLIP ViT-B/32,Translation 32px,1022,9,truck,-29.63872,11.361888
+CLIP ViT-B/32,Translation 32px,1411,9,truck,-35.89359,7.0643344
+CLIP ViT-B/32,Translation 32px,1430,9,truck,-30.17292,3.0043705
+CLIP ViT-B/32,Translation 32px,1468,9,truck,-31.113224,-3.3763807
+CLIP ViT-B/32,Translation 32px,1515,9,truck,-39.97034,9.987822
+CLIP ViT-B/32,Translation 32px,1654,9,truck,-26.602983,4.0422454
+CLIP ViT-B/32,Translation 32px,1836,9,truck,-34.87553,8.669344
+CLIP ViT-B/32,Translation 32px,2011,9,truck,-33.327976,7.3709006
+CLIP ViT-B/32,Translation 32px,2062,9,truck,-38.892513,6.3914685
+CLIP ViT-B/32,Translation 32px,2114,9,truck,-29.682457,-3.851196
+CLIP ViT-B/32,Translation 32px,2167,9,truck,-35.672897,10.046135
+CLIP ViT-B/32,Translation 32px,2351,9,truck,-37.38598,9.41311
+CLIP ViT-B/32,Translation 32px,2414,9,truck,-23.865294,-0.0069338274
+CLIP ViT-B/32,Translation 32px,2655,9,truck,-23.001183,6.939738
+CLIP ViT-B/32,Translation 32px,3318,9,truck,-24.870779,8.865067
+CLIP ViT-B/32,Translation 32px,3893,9,truck,-32.93357,11.7645235
+CLIP ViT-B/32,Translation 32px,3942,9,truck,-25.35261,4.5738525
+CLIP ViT-B/32,Translation 32px,3996,9,truck,-39.338562,5.135942
+CLIP ViT-B/32,Translation 32px,4094,9,truck,-36.893513,4.1569285
+CLIP ViT-B/32,Translation 32px,4449,9,truck,-31.771145,0.59037364
+CLIP ViT-B/32,Translation 32px,4723,9,truck,-25.252037,0.92555976
+CLIP ViT-B/32,Translation 32px,5284,9,truck,-29.503187,5.3421116
+CLIP ViT-B/32,Translation 32px,5301,9,truck,-32.565857,2.7092466
+CLIP ViT-B/32,Translation 32px,5360,9,truck,-31.767565,-2.054505
+CLIP ViT-B/32,Translation 32px,5447,9,truck,-41.16708,7.986831
+CLIP ViT-B/32,Translation 32px,5452,9,truck,-33.550728,5.8454595
+CLIP ViT-B/32,Translation 32px,5508,9,truck,-42.317417,5.1429873
+CLIP ViT-B/32,Translation 32px,5572,9,truck,-29.80168,7.4386425
+CLIP ViT-B/32,Translation 32px,5590,9,truck,-38.5106,2.7414618
+CLIP ViT-B/32,Translation 32px,5788,9,truck,-30.391787,-3.8962
+CLIP ViT-B/32,Translation 32px,5851,9,truck,-37.418327,7.8529816
+CLIP ViT-B/32,Translation 32px,5915,9,truck,-28.767693,0.8594372
+CLIP ViT-B/32,Translation 32px,5981,9,truck,-31.550917,8.03442
+CLIP ViT-B/32,Translation 32px,6931,9,truck,-24.752405,2.2282116
+CLIP ViT-B/32,Translation 32px,7047,9,truck,-38.049343,5.715053
+CLIP ViT-B/32,Translation 32px,7266,9,truck,-28.560064,4.0068316
+CLIP ViT-B/32,Translation 32px,7380,9,truck,-39.2691,7.947745
+CLIP ViT-B/32,Translation 32px,7544,9,truck,-32.221992,-3.9615498
+CLIP ViT-B/32,Translation 32px,7752,9,truck,-30.146622,-2.4378517
+CLIP ViT-B/32,Translation 32px,7938,9,truck,-26.81849,6.059638
+CLIP ViT-B/32,Translation 32px,7995,9,truck,-38.276165,12.227046

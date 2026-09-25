@@ -1,0 +1,13 @@
+{
+  "model": "proser",
+  "closed_set_accuracy": 0.9431,
+  "known_classes": 10,
+  "total_outputs": 15,
+  "scores": [
+    "msp",
+    "mls",
+    "energy",
+    "mahalanobis",
+    "proser_placeholder"
+  ]
+}

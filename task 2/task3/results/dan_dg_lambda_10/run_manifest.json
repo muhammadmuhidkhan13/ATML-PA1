@@ -1,0 +1,13 @@
+{
+  "method": "dan_dg",
+  "status": "complete",
+  "best_epoch": 1,
+  "best_mean_source_validation_macro_f1": 0.05066996316115061,
+  "checkpoint_selection": "mean source-validation macro-F1",
+  "maximum_epochs": 30,
+  "epochs_completed": 6,
+  "early_stopping_patience": 5,
+  "seed": 6304,
+  "sketch_used": false,
+  "lambda_dg": 10.0
+}

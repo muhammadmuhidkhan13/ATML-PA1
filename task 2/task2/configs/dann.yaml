@@ -1,0 +1,10 @@
+method:
+  name: dann
+  uses_unlabeled_target: true
+  domain_loss_weight: 1.0
+  maximum_grl_strength: 1.0
+
+domain_discriminator:
+  hidden_dimension: 256
+  dropout_probability: 0.5
+  number_of_domains: 2

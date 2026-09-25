@@ -1,0 +1,18 @@
+{
+  "method": "source_only",
+  "run_name": "source_only_final",
+  "seed": 6304,
+  "command": "C:\\Users\\HP\\anaconda3\\python.exe C:\\Users\\HP\\Desktop\\ATML\\PA1\\task 2\\task2\\train.py --method source_only --run-name source_only_final",
+  "created_utc": "2026-09-23T03:44:16.983054+00:00",
+  "python_version": "3.13.5 | packaged by Anaconda, Inc. | (main, Jun 12 2025, 16:37:03) [MSC v.1929 64 bit (AMD64)]",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "pytorch_version": "2.13.0+cu130",
+  "cuda_version": "13.0",
+  "device": "cuda",
+  "gpu": "NVIDIA GeForce RTX 3060 Laptop GPU",
+  "best_epoch": 8,
+  "best_mean_source_validation_macro_f1": 0.9377363253707487,
+  "checkpoint_selection_metric": "mean_source_validation_macro_f1",
+  "target_labels_used_during_training": false,
+  "target_labels_used_for_checkpoint_selection": false
+}

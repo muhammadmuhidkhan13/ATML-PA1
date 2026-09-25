@@ -1,0 +1,9 @@
+{
+  "method": "vanilla",
+  "seed": 6304,
+  "best_epoch": 93,
+  "best_validation_accuracy": 0.9544,
+  "cifar10_test_accuracy": 0.9457,
+  "cifar10_test_loss": 0.20436138157844544,
+  "checkpoint": "task4\\checkpoints\\vanilla_best.pt"
+}

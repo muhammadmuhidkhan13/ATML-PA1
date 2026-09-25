@@ -1,0 +1,14 @@
+{
+  "method": "sam",
+  "status": "complete",
+  "best_epoch": 7,
+  "best_mean_source_validation_macro_f1": 0.9508152405420939,
+  "checkpoint_selection": "mean source-validation macro-F1",
+  "maximum_epochs": 30,
+  "epochs_completed": 12,
+  "early_stopping_patience": 5,
+  "seed": 6304,
+  "sketch_used": false,
+  "rho": 0.05,
+  "adaptive": false
+}

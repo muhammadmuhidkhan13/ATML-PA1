@@ -1,0 +1,26 @@
+method: gcsc
+seed: 6304
+
+model:
+  num_classes: 10
+  random_initialization: true
+
+data:
+  batch_size: 128
+  num_workers: 2
+  randaugment: true
+  randaugment_num_ops: 2
+  randaugment_magnitude: 9
+
+training:
+  epochs: 100
+  optimizer: sgd
+  learning_rate: 0.1
+  momentum: 0.9
+  weight_decay: 0.0005
+  scheduler: cosine
+  checkpoint_metric: validation_accuracy
+
+output:
+  checkpoint: task4/checkpoints/gcsc_best.pt
+  history: task4/results/gcsc_training_history.csv

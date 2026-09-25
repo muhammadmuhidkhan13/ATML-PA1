@@ -1,0 +1,9 @@
+method:
+  name: dan
+  uses_unlabeled_target: true
+  mmd_weight: 1.0
+
+  kernel_multipliers:
+    - 0.5
+    - 1.0
+    - 2.0

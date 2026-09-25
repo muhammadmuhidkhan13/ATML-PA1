@@ -1,0 +1,32 @@
+# Downloaded datasets and large local inputs
+/data/*
+!/data/test_subset_seed6304.csv
+/task 2/data/
+
+# Downloaded models and extracted inference caches
+/external/pytorch-AdaIN/models/
+**/checkpoints/
+**/cache/
+*.pt
+*.pth
+
+# Local environments, generated Python files, and notebook checkpoints
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Local archives and working copies
+*.zip
+*.bak
+task4_duplicate_backup/
+pa1_manifest.txt
+pa1_directory_tree.txt
+
+# Redundant cue-conflict backups; keep the reviewed images and workbook
+/results/cue_conflicts/review_thumbnails/
+/results/cue_conflicts/cue_conflict_review_tagged_backup.xlsx
+/ATML-PA1.pdf

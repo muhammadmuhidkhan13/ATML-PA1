@@ -1,0 +1,14 @@
+method:
+  name: cdan
+  uses_unlabeled_target: true
+  domain_loss_weight: 1.0
+  maximum_grl_strength: 1.0
+  entropy_conditioning: false
+  detach_features: false
+  detach_probabilities: false
+
+domain_discriminator:
+  input_dimension: 3584
+  hidden_dimension: 256
+  dropout_probability: 0.5
+  number_of_domains: 2

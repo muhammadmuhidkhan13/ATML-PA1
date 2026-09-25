@@ -1,0 +1,7 @@
+group,dataset_index,unknown_class_id,unknown_class,predicted_known_class_id,predicted_known_class,unknownness_score,threshold
+near,7658,58,pickup_truck,1,automobile,-12.150043487548828,-5.830353260040283
+near,4506,58,pickup_truck,1,automobile,-12.116643905639648,-5.830353260040283
+near,7133,13,bus,9,truck,-11.882173538208008,-5.830353260040283
+far,2915,94,wardrobe,9,truck,-11.862173080444336,-5.830353260040283
+far,7443,9,bottle,3,cat,-11.54902172088623,-5.830353260040283
+far,8369,39,keyboard,9,truck,-11.495954513549805,-5.830353260040283

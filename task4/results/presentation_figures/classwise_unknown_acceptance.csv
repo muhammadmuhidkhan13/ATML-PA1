@@ -1,0 +1,17 @@
+group,unknown_class_id,unknown_class,total_count,accepted_count,acceptance_rate_percent,absorbing_class_id,absorbing_class,absorbing_count,threshold
+near,13,bus,100,88,88.0,9,truck,74,-5.830353260040283
+near,15,camel,100,56,56.0,7,horse,16,-5.830353260040283
+near,34,fox,100,66,66.0,4,deer,25,-5.830353260040283
+near,42,leopard,100,63,63.0,6,frog,28,-5.830353260040283
+near,48,motorcycle,100,45,45.0,1,automobile,27,-5.830353260040283
+near,58,pickup_truck,100,90,90.0,1,automobile,57,-5.830353260040283
+near,89,tractor,100,58,58.0,9,truck,49,-5.830353260040283
+near,97,wolf,100,77,77.0,3,cat,38,-5.830353260040283
+far,9,bottle,100,32,32.0,3,cat,12,-5.830353260040283
+far,10,bowl,100,41,41.0,3,cat,10,-5.830353260040283
+far,20,chair,100,42,42.0,0,airplane,20,-5.830353260040283
+far,22,clock,100,36,36.0,1,automobile,10,-5.830353260040283
+far,39,keyboard,100,37,37.0,9,truck,11,-5.830353260040283
+far,51,mushroom,100,58,58.0,2,bird,22,-5.830353260040283
+far,82,sunflower,100,42,42.0,2,bird,27,-5.830353260040283
+far,94,wardrobe,100,56,56.0,9,truck,31,-5.830353260040283

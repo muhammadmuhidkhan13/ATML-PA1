@@ -1,0 +1,3001 @@
+model,condition,dataset_index,class_index,class_name,tsne_1,tsne_2
+ResNet-50,clean,3,0,airplane,6.779139,26.36428
+ResNet-50,clean,42,0,airplane,0.77729535,21.04598
+ResNet-50,clean,81,0,airplane,3.3602083,23.3452
+ResNet-50,clean,484,0,airplane,7.0171967,29.283415
+ResNet-50,clean,562,0,airplane,4.7419243,22.994234
+ResNet-50,clean,1175,0,airplane,4.894349,21.142704
+ResNet-50,clean,1389,0,airplane,2.7883804,22.330034
+ResNet-50,clean,1553,0,airplane,1.094312,21.862995
+ResNet-50,clean,1596,0,airplane,6.880057,29.132647
+ResNet-50,clean,1648,0,airplane,2.9339588,20.927547
+ResNet-50,clean,1977,0,airplane,5.5100126,20.828886
+ResNet-50,clean,2024,0,airplane,9.35222,26.396982
+ResNet-50,clean,2242,0,airplane,7.5978303,27.61459
+ResNet-50,clean,2750,0,airplane,7.782757,28.9991
+ResNet-50,clean,2888,0,airplane,0.79552037,22.353645
+ResNet-50,clean,3025,0,airplane,5.7467203,23.948172
+ResNet-50,clean,3083,0,airplane,7.209057,28.456831
+ResNet-50,clean,3347,0,airplane,6.533045,22.675968
+ResNet-50,clean,3437,0,airplane,8.039551,28.989477
+ResNet-50,clean,3455,0,airplane,5.7115507,21.688505
+ResNet-50,clean,3876,0,airplane,7.2763405,27.12909
+ResNet-50,clean,3965,0,airplane,3.8331432,20.285727
+ResNet-50,clean,4130,0,airplane,3.2483814,22.262346
+ResNet-50,clean,4399,0,airplane,5.8451934,23.138945
+ResNet-50,clean,4539,0,airplane,6.7002363,21.970955
+ResNet-50,clean,4615,0,airplane,5.4749775,20.001554
+ResNet-50,clean,4617,0,airplane,6.958659,22.679989
+ResNet-50,clean,4675,0,airplane,4.189688,20.854729
+ResNet-50,clean,4785,0,airplane,2.620394,21.060156
+ResNet-50,clean,4819,0,airplane,6.7643843,22.868061
+ResNet-50,clean,4893,0,airplane,4.4602427,19.972157
+ResNet-50,clean,5117,0,airplane,6.141577,21.28213
+ResNet-50,clean,5478,0,airplane,9.481944,26.466402
+ResNet-50,clean,5912,0,airplane,5.3654246,22.866684
+ResNet-50,clean,5918,0,airplane,4.9300113,21.999245
+ResNet-50,clean,5999,0,airplane,4.373067,22.180206
+ResNet-50,clean,6437,0,airplane,3.7635436,19.749573
+ResNet-50,clean,6455,0,airplane,9.313009,25.989168
+ResNet-50,clean,6609,0,airplane,7.150735,24.281773
+ResNet-50,clean,6844,0,airplane,5.2908754,20.792202
+ResNet-50,clean,6986,0,airplane,7.176008,29.444109
+ResNet-50,clean,7009,0,airplane,1.9374554,22.708076
+ResNet-50,clean,7150,0,airplane,4.5148454,20.554302
+ResNet-50,clean,7262,0,airplane,6.081461,22.065231
+ResNet-50,clean,7309,0,airplane,1.511916,22.050941
+ResNet-50,clean,7320,0,airplane,2.5164993,21.930431
+ResNet-50,clean,7372,0,airplane,3.5548098,19.923498
+ResNet-50,clean,7373,0,airplane,0.9096811,22.4232
+ResNet-50,clean,7465,0,airplane,1.7265666,21.660465
+ResNet-50,clean,7634,0,airplane,4.6532364,19.444635
+ResNet-50,clean,95,1,bird,14.098375,-0.8491638
+ResNet-50,clean,116,1,bird,15.204574,1.9350814
+ResNet-50,clean,198,1,bird,13.780408,-4.5194454
+ResNet-50,clean,261,1,bird,17.922258,2.0190268
+ResNet-50,clean,304,1,bird,14.1158,-4.0690713
+ResNet-50,clean,825,1,bird,17.360767,2.4472265
+ResNet-50,clean,1090,1,bird,17.463871,2.5851834
+ResNet-50,clean,1109,1,bird,15.342031,2.0335944
+ResNet-50,clean,1115,1,bird,14.273233,-2.6603222
+ResNet-50,clean,1230,1,bird,16.90843,0.94697124
+ResNet-50,clean,1436,1,bird,16.4906,-0.9453641
+ResNet-50,clean,1568,1,bird,17.089695,-4.7385044
+ResNet-50,clean,1852,1,bird,13.061191,-0.43289006
+ResNet-50,clean,1871,1,bird,26.89706,-6.3989363
+ResNet-50,clean,1986,1,bird,21.996773,-1.6391908
+ResNet-50,clean,1993,1,bird,13.450482,-1.5410104
+ResNet-50,clean,2070,1,bird,13.420283,-4.211198
+ResNet-50,clean,2095,1,bird,14.857746,-3.1910172
+ResNet-50,clean,2116,1,bird,26.058105,-11.892741
+ResNet-50,clean,2157,1,bird,14.734945,-2.8738973
+ResNet-50,clean,2178,1,bird,14.236165,1.2551014
+ResNet-50,clean,2687,1,bird,12.957093,-1.1682184
+ResNet-50,clean,2690,1,bird,14.006372,-1.8470175
+ResNet-50,clean,3079,1,bird,15.024416,-0.57959324
+ResNet-50,clean,3413,1,bird,13.939662,-1.0913385
+ResNet-50,clean,3491,1,bird,15.460582,-2.0641804
+ResNet-50,clean,3550,1,bird,15.553032,3.0325992
+ResNet-50,clean,3937,1,bird,15.466578,-0.43093735
+ResNet-50,clean,4298,1,bird,13.710187,-0.27138117
+ResNet-50,clean,4640,1,bird,16.406776,-2.653843
+ResNet-50,clean,5092,1,bird,15.871802,-0.9419919
+ResNet-50,clean,5123,1,bird,17.116753,1.874174
+ResNet-50,clean,5220,1,bird,14.8305645,-5.2653303
+ResNet-50,clean,5256,1,bird,15.53089,-0.6958703
+ResNet-50,clean,5488,1,bird,22.277657,-23.128654
+ResNet-50,clean,5560,1,bird,21.717255,-1.5395205
+ResNet-50,clean,6076,1,bird,14.3192,-0.40517905
+ResNet-50,clean,6169,1,bird,16.357931,3.0575652
+ResNet-50,clean,6349,1,bird,15.436042,-1.9791514
+ResNet-50,clean,6594,1,bird,16.670437,2.9889917
+ResNet-50,clean,6733,1,bird,21.760838,-1.5042759
+ResNet-50,clean,6805,1,bird,17.774149,2.3965616
+ResNet-50,clean,6836,1,bird,18.527466,-1.0547123
+ResNet-50,clean,6938,1,bird,13.607361,-0.5819715
+ResNet-50,clean,6954,1,bird,14.997767,-4.182838
+ResNet-50,clean,7029,1,bird,17.267231,-0.95773935
+ResNet-50,clean,7033,1,bird,15.522372,-2.2840004
+ResNet-50,clean,7202,1,bird,20.968517,-1.2658322
+ResNet-50,clean,7390,1,bird,17.243795,0.9788738
+ResNet-50,clean,7955,1,bird,14.362449,-1.2339718
+ResNet-50,clean,35,2,car,25.959639,29.9151
+ResNet-50,clean,49,2,car,26.178694,29.351212
+ResNet-50,clean,317,2,car,26.718328,25.609098
+ResNet-50,clean,409,2,car,29.008244,29.43012
+ResNet-50,clean,470,2,car,27.02823,21.63528
+ResNet-50,clean,483,2,car,25.230078,25.340975
+ResNet-50,clean,714,2,car,23.825628,25.606749
+ResNet-50,clean,981,2,car,29.581026,26.587305
+ResNet-50,clean,1202,2,car,26.554514,25.309116
+ResNet-50,clean,1403,2,car,27.92037,28.546766
+ResNet-50,clean,1520,2,car,29.066463,30.211416
+ResNet-50,clean,1586,2,car,28.886026,26.66967
+ResNet-50,clean,1814,2,car,25.652994,29.483093
+ResNet-50,clean,1839,2,car,29.097607,26.244455
+ResNet-50,clean,2082,2,car,25.209925,25.201859
+ResNet-50,clean,2392,2,car,25.708471,28.605215
+ResNet-50,clean,2502,2,car,26.515291,21.356546
+ResNet-50,clean,3024,2,car,25.467686,28.516512
+ResNet-50,clean,3067,2,car,26.722586,30.252266
+ResNet-50,clean,3163,2,car,27.169218,27.783163
+ResNet-50,clean,3362,2,car,26.535065,21.50894
+ResNet-50,clean,3454,2,car,28.073145,26.969946
+ResNet-50,clean,3755,2,car,27.882233,25.8737
+ResNet-50,clean,4065,2,car,28.895456,28.716856
+ResNet-50,clean,4735,2,car,25.165913,29.344637
+ResNet-50,clean,4913,2,car,25.760563,27.975128
+ResNet-50,clean,4921,2,car,28.030565,26.127213
+ResNet-50,clean,5030,2,car,26.806944,21.214613
+ResNet-50,clean,5183,2,car,27.050531,21.322853
+ResNet-50,clean,5218,2,car,26.88163,21.117756
+ResNet-50,clean,5237,2,car,25.685783,25.39254
+ResNet-50,clean,5318,2,car,24.549013,25.53275
+ResNet-50,clean,5333,2,car,27.655188,28.415075
+ResNet-50,clean,5395,2,car,28.243711,29.015867
+ResNet-50,clean,5512,2,car,17.885778,28.006235
+ResNet-50,clean,5677,2,car,26.999014,28.397305
+ResNet-50,clean,5756,2,car,27.79763,30.06019
+ResNet-50,clean,5824,2,car,28.418673,25.580772
+ResNet-50,clean,6028,2,car,29.441885,26.90729
+ResNet-50,clean,6244,2,car,28.366556,27.824377
+ResNet-50,clean,6264,2,car,26.413198,27.406397
+ResNet-50,clean,6271,2,car,27.447153,21.698404
+ResNet-50,clean,6332,2,car,25.109165,30.241463
+ResNet-50,clean,6354,2,car,28.922771,27.4371
+ResNet-50,clean,6426,2,car,27.484392,29.063799
+ResNet-50,clean,6503,2,car,25.122908,28.802477
+ResNet-50,clean,6616,2,car,26.851244,26.863916
+ResNet-50,clean,6692,2,car,26.571234,26.433537
+ResNet-50,clean,7084,2,car,27.704021,29.328314
+ResNet-50,clean,7425,2,car,27.002277,29.953833
+ResNet-50,clean,176,3,cat,26.202515,-12.301949
+ResNet-50,clean,365,3,cat,24.052511,-8.872671
+ResNet-50,clean,372,3,cat,23.834257,-13.058064
+ResNet-50,clean,391,3,cat,26.712967,-12.551517
+ResNet-50,clean,632,3,cat,25.247698,-12.516267
+ResNet-50,clean,672,3,cat,25.782164,-13.3635025
+ResNet-50,clean,677,3,cat,22.832552,-10.248997
+ResNet-50,clean,738,3,cat,25.898136,-5.5120263
+ResNet-50,clean,791,3,cat,22.899147,-10.715435
+ResNet-50,clean,979,3,cat,23.660486,-9.236159
+ResNet-50,clean,1204,3,cat,26.735174,-13.597785
+ResNet-50,clean,1263,3,cat,29.209457,-11.2923565
+ResNet-50,clean,1370,3,cat,24.001682,-8.915099
+ResNet-50,clean,1401,3,cat,24.162601,-12.361922
+ResNet-50,clean,1431,3,cat,23.206945,-6.047736
+ResNet-50,clean,1531,3,cat,30.995298,-9.69627
+ResNet-50,clean,1563,3,cat,26.340458,-15.666498
+ResNet-50,clean,2028,3,cat,25.747534,-13.954629
+ResNet-50,clean,2291,3,cat,26.453268,-14.660997
+ResNet-50,clean,2536,3,cat,27.939175,-12.336185
+ResNet-50,clean,2539,3,cat,25.448992,-8.422228
+ResNet-50,clean,2754,3,cat,26.995625,-10.926861
+ResNet-50,clean,2861,3,cat,23.896353,-12.101378
+ResNet-50,clean,3276,3,cat,30.531061,-11.638233
+ResNet-50,clean,3375,3,cat,30.67693,-10.057784
+ResNet-50,clean,3383,3,cat,27.922771,-10.934434
+ResNet-50,clean,3562,3,cat,31.097633,-11.094502
+ResNet-50,clean,3778,3,cat,21.722221,-7.2321267
+ResNet-50,clean,3851,3,cat,23.425026,-7.2354274
+ResNet-50,clean,3914,3,cat,27.283405,-11.108693
+ResNet-50,clean,4023,3,cat,30.27328,-10.813907
+ResNet-50,clean,4168,3,cat,23.010511,-10.095826
+ResNet-50,clean,4215,3,cat,12.984986,-5.489859
+ResNet-50,clean,4229,3,cat,24.905922,-12.818119
+ResNet-50,clean,4323,3,cat,24.229761,-8.384096
+ResNet-50,clean,4330,3,cat,28.78411,-8.801574
+ResNet-50,clean,4463,3,cat,23.388227,-11.958419
+ResNet-50,clean,4531,3,cat,29.460667,-11.210237
+ResNet-50,clean,4590,3,cat,24.249578,-12.019149
+ResNet-50,clean,4609,3,cat,27.2375,-14.187081
+ResNet-50,clean,4821,3,cat,25.295963,-9.330889
+ResNet-50,clean,4881,3,cat,28.242609,-12.887561
+ResNet-50,clean,4908,3,cat,25.083794,-11.780956
+ResNet-50,clean,5528,3,cat,24.498266,-7.3841066
+ResNet-50,clean,6490,3,cat,27.524729,-9.849469
+ResNet-50,clean,6952,3,cat,24.609518,-10.785037
+ResNet-50,clean,7416,3,cat,22.848915,-6.7499266
+ResNet-50,clean,7744,3,cat,23.354683,-5.9277697
+ResNet-50,clean,7793,3,cat,25.246874,-4.3162413
+ResNet-50,clean,7797,3,cat,27.721704,-10.943824
+ResNet-50,clean,171,4,deer,43.339687,-8.364626
+ResNet-50,clean,506,4,deer,39.45379,-10.8276005
+ResNet-50,clean,691,4,deer,39.85793,-9.593848
+ResNet-50,clean,766,4,deer,34.58623,-1.5588417
+ResNet-50,clean,855,4,deer,38.64194,-2.6443646
+ResNet-50,clean,1111,4,deer,44.48773,-5.4718328
+ResNet-50,clean,1124,4,deer,42.23782,-10.070638
+ResNet-50,clean,1211,4,deer,42.649555,-6.128451
+ResNet-50,clean,1266,4,deer,41.171303,-10.697698
+ResNet-50,clean,1429,4,deer,37.836014,-7.499811
+ResNet-50,clean,1960,4,deer,32.454296,-7.5981846
+ResNet-50,clean,2399,4,deer,42.13247,-6.8780518
+ResNet-50,clean,2704,4,deer,40.894802,-10.397972
+ResNet-50,clean,2757,4,deer,40.51684,-3.293268
+ResNet-50,clean,2898,4,deer,43.37858,-7.0430827
+ResNet-50,clean,3034,4,deer,42.568935,-8.531919
+ResNet-50,clean,3078,4,deer,40.20907,-9.865156
+ResNet-50,clean,3122,4,deer,40.349476,-9.498203
+ResNet-50,clean,3179,4,deer,45.154984,-5.2506156
+ResNet-50,clean,3287,4,deer,44.158585,-8.019131
+ResNet-50,clean,3365,4,deer,44.548332,-4.9470468
+ResNet-50,clean,3458,4,deer,41.29209,-7.894076
+ResNet-50,clean,3512,4,deer,43.40791,-8.723081
+ResNet-50,clean,3763,4,deer,43.652546,-7.643153
+ResNet-50,clean,3891,4,deer,40.890568,-9.674847
+ResNet-50,clean,3994,4,deer,41.871544,-9.008128
+ResNet-50,clean,4054,4,deer,45.891415,-6.6367326
+ResNet-50,clean,4629,4,deer,41.617664,-9.591494
+ResNet-50,clean,4642,4,deer,42.13874,-9.255253
+ResNet-50,clean,4740,4,deer,44.365314,-6.220855
+ResNet-50,clean,5062,4,deer,41.836113,-8.639981
+ResNet-50,clean,5077,4,deer,44.52313,-5.9603953
+ResNet-50,clean,5135,4,deer,38.35367,-8.260664
+ResNet-50,clean,5213,4,deer,44.12579,-6.933401
+ResNet-50,clean,5402,4,deer,45.445675,-7.032304
+ResNet-50,clean,5467,4,deer,43.672264,-6.367362
+ResNet-50,clean,5556,4,deer,43.048706,-6.2438293
+ResNet-50,clean,5623,4,deer,44.367527,-7.5209856
+ResNet-50,clean,5789,4,deer,45.83014,-8.122909
+ResNet-50,clean,6033,4,deer,44.883198,-9.033171
+ResNet-50,clean,6097,4,deer,45.26169,-6.7499995
+ResNet-50,clean,6288,4,deer,39.829662,-8.666257
+ResNet-50,clean,6508,4,deer,44.891296,-6.2386484
+ResNet-50,clean,6528,4,deer,39.174522,-8.760992
+ResNet-50,clean,7475,4,deer,43.715904,-5.71466
+ResNet-50,clean,7610,4,deer,40.63018,-8.588778
+ResNet-50,clean,7692,4,deer,40.402725,-7.4915166
+ResNet-50,clean,7864,4,deer,45.44265,-7.33194
+ResNet-50,clean,7940,4,deer,42.840862,-8.2019615
+ResNet-50,clean,7944,4,deer,40.395016,-3.6385012
+ResNet-50,clean,97,5,dog,21.853313,-5.0677285
+ResNet-50,clean,319,5,dog,26.70838,-3.1464367
+ResNet-50,clean,378,5,dog,21.512291,-6.2141953
+ResNet-50,clean,568,5,dog,21.439575,-5.91467
+ResNet-50,clean,645,5,dog,30.913832,-5.353026
+ResNet-50,clean,685,5,dog,26.052883,-1.7415218
+ResNet-50,clean,1095,5,dog,30.180561,-2.5773928
+ResNet-50,clean,1552,5,dog,26.750156,-1.1248273
+ResNet-50,clean,1626,5,dog,29.933046,-5.520719
+ResNet-50,clean,1644,5,dog,28.290806,-1.4819636
+ResNet-50,clean,1877,5,dog,27.081707,-0.2498289
+ResNet-50,clean,2265,5,dog,27.06705,-1.6745888
+ResNet-50,clean,2268,5,dog,21.683424,-6.0853167
+ResNet-50,clean,2334,5,dog,28.233896,0.50102705
+ResNet-50,clean,2391,5,dog,34.115402,-5.309432
+ResNet-50,clean,2427,5,dog,28.090775,-0.28223008
+ResNet-50,clean,2458,5,dog,32.320972,-4.666833
+ResNet-50,clean,2623,5,dog,30.773308,-6.249586
+ResNet-50,clean,2766,5,dog,22.115992,-5.467574
+ResNet-50,clean,2807,5,dog,27.371786,-7.1672597
+ResNet-50,clean,2950,5,dog,25.637445,-5.72481
+ResNet-50,clean,3353,5,dog,27.01697,-6.16293
+ResNet-50,clean,3852,5,dog,28.795683,-5.4941354
+ResNet-50,clean,3863,5,dog,30.749832,-1.903873
+ResNet-50,clean,3889,5,dog,23.977787,-4.1990986
+ResNet-50,clean,4106,5,dog,32.27376,-4.6462345
+ResNet-50,clean,4290,5,dog,34.2589,-5.375431
+ResNet-50,clean,4547,5,dog,26.37941,-3.3092487
+ResNet-50,clean,4570,5,dog,27.748173,0.012374599
+ResNet-50,clean,4850,5,dog,30.3796,-5.753154
+ResNet-50,clean,4953,5,dog,26.934689,-3.0887914
+ResNet-50,clean,4966,5,dog,25.964848,-4.713123
+ResNet-50,clean,5101,5,dog,27.805676,-3.5171726
+ResNet-50,clean,5332,5,dog,30.51974,-5.0771184
+ResNet-50,clean,5381,5,dog,25.736485,-0.98585165
+ResNet-50,clean,5496,5,dog,28.530998,-3.3531194
+ResNet-50,clean,5701,5,dog,29.09693,-4.91337
+ResNet-50,clean,5924,5,dog,28.089073,0.22110496
+ResNet-50,clean,6224,5,dog,27.820925,0.09405778
+ResNet-50,clean,6358,5,dog,31.420681,-7.0144787
+ResNet-50,clean,6414,5,dog,26.396582,-4.645279
+ResNet-50,clean,6716,5,dog,26.000145,-3.8280325
+ResNet-50,clean,6922,5,dog,31.097157,-4.9005103
+ResNet-50,clean,6989,5,dog,29.608665,-1.2984543
+ResNet-50,clean,7041,5,dog,24.651207,-4.2775674
+ResNet-50,clean,7130,5,dog,29.765457,-1.4080505
+ResNet-50,clean,7413,5,dog,21.681225,-5.460887
+ResNet-50,clean,7474,5,dog,25.611025,-1.8431227
+ResNet-50,clean,7706,5,dog,25.63302,-2.2039354
+ResNet-50,clean,7776,5,dog,29.45785,-1.5971451
+ResNet-50,clean,449,6,horse,41.415733,2.9956384
+ResNet-50,clean,545,6,horse,37.467796,6.222687
+ResNet-50,clean,873,6,horse,37.35832,-2.120846
+ResNet-50,clean,890,6,horse,41.411194,3.2808099
+ResNet-50,clean,920,6,horse,37.644077,-1.544655
+ResNet-50,clean,929,6,horse,39.671734,0.74059486
+ResNet-50,clean,964,6,horse,35.77799,2.198988
+ResNet-50,clean,977,6,horse,41.71218,4.594677
+ResNet-50,clean,1534,6,horse,35.646996,4.144636
+ResNet-50,clean,1667,6,horse,35.71906,4.266094
+ResNet-50,clean,2003,6,horse,41.33419,2.7598174
+ResNet-50,clean,2610,6,horse,36.307747,-0.73164
+ResNet-50,clean,2676,6,horse,35.921436,3.6191044
+ResNet-50,clean,2958,6,horse,42.00505,4.3676567
+ResNet-50,clean,3191,6,horse,37.57245,5.724623
+ResNet-50,clean,3292,6,horse,36.52887,3.8827708
+ResNet-50,clean,3418,6,horse,42.48219,4.979956
+ResNet-50,clean,3494,6,horse,41.816338,5.9284635
+ResNet-50,clean,3515,6,horse,39.1758,-2.0925777
+ResNet-50,clean,3777,6,horse,42.24835,3.7694223
+ResNet-50,clean,3779,6,horse,37.607964,-1.3048507
+ResNet-50,clean,3844,6,horse,40.63933,3.3142684
+ResNet-50,clean,3962,6,horse,39.694065,0.28486568
+ResNet-50,clean,4011,6,horse,39.500984,2.7417457
+ResNet-50,clean,4093,6,horse,35.65126,1.9446387
+ResNet-50,clean,4254,6,horse,40.483154,0.49471897
+ResNet-50,clean,4341,6,horse,42.31163,4.5031075
+ResNet-50,clean,4411,6,horse,36.409706,3.1860125
+ResNet-50,clean,4620,6,horse,37.73261,3.5922728
+ResNet-50,clean,4731,6,horse,41.213394,5.3837795
+ResNet-50,clean,4746,6,horse,39.412106,-1.1586515
+ResNet-50,clean,4754,6,horse,40.721092,2.4313807
+ResNet-50,clean,4827,6,horse,39.370403,3.5291893
+ResNet-50,clean,5082,6,horse,42.366116,5.4743443
+ResNet-50,clean,5382,6,horse,37.4374,4.3942738
+ResNet-50,clean,5408,6,horse,40.070923,-1.8992101
+ResNet-50,clean,5580,6,horse,40.17859,1.5549396
+ResNet-50,clean,5729,6,horse,40.797825,2.6960573
+ResNet-50,clean,5857,6,horse,36.213524,-1.5497729
+ResNet-50,clean,5858,6,horse,39.731033,-2.1572857
+ResNet-50,clean,6381,6,horse,36.83886,4.844489
+ResNet-50,clean,6713,6,horse,36.823452,4.8662314
+ResNet-50,clean,7108,6,horse,41.400837,1.5373558
+ResNet-50,clean,7338,6,horse,37.327423,0.3807988
+ResNet-50,clean,7555,6,horse,37.741604,5.9320683
+ResNet-50,clean,7600,6,horse,41.44201,4.7534375
+ResNet-50,clean,7726,6,horse,39.972004,1.9659083
+ResNet-50,clean,7779,6,horse,38.298363,4.507325
+ResNet-50,clean,7781,6,horse,38.88988,-0.7683328
+ResNet-50,clean,7996,6,horse,41.79087,5.105042
+ResNet-50,clean,29,7,monkey,23.630486,-23.19697
+ResNet-50,clean,269,7,monkey,25.99994,-21.168085
+ResNet-50,clean,323,7,monkey,25.830305,-21.813293
+ResNet-50,clean,370,7,monkey,26.008986,-23.578505
+ResNet-50,clean,1032,7,monkey,20.260372,-19.573002
+ResNet-50,clean,1048,7,monkey,26.733187,-23.368387
+ResNet-50,clean,1220,7,monkey,20.42561,-27.016052
+ResNet-50,clean,1287,7,monkey,20.492752,-27.765747
+ResNet-50,clean,1296,7,monkey,23.800133,-19.82237
+ResNet-50,clean,1440,7,monkey,25.700785,-22.250847
+ResNet-50,clean,1473,7,monkey,22.37785,-22.610687
+ResNet-50,clean,1579,7,monkey,21.76156,-24.141335
+ResNet-50,clean,1703,7,monkey,19.62792,-26.72436
+ResNet-50,clean,1711,7,monkey,21.74792,-24.15394
+ResNet-50,clean,1771,7,monkey,26.643305,-20.633606
+ResNet-50,clean,1884,7,monkey,19.992617,-20.105707
+ResNet-50,clean,1927,7,monkey,25.356628,-23.279469
+ResNet-50,clean,1956,7,monkey,27.576754,-7.8215723
+ResNet-50,clean,2501,7,monkey,25.432812,-23.058853
+ResNet-50,clean,2668,7,monkey,20.65794,-27.34134
+ResNet-50,clean,2746,7,monkey,22.817875,-23.215744
+ResNet-50,clean,2854,7,monkey,21.266659,-26.58107
+ResNet-50,clean,3153,7,monkey,20.955847,-27.113132
+ResNet-50,clean,3288,7,monkey,20.05173,-27.43679
+ResNet-50,clean,3404,7,monkey,25.247639,-23.906504
+ResNet-50,clean,3446,7,monkey,23.856892,-19.74955
+ResNet-50,clean,3467,7,monkey,24.892942,-20.792551
+ResNet-50,clean,3542,7,monkey,26.147202,-23.33462
+ResNet-50,clean,3867,7,monkey,24.921501,-22.335745
+ResNet-50,clean,4172,7,monkey,20.967056,-27.615593
+ResNet-50,clean,4236,7,monkey,19.881287,-20.88684
+ResNet-50,clean,4308,7,monkey,24.400698,-21.400412
+ResNet-50,clean,4403,7,monkey,24.707975,-23.640043
+ResNet-50,clean,4661,7,monkey,23.91003,-21.85316
+ResNet-50,clean,4704,7,monkey,22.736984,-22.355072
+ResNet-50,clean,4748,7,monkey,20.460468,-21.228897
+ResNet-50,clean,4791,7,monkey,25.377996,-23.543516
+ResNet-50,clean,5436,7,monkey,19.930876,-27.456516
+ResNet-50,clean,5450,7,monkey,20.950706,-21.169897
+ResNet-50,clean,5719,7,monkey,19.399178,-20.634277
+ResNet-50,clean,5848,7,monkey,19.434532,-27.269547
+ResNet-50,clean,5977,7,monkey,19.41678,-20.431768
+ResNet-50,clean,6084,7,monkey,19.188679,-20.788126
+ResNet-50,clean,6190,7,monkey,21.431818,-26.66457
+ResNet-50,clean,6650,7,monkey,22.13142,-20.433031
+ResNet-50,clean,6726,7,monkey,24.942657,-21.82484
+ResNet-50,clean,6772,7,monkey,23.711477,-19.055426
+ResNet-50,clean,7081,7,monkey,19.989977,-20.376892
+ResNet-50,clean,7270,7,monkey,22.061604,-21.745457
+ResNet-50,clean,7835,7,monkey,26.10198,-22.722895
+ResNet-50,clean,151,8,ship,1.7022455,38.249184
+ResNet-50,clean,194,8,ship,3.9295988,38.266106
+ResNet-50,clean,667,8,ship,5.541846,37.5653
+ResNet-50,clean,706,8,ship,5.0263844,34.883537
+ResNet-50,clean,716,8,ship,1.4856676,38.688847
+ResNet-50,clean,739,8,ship,3.309527,38.857883
+ResNet-50,clean,962,8,ship,4.4991813,37.631824
+ResNet-50,clean,1129,8,ship,3.0063317,34.07252
+ResNet-50,clean,1247,8,ship,2.7785501,39.921837
+ResNet-50,clean,1640,8,ship,4.25504,33.709064
+ResNet-50,clean,1783,8,ship,3.1349206,33.727036
+ResNet-50,clean,1833,8,ship,3.9675713,40.27748
+ResNet-50,clean,1954,8,ship,7.571057,30.545164
+ResNet-50,clean,2109,8,ship,4.6466393,35.153873
+ResNet-50,clean,2191,8,ship,1.8193568,34.27946
+ResNet-50,clean,2230,8,ship,6.037502,38.879936
+ResNet-50,clean,2340,8,ship,4.09277,39.030563
+ResNet-50,clean,2342,8,ship,2.1883962,35.13764
+ResNet-50,clean,2745,8,ship,3.4305267,36.982494
+ResNet-50,clean,2844,8,ship,3.3551972,33.40611
+ResNet-50,clean,3015,8,ship,4.9741774,38.588875
+ResNet-50,clean,3157,8,ship,5.3908467,38.14813
+ResNet-50,clean,3412,8,ship,6.1606216,37.379936
+ResNet-50,clean,3905,8,ship,3.9114172,35.511024
+ResNet-50,clean,3948,8,ship,5.9056454,36.06032
+ResNet-50,clean,4069,8,ship,11.908179,29.294237
+ResNet-50,clean,4170,8,ship,7.1202226,37.752834
+ResNet-50,clean,4177,8,ship,4.1118274,37.755314
+ResNet-50,clean,4242,8,ship,4.1877666,40.01689
+ResNet-50,clean,4311,8,ship,2.7517128,35.232487
+ResNet-50,clean,4355,8,ship,8.254903,38.170998
+ResNet-50,clean,4552,8,ship,6.3654222,39.180332
+ResNet-50,clean,4662,8,ship,2.8394895,35.79892
+ResNet-50,clean,4676,8,ship,4.6540866,38.35383
+ResNet-50,clean,4990,8,ship,6.433388,38.443718
+ResNet-50,clean,5000,8,ship,6.2548957,30.348288
+ResNet-50,clean,5451,8,ship,4.891041,37.20506
+ResNet-50,clean,5525,8,ship,3.760045,33.92573
+ResNet-50,clean,5694,8,ship,5.5403705,35.483284
+ResNet-50,clean,5705,8,ship,2.1869488,36.62527
+ResNet-50,clean,6434,8,ship,2.4894357,35.8216
+ResNet-50,clean,6689,8,ship,7.0072627,37.992413
+ResNet-50,clean,7138,8,ship,6.8986115,37.051353
+ResNet-50,clean,7446,8,ship,5.7641354,35.458195
+ResNet-50,clean,7460,8,ship,7.3664684,38.747864
+ResNet-50,clean,7476,8,ship,6.7592583,30.100845
+ResNet-50,clean,7810,8,ship,3.1003985,34.985287
+ResNet-50,clean,7818,8,ship,3.3489294,39.622776
+ResNet-50,clean,7875,8,ship,3.150824,34.371765
+ResNet-50,clean,7999,8,ship,5.76304,37.462917
+ResNet-50,clean,131,9,truck,18.892794,32.813873
+ResNet-50,clean,191,9,truck,20.517225,32.360294
+ResNet-50,clean,239,9,truck,18.50623,32.107307
+ResNet-50,clean,276,9,truck,18.022795,32.8894
+ResNet-50,clean,303,9,truck,16.447918,36.719414
+ResNet-50,clean,419,9,truck,19.811335,32.757885
+ResNet-50,clean,603,9,truck,19.8411,34.489784
+ResNet-50,clean,805,9,truck,16.432533,31.151735
+ResNet-50,clean,852,9,truck,16.44081,34.98882
+ResNet-50,clean,1022,9,truck,17.971384,32.520344
+ResNet-50,clean,1411,9,truck,18.704584,36.31119
+ResNet-50,clean,1430,9,truck,15.5702505,31.15688
+ResNet-50,clean,1468,9,truck,19.249475,30.107227
+ResNet-50,clean,1515,9,truck,17.85705,35.46825
+ResNet-50,clean,1654,9,truck,18.523594,31.117748
+ResNet-50,clean,1836,9,truck,16.465982,36.55825
+ResNet-50,clean,2011,9,truck,18.77548,34.69112
+ResNet-50,clean,2062,9,truck,18.854572,35.361073
+ResNet-50,clean,2114,9,truck,19.260532,30.070166
+ResNet-50,clean,2167,9,truck,14.253883,31.164177
+ResNet-50,clean,2351,9,truck,16.443144,36.839752
+ResNet-50,clean,2414,9,truck,15.860743,32.709335
+ResNet-50,clean,2655,9,truck,18.877748,31.790497
+ResNet-50,clean,3318,9,truck,17.893446,28.571362
+ResNet-50,clean,3893,9,truck,19.360312,30.43967
+ResNet-50,clean,3942,9,truck,15.00137,30.367956
+ResNet-50,clean,3996,9,truck,18.264936,27.012136
+ResNet-50,clean,4094,9,truck,17.026842,34.89028
+ResNet-50,clean,4449,9,truck,14.765496,31.445902
+ResNet-50,clean,4723,9,truck,16.862608,32.100594
+ResNet-50,clean,5284,9,truck,15.02241,30.345072
+ResNet-50,clean,5301,9,truck,18.875343,33.27294
+ResNet-50,clean,5360,9,truck,16.828583,30.721964
+ResNet-50,clean,5447,9,truck,17.373747,35.340355
+ResNet-50,clean,5452,9,truck,19.275606,34.896988
+ResNet-50,clean,5508,9,truck,18.834644,35.31628
+ResNet-50,clean,5572,9,truck,16.616423,31.70187
+ResNet-50,clean,5590,9,truck,19.642147,35.67022
+ResNet-50,clean,5788,9,truck,18.335066,30.074198
+ResNet-50,clean,5851,9,truck,16.684156,37.055355
+ResNet-50,clean,5915,9,truck,16.035784,30.194262
+ResNet-50,clean,5981,9,truck,19.07529,34.261475
+ResNet-50,clean,6931,9,truck,13.139142,29.658278
+ResNet-50,clean,7047,9,truck,17.125547,37.09493
+ResNet-50,clean,7266,9,truck,12.62679,29.469406
+ResNet-50,clean,7380,9,truck,17.482082,35.73653
+ResNet-50,clean,7544,9,truck,16.341103,29.796965
+ResNet-50,clean,7752,9,truck,16.907974,29.77751
+ResNet-50,clean,7938,9,truck,17.996521,30.719156
+ResNet-50,clean,7995,9,truck,20.232996,32.3696
+ResNet-50,patch_shuffle,3,0,airplane,-21.411076,11.842313
+ResNet-50,patch_shuffle,42,0,airplane,-18.003588,4.333099
+ResNet-50,patch_shuffle,81,0,airplane,-24.476627,3.2919872
+ResNet-50,patch_shuffle,484,0,airplane,-18.268734,13.18583
+ResNet-50,patch_shuffle,562,0,airplane,-17.447332,7.809833
+ResNet-50,patch_shuffle,1175,0,airplane,-13.339062,4.8562994
+ResNet-50,patch_shuffle,1389,0,airplane,-13.838087,4.410206
+ResNet-50,patch_shuffle,1553,0,airplane,-19.193478,13.916038
+ResNet-50,patch_shuffle,1596,0,airplane,-17.27139,13.173538
+ResNet-50,patch_shuffle,1648,0,airplane,-13.716943,2.6218455
+ResNet-50,patch_shuffle,1977,0,airplane,-12.807172,5.424873
+ResNet-50,patch_shuffle,2024,0,airplane,-16.376526,11.20235
+ResNet-50,patch_shuffle,2242,0,airplane,-15.0043125,-11.812573
+ResNet-50,patch_shuffle,2750,0,airplane,-21.800781,14.529789
+ResNet-50,patch_shuffle,2888,0,airplane,-28.02549,12.166324
+ResNet-50,patch_shuffle,3025,0,airplane,-19.144777,-0.4166883
+ResNet-50,patch_shuffle,3083,0,airplane,-17.429192,13.187366
+ResNet-50,patch_shuffle,3347,0,airplane,-15.929336,6.2041698
+ResNet-50,patch_shuffle,3437,0,airplane,-21.977537,1.624034
+ResNet-50,patch_shuffle,3455,0,airplane,-24.69372,4.426344
+ResNet-50,patch_shuffle,3876,0,airplane,-21.418602,11.163999
+ResNet-50,patch_shuffle,3965,0,airplane,-12.636063,5.101352
+ResNet-50,patch_shuffle,4130,0,airplane,-18.74727,7.6989503
+ResNet-50,patch_shuffle,4399,0,airplane,-29.734665,-1.4327427
+ResNet-50,patch_shuffle,4539,0,airplane,-14.550482,5.4596224
+ResNet-50,patch_shuffle,4615,0,airplane,-11.737703,4.8710203
+ResNet-50,patch_shuffle,4617,0,airplane,-14.473094,5.7700453
+ResNet-50,patch_shuffle,4675,0,airplane,-12.635636,2.444999
+ResNet-50,patch_shuffle,4785,0,airplane,-32.972893,6.819148
+ResNet-50,patch_shuffle,4819,0,airplane,-12.055044,3.7175777
+ResNet-50,patch_shuffle,4893,0,airplane,-15.236364,6.667353
+ResNet-50,patch_shuffle,5117,0,airplane,-11.587347,3.5221539
+ResNet-50,patch_shuffle,5478,0,airplane,-16.536896,12.443799
+ResNet-50,patch_shuffle,5912,0,airplane,-15.69379,6.6273427
+ResNet-50,patch_shuffle,5918,0,airplane,-16.575024,8.083416
+ResNet-50,patch_shuffle,5999,0,airplane,-16.035812,11.058917
+ResNet-50,patch_shuffle,6437,0,airplane,-16.567118,8.65988
+ResNet-50,patch_shuffle,6455,0,airplane,-16.268253,12.313739
+ResNet-50,patch_shuffle,6609,0,airplane,-22.14389,15.356689
+ResNet-50,patch_shuffle,6844,0,airplane,-13.814613,6.3093247
+ResNet-50,patch_shuffle,6986,0,airplane,-22.294893,12.175888
+ResNet-50,patch_shuffle,7009,0,airplane,-23.833382,11.171659
+ResNet-50,patch_shuffle,7150,0,airplane,-11.987942,4.62325
+ResNet-50,patch_shuffle,7262,0,airplane,-14.457217,6.3705053
+ResNet-50,patch_shuffle,7309,0,airplane,-17.891869,7.747516
+ResNet-50,patch_shuffle,7320,0,airplane,-20.040794,-8.019386
+ResNet-50,patch_shuffle,7372,0,airplane,-17.573349,4.0331616
+ResNet-50,patch_shuffle,7373,0,airplane,-26.83359,11.082465
+ResNet-50,patch_shuffle,7465,0,airplane,-13.051532,5.9502244
+ResNet-50,patch_shuffle,7634,0,airplane,-13.689058,5.672561
+ResNet-50,patch_shuffle,95,1,bird,-31.197405,-2.946599
+ResNet-50,patch_shuffle,116,1,bird,-29.849426,-1.8246727
+ResNet-50,patch_shuffle,198,1,bird,-2.5222044,-12.476156
+ResNet-50,patch_shuffle,261,1,bird,-12.549545,1.2953194
+ResNet-50,patch_shuffle,304,1,bird,-21.290339,-23.280529
+ResNet-50,patch_shuffle,825,1,bird,-13.539785,3.643765
+ResNet-50,patch_shuffle,1090,1,bird,-9.764694,-2.9699364
+ResNet-50,patch_shuffle,1109,1,bird,-25.487606,-13.116171
+ResNet-50,patch_shuffle,1115,1,bird,-27.844564,-19.039381
+ResNet-50,patch_shuffle,1230,1,bird,-30.7799,-3.118467
+ResNet-50,patch_shuffle,1436,1,bird,-9.776008,-2.7316787
+ResNet-50,patch_shuffle,1568,1,bird,-26.00646,-21.992126
+ResNet-50,patch_shuffle,1852,1,bird,-10.994752,-0.62578565
+ResNet-50,patch_shuffle,1871,1,bird,-29.059698,-7.081875
+ResNet-50,patch_shuffle,1986,1,bird,-7.8273897,-20.705826
+ResNet-50,patch_shuffle,1993,1,bird,-11.077275,2.0186152
+ResNet-50,patch_shuffle,2070,1,bird,-5.675312,-11.018658
+ResNet-50,patch_shuffle,2095,1,bird,-19.653728,-18.99819
+ResNet-50,patch_shuffle,2116,1,bird,-26.107952,-14.81711
+ResNet-50,patch_shuffle,2157,1,bird,-7.4220715,-9.292144
+ResNet-50,patch_shuffle,2178,1,bird,-12.037188,2.5730348
+ResNet-50,patch_shuffle,2687,1,bird,-5.8479977,-10.7670765
+ResNet-50,patch_shuffle,2690,1,bird,-21.640211,-15.473724
+ResNet-50,patch_shuffle,3079,1,bird,-7.8608356,-9.482887
+ResNet-50,patch_shuffle,3413,1,bird,-25.10571,-14.344131
+ResNet-50,patch_shuffle,3491,1,bird,-10.99469,-1.0714474
+ResNet-50,patch_shuffle,3550,1,bird,-19.098198,-0.6476547
+ResNet-50,patch_shuffle,3937,1,bird,-7.8027263,-9.272785
+ResNet-50,patch_shuffle,4298,1,bird,-6.3409295,-10.268639
+ResNet-50,patch_shuffle,4640,1,bird,-10.871377,-0.87893426
+ResNet-50,patch_shuffle,5092,1,bird,-8.608247,-11.208056
+ResNet-50,patch_shuffle,5123,1,bird,-4.611039,-15.311571
+ResNet-50,patch_shuffle,5220,1,bird,-21.770884,-22.529642
+ResNet-50,patch_shuffle,5256,1,bird,-6.5887694,-10.055704
+ResNet-50,patch_shuffle,5488,1,bird,-16.915508,-21.016068
+ResNet-50,patch_shuffle,5560,1,bird,-33.49335,-3.4938402
+ResNet-50,patch_shuffle,6076,1,bird,-11.39453,-9.108162
+ResNet-50,patch_shuffle,6169,1,bird,-21.159416,-14.985115
+ResNet-50,patch_shuffle,6349,1,bird,-5.247359,-15.333488
+ResNet-50,patch_shuffle,6594,1,bird,-12.852149,9.630513
+ResNet-50,patch_shuffle,6733,1,bird,-8.154062,-21.738327
+ResNet-50,patch_shuffle,6805,1,bird,-11.327965,4.5946407
+ResNet-50,patch_shuffle,6836,1,bird,-6.9712715,-15.429593
+ResNet-50,patch_shuffle,6938,1,bird,-8.081097,-10.846789
+ResNet-50,patch_shuffle,6954,1,bird,-23.347004,-17.526108
+ResNet-50,patch_shuffle,7029,1,bird,-8.155599,-10.123083
+ResNet-50,patch_shuffle,7033,1,bird,-21.553211,-18.388636
+ResNet-50,patch_shuffle,7202,1,bird,-20.667841,-7.8704515
+ResNet-50,patch_shuffle,7390,1,bird,-11.5642,4.844863
+ResNet-50,patch_shuffle,7955,1,bird,-5.8062797,-15.721129
+ResNet-50,patch_shuffle,35,2,car,-34.551697,8.073365
+ResNet-50,patch_shuffle,49,2,car,-33.667786,3.4043276
+ResNet-50,patch_shuffle,317,2,car,-30.799456,9.617306
+ResNet-50,patch_shuffle,409,2,car,-29.300701,10.660928
+ResNet-50,patch_shuffle,470,2,car,-29.172594,10.653488
+ResNet-50,patch_shuffle,483,2,car,-33.698105,0.68935746
+ResNet-50,patch_shuffle,714,2,car,-33.468277,1.5493402
+ResNet-50,patch_shuffle,981,2,car,-31.932367,9.015233
+ResNet-50,patch_shuffle,1202,2,car,-33.388393,4.3581257
+ResNet-50,patch_shuffle,1403,2,car,-33.629974,5.72083
+ResNet-50,patch_shuffle,1520,2,car,-26.414757,-2.343075
+ResNet-50,patch_shuffle,1586,2,car,-30.606674,1.4723959
+ResNet-50,patch_shuffle,1814,2,car,-34.7229,7.965259
+ResNet-50,patch_shuffle,1839,2,car,-25.792608,0.13368067
+ResNet-50,patch_shuffle,2082,2,car,-19.463673,-4.952029
+ResNet-50,patch_shuffle,2392,2,car,-34.38938,7.359616
+ResNet-50,patch_shuffle,2502,2,car,-31.27057,8.393099
+ResNet-50,patch_shuffle,3024,2,car,-22.649086,1.5221053
+ResNet-50,patch_shuffle,3067,2,car,-33.961693,8.448232
+ResNet-50,patch_shuffle,3163,2,car,-36.189243,7.4515576
+ResNet-50,patch_shuffle,3362,2,car,-22.224108,15.473299
+ResNet-50,patch_shuffle,3454,2,car,-28.372553,-4.492488
+ResNet-50,patch_shuffle,3755,2,car,-33.358387,10.320562
+ResNet-50,patch_shuffle,4065,2,car,-26.345068,1.7841957
+ResNet-50,patch_shuffle,4735,2,car,-26.526329,8.793566
+ResNet-50,patch_shuffle,4913,2,car,-37.323494,5.2775984
+ResNet-50,patch_shuffle,4921,2,car,-33.052067,9.726429
+ResNet-50,patch_shuffle,5030,2,car,-32.587406,7.9069595
+ResNet-50,patch_shuffle,5183,2,car,-30.08565,12.407707
+ResNet-50,patch_shuffle,5218,2,car,-31.600481,10.989274
+ResNet-50,patch_shuffle,5237,2,car,-37.42328,5.1631584
+ResNet-50,patch_shuffle,5318,2,car,-30.531044,2.8472898
+ResNet-50,patch_shuffle,5333,2,car,-32.81925,5.955323
+ResNet-50,patch_shuffle,5395,2,car,-32.6968,4.1805387
+ResNet-50,patch_shuffle,5512,2,car,-23.697153,-2.7350874
+ResNet-50,patch_shuffle,5677,2,car,-29.753437,4.8648477
+ResNet-50,patch_shuffle,5756,2,car,-26.181225,0.3105274
+ResNet-50,patch_shuffle,5824,2,car,-35.18419,6.0200963
+ResNet-50,patch_shuffle,6028,2,car,-26.458927,1.1654954
+ResNet-50,patch_shuffle,6244,2,car,-30.690784,4.9292927
+ResNet-50,patch_shuffle,6264,2,car,-21.764622,0.8799347
+ResNet-50,patch_shuffle,6271,2,car,-32.787663,4.682784
+ResNet-50,patch_shuffle,6332,2,car,-28.336384,11.540847
+ResNet-50,patch_shuffle,6354,2,car,-34.31012,2.1631417
+ResNet-50,patch_shuffle,6426,2,car,-26.241585,0.24294858
+ResNet-50,patch_shuffle,6503,2,car,-34.557503,6.692903
+ResNet-50,patch_shuffle,6616,2,car,-25.349947,-0.27032366
+ResNet-50,patch_shuffle,6692,2,car,-27.024664,8.095092
+ResNet-50,patch_shuffle,7084,2,car,-28.186821,10.034725
+ResNet-50,patch_shuffle,7425,2,car,-28.486197,10.276408
+ResNet-50,patch_shuffle,176,3,cat,-21.586845,-21.390587
+ResNet-50,patch_shuffle,365,3,cat,-8.44547,-19.113537
+ResNet-50,patch_shuffle,372,3,cat,-29.590727,-15.853037
+ResNet-50,patch_shuffle,391,3,cat,-16.950956,-25.729162
+ResNet-50,patch_shuffle,632,3,cat,-2.1511748,-11.807837
+ResNet-50,patch_shuffle,672,3,cat,-27.179266,-15.13097
+ResNet-50,patch_shuffle,677,3,cat,-32.0926,-5.4023395
+ResNet-50,patch_shuffle,738,3,cat,-22.526432,-9.486562
+ResNet-50,patch_shuffle,791,3,cat,-27.706083,-9.002398
+ResNet-50,patch_shuffle,979,3,cat,-6.9338965,-13.008681
+ResNet-50,patch_shuffle,1204,3,cat,-23.671827,-23.158644
+ResNet-50,patch_shuffle,1263,3,cat,-28.79157,-11.102227
+ResNet-50,patch_shuffle,1370,3,cat,-21.614809,4.665314
+ResNet-50,patch_shuffle,1401,3,cat,-21.190968,-22.428873
+ResNet-50,patch_shuffle,1431,3,cat,-27.577757,-3.7681088
+ResNet-50,patch_shuffle,1531,3,cat,-9.841025,-20.417875
+ResNet-50,patch_shuffle,1563,3,cat,-7.2758727,-12.928929
+ResNet-50,patch_shuffle,2028,3,cat,-16.983969,-1.5845022
+ResNet-50,patch_shuffle,2291,3,cat,-22.460062,-24.61179
+ResNet-50,patch_shuffle,2536,3,cat,-5.8790665,-19.11812
+ResNet-50,patch_shuffle,2539,3,cat,-18.625385,-4.97442
+ResNet-50,patch_shuffle,2754,3,cat,-26.913721,-20.785694
+ResNet-50,patch_shuffle,2861,3,cat,-19.546206,-20.79461
+ResNet-50,patch_shuffle,3276,3,cat,-22.544157,-19.175495
+ResNet-50,patch_shuffle,3375,3,cat,-9.763769,-20.666594
+ResNet-50,patch_shuffle,3383,3,cat,-22.674417,-16.964998
+ResNet-50,patch_shuffle,3562,3,cat,-12.430341,-23.468527
+ResNet-50,patch_shuffle,3778,3,cat,-29.62919,-7.230017
+ResNet-50,patch_shuffle,3851,3,cat,-21.585617,-2.7674797
+ResNet-50,patch_shuffle,3914,3,cat,-27.958519,-13.130511
+ResNet-50,patch_shuffle,4023,3,cat,-26.289764,-19.244667
+ResNet-50,patch_shuffle,4168,3,cat,-31.511927,-6.7451406
+ResNet-50,patch_shuffle,4215,3,cat,-8.810837,-8.304898
+ResNet-50,patch_shuffle,4229,3,cat,-5.764715,-13.415315
+ResNet-50,patch_shuffle,4323,3,cat,-28.113287,1.3966055
+ResNet-50,patch_shuffle,4330,3,cat,-8.734114,-17.459217
+ResNet-50,patch_shuffle,4463,3,cat,-23.22566,-21.869184
+ResNet-50,patch_shuffle,4531,3,cat,-23.23094,-24.129295
+ResNet-50,patch_shuffle,4590,3,cat,-33.655277,-3.407813
+ResNet-50,patch_shuffle,4609,3,cat,-25.803783,-17.12866
+ResNet-50,patch_shuffle,4821,3,cat,-25.595596,-23.986324
+ResNet-50,patch_shuffle,4881,3,cat,-5.2022247,-16.963455
+ResNet-50,patch_shuffle,4908,3,cat,-25.101181,-23.654749
+ResNet-50,patch_shuffle,5528,3,cat,-21.99825,-2.8575132
+ResNet-50,patch_shuffle,6490,3,cat,-29.105042,-19.03821
+ResNet-50,patch_shuffle,6952,3,cat,-23.50911,-13.380135
+ResNet-50,patch_shuffle,7416,3,cat,-33.41893,2.744148
+ResNet-50,patch_shuffle,7744,3,cat,-9.884425,-8.0482645
+ResNet-50,patch_shuffle,7793,3,cat,-25.522509,-18.395273
+ResNet-50,patch_shuffle,7797,3,cat,-22.862556,-24.780876
+ResNet-50,patch_shuffle,171,4,deer,-28.958967,-19.65476
+ResNet-50,patch_shuffle,506,4,deer,-27.93351,-17.996017
+ResNet-50,patch_shuffle,691,4,deer,-11.545674,-24.905579
+ResNet-50,patch_shuffle,766,4,deer,-29.983622,-11.043579
+ResNet-50,patch_shuffle,855,4,deer,-23.871635,-2.928078
+ResNet-50,patch_shuffle,1111,4,deer,-10.896832,-19.138721
+ResNet-50,patch_shuffle,1124,4,deer,-7.7275386,-19.943764
+ResNet-50,patch_shuffle,1211,4,deer,-12.969987,-24.403917
+ResNet-50,patch_shuffle,1266,4,deer,-12.040139,-24.077408
+ResNet-50,patch_shuffle,1429,4,deer,-16.6826,-15.819719
+ResNet-50,patch_shuffle,1960,4,deer,-11.32078,-25.924456
+ResNet-50,patch_shuffle,2399,4,deer,-24.75174,-18.574526
+ResNet-50,patch_shuffle,2704,4,deer,-25.20292,-9.369543
+ResNet-50,patch_shuffle,2757,4,deer,-11.381789,-21.271736
+ResNet-50,patch_shuffle,2898,4,deer,-13.944761,-16.733337
+ResNet-50,patch_shuffle,3034,4,deer,-10.113091,-24.963778
+ResNet-50,patch_shuffle,3078,4,deer,-14.370488,-25.009104
+ResNet-50,patch_shuffle,3122,4,deer,-11.672502,-22.153254
+ResNet-50,patch_shuffle,3179,4,deer,-22.92349,-17.089716
+ResNet-50,patch_shuffle,3287,4,deer,-10.041563,-18.85603
+ResNet-50,patch_shuffle,3365,4,deer,-28.287483,-7.0987453
+ResNet-50,patch_shuffle,3458,4,deer,-25.49506,-13.1564045
+ResNet-50,patch_shuffle,3512,4,deer,-9.24313,-25.119036
+ResNet-50,patch_shuffle,3763,4,deer,-26.953882,-18.79268
+ResNet-50,patch_shuffle,3891,4,deer,-11.1055765,-24.094875
+ResNet-50,patch_shuffle,3994,4,deer,-7.597996,-17.161493
+ResNet-50,patch_shuffle,4054,4,deer,-27.97357,-20.032003
+ResNet-50,patch_shuffle,4629,4,deer,-11.913298,-24.413212
+ResNet-50,patch_shuffle,4642,4,deer,-9.793055,-22.311737
+ResNet-50,patch_shuffle,4740,4,deer,-14.871386,-19.466599
+ResNet-50,patch_shuffle,5062,4,deer,-12.758758,-18.004488
+ResNet-50,patch_shuffle,5077,4,deer,-8.247559,-17.52882
+ResNet-50,patch_shuffle,5135,4,deer,-23.011076,-14.401526
+ResNet-50,patch_shuffle,5213,4,deer,-13.429533,-22.33522
+ResNet-50,patch_shuffle,5402,4,deer,-27.988935,-19.760489
+ResNet-50,patch_shuffle,5467,4,deer,-12.750661,-20.30242
+ResNet-50,patch_shuffle,5556,4,deer,-11.147519,-17.047096
+ResNet-50,patch_shuffle,5623,4,deer,-25.686401,-24.036068
+ResNet-50,patch_shuffle,5789,4,deer,-23.520973,-17.649282
+ResNet-50,patch_shuffle,6033,4,deer,-10.790729,-26.07325
+ResNet-50,patch_shuffle,6097,4,deer,-27.834045,-19.175821
+ResNet-50,patch_shuffle,6288,4,deer,-26.408773,-16.058659
+ResNet-50,patch_shuffle,6508,4,deer,-15.703708,-16.554735
+ResNet-50,patch_shuffle,6528,4,deer,-22.68622,-22.89069
+ResNet-50,patch_shuffle,7475,4,deer,-14.342253,-19.870085
+ResNet-50,patch_shuffle,7610,4,deer,-26.384983,-16.144896
+ResNet-50,patch_shuffle,7692,4,deer,-24.096659,-23.426983
+ResNet-50,patch_shuffle,7864,4,deer,-18.63185,-26.261927
+ResNet-50,patch_shuffle,7940,4,deer,-8.2308445,-12.822535
+ResNet-50,patch_shuffle,7944,4,deer,-9.649278,-20.727348
+ResNet-50,patch_shuffle,97,5,dog,-18.549623,-10.700231
+ResNet-50,patch_shuffle,319,5,dog,-23.974117,-16.456938
+ResNet-50,patch_shuffle,378,5,dog,-23.32358,-13.768367
+ResNet-50,patch_shuffle,568,5,dog,-24.396196,-3.9045312
+ResNet-50,patch_shuffle,645,5,dog,-8.925735,-23.266537
+ResNet-50,patch_shuffle,685,5,dog,-22.75038,-9.175971
+ResNet-50,patch_shuffle,1095,5,dog,-29.419146,-10.521626
+ResNet-50,patch_shuffle,1552,5,dog,-10.828985,-20.27692
+ResNet-50,patch_shuffle,1626,5,dog,-11.724499,-9.240928
+ResNet-50,patch_shuffle,1644,5,dog,-12.082613,-22.688229
+ResNet-50,patch_shuffle,1877,5,dog,-11.262662,-25.942251
+ResNet-50,patch_shuffle,2265,5,dog,-5.939111,-16.879492
+ResNet-50,patch_shuffle,2268,5,dog,-33.835526,-1.0375073
+ResNet-50,patch_shuffle,2334,5,dog,-10.119554,-15.3773155
+ResNet-50,patch_shuffle,2391,5,dog,-25.905258,-19.888252
+ResNet-50,patch_shuffle,2427,5,dog,-16.907677,-20.965067
+ResNet-50,patch_shuffle,2458,5,dog,-25.729883,-19.80727
+ResNet-50,patch_shuffle,2623,5,dog,-29.75581,-8.879165
+ResNet-50,patch_shuffle,2766,5,dog,-24.269085,-3.8704073
+ResNet-50,patch_shuffle,2807,5,dog,-18.853655,-21.7843
+ResNet-50,patch_shuffle,2950,5,dog,-30.189674,-8.571127
+ResNet-50,patch_shuffle,3353,5,dog,-28.29634,-5.9307885
+ResNet-50,patch_shuffle,3852,5,dog,-33.556637,-0.04700216
+ResNet-50,patch_shuffle,3863,5,dog,-10.841085,-17.030428
+ResNet-50,patch_shuffle,3889,5,dog,-25.872644,-1.8051764
+ResNet-50,patch_shuffle,4106,5,dog,-7.9000163,-14.2532215
+ResNet-50,patch_shuffle,4290,5,dog,-26.02447,-19.572346
+ResNet-50,patch_shuffle,4547,5,dog,-21.83771,-20.63565
+ResNet-50,patch_shuffle,4570,5,dog,-10.250605,-18.295727
+ResNet-50,patch_shuffle,4850,5,dog,-28.522703,-7.686923
+ResNet-50,patch_shuffle,4953,5,dog,-27.016876,-12.148802
+ResNet-50,patch_shuffle,4966,5,dog,-34.249004,-3.6738005
+ResNet-50,patch_shuffle,5101,5,dog,-30.271982,-3.429846
+ResNet-50,patch_shuffle,5332,5,dog,-24.45053,-2.8322415
+ResNet-50,patch_shuffle,5381,5,dog,-26.563765,-6.0909176
+ResNet-50,patch_shuffle,5496,5,dog,-27.461842,-15.020264
+ResNet-50,patch_shuffle,5701,5,dog,-23.170769,-11.999972
+ResNet-50,patch_shuffle,5924,5,dog,-12.000015,-14.871779
+ResNet-50,patch_shuffle,6224,5,dog,-14.023353,-17.079576
+ResNet-50,patch_shuffle,6358,5,dog,-21.842566,-10.461848
+ResNet-50,patch_shuffle,6414,5,dog,-21.846184,-20.523844
+ResNet-50,patch_shuffle,6716,5,dog,-21.01628,-7.2456856
+ResNet-50,patch_shuffle,6922,5,dog,-29.803596,-6.2045927
+ResNet-50,patch_shuffle,6989,5,dog,-11.50911,-18.392223
+ResNet-50,patch_shuffle,7041,5,dog,-21.6037,-13.251116
+ResNet-50,patch_shuffle,7130,5,dog,-11.936666,-26.424192
+ResNet-50,patch_shuffle,7413,5,dog,-12.182011,-16.512407
+ResNet-50,patch_shuffle,7474,5,dog,-27.46982,-22.447021
+ResNet-50,patch_shuffle,7706,5,dog,-18.184174,-8.49798
+ResNet-50,patch_shuffle,7776,5,dog,-26.351171,-14.873225
+ResNet-50,patch_shuffle,449,6,horse,-13.50524,-1.1196566
+ResNet-50,patch_shuffle,545,6,horse,-24.296158,0.6595475
+ResNet-50,patch_shuffle,873,6,horse,-22.795946,-1.4601142
+ResNet-50,patch_shuffle,890,6,horse,-29.241222,-10.917195
+ResNet-50,patch_shuffle,920,6,horse,-11.347258,-13.008275
+ResNet-50,patch_shuffle,929,6,horse,-18.576374,-10.165777
+ResNet-50,patch_shuffle,964,6,horse,-28.23794,1.4517359
+ResNet-50,patch_shuffle,977,6,horse,-28.16324,-5.916914
+ResNet-50,patch_shuffle,1534,6,horse,-23.4898,-7.2788725
+ResNet-50,patch_shuffle,1667,6,horse,-23.377954,-7.24455
+ResNet-50,patch_shuffle,2003,6,horse,-21.107098,-8.800657
+ResNet-50,patch_shuffle,2610,6,horse,-22.499283,-22.483793
+ResNet-50,patch_shuffle,2676,6,horse,-23.088436,-11.821607
+ResNet-50,patch_shuffle,2958,6,horse,-15.367318,-10.857836
+ResNet-50,patch_shuffle,3191,6,horse,-20.318642,-5.6421804
+ResNet-50,patch_shuffle,3292,6,horse,-34.272636,-0.33835712
+ResNet-50,patch_shuffle,3418,6,horse,-16.521944,-10.120748
+ResNet-50,patch_shuffle,3494,6,horse,-12.483593,-13.136889
+ResNet-50,patch_shuffle,3515,6,horse,-11.677081,-15.728726
+ResNet-50,patch_shuffle,3777,6,horse,-13.123303,-16.809734
+ResNet-50,patch_shuffle,3779,6,horse,-10.900256,-12.58673
+ResNet-50,patch_shuffle,3844,6,horse,-9.432836,-18.524845
+ResNet-50,patch_shuffle,3962,6,horse,-9.768379,-15.348657
+ResNet-50,patch_shuffle,4011,6,horse,-18.557001,-8.545448
+ResNet-50,patch_shuffle,4093,6,horse,-33.660286,1.8639048
+ResNet-50,patch_shuffle,4254,6,horse,-12.350077,-14.487642
+ResNet-50,patch_shuffle,4341,6,horse,-28.174398,-6.6249366
+ResNet-50,patch_shuffle,4411,6,horse,-21.15366,-15.004486
+ResNet-50,patch_shuffle,4620,6,horse,-34.519855,-0.7445876
+ResNet-50,patch_shuffle,4731,6,horse,-29.212337,-7.537588
+ResNet-50,patch_shuffle,4746,6,horse,-10.174894,-19.794796
+ResNet-50,patch_shuffle,4754,6,horse,-16.501297,-10.250732
+ResNet-50,patch_shuffle,4827,6,horse,-37.59481,4.8737855
+ResNet-50,patch_shuffle,5082,6,horse,-25.582266,-8.717549
+ResNet-50,patch_shuffle,5382,6,horse,-8.993652,-11.134401
+ResNet-50,patch_shuffle,5408,6,horse,-23.860727,-24.33712
+ResNet-50,patch_shuffle,5580,6,horse,-17.102615,-8.772711
+ResNet-50,patch_shuffle,5729,6,horse,-25.842455,-3.2352068
+ResNet-50,patch_shuffle,5857,6,horse,-17.828066,3.1218228
+ResNet-50,patch_shuffle,5858,6,horse,-15.972193,-16.594006
+ResNet-50,patch_shuffle,6381,6,horse,-22.620684,-2.6406178
+ResNet-50,patch_shuffle,6713,6,horse,-29.770819,1.2259545
+ResNet-50,patch_shuffle,7108,6,horse,-27.74788,-13.539132
+ResNet-50,patch_shuffle,7338,6,horse,-14.93582,0.37206608
+ResNet-50,patch_shuffle,7555,6,horse,-20.27984,-7.9463415
+ResNet-50,patch_shuffle,7600,6,horse,-15.4206505,-10.860415
+ResNet-50,patch_shuffle,7726,6,horse,-13.050406,-17.957712
+ResNet-50,patch_shuffle,7779,6,horse,-20.370758,-5.685213
+ResNet-50,patch_shuffle,7781,6,horse,-11.668694,-18.171206
+ResNet-50,patch_shuffle,7996,6,horse,-29.80795,-5.8846316
+ResNet-50,patch_shuffle,29,7,monkey,-13.870692,-25.037718
+ResNet-50,patch_shuffle,269,7,monkey,-22.774677,-20.852766
+ResNet-50,patch_shuffle,323,7,monkey,-22.965021,-20.590605
+ResNet-50,patch_shuffle,370,7,monkey,-24.93702,-9.651842
+ResNet-50,patch_shuffle,1032,7,monkey,-4.782917,-15.091808
+ResNet-50,patch_shuffle,1048,7,monkey,-18.13766,-26.337305
+ResNet-50,patch_shuffle,1220,7,monkey,-13.459092,-20.741377
+ResNet-50,patch_shuffle,1287,7,monkey,-27.779058,-21.084208
+ResNet-50,patch_shuffle,1296,7,monkey,-4.71562,-17.303894
+ResNet-50,patch_shuffle,1440,7,monkey,-10.847769,-23.175417
+ResNet-50,patch_shuffle,1473,7,monkey,-30.271091,-7.54493
+ResNet-50,patch_shuffle,1579,7,monkey,-24.038364,-14.945544
+ResNet-50,patch_shuffle,1703,7,monkey,-11.48238,-24.862478
+ResNet-50,patch_shuffle,1711,7,monkey,-10.509206,-10.846667
+ResNet-50,patch_shuffle,1771,7,monkey,-16.643583,-21.625809
+ResNet-50,patch_shuffle,1884,7,monkey,-9.001525,-24.904829
+ResNet-50,patch_shuffle,1927,7,monkey,-18.24962,-18.958511
+ResNet-50,patch_shuffle,1956,7,monkey,-27.65707,-9.727443
+ResNet-50,patch_shuffle,2501,7,monkey,-27.937132,-10.6626215
+ResNet-50,patch_shuffle,2668,7,monkey,-9.8983965,-24.62602
+ResNet-50,patch_shuffle,2746,7,monkey,-14.447546,-23.741034
+ResNet-50,patch_shuffle,2854,7,monkey,-10.144563,-23.338722
+ResNet-50,patch_shuffle,3153,7,monkey,-9.672942,-23.769903
+ResNet-50,patch_shuffle,3288,7,monkey,-6.093565,-17.634636
+ResNet-50,patch_shuffle,3404,7,monkey,-29.58782,-15.901193
+ResNet-50,patch_shuffle,3446,7,monkey,-5.485528,-17.369757
+ResNet-50,patch_shuffle,3467,7,monkey,-11.187208,-23.340296
+ResNet-50,patch_shuffle,3542,7,monkey,-24.961308,-24.054083
+ResNet-50,patch_shuffle,3867,7,monkey,-19.03403,-21.12929
+ResNet-50,patch_shuffle,4172,7,monkey,-8.360013,-17.98241
+ResNet-50,patch_shuffle,4236,7,monkey,-17.862194,-20.400644
+ResNet-50,patch_shuffle,4308,7,monkey,-23.331846,-16.065641
+ResNet-50,patch_shuffle,4403,7,monkey,-15.2339945,-23.922144
+ResNet-50,patch_shuffle,4661,7,monkey,-21.815378,-18.613768
+ResNet-50,patch_shuffle,4704,7,monkey,-15.825945,-23.971205
+ResNet-50,patch_shuffle,4748,7,monkey,-19.449299,-19.708363
+ResNet-50,patch_shuffle,4791,7,monkey,-23.68124,-23.65034
+ResNet-50,patch_shuffle,5436,7,monkey,-9.434689,-21.83896
+ResNet-50,patch_shuffle,5450,7,monkey,-20.783598,-12.787267
+ResNet-50,patch_shuffle,5719,7,monkey,-17.827028,-19.182371
+ResNet-50,patch_shuffle,5848,7,monkey,-6.1979265,-12.619725
+ResNet-50,patch_shuffle,5977,7,monkey,-6.1242633,-14.517066
+ResNet-50,patch_shuffle,6084,7,monkey,-6.5805163,-13.682857
+ResNet-50,patch_shuffle,6190,7,monkey,-16.849594,-25.712837
+ResNet-50,patch_shuffle,6650,7,monkey,-8.081245,-12.438439
+ResNet-50,patch_shuffle,6726,7,monkey,-18.833805,-26.269499
+ResNet-50,patch_shuffle,6772,7,monkey,-5.535891,-15.199576
+ResNet-50,patch_shuffle,7081,7,monkey,-20.122997,-17.797005
+ResNet-50,patch_shuffle,7270,7,monkey,-9.889477,-8.130012
+ResNet-50,patch_shuffle,7835,7,monkey,-4.948993,-16.017801
+ResNet-50,patch_shuffle,151,8,ship,-26.187523,17.724531
+ResNet-50,patch_shuffle,194,8,ship,-25.295317,5.934982
+ResNet-50,patch_shuffle,667,8,ship,-25.720737,15.835607
+ResNet-50,patch_shuffle,706,8,ship,-28.673008,3.1780484
+ResNet-50,patch_shuffle,716,8,ship,-25.658815,17.45944
+ResNet-50,patch_shuffle,739,8,ship,-26.874317,15.315499
+ResNet-50,patch_shuffle,962,8,ship,-27.2668,16.153458
+ResNet-50,patch_shuffle,1129,8,ship,-25.127707,16.827017
+ResNet-50,patch_shuffle,1247,8,ship,-22.254576,8.6916275
+ResNet-50,patch_shuffle,1640,8,ship,-28.164839,1.2043852
+ResNet-50,patch_shuffle,1783,8,ship,-27.40497,5.537089
+ResNet-50,patch_shuffle,1833,8,ship,-26.839863,17.304932
+ResNet-50,patch_shuffle,1954,8,ship,-20.136469,1.91049
+ResNet-50,patch_shuffle,2109,8,ship,-27.21434,7.678492
+ResNet-50,patch_shuffle,2191,8,ship,-18.200455,12.577497
+ResNet-50,patch_shuffle,2230,8,ship,-26.310291,14.431689
+ResNet-50,patch_shuffle,2340,8,ship,-25.280863,15.266327
+ResNet-50,patch_shuffle,2342,8,ship,-12.989138,9.6677475
+ResNet-50,patch_shuffle,2745,8,ship,-26.27331,14.839623
+ResNet-50,patch_shuffle,2844,8,ship,-19.741863,12.042942
+ResNet-50,patch_shuffle,3015,8,ship,-26.679089,13.47109
+ResNet-50,patch_shuffle,3157,8,ship,-27.301386,14.18408
+ResNet-50,patch_shuffle,3412,8,ship,-25.301765,11.053889
+ResNet-50,patch_shuffle,3905,8,ship,-24.898947,12.044524
+ResNet-50,patch_shuffle,3948,8,ship,-24.285223,11.388784
+ResNet-50,patch_shuffle,4069,8,ship,-14.867625,-12.265751
+ResNet-50,patch_shuffle,4170,8,ship,-24.249636,9.947554
+ResNet-50,patch_shuffle,4177,8,ship,-23.742332,12.240553
+ResNet-50,patch_shuffle,4242,8,ship,-26.923038,15.28959
+ResNet-50,patch_shuffle,4311,8,ship,-26.815807,16.161186
+ResNet-50,patch_shuffle,4355,8,ship,-18.828262,13.681948
+ResNet-50,patch_shuffle,4552,8,ship,-24.536198,7.580992
+ResNet-50,patch_shuffle,4662,8,ship,-19.556463,10.316292
+ResNet-50,patch_shuffle,4676,8,ship,-26.585377,13.0828705
+ResNet-50,patch_shuffle,4990,8,ship,-22.426037,12.445222
+ResNet-50,patch_shuffle,5000,8,ship,-19.659792,12.632907
+ResNet-50,patch_shuffle,5451,8,ship,-35.43468,3.6920211
+ResNet-50,patch_shuffle,5525,8,ship,-20.605503,9.326492
+ResNet-50,patch_shuffle,5694,8,ship,-26.154634,11.319588
+ResNet-50,patch_shuffle,5705,8,ship,-27.152542,17.325556
+ResNet-50,patch_shuffle,6434,8,ship,-14.627081,8.979261
+ResNet-50,patch_shuffle,6689,8,ship,-22.978882,12.999134
+ResNet-50,patch_shuffle,7138,8,ship,-20.751492,12.941504
+ResNet-50,patch_shuffle,7446,8,ship,-24.420874,9.721697
+ResNet-50,patch_shuffle,7460,8,ship,-25.979494,6.1947107
+ResNet-50,patch_shuffle,7476,8,ship,-18.872702,-5.0106673
+ResNet-50,patch_shuffle,7810,8,ship,-27.690153,17.486517
+ResNet-50,patch_shuffle,7818,8,ship,-23.510256,8.963484
+ResNet-50,patch_shuffle,7875,8,ship,-28.083652,4.926763
+ResNet-50,patch_shuffle,7999,8,ship,-21.527813,13.970326
+ResNet-50,patch_shuffle,131,9,truck,-25.252295,8.819257
+ResNet-50,patch_shuffle,191,9,truck,-25.66717,1.2620881
+ResNet-50,patch_shuffle,239,9,truck,-23.712887,7.8137527
+ResNet-50,patch_shuffle,276,9,truck,-16.67297,-8.836678
+ResNet-50,patch_shuffle,303,9,truck,-27.63296,2.4985404
+ResNet-50,patch_shuffle,419,9,truck,-25.781546,12.93731
+ResNet-50,patch_shuffle,603,9,truck,-30.000591,3.7618217
+ResNet-50,patch_shuffle,805,9,truck,-35.063053,5.1438937
+ResNet-50,patch_shuffle,852,9,truck,-28.230955,-3.6715226
+ResNet-50,patch_shuffle,1022,9,truck,-30.309437,5.9822145
+ResNet-50,patch_shuffle,1411,9,truck,-23.777931,13.079935
+ResNet-50,patch_shuffle,1430,9,truck,-35.214924,3.6556463
+ResNet-50,patch_shuffle,1468,9,truck,-33.975113,6.0241814
+ResNet-50,patch_shuffle,1515,9,truck,-30.476841,5.049426
+ResNet-50,patch_shuffle,1654,9,truck,-23.487879,4.213814
+ResNet-50,patch_shuffle,1836,9,truck,-25.15855,10.420761
+ResNet-50,patch_shuffle,2011,9,truck,-24.779371,4.1424274
+ResNet-50,patch_shuffle,2062,9,truck,-24.92935,5.0080404
+ResNet-50,patch_shuffle,2114,9,truck,-33.50702,6.9619517
+ResNet-50,patch_shuffle,2167,9,truck,-19.064276,10.400044
+ResNet-50,patch_shuffle,2351,9,truck,-29.70832,5.683355
+ResNet-50,patch_shuffle,2414,9,truck,-21.448187,5.327778
+ResNet-50,patch_shuffle,2655,9,truck,-30.050299,6.77007
+ResNet-50,patch_shuffle,3318,9,truck,-21.924557,4.664404
+ResNet-50,patch_shuffle,3893,9,truck,-34.11593,5.564413
+ResNet-50,patch_shuffle,3942,9,truck,-29.600534,5.232526
+ResNet-50,patch_shuffle,3996,9,truck,-24.543688,6.963238
+ResNet-50,patch_shuffle,4094,9,truck,-24.88987,12.588204
+ResNet-50,patch_shuffle,4449,9,truck,-27.32036,5.919808
+ResNet-50,patch_shuffle,4723,9,truck,-26.914165,-7.2819896
+ResNet-50,patch_shuffle,5284,9,truck,-28.222742,3.197507
+ResNet-50,patch_shuffle,5301,9,truck,-22.86558,8.04303
+ResNet-50,patch_shuffle,5360,9,truck,-29.514376,6.390565
+ResNet-50,patch_shuffle,5447,9,truck,-21.360018,1.836495
+ResNet-50,patch_shuffle,5452,9,truck,-24.435984,5.479141
+ResNet-50,patch_shuffle,5508,9,truck,-33.77761,8.135571
+ResNet-50,patch_shuffle,5572,9,truck,-27.883055,-6.7987027
+ResNet-50,patch_shuffle,5590,9,truck,-25.355825,13.043783
+ResNet-50,patch_shuffle,5788,9,truck,-26.072216,4.6963363
+ResNet-50,patch_shuffle,5851,9,truck,-24.614235,9.44423
+ResNet-50,patch_shuffle,5915,9,truck,-31.500433,2.060886
+ResNet-50,patch_shuffle,5981,9,truck,-31.686714,6.7686815
+ResNet-50,patch_shuffle,6931,9,truck,-13.437716,-1.0205133
+ResNet-50,patch_shuffle,7047,9,truck,-34.5573,3.314786
+ResNet-50,patch_shuffle,7266,9,truck,-14.907705,-12.147271
+ResNet-50,patch_shuffle,7380,9,truck,-32.285942,5.7636085
+ResNet-50,patch_shuffle,7544,9,truck,-36.67301,6.9944735
+ResNet-50,patch_shuffle,7752,9,truck,-34.591366,4.875216
+ResNet-50,patch_shuffle,7938,9,truck,-30.66816,3.6820016
+ResNet-50,patch_shuffle,7995,9,truck,-22.587719,6.086516
+ViT-B/16,clean,3,0,airplane,-13.946731,-31.773289
+ViT-B/16,clean,42,0,airplane,-10.817421,-30.048237
+ViT-B/16,clean,81,0,airplane,-12.145861,-27.534336
+ViT-B/16,clean,484,0,airplane,-21.043463,-25.205475
+ViT-B/16,clean,562,0,airplane,-14.218805,-30.275946
+ViT-B/16,clean,1175,0,airplane,-11.269643,-30.566202
+ViT-B/16,clean,1389,0,airplane,-11.793553,-30.272606
+ViT-B/16,clean,1553,0,airplane,-12.522607,-32.162228
+ViT-B/16,clean,1596,0,airplane,-20.413626,-25.932634
+ViT-B/16,clean,1648,0,airplane,-11.822954,-31.860636
+ViT-B/16,clean,1977,0,airplane,-9.819646,-27.492603
+ViT-B/16,clean,2024,0,airplane,-15.078008,-24.940866
+ViT-B/16,clean,2242,0,airplane,-19.294945,-25.582039
+ViT-B/16,clean,2750,0,airplane,-19.698862,-25.073301
+ViT-B/16,clean,2888,0,airplane,-11.427814,-32.284607
+ViT-B/16,clean,3025,0,airplane,-11.692658,-28.263426
+ViT-B/16,clean,3083,0,airplane,-19.87473,-25.850601
+ViT-B/16,clean,3347,0,airplane,-10.495526,-27.936512
+ViT-B/16,clean,3437,0,airplane,-19.3306,-25.594193
+ViT-B/16,clean,3455,0,airplane,-9.823463,-27.13026
+ViT-B/16,clean,3876,0,airplane,-14.549075,-30.877258
+ViT-B/16,clean,3965,0,airplane,-12.020687,-32.346535
+ViT-B/16,clean,4130,0,airplane,-11.031834,-28.82661
+ViT-B/16,clean,4399,0,airplane,-11.633766,-26.991179
+ViT-B/16,clean,4539,0,airplane,-10.1877775,-27.844187
+ViT-B/16,clean,4615,0,airplane,-11.099143,-29.54577
+ViT-B/16,clean,4617,0,airplane,-9.817019,-28.378195
+ViT-B/16,clean,4675,0,airplane,-11.934576,-32.603985
+ViT-B/16,clean,4785,0,airplane,-12.536793,-33.136787
+ViT-B/16,clean,4819,0,airplane,-10.774853,-27.364046
+ViT-B/16,clean,4893,0,airplane,-12.900366,-32.505707
+ViT-B/16,clean,5117,0,airplane,-9.9022255,-27.9391
+ViT-B/16,clean,5478,0,airplane,-15.077445,-24.747513
+ViT-B/16,clean,5912,0,airplane,-14.120571,-29.99806
+ViT-B/16,clean,5918,0,airplane,-12.319648,-29.117485
+ViT-B/16,clean,5999,0,airplane,-11.905028,-28.759974
+ViT-B/16,clean,6437,0,airplane,-12.882671,-32.7479
+ViT-B/16,clean,6455,0,airplane,-14.861803,-25.350979
+ViT-B/16,clean,6609,0,airplane,-9.197555,-28.171974
+ViT-B/16,clean,6844,0,airplane,-10.654904,-29.243563
+ViT-B/16,clean,6986,0,airplane,-20.943056,-25.115807
+ViT-B/16,clean,7009,0,airplane,-12.680124,-30.503431
+ViT-B/16,clean,7150,0,airplane,-11.702489,-31.376598
+ViT-B/16,clean,7262,0,airplane,-10.127863,-28.424854
+ViT-B/16,clean,7309,0,airplane,-12.63045,-31.688643
+ViT-B/16,clean,7320,0,airplane,-11.756497,-27.56624
+ViT-B/16,clean,7372,0,airplane,-12.219462,-32.905098
+ViT-B/16,clean,7373,0,airplane,-13.206349,-32.276882
+ViT-B/16,clean,7465,0,airplane,-12.677629,-31.657997
+ViT-B/16,clean,7634,0,airplane,-11.72297,-29.694098
+ViT-B/16,clean,95,1,bird,-22.624441,1.0415665
+ViT-B/16,clean,116,1,bird,-20.845423,1.7719948
+ViT-B/16,clean,198,1,bird,-23.204258,3.360886
+ViT-B/16,clean,261,1,bird,-19.361917,8.805193
+ViT-B/16,clean,304,1,bird,-22.01081,6.4111385
+ViT-B/16,clean,825,1,bird,-19.354671,8.109972
+ViT-B/16,clean,1090,1,bird,-19.577127,7.90351
+ViT-B/16,clean,1109,1,bird,-20.74745,8.097854
+ViT-B/16,clean,1115,1,bird,-22.985056,7.3466177
+ViT-B/16,clean,1230,1,bird,-21.984583,9.325109
+ViT-B/16,clean,1436,1,bird,-20.77962,-1.6257919
+ViT-B/16,clean,1568,1,bird,-23.563543,5.4647765
+ViT-B/16,clean,1852,1,bird,-21.810163,2.383587
+ViT-B/16,clean,1871,1,bird,-25.649689,6.851612
+ViT-B/16,clean,1986,1,bird,-25.650888,6.7822948
+ViT-B/16,clean,1993,1,bird,-22.12263,1.1271101
+ViT-B/16,clean,2070,1,bird,-23.570301,3.5202086
+ViT-B/16,clean,2095,1,bird,-22.852345,5.2755766
+ViT-B/16,clean,2116,1,bird,-15.899456,19.40619
+ViT-B/16,clean,2157,1,bird,-22.531326,4.0348897
+ViT-B/16,clean,2178,1,bird,-21.20365,1.7416521
+ViT-B/16,clean,2687,1,bird,-21.618544,1.6482241
+ViT-B/16,clean,2690,1,bird,-23.19041,3.3258016
+ViT-B/16,clean,3079,1,bird,-20.674618,-1.8093134
+ViT-B/16,clean,3413,1,bird,-22.204458,1.8732002
+ViT-B/16,clean,3491,1,bird,-21.960342,2.9443204
+ViT-B/16,clean,3550,1,bird,-21.196815,7.7800055
+ViT-B/16,clean,3937,1,bird,-23.463871,1.907741
+ViT-B/16,clean,4298,1,bird,-22.045298,1.5956017
+ViT-B/16,clean,4640,1,bird,-21.98735,4.3442984
+ViT-B/16,clean,5092,1,bird,-21.716003,-0.057467848
+ViT-B/16,clean,5123,1,bird,-20.551208,6.2379804
+ViT-B/16,clean,5220,1,bird,-23.305845,9.012208
+ViT-B/16,clean,5256,1,bird,-23.610865,1.6686691
+ViT-B/16,clean,5488,1,bird,-21.714638,9.793657
+ViT-B/16,clean,5560,1,bird,-22.510061,9.977596
+ViT-B/16,clean,6076,1,bird,-22.154522,0.84523445
+ViT-B/16,clean,6169,1,bird,-23.124819,9.717417
+ViT-B/16,clean,6349,1,bird,-22.04493,3.382592
+ViT-B/16,clean,6594,1,bird,-20.79093,8.007693
+ViT-B/16,clean,6733,1,bird,-25.658264,6.767905
+ViT-B/16,clean,6805,1,bird,-19.296597,8.583805
+ViT-B/16,clean,6836,1,bird,-20.46189,-2.1755066
+ViT-B/16,clean,6938,1,bird,-22.524132,1.437763
+ViT-B/16,clean,6954,1,bird,-23.131287,5.391404
+ViT-B/16,clean,7029,1,bird,-20.497007,-2.1084995
+ViT-B/16,clean,7033,1,bird,-22.44871,2.6772554
+ViT-B/16,clean,7202,1,bird,-20.444973,-2.2081425
+ViT-B/16,clean,7390,1,bird,-22.735674,9.959958
+ViT-B/16,clean,7955,1,bird,-21.75976,1.0675735
+ViT-B/16,clean,35,2,car,-46.12455,1.9886367
+ViT-B/16,clean,49,2,car,-46.844322,0.6757858
+ViT-B/16,clean,317,2,car,-46.839935,-0.88135713
+ViT-B/16,clean,409,2,car,-46.665363,-2.7141376
+ViT-B/16,clean,470,2,car,-47.808666,-3.3340034
+ViT-B/16,clean,483,2,car,-45.953487,-1.3140031
+ViT-B/16,clean,714,2,car,-24.051262,10.0055065
+ViT-B/16,clean,981,2,car,-45.168564,0.76433
+ViT-B/16,clean,1202,2,car,-47.29254,-1.9581418
+ViT-B/16,clean,1403,2,car,-42.649803,-1.5035329
+ViT-B/16,clean,1520,2,car,-44.10567,-2.3427532
+ViT-B/16,clean,1586,2,car,-44.44264,0.96536344
+ViT-B/16,clean,1814,2,car,-46.73115,1.4224776
+ViT-B/16,clean,1839,2,car,-45.16625,1.0676812
+ViT-B/16,clean,2082,2,car,-48.382698,1.6357012
+ViT-B/16,clean,2392,2,car,-43.62195,-1.8350039
+ViT-B/16,clean,2502,2,car,-47.02682,-3.3659215
+ViT-B/16,clean,3024,2,car,-47.963543,2.0226781
+ViT-B/16,clean,3067,2,car,-46.70942,0.7230145
+ViT-B/16,clean,3163,2,car,-46.530357,-0.16876727
+ViT-B/16,clean,3362,2,car,-47.384335,-3.6618402
+ViT-B/16,clean,3454,2,car,-43.87779,0.5026293
+ViT-B/16,clean,3755,2,car,-41.841164,-0.98179376
+ViT-B/16,clean,4065,2,car,-42.271713,-0.29255837
+ViT-B/16,clean,4735,2,car,-46.864597,2.5145938
+ViT-B/16,clean,4913,2,car,-47.431545,2.4128287
+ViT-B/16,clean,4921,2,car,-41.986816,-1.0702716
+ViT-B/16,clean,5030,2,car,-47.650738,-3.5057194
+ViT-B/16,clean,5183,2,car,-46.98267,-3.2483099
+ViT-B/16,clean,5218,2,car,-47.40626,-3.1743333
+ViT-B/16,clean,5237,2,car,-48.77069,1.7867557
+ViT-B/16,clean,5318,2,car,-41.613785,-2.2197456
+ViT-B/16,clean,5333,2,car,-46.068054,1.3323548
+ViT-B/16,clean,5395,2,car,-43.31757,-1.8685302
+ViT-B/16,clean,5512,2,car,-27.896395,17.850115
+ViT-B/16,clean,5677,2,car,-41.82892,-1.5376649
+ViT-B/16,clean,5756,2,car,-42.30814,0.22566982
+ViT-B/16,clean,5824,2,car,-41.32274,-1.2989546
+ViT-B/16,clean,6028,2,car,-45.055847,0.06788023
+ViT-B/16,clean,6244,2,car,-44.988342,-0.099263474
+ViT-B/16,clean,6264,2,car,-43.494595,-1.14005
+ViT-B/16,clean,6271,2,car,-47.714985,-2.9014432
+ViT-B/16,clean,6332,2,car,-46.492016,2.840942
+ViT-B/16,clean,6354,2,car,-46.328255,-1.0001485
+ViT-B/16,clean,6426,2,car,-45.453613,0.3751654
+ViT-B/16,clean,6503,2,car,-48.24146,1.2889152
+ViT-B/16,clean,6616,2,car,-46.188538,0.76450646
+ViT-B/16,clean,6692,2,car,-47.04286,2.0139556
+ViT-B/16,clean,7084,2,car,-42.54946,-0.27892512
+ViT-B/16,clean,7425,2,car,-44.66062,-1.3221145
+ViT-B/16,clean,176,3,cat,-17.058285,21.631472
+ViT-B/16,clean,365,3,cat,-18.07142,18.459492
+ViT-B/16,clean,372,3,cat,-18.196976,16.653212
+ViT-B/16,clean,391,3,cat,-13.825075,20.578146
+ViT-B/16,clean,632,3,cat,-16.157635,21.344149
+ViT-B/16,clean,672,3,cat,-13.651511,19.412254
+ViT-B/16,clean,677,3,cat,-17.900696,18.65243
+ViT-B/16,clean,738,3,cat,-19.106203,15.935597
+ViT-B/16,clean,791,3,cat,-17.619646,18.81374
+ViT-B/16,clean,979,3,cat,-17.591442,16.662397
+ViT-B/16,clean,1204,3,cat,-15.961622,21.648972
+ViT-B/16,clean,1263,3,cat,-12.995796,21.78418
+ViT-B/16,clean,1370,3,cat,-18.832144,18.498093
+ViT-B/16,clean,1401,3,cat,-15.831372,20.35536
+ViT-B/16,clean,1431,3,cat,-20.793148,16.079576
+ViT-B/16,clean,1531,3,cat,-10.70575,20.977255
+ViT-B/16,clean,1563,3,cat,-13.251538,17.920353
+ViT-B/16,clean,2028,3,cat,-11.0590515,20.092186
+ViT-B/16,clean,2291,3,cat,-13.321566,17.96162
+ViT-B/16,clean,2536,3,cat,-15.358896,21.225657
+ViT-B/16,clean,2539,3,cat,-17.316483,21.270971
+ViT-B/16,clean,2754,3,cat,-13.733111,21.018946
+ViT-B/16,clean,2861,3,cat,-17.295078,17.502752
+ViT-B/16,clean,3276,3,cat,-9.917952,20.297087
+ViT-B/16,clean,3375,3,cat,-10.337645,20.64059
+ViT-B/16,clean,3383,3,cat,-12.988067,20.877874
+ViT-B/16,clean,3562,3,cat,-10.328007,20.621712
+ViT-B/16,clean,3778,3,cat,-20.615276,10.472842
+ViT-B/16,clean,3851,3,cat,-20.484665,16.30236
+ViT-B/16,clean,3914,3,cat,-14.860175,20.55237
+ViT-B/16,clean,4023,3,cat,-10.235731,20.487633
+ViT-B/16,clean,4168,3,cat,-18.344732,18.047377
+ViT-B/16,clean,4215,3,cat,-16.890944,16.247923
+ViT-B/16,clean,4229,3,cat,-15.914569,19.72613
+ViT-B/16,clean,4323,3,cat,-19.007122,16.17867
+ViT-B/16,clean,4330,3,cat,-14.258841,21.033436
+ViT-B/16,clean,4463,3,cat,-15.970876,18.54072
+ViT-B/16,clean,4531,3,cat,-12.279721,20.927496
+ViT-B/16,clean,4590,3,cat,-17.624437,18.590918
+ViT-B/16,clean,4609,3,cat,-14.195201,18.46108
+ViT-B/16,clean,4821,3,cat,-17.913013,18.069056
+ViT-B/16,clean,4881,3,cat,-16.588047,21.23643
+ViT-B/16,clean,4908,3,cat,-17.186762,19.498217
+ViT-B/16,clean,5528,3,cat,-18.486805,16.75804
+ViT-B/16,clean,6490,3,cat,-17.096489,21.767206
+ViT-B/16,clean,6952,3,cat,-18.489334,17.09887
+ViT-B/16,clean,7416,3,cat,-20.169987,16.586252
+ViT-B/16,clean,7744,3,cat,-20.322657,15.6045885
+ViT-B/16,clean,7793,3,cat,-18.812252,13.660891
+ViT-B/16,clean,7797,3,cat,-13.62782,19.93874
+ViT-B/16,clean,171,4,deer,-4.1667013,33.064415
+ViT-B/16,clean,506,4,deer,-3.493377,33.324657
+ViT-B/16,clean,691,4,deer,-5.078925,31.980602
+ViT-B/16,clean,766,4,deer,-26.994299,23.439663
+ViT-B/16,clean,855,4,deer,-5.016802,33.200573
+ViT-B/16,clean,1111,4,deer,-8.900571,35.78349
+ViT-B/16,clean,1124,4,deer,-4.5097413,32.402336
+ViT-B/16,clean,1211,4,deer,-5.411826,36.023655
+ViT-B/16,clean,1266,4,deer,-3.8911235,33.725914
+ViT-B/16,clean,1429,4,deer,-7.2693534,38.433044
+ViT-B/16,clean,1960,4,deer,-27.029036,13.647641
+ViT-B/16,clean,2399,4,deer,-7.683332,37.786015
+ViT-B/16,clean,2704,4,deer,-4.228544,33.67281
+ViT-B/16,clean,2757,4,deer,-7.9631186,32.821392
+ViT-B/16,clean,2898,4,deer,-4.7298927,34.03692
+ViT-B/16,clean,3034,4,deer,-7.1717477,32.993835
+ViT-B/16,clean,3078,4,deer,-3.9306939,32.935787
+ViT-B/16,clean,3122,4,deer,-5.9679565,34.221054
+ViT-B/16,clean,3179,4,deer,-9.181006,33.82032
+ViT-B/16,clean,3287,4,deer,-4.833479,35.255203
+ViT-B/16,clean,3365,4,deer,-7.4617844,37.492508
+ViT-B/16,clean,3458,4,deer,-4.8250227,35.71756
+ViT-B/16,clean,3512,4,deer,-7.052911,33.571663
+ViT-B/16,clean,3763,4,deer,-6.3878307,37.43023
+ViT-B/16,clean,3891,4,deer,-4.4263263,32.4871
+ViT-B/16,clean,3994,4,deer,-6.758935,33.60122
+ViT-B/16,clean,4054,4,deer,-7.847372,36.815678
+ViT-B/16,clean,4629,4,deer,-5.9928417,33.17925
+ViT-B/16,clean,4642,4,deer,-5.471391,33.562508
+ViT-B/16,clean,4740,4,deer,-9.244002,34.873024
+ViT-B/16,clean,5062,4,deer,-5.594117,32.662178
+ViT-B/16,clean,5077,4,deer,-9.173465,35.33232
+ViT-B/16,clean,5135,4,deer,-12.298787,22.76599
+ViT-B/16,clean,5213,4,deer,-7.802198,35.669357
+ViT-B/16,clean,5402,4,deer,-6.695321,36.100513
+ViT-B/16,clean,5467,4,deer,-6.3789897,36.71221
+ViT-B/16,clean,5556,4,deer,-7.9702663,35.704987
+ViT-B/16,clean,5623,4,deer,-6.7515116,37.701817
+ViT-B/16,clean,5789,4,deer,-7.0704975,37.948814
+ViT-B/16,clean,6033,4,deer,-5.320838,35.46665
+ViT-B/16,clean,6097,4,deer,-7.1487103,36.174244
+ViT-B/16,clean,6288,4,deer,-6.004783,34.583427
+ViT-B/16,clean,6508,4,deer,-8.323794,34.990265
+ViT-B/16,clean,6528,4,deer,-6.3070683,32.058678
+ViT-B/16,clean,7475,4,deer,-6.916736,36.737698
+ViT-B/16,clean,7610,4,deer,-6.091587,34.68546
+ViT-B/16,clean,7692,4,deer,-4.159947,35.5488
+ViT-B/16,clean,7864,4,deer,-5.746154,37.399334
+ViT-B/16,clean,7940,4,deer,-6.01631,35.15069
+ViT-B/16,clean,7944,4,deer,-3.5106308,31.992836
+ViT-B/16,clean,97,5,dog,-29.673134,8.116225
+ViT-B/16,clean,319,5,dog,-21.35654,12.363996
+ViT-B/16,clean,378,5,dog,-29.651966,8.172688
+ViT-B/16,clean,568,5,dog,-29.62906,8.230713
+ViT-B/16,clean,645,5,dog,-25.858688,14.116586
+ViT-B/16,clean,685,5,dog,-27.31156,12.296317
+ViT-B/16,clean,1095,5,dog,-27.025995,11.953997
+ViT-B/16,clean,1552,5,dog,-29.757704,14.03131
+ViT-B/16,clean,1626,5,dog,-26.920782,13.964384
+ViT-B/16,clean,1644,5,dog,-22.252666,12.793042
+ViT-B/16,clean,1877,5,dog,-30.251837,13.957006
+ViT-B/16,clean,2265,5,dog,-29.176859,14.181798
+ViT-B/16,clean,2268,5,dog,-29.671623,8.121984
+ViT-B/16,clean,2334,5,dog,-31.310604,13.707039
+ViT-B/16,clean,2391,5,dog,-24.930079,16.146572
+ViT-B/16,clean,2427,5,dog,-31.544943,13.625526
+ViT-B/16,clean,2458,5,dog,-24.735102,14.693128
+ViT-B/16,clean,2623,5,dog,-26.749815,12.986244
+ViT-B/16,clean,2766,5,dog,-29.36315,8.52433
+ViT-B/16,clean,2807,5,dog,-25.439138,13.597412
+ViT-B/16,clean,2950,5,dog,-22.809149,10.745187
+ViT-B/16,clean,3353,5,dog,-25.129456,13.080471
+ViT-B/16,clean,3852,5,dog,-22.017107,11.34227
+ViT-B/16,clean,3863,5,dog,-26.79248,11.651067
+ViT-B/16,clean,3889,5,dog,-27.898039,9.804316
+ViT-B/16,clean,4106,5,dog,-24.513845,14.167168
+ViT-B/16,clean,4290,5,dog,-24.851229,16.448183
+ViT-B/16,clean,4547,5,dog,-21.455503,11.951227
+ViT-B/16,clean,4570,5,dog,-31.425978,13.679637
+ViT-B/16,clean,4850,5,dog,-28.723423,13.936872
+ViT-B/16,clean,4953,5,dog,-21.975634,12.482781
+ViT-B/16,clean,4966,5,dog,-24.800179,11.160183
+ViT-B/16,clean,5101,5,dog,-23.725075,11.490549
+ViT-B/16,clean,5332,5,dog,-26.616648,15.062284
+ViT-B/16,clean,5381,5,dog,-27.415697,14.03746
+ViT-B/16,clean,5496,5,dog,-22.006676,13.42441
+ViT-B/16,clean,5701,5,dog,-22.519035,10.729071
+ViT-B/16,clean,5924,5,dog,-31.245468,13.728734
+ViT-B/16,clean,6224,5,dog,-31.408546,13.668462
+ViT-B/16,clean,6358,5,dog,-26.704605,14.273879
+ViT-B/16,clean,6414,5,dog,-21.62194,11.628245
+ViT-B/16,clean,6716,5,dog,-23.607347,11.0694
+ViT-B/16,clean,6922,5,dog,-24.485102,14.635969
+ViT-B/16,clean,6989,5,dog,-22.37465,12.997543
+ViT-B/16,clean,7041,5,dog,-24.24306,12.027888
+ViT-B/16,clean,7130,5,dog,-25.431072,9.36822
+ViT-B/16,clean,7413,5,dog,-29.572403,8.367712
+ViT-B/16,clean,7474,5,dog,-23.449575,11.365599
+ViT-B/16,clean,7706,5,dog,-23.118229,12.479261
+ViT-B/16,clean,7776,5,dog,-25.427608,9.329571
+ViT-B/16,clean,449,6,horse,-29.073307,26.922962
+ViT-B/16,clean,545,6,horse,-33.407993,20.484898
+ViT-B/16,clean,873,6,horse,-28.591404,24.433994
+ViT-B/16,clean,890,6,horse,-27.196854,26.497438
+ViT-B/16,clean,920,6,horse,-26.749714,24.962936
+ViT-B/16,clean,929,6,horse,-27.7638,22.69511
+ViT-B/16,clean,964,6,horse,-30.073153,20.9582
+ViT-B/16,clean,977,6,horse,-28.982065,26.979588
+ViT-B/16,clean,1534,6,horse,-31.797386,20.754549
+ViT-B/16,clean,1667,6,horse,-32.821354,20.4491
+ViT-B/16,clean,2003,6,horse,-28.51673,23.128517
+ViT-B/16,clean,2610,6,horse,-31.29404,21.009396
+ViT-B/16,clean,2676,6,horse,-27.89916,17.851112
+ViT-B/16,clean,2958,6,horse,-29.520332,28.039974
+ViT-B/16,clean,3191,6,horse,-33.080395,20.67169
+ViT-B/16,clean,3292,6,horse,-29.936663,21.147375
+ViT-B/16,clean,3418,6,horse,-29.396229,28.279736
+ViT-B/16,clean,3494,6,horse,-29.881487,26.686386
+ViT-B/16,clean,3515,6,horse,-7.6288333,35.009132
+ViT-B/16,clean,3777,6,horse,-28.72727,27.613491
+ViT-B/16,clean,3779,6,horse,-27.588116,23.760313
+ViT-B/16,clean,3844,6,horse,-30.342653,26.438925
+ViT-B/16,clean,3962,6,horse,-28.395477,28.133469
+ViT-B/16,clean,4011,6,horse,-29.814892,22.474712
+ViT-B/16,clean,4093,6,horse,-30.27681,20.87939
+ViT-B/16,clean,4254,6,horse,-8.362873,31.9982
+ViT-B/16,clean,4341,6,horse,-28.683163,26.10447
+ViT-B/16,clean,4411,6,horse,-29.57941,22.121504
+ViT-B/16,clean,4620,6,horse,-29.907038,22.610281
+ViT-B/16,clean,4731,6,horse,-29.563822,27.640917
+ViT-B/16,clean,4746,6,horse,-28.8128,28.435974
+ViT-B/16,clean,4754,6,horse,-28.55187,26.22957
+ViT-B/16,clean,4827,6,horse,-29.543915,23.041843
+ViT-B/16,clean,5082,6,horse,-29.650063,28.076813
+ViT-B/16,clean,5382,6,horse,-33.344616,21.091393
+ViT-B/16,clean,5408,6,horse,-27.20908,23.748404
+ViT-B/16,clean,5580,6,horse,-27.386997,21.907284
+ViT-B/16,clean,5729,6,horse,-27.741522,26.571634
+ViT-B/16,clean,5857,6,horse,-8.493656,39.02149
+ViT-B/16,clean,5858,6,horse,-28.122128,27.43321
+ViT-B/16,clean,6381,6,horse,-33.227768,20.86178
+ViT-B/16,clean,6713,6,horse,-33.290535,20.672756
+ViT-B/16,clean,7108,6,horse,-26.333231,25.709698
+ViT-B/16,clean,7338,6,horse,-26.03789,24.771923
+ViT-B/16,clean,7555,6,horse,-33.460808,20.311619
+ViT-B/16,clean,7600,6,horse,-29.155115,23.462688
+ViT-B/16,clean,7726,6,horse,-26.254332,24.482962
+ViT-B/16,clean,7779,6,horse,-30.363588,22.507715
+ViT-B/16,clean,7781,6,horse,-27.416798,24.94036
+ViT-B/16,clean,7996,6,horse,-29.794174,27.553772
+ViT-B/16,clean,29,7,monkey,-12.132366,10.253241
+ViT-B/16,clean,269,7,monkey,-11.264199,10.887011
+ViT-B/16,clean,323,7,monkey,-12.094301,9.92454
+ViT-B/16,clean,370,7,monkey,-10.929157,10.301756
+ViT-B/16,clean,1032,7,monkey,-15.6112385,4.052608
+ViT-B/16,clean,1048,7,monkey,-10.495075,10.927287
+ViT-B/16,clean,1220,7,monkey,-10.100792,5.5826225
+ViT-B/16,clean,1287,7,monkey,-10.026959,4.7248864
+ViT-B/16,clean,1296,7,monkey,-11.212615,5.947
+ViT-B/16,clean,1440,7,monkey,-11.491763,11.155947
+ViT-B/16,clean,1473,7,monkey,-14.619184,8.207154
+ViT-B/16,clean,1579,7,monkey,-15.786424,9.977216
+ViT-B/16,clean,1703,7,monkey,-10.430319,5.923369
+ViT-B/16,clean,1711,7,monkey,-16.023825,9.973913
+ViT-B/16,clean,1771,7,monkey,-15.109736,10.890858
+ViT-B/16,clean,1884,7,monkey,-15.358496,4.529046
+ViT-B/16,clean,1927,7,monkey,-11.33414,10.338301
+ViT-B/16,clean,1956,7,monkey,-14.7941885,9.736519
+ViT-B/16,clean,2501,7,monkey,-10.558019,10.052525
+ViT-B/16,clean,2668,7,monkey,-10.769972,5.000165
+ViT-B/16,clean,2746,7,monkey,-12.614465,9.367582
+ViT-B/16,clean,2854,7,monkey,-10.986925,5.4695206
+ViT-B/16,clean,3153,7,monkey,-10.471453,5.43293
+ViT-B/16,clean,3288,7,monkey,-10.275619,4.6396985
+ViT-B/16,clean,3404,7,monkey,-10.911539,11.132759
+ViT-B/16,clean,3446,7,monkey,-13.05168,8.034973
+ViT-B/16,clean,3467,7,monkey,-12.0849285,11.046525
+ViT-B/16,clean,3542,7,monkey,-10.95862,9.909396
+ViT-B/16,clean,3867,7,monkey,-15.370162,8.4319935
+ViT-B/16,clean,4172,7,monkey,-9.871954,5.2501035
+ViT-B/16,clean,4236,7,monkey,-15.031227,4.082113
+ViT-B/16,clean,4308,7,monkey,-12.7171135,10.352127
+ViT-B/16,clean,4403,7,monkey,-12.014133,8.942714
+ViT-B/16,clean,4661,7,monkey,-14.708937,9.105419
+ViT-B/16,clean,4704,7,monkey,-13.6903105,7.4204683
+ViT-B/16,clean,4748,7,monkey,-13.348217,6.920977
+ViT-B/16,clean,4791,7,monkey,-11.409981,9.954366
+ViT-B/16,clean,5436,7,monkey,-9.934892,5.090107
+ViT-B/16,clean,5450,7,monkey,-13.24473,6.9230466
+ViT-B/16,clean,5719,7,monkey,-15.473353,3.8602262
+ViT-B/16,clean,5848,7,monkey,-10.619916,4.7248607
+ViT-B/16,clean,5977,7,monkey,-15.576806,4.014148
+ViT-B/16,clean,6084,7,monkey,-15.146873,3.8840947
+ViT-B/16,clean,6190,7,monkey,-10.900925,5.013594
+ViT-B/16,clean,6650,7,monkey,-15.123587,4.8362246
+ViT-B/16,clean,6726,7,monkey,-11.425901,9.409226
+ViT-B/16,clean,6772,7,monkey,-14.844331,8.850653
+ViT-B/16,clean,7081,7,monkey,-15.378175,3.8446648
+ViT-B/16,clean,7270,7,monkey,-16.341188,8.6152
+ViT-B/16,clean,7835,7,monkey,-10.547718,10.544716
+ViT-B/16,clean,151,8,ship,-28.266476,-27.294518
+ViT-B/16,clean,194,8,ship,-27.821564,-25.55239
+ViT-B/16,clean,667,8,ship,-26.362843,-24.542421
+ViT-B/16,clean,706,8,ship,-23.892502,-22.783485
+ViT-B/16,clean,716,8,ship,-28.711788,-27.782425
+ViT-B/16,clean,739,8,ship,-28.472677,-26.657993
+ViT-B/16,clean,962,8,ship,-26.392601,-26.300285
+ViT-B/16,clean,1129,8,ship,-27.874495,-24.804815
+ViT-B/16,clean,1247,8,ship,-29.32624,-27.939936
+ViT-B/16,clean,1640,8,ship,-25.574995,-26.000383
+ViT-B/16,clean,1783,8,ship,-25.285965,-23.759083
+ViT-B/16,clean,1833,8,ship,-29.398876,-27.502123
+ViT-B/16,clean,1954,8,ship,-25.081749,-26.922905
+ViT-B/16,clean,2109,8,ship,-23.758558,-23.04361
+ViT-B/16,clean,2191,8,ship,-25.320446,-25.17453
+ViT-B/16,clean,2230,8,ship,-27.939144,-23.390606
+ViT-B/16,clean,2340,8,ship,-26.96219,-25.664934
+ViT-B/16,clean,2342,8,ship,-26.09619,-25.976244
+ViT-B/16,clean,2745,8,ship,-28.408184,-25.52989
+ViT-B/16,clean,2844,8,ship,-23.125885,-22.90721
+ViT-B/16,clean,3015,8,ship,-27.024595,-25.186762
+ViT-B/16,clean,3157,8,ship,-27.53541,-25.150223
+ViT-B/16,clean,3412,8,ship,-25.930079,-25.542252
+ViT-B/16,clean,3905,8,ship,-23.033232,-22.192505
+ViT-B/16,clean,3948,8,ship,-22.56943,-22.784395
+ViT-B/16,clean,4069,8,ship,-27.447744,-20.152628
+ViT-B/16,clean,4170,8,ship,-27.680273,-23.803226
+ViT-B/16,clean,4177,8,ship,-26.745125,-26.651165
+ViT-B/16,clean,4242,8,ship,-28.92499,-27.35041
+ViT-B/16,clean,4311,8,ship,-27.583914,-26.056303
+ViT-B/16,clean,4355,8,ship,-15.66603,-25.131237
+ViT-B/16,clean,4552,8,ship,-27.896982,-24.349806
+ViT-B/16,clean,4662,8,ship,-27.108114,-25.908247
+ViT-B/16,clean,4676,8,ship,-27.146793,-24.553936
+ViT-B/16,clean,4990,8,ship,-28.839005,-26.243599
+ViT-B/16,clean,5000,8,ship,-23.103357,-25.678043
+ViT-B/16,clean,5451,8,ship,-26.066011,-24.226786
+ViT-B/16,clean,5525,8,ship,-23.772778,-22.988308
+ViT-B/16,clean,5694,8,ship,-23.01845,-21.953331
+ViT-B/16,clean,5705,8,ship,-29.637827,-26.409357
+ViT-B/16,clean,6434,8,ship,-25.242247,-25.25511
+ViT-B/16,clean,6689,8,ship,-27.446072,-21.016045
+ViT-B/16,clean,7138,8,ship,-22.031956,-25.471907
+ViT-B/16,clean,7446,8,ship,-23.279022,-22.435507
+ViT-B/16,clean,7460,8,ship,-27.4837,-21.088305
+ViT-B/16,clean,7476,8,ship,-20.937775,-25.062134
+ViT-B/16,clean,7810,8,ship,-26.26692,-23.476437
+ViT-B/16,clean,7818,8,ship,-29.247297,-27.724
+ViT-B/16,clean,7875,8,ship,-27.03657,-23.169817
+ViT-B/16,clean,7999,8,ship,-25.998678,-24.6055
+ViT-B/16,clean,131,9,truck,-33.4484,-4.1153917
+ViT-B/16,clean,191,9,truck,-36.01989,-7.746971
+ViT-B/16,clean,239,9,truck,-34.180683,-7.790975
+ViT-B/16,clean,276,9,truck,-36.72088,-8.211839
+ViT-B/16,clean,303,9,truck,-37.647724,-10.747179
+ViT-B/16,clean,419,9,truck,-35.04173,-8.780494
+ViT-B/16,clean,603,9,truck,-35.770584,-10.465688
+ViT-B/16,clean,805,9,truck,-33.876877,-6.6606655
+ViT-B/16,clean,852,9,truck,-36.735046,-11.314695
+ViT-B/16,clean,1022,9,truck,-36.13515,-5.908702
+ViT-B/16,clean,1411,9,truck,-36.704052,-11.76241
+ViT-B/16,clean,1430,9,truck,-34.186848,-7.610378
+ViT-B/16,clean,1468,9,truck,-29.825533,-8.830863
+ViT-B/16,clean,1515,9,truck,-36.976246,-10.838577
+ViT-B/16,clean,1654,9,truck,-33.30487,-3.1184106
+ViT-B/16,clean,1836,9,truck,-37.181038,-9.284048
+ViT-B/16,clean,2011,9,truck,-38.11055,-10.608406
+ViT-B/16,clean,2062,9,truck,-36.944096,-10.740654
+ViT-B/16,clean,2114,9,truck,-29.878162,-8.786694
+ViT-B/16,clean,2167,9,truck,-36.53546,-9.130805
+ViT-B/16,clean,2351,9,truck,-37.372204,-10.347794
+ViT-B/16,clean,2414,9,truck,-34.724106,-6.7172866
+ViT-B/16,clean,2655,9,truck,-35.002598,-8.684616
+ViT-B/16,clean,3318,9,truck,-33.03749,-3.0089476
+ViT-B/16,clean,3893,9,truck,-29.96056,-8.729232
+ViT-B/16,clean,3942,9,truck,-33.75303,-3.4160652
+ViT-B/16,clean,3996,9,truck,-34.605885,-9.384104
+ViT-B/16,clean,4094,9,truck,-36.31219,-10.6163845
+ViT-B/16,clean,4449,9,truck,-36.07107,-6.5400863
+ViT-B/16,clean,4723,9,truck,-33.94389,-6.0748453
+ViT-B/16,clean,5284,9,truck,-34.284073,-3.8440013
+ViT-B/16,clean,5301,9,truck,-33.070023,-6.1341033
+ViT-B/16,clean,5360,9,truck,-30.226728,-8.808198
+ViT-B/16,clean,5447,9,truck,-36.62527,-9.875875
+ViT-B/16,clean,5452,9,truck,-37.777596,-11.696745
+ViT-B/16,clean,5508,9,truck,-37.424076,-10.119828
+ViT-B/16,clean,5572,9,truck,-33.916054,-5.407409
+ViT-B/16,clean,5590,9,truck,-35.907803,-11.253099
+ViT-B/16,clean,5788,9,truck,-31.039968,-8.704473
+ViT-B/16,clean,5851,9,truck,-37.44354,-11.507981
+ViT-B/16,clean,5915,9,truck,-36.138756,-6.0233736
+ViT-B/16,clean,5981,9,truck,-38.468266,-11.325159
+ViT-B/16,clean,6931,9,truck,-33.745472,-5.1376595
+ViT-B/16,clean,7047,9,truck,-37.67489,-11.088133
+ViT-B/16,clean,7266,9,truck,-34.2649,-5.316687
+ViT-B/16,clean,7380,9,truck,-37.12753,-11.501172
+ViT-B/16,clean,7544,9,truck,-30.206696,-8.223511
+ViT-B/16,clean,7752,9,truck,-30.14852,-8.688273
+ViT-B/16,clean,7938,9,truck,-33.612713,-3.2839463
+ViT-B/16,clean,7995,9,truck,-36.949406,-7.1524153
+ViT-B/16,patch_shuffle,3,0,airplane,33.530407,-9.852951
+ViT-B/16,patch_shuffle,42,0,airplane,8.932757,-3.16764
+ViT-B/16,patch_shuffle,81,0,airplane,8.471897,-2.5803533
+ViT-B/16,patch_shuffle,484,0,airplane,25.273746,-17.421167
+ViT-B/16,patch_shuffle,562,0,airplane,8.503367,-11.100032
+ViT-B/16,patch_shuffle,1175,0,airplane,18.080696,-22.188541
+ViT-B/16,patch_shuffle,1389,0,airplane,17.918861,-21.485525
+ViT-B/16,patch_shuffle,1553,0,airplane,22.849724,-18.106766
+ViT-B/16,patch_shuffle,1596,0,airplane,23.361145,-16.560722
+ViT-B/16,patch_shuffle,1648,0,airplane,18.148714,-21.478401
+ViT-B/16,patch_shuffle,1977,0,airplane,20.600306,-23.987757
+ViT-B/16,patch_shuffle,2024,0,airplane,24.675055,-18.807873
+ViT-B/16,patch_shuffle,2242,0,airplane,40.24254,0.4864474
+ViT-B/16,patch_shuffle,2750,0,airplane,18.195417,-16.125961
+ViT-B/16,patch_shuffle,2888,0,airplane,28.365416,-10.427902
+ViT-B/16,patch_shuffle,3025,0,airplane,7.3236995,-2.4692583
+ViT-B/16,patch_shuffle,3083,0,airplane,23.443195,-17.09098
+ViT-B/16,patch_shuffle,3347,0,airplane,20.87264,-4.621035
+ViT-B/16,patch_shuffle,3437,0,airplane,6.89281,-4.4899616
+ViT-B/16,patch_shuffle,3455,0,airplane,18.805197,-19.334156
+ViT-B/16,patch_shuffle,3876,0,airplane,24.888908,-18.292309
+ViT-B/16,patch_shuffle,3965,0,airplane,17.47584,-22.214466
+ViT-B/16,patch_shuffle,4130,0,airplane,19.978182,-5.1548514
+ViT-B/16,patch_shuffle,4399,0,airplane,20.927698,-4.290165
+ViT-B/16,patch_shuffle,4539,0,airplane,17.538195,-23.277348
+ViT-B/16,patch_shuffle,4615,0,airplane,19.16452,-22.828123
+ViT-B/16,patch_shuffle,4617,0,airplane,16.91783,-20.762115
+ViT-B/16,patch_shuffle,4675,0,airplane,21.450047,-23.66975
+ViT-B/16,patch_shuffle,4785,0,airplane,32.453697,-9.563959
+ViT-B/16,patch_shuffle,4819,0,airplane,20.341625,-22.874811
+ViT-B/16,patch_shuffle,4893,0,airplane,18.059269,-24.129425
+ViT-B/16,patch_shuffle,5117,0,airplane,20.062262,-23.526577
+ViT-B/16,patch_shuffle,5478,0,airplane,24.548525,-18.953018
+ViT-B/16,patch_shuffle,5912,0,airplane,21.99482,-19.777966
+ViT-B/16,patch_shuffle,5918,0,airplane,22.78487,-19.17275
+ViT-B/16,patch_shuffle,5999,0,airplane,26.120579,-20.098595
+ViT-B/16,patch_shuffle,6437,0,airplane,7.323072,-12.107912
+ViT-B/16,patch_shuffle,6455,0,airplane,26.16485,-20.096283
+ViT-B/16,patch_shuffle,6609,0,airplane,9.976411,-14.516933
+ViT-B/16,patch_shuffle,6844,0,airplane,19.87385,-24.160576
+ViT-B/16,patch_shuffle,6986,0,airplane,25.499346,-17.334887
+ViT-B/16,patch_shuffle,7009,0,airplane,17.462217,-16.24182
+ViT-B/16,patch_shuffle,7150,0,airplane,20.941143,-23.317797
+ViT-B/16,patch_shuffle,7262,0,airplane,17.811756,-23.616194
+ViT-B/16,patch_shuffle,7309,0,airplane,16.707802,-17.40471
+ViT-B/16,patch_shuffle,7320,0,airplane,33.31927,-12.816678
+ViT-B/16,patch_shuffle,7372,0,airplane,9.730787,-3.031051
+ViT-B/16,patch_shuffle,7373,0,airplane,10.8792515,-7.4315047
+ViT-B/16,patch_shuffle,7465,0,airplane,20.289965,-24.054586
+ViT-B/16,patch_shuffle,7634,0,airplane,17.153833,-21.908691
+ViT-B/16,patch_shuffle,95,1,bird,21.04801,-1.0428693
+ViT-B/16,patch_shuffle,116,1,bird,11.77463,1.0420862
+ViT-B/16,patch_shuffle,198,1,bird,29.675047,11.111628
+ViT-B/16,patch_shuffle,261,1,bird,19.943575,-21.03307
+ViT-B/16,patch_shuffle,304,1,bird,29.88374,7.9122524
+ViT-B/16,patch_shuffle,825,1,bird,19.169739,-20.799904
+ViT-B/16,patch_shuffle,1090,1,bird,24.392727,-11.136021
+ViT-B/16,patch_shuffle,1109,1,bird,31.514353,-6.14471
+ViT-B/16,patch_shuffle,1115,1,bird,31.017056,-1.5325007
+ViT-B/16,patch_shuffle,1230,1,bird,21.355045,-1.3686751
+ViT-B/16,patch_shuffle,1436,1,bird,16.352434,1.102373
+ViT-B/16,patch_shuffle,1568,1,bird,36.197483,-5.2956066
+ViT-B/16,patch_shuffle,1852,1,bird,19.729689,-21.59515
+ViT-B/16,patch_shuffle,1871,1,bird,32.937885,-8.729942
+ViT-B/16,patch_shuffle,1986,1,bird,37.3663,9.981778
+ViT-B/16,patch_shuffle,1993,1,bird,22.940693,-10.622114
+ViT-B/16,patch_shuffle,2070,1,bird,32.461792,10.1284895
+ViT-B/16,patch_shuffle,2095,1,bird,29.581036,11.364835
+ViT-B/16,patch_shuffle,2116,1,bird,31.761839,2.568614
+ViT-B/16,patch_shuffle,2157,1,bird,30.386644,10.556389
+ViT-B/16,patch_shuffle,2178,1,bird,19.612806,-0.99051285
+ViT-B/16,patch_shuffle,2687,1,bird,31.526377,7.2283635
+ViT-B/16,patch_shuffle,2690,1,bird,32.61181,11.315822
+ViT-B/16,patch_shuffle,3079,1,bird,18.621199,0.86718494
+ViT-B/16,patch_shuffle,3413,1,bird,24.28471,3.7626317
+ViT-B/16,patch_shuffle,3491,1,bird,19.693136,-21.003212
+ViT-B/16,patch_shuffle,3550,1,bird,16.110577,-22.281315
+ViT-B/16,patch_shuffle,3937,1,bird,20.394587,1.2894241
+ViT-B/16,patch_shuffle,4298,1,bird,33.537495,9.892914
+ViT-B/16,patch_shuffle,4640,1,bird,20.306797,-21.181324
+ViT-B/16,patch_shuffle,5092,1,bird,16.908516,-0.53435415
+ViT-B/16,patch_shuffle,5123,1,bird,30.668741,12.493065
+ViT-B/16,patch_shuffle,5220,1,bird,18.854927,6.946105
+ViT-B/16,patch_shuffle,5256,1,bird,19.779192,1.736466
+ViT-B/16,patch_shuffle,5488,1,bird,17.578026,4.6747184
+ViT-B/16,patch_shuffle,5560,1,bird,17.85537,-0.810244
+ViT-B/16,patch_shuffle,6076,1,bird,31.540024,6.839886
+ViT-B/16,patch_shuffle,6169,1,bird,23.16886,-0.1647976
+ViT-B/16,patch_shuffle,6349,1,bird,33.1462,12.246583
+ViT-B/16,patch_shuffle,6594,1,bird,16.377354,-6.291764
+ViT-B/16,patch_shuffle,6733,1,bird,36.839436,-3.1830356
+ViT-B/16,patch_shuffle,6805,1,bird,20.598907,-23.198982
+ViT-B/16,patch_shuffle,6836,1,bird,17.604721,2.735996
+ViT-B/16,patch_shuffle,6938,1,bird,22.697557,-4.3938217
+ViT-B/16,patch_shuffle,6954,1,bird,30.59585,1.1299111
+ViT-B/16,patch_shuffle,7029,1,bird,20.58521,1.2442663
+ViT-B/16,patch_shuffle,7033,1,bird,30.626198,0.1319766
+ViT-B/16,patch_shuffle,7202,1,bird,33.455795,-12.162636
+ViT-B/16,patch_shuffle,7390,1,bird,19.54459,-22.285002
+ViT-B/16,patch_shuffle,7955,1,bird,31.726892,10.540976
+ViT-B/16,patch_shuffle,35,2,car,11.80268,-7.759224
+ViT-B/16,patch_shuffle,49,2,car,17.024885,-1.674726
+ViT-B/16,patch_shuffle,317,2,car,16.043552,-7.5493073
+ViT-B/16,patch_shuffle,409,2,car,10.867641,-5.4014363
+ViT-B/16,patch_shuffle,470,2,car,5.809864,-9.960935
+ViT-B/16,patch_shuffle,483,2,car,21.190329,-2.356993
+ViT-B/16,patch_shuffle,714,2,car,21.251732,-7.6976748
+ViT-B/16,patch_shuffle,981,2,car,22.535273,-6.1355715
+ViT-B/16,patch_shuffle,1202,2,car,22.194452,-2.4972198
+ViT-B/16,patch_shuffle,1403,2,car,9.062975,-7.7492085
+ViT-B/16,patch_shuffle,1520,2,car,17.413132,-4.1338267
+ViT-B/16,patch_shuffle,1586,2,car,18.009148,7.0886765
+ViT-B/16,patch_shuffle,1814,2,car,11.828035,-10.224841
+ViT-B/16,patch_shuffle,1839,2,car,10.95412,0.29254872
+ViT-B/16,patch_shuffle,2082,2,car,26.540245,-15.490798
+ViT-B/16,patch_shuffle,2392,2,car,11.539533,-8.915211
+ViT-B/16,patch_shuffle,2502,2,car,6.1635804,-9.801576
+ViT-B/16,patch_shuffle,3024,2,car,24.405794,-8.060082
+ViT-B/16,patch_shuffle,3067,2,car,13.263077,-11.37088
+ViT-B/16,patch_shuffle,3163,2,car,14.846237,-8.767556
+ViT-B/16,patch_shuffle,3362,2,car,6.6163464,-9.674851
+ViT-B/16,patch_shuffle,3454,2,car,31.098705,-9.264184
+ViT-B/16,patch_shuffle,3755,2,car,11.757535,-9.1373005
+ViT-B/16,patch_shuffle,4065,2,car,10.342206,-1.2439102
+ViT-B/16,patch_shuffle,4735,2,car,13.317831,-9.787018
+ViT-B/16,patch_shuffle,4913,2,car,7.3203864,-7.8402815
+ViT-B/16,patch_shuffle,4921,2,car,8.084822,-10.377778
+ViT-B/16,patch_shuffle,5030,2,car,6.737692,-10.086695
+ViT-B/16,patch_shuffle,5183,2,car,17.206709,-10.851205
+ViT-B/16,patch_shuffle,5218,2,car,16.710356,-7.98069
+ViT-B/16,patch_shuffle,5237,2,car,17.018293,-1.3559248
+ViT-B/16,patch_shuffle,5318,2,car,14.462871,-3.2190075
+ViT-B/16,patch_shuffle,5333,2,car,20.177393,-7.66429
+ViT-B/16,patch_shuffle,5395,2,car,14.152237,-3.1366277
+ViT-B/16,patch_shuffle,5512,2,car,16.991135,6.561022
+ViT-B/16,patch_shuffle,5677,2,car,12.793904,-7.126143
+ViT-B/16,patch_shuffle,5756,2,car,7.329458,-2.0851483
+ViT-B/16,patch_shuffle,5824,2,car,28.782993,-10.604737
+ViT-B/16,patch_shuffle,6028,2,car,6.6779785,-6.3940587
+ViT-B/16,patch_shuffle,6244,2,car,9.983825,-8.350062
+ViT-B/16,patch_shuffle,6264,2,car,26.685205,-8.258149
+ViT-B/16,patch_shuffle,6271,2,car,12.07277,-5.393616
+ViT-B/16,patch_shuffle,6332,2,car,14.619411,-9.254734
+ViT-B/16,patch_shuffle,6354,2,car,18.000307,-1.9336271
+ViT-B/16,patch_shuffle,6426,2,car,7.8593845,-1.4023771
+ViT-B/16,patch_shuffle,6503,2,car,13.543057,-2.6957548
+ViT-B/16,patch_shuffle,6616,2,car,18.863626,-3.7009268
+ViT-B/16,patch_shuffle,6692,2,car,9.818706,-10.923206
+ViT-B/16,patch_shuffle,7084,2,car,9.897422,-5.404274
+ViT-B/16,patch_shuffle,7425,2,car,10.295352,-5.6072116
+ViT-B/16,patch_shuffle,176,3,cat,26.46527,4.132139
+ViT-B/16,patch_shuffle,365,3,cat,32.329845,2.8769982
+ViT-B/16,patch_shuffle,372,3,cat,25.005316,2.7256427
+ViT-B/16,patch_shuffle,391,3,cat,39.971077,2.4285395
+ViT-B/16,patch_shuffle,632,3,cat,29.939962,2.1309173
+ViT-B/16,patch_shuffle,672,3,cat,36.695362,-2.526505
+ViT-B/16,patch_shuffle,677,3,cat,23.886816,1.0086887
+ViT-B/16,patch_shuffle,738,3,cat,24.557804,0.95682627
+ViT-B/16,patch_shuffle,791,3,cat,31.41569,-4.746555
+ViT-B/16,patch_shuffle,979,3,cat,28.660387,12.986679
+ViT-B/16,patch_shuffle,1204,3,cat,27.581251,8.673038
+ViT-B/16,patch_shuffle,1263,3,cat,32.620644,-3.2141428
+ViT-B/16,patch_shuffle,1370,3,cat,18.271765,-5.0358872
+ViT-B/16,patch_shuffle,1401,3,cat,18.458082,6.6088567
+ViT-B/16,patch_shuffle,1431,3,cat,11.21379,2.222239
+ViT-B/16,patch_shuffle,1531,3,cat,40.993465,6.108977
+ViT-B/16,patch_shuffle,1563,3,cat,17.683964,1.1505836
+ViT-B/16,patch_shuffle,2028,3,cat,35.34256,-3.1295528
+ViT-B/16,patch_shuffle,2291,3,cat,23.405548,5.9055467
+ViT-B/16,patch_shuffle,2536,3,cat,35.114033,9.245972
+ViT-B/16,patch_shuffle,2539,3,cat,12.961033,-3.9487016
+ViT-B/16,patch_shuffle,2754,3,cat,36.53041,0.027394991
+ViT-B/16,patch_shuffle,2861,3,cat,7.1950684,-1.472672
+ViT-B/16,patch_shuffle,3276,3,cat,33.38533,-0.7186507
+ViT-B/16,patch_shuffle,3375,3,cat,39.062416,4.5056825
+ViT-B/16,patch_shuffle,3383,3,cat,29.904821,1.0866984
+ViT-B/16,patch_shuffle,3562,3,cat,22.338963,10.910895
+ViT-B/16,patch_shuffle,3778,3,cat,30.040096,-5.83687
+ViT-B/16,patch_shuffle,3851,3,cat,15.099055,1.474844
+ViT-B/16,patch_shuffle,3914,3,cat,35.725685,-6.0777187
+ViT-B/16,patch_shuffle,4023,3,cat,33.604824,0.17361695
+ViT-B/16,patch_shuffle,4168,3,cat,18.80507,-9.625022
+ViT-B/16,patch_shuffle,4215,3,cat,24.10696,-3.3600616
+ViT-B/16,patch_shuffle,4229,3,cat,30.129795,12.118019
+ViT-B/16,patch_shuffle,4323,3,cat,12.034011,2.3618178
+ViT-B/16,patch_shuffle,4330,3,cat,28.15171,10.717763
+ViT-B/16,patch_shuffle,4463,3,cat,26.30883,4.0812545
+ViT-B/16,patch_shuffle,4531,3,cat,34.207134,0.23706192
+ViT-B/16,patch_shuffle,4590,3,cat,26.006796,1.364236
+ViT-B/16,patch_shuffle,4609,3,cat,27.593353,4.577615
+ViT-B/16,patch_shuffle,4821,3,cat,33.037926,-0.46930313
+ViT-B/16,patch_shuffle,4881,3,cat,34.76472,9.984135
+ViT-B/16,patch_shuffle,4908,3,cat,24.459246,5.636635
+ViT-B/16,patch_shuffle,5528,3,cat,19.460691,-3.155229
+ViT-B/16,patch_shuffle,6490,3,cat,36.430965,-8.680919
+ViT-B/16,patch_shuffle,6952,3,cat,33.97125,-5.981634
+ViT-B/16,patch_shuffle,7416,3,cat,22.569883,-1.5082046
+ViT-B/16,patch_shuffle,7744,3,cat,26.438951,-3.1609285
+ViT-B/16,patch_shuffle,7793,3,cat,29.869772,-1.6058663
+ViT-B/16,patch_shuffle,7797,3,cat,26.638147,4.789542
+ViT-B/16,patch_shuffle,171,4,deer,35.92289,0.68330675
+ViT-B/16,patch_shuffle,506,4,deer,32.42196,-2.9892318
+ViT-B/16,patch_shuffle,691,4,deer,38.582653,9.48671
+ViT-B/16,patch_shuffle,766,4,deer,36.62389,-4.128149
+ViT-B/16,patch_shuffle,855,4,deer,28.131243,-0.473241
+ViT-B/16,patch_shuffle,1111,4,deer,39.858162,5.1707735
+ViT-B/16,patch_shuffle,1124,4,deer,36.52127,9.763216
+ViT-B/16,patch_shuffle,1211,4,deer,21.661512,8.485325
+ViT-B/16,patch_shuffle,1266,4,deer,22.632353,10.920915
+ViT-B/16,patch_shuffle,1429,4,deer,32.671818,6.121135
+ViT-B/16,patch_shuffle,1960,4,deer,39.835953,7.1085477
+ViT-B/16,patch_shuffle,2399,4,deer,27.205284,2.7158432
+ViT-B/16,patch_shuffle,2704,4,deer,32.373356,-6.97754
+ViT-B/16,patch_shuffle,2757,4,deer,41.665726,4.9096494
+ViT-B/16,patch_shuffle,2898,4,deer,41.23377,2.3588688
+ViT-B/16,patch_shuffle,3034,4,deer,22.173155,7.645025
+ViT-B/16,patch_shuffle,3078,4,deer,16.07429,8.053877
+ViT-B/16,patch_shuffle,3122,4,deer,24.063887,7.346435
+ViT-B/16,patch_shuffle,3179,4,deer,29.821878,0.20520103
+ViT-B/16,patch_shuffle,3287,4,deer,32.68132,7.194607
+ViT-B/16,patch_shuffle,3365,4,deer,31.443161,-8.01977
+ViT-B/16,patch_shuffle,3458,4,deer,32.658287,-3.2654858
+ViT-B/16,patch_shuffle,3512,4,deer,38.320683,9.00865
+ViT-B/16,patch_shuffle,3763,4,deer,34.04518,-4.4864964
+ViT-B/16,patch_shuffle,3891,4,deer,38.22348,8.161835
+ViT-B/16,patch_shuffle,3994,4,deer,30.411005,8.848265
+ViT-B/16,patch_shuffle,4054,4,deer,37.29253,1.79595
+ViT-B/16,patch_shuffle,4629,4,deer,38.27501,9.8558
+ViT-B/16,patch_shuffle,4642,4,deer,39.303135,7.704145
+ViT-B/16,patch_shuffle,4740,4,deer,34.968822,-10.306487
+ViT-B/16,patch_shuffle,5062,4,deer,36.05548,7.871363
+ViT-B/16,patch_shuffle,5077,4,deer,40.33,5.7572913
+ViT-B/16,patch_shuffle,5135,4,deer,26.433403,-0.68076766
+ViT-B/16,patch_shuffle,5213,4,deer,23.435123,12.433473
+ViT-B/16,patch_shuffle,5402,4,deer,33.91532,-1.5423708
+ViT-B/16,patch_shuffle,5467,4,deer,36.596416,-0.55929995
+ViT-B/16,patch_shuffle,5556,4,deer,43.249046,4.13135
+ViT-B/16,patch_shuffle,5623,4,deer,31.972307,0.36820084
+ViT-B/16,patch_shuffle,5789,4,deer,33.66647,3.304053
+ViT-B/16,patch_shuffle,6033,4,deer,36.12835,3.8960183
+ViT-B/16,patch_shuffle,6097,4,deer,35.385754,3.1641364
+ViT-B/16,patch_shuffle,6288,4,deer,33.55078,2.0991704
+ViT-B/16,patch_shuffle,6508,4,deer,39.158283,4.742452
+ViT-B/16,patch_shuffle,6528,4,deer,32.342403,-1.5267854
+ViT-B/16,patch_shuffle,7475,4,deer,42.416904,-0.539109
+ViT-B/16,patch_shuffle,7610,4,deer,33.603485,2.4654837
+ViT-B/16,patch_shuffle,7692,4,deer,33.309635,0.717306
+ViT-B/16,patch_shuffle,7864,4,deer,36.529594,-0.5746011
+ViT-B/16,patch_shuffle,7940,4,deer,19.681974,7.508962
+ViT-B/16,patch_shuffle,7944,4,deer,40.727108,7.2366357
+ViT-B/16,patch_shuffle,97,5,dog,10.5951,-2.8841052
+ViT-B/16,patch_shuffle,319,5,dog,29.845257,-1.8590981
+ViT-B/16,patch_shuffle,378,5,dog,27.869907,-3.8825405
+ViT-B/16,patch_shuffle,568,5,dog,11.26458,1.5154908
+ViT-B/16,patch_shuffle,645,5,dog,38.970295,8.804359
+ViT-B/16,patch_shuffle,685,5,dog,34.87606,-7.459504
+ViT-B/16,patch_shuffle,1095,5,dog,31.032822,-4.342318
+ViT-B/16,patch_shuffle,1552,5,dog,39.778217,6.2471704
+ViT-B/16,patch_shuffle,1626,5,dog,34.672924,6.9272795
+ViT-B/16,patch_shuffle,1644,5,dog,36.113575,4.974074
+ViT-B/16,patch_shuffle,1877,5,dog,38.27667,7.847054
+ViT-B/16,patch_shuffle,2265,5,dog,31.622684,9.846468
+ViT-B/16,patch_shuffle,2268,5,dog,27.459028,-3.4708734
+ViT-B/16,patch_shuffle,2334,5,dog,41.813572,5.6512456
+ViT-B/16,patch_shuffle,2391,5,dog,33.489197,-2.4200864
+ViT-B/16,patch_shuffle,2427,5,dog,24.739416,9.488547
+ViT-B/16,patch_shuffle,2458,5,dog,34.217297,-5.88055
+ViT-B/16,patch_shuffle,2623,5,dog,30.746868,-4.3591404
+ViT-B/16,patch_shuffle,2766,5,dog,11.057459,2.4458852
+ViT-B/16,patch_shuffle,2807,5,dog,33.41572,3.5639277
+ViT-B/16,patch_shuffle,2950,5,dog,29.656044,-5.6415195
+ViT-B/16,patch_shuffle,3353,5,dog,32.3044,-9.392552
+ViT-B/16,patch_shuffle,3852,5,dog,22.277082,-0.514297
+ViT-B/16,patch_shuffle,3863,5,dog,43.37094,4.1668653
+ViT-B/16,patch_shuffle,3889,5,dog,19.466227,-3.0086217
+ViT-B/16,patch_shuffle,4106,5,dog,27.786058,11.725802
+ViT-B/16,patch_shuffle,4290,5,dog,33.734634,-2.029032
+ViT-B/16,patch_shuffle,4547,5,dog,18.00385,7.24361
+ViT-B/16,patch_shuffle,4570,5,dog,40.767887,4.4032826
+ViT-B/16,patch_shuffle,4850,5,dog,29.206482,-0.42920735
+ViT-B/16,patch_shuffle,4953,5,dog,35.140232,-2.90046
+ViT-B/16,patch_shuffle,4966,5,dog,27.141325,-3.350645
+ViT-B/16,patch_shuffle,5101,5,dog,24.173927,-1.1044444
+ViT-B/16,patch_shuffle,5332,5,dog,25.495258,-6.5968556
+ViT-B/16,patch_shuffle,5381,5,dog,34.18048,-4.302178
+ViT-B/16,patch_shuffle,5496,5,dog,25.858288,1.3382782
+ViT-B/16,patch_shuffle,5701,5,dog,18.759699,4.24228
+ViT-B/16,patch_shuffle,5924,5,dog,34.429462,-1.0146655
+ViT-B/16,patch_shuffle,6224,5,dog,37.815006,8.051486
+ViT-B/16,patch_shuffle,6358,5,dog,23.004019,4.26845
+ViT-B/16,patch_shuffle,6414,5,dog,25.136005,2.8327434
+ViT-B/16,patch_shuffle,6716,5,dog,36.808586,-4.1677966
+ViT-B/16,patch_shuffle,6922,5,dog,33.52108,-6.650016
+ViT-B/16,patch_shuffle,6989,5,dog,37.209694,7.013555
+ViT-B/16,patch_shuffle,7041,5,dog,12.299156,1.3634272
+ViT-B/16,patch_shuffle,7130,5,dog,36.588367,6.8557067
+ViT-B/16,patch_shuffle,7413,5,dog,19.839972,9.627926
+ViT-B/16,patch_shuffle,7474,5,dog,27.8951,-15.802738
+ViT-B/16,patch_shuffle,7706,5,dog,26.527214,-8.146723
+ViT-B/16,patch_shuffle,7776,5,dog,23.368172,1.9664787
+ViT-B/16,patch_shuffle,449,6,horse,42.430218,-0.39918116
+ViT-B/16,patch_shuffle,545,6,horse,14.59401,-5.9688644
+ViT-B/16,patch_shuffle,873,6,horse,10.643209,-3.0003319
+ViT-B/16,patch_shuffle,890,6,horse,32.28813,-3.7315097
+ViT-B/16,patch_shuffle,920,6,horse,41.669083,3.5283399
+ViT-B/16,patch_shuffle,929,6,horse,27.187975,-6.0445557
+ViT-B/16,patch_shuffle,964,6,horse,11.59532,-0.3342659
+ViT-B/16,patch_shuffle,977,6,horse,22.10254,0.95145065
+ViT-B/16,patch_shuffle,1534,6,horse,15.695358,7.650602
+ViT-B/16,patch_shuffle,1667,6,horse,6.779517,-1.7315032
+ViT-B/16,patch_shuffle,2003,6,horse,34.36168,-10.558168
+ViT-B/16,patch_shuffle,2610,6,horse,27.392885,7.841797
+ViT-B/16,patch_shuffle,2676,6,horse,24.519094,-6.4078345
+ViT-B/16,patch_shuffle,2958,6,horse,8.328472,-12.727041
+ViT-B/16,patch_shuffle,3191,6,horse,25.068298,-5.1104074
+ViT-B/16,patch_shuffle,3292,6,horse,27.474459,12.665685
+ViT-B/16,patch_shuffle,3418,6,horse,22.603802,-9.394814
+ViT-B/16,patch_shuffle,3494,6,horse,41.793446,2.625622
+ViT-B/16,patch_shuffle,3515,6,horse,25.384716,9.738211
+ViT-B/16,patch_shuffle,3777,6,horse,21.114248,8.829732
+ViT-B/16,patch_shuffle,3779,6,horse,42.985195,0.63926816
+ViT-B/16,patch_shuffle,3844,6,horse,23.51463,4.6700425
+ViT-B/16,patch_shuffle,3962,6,horse,18.1446,1.1075622
+ViT-B/16,patch_shuffle,4011,6,horse,33.509945,-12.470403
+ViT-B/16,patch_shuffle,4093,6,horse,11.954306,-0.034258924
+ViT-B/16,patch_shuffle,4254,6,horse,43.219067,2.2223828
+ViT-B/16,patch_shuffle,4341,6,horse,33.139435,-8.395596
+ViT-B/16,patch_shuffle,4411,6,horse,32.07318,11.530814
+ViT-B/16,patch_shuffle,4620,6,horse,40.46512,0.5392727
+ViT-B/16,patch_shuffle,4731,6,horse,31.17926,-6.5814347
+ViT-B/16,patch_shuffle,4746,6,horse,40.629894,6.1435804
+ViT-B/16,patch_shuffle,4754,6,horse,41.333435,1.2305486
+ViT-B/16,patch_shuffle,4827,6,horse,22.94544,-10.277669
+ViT-B/16,patch_shuffle,5082,6,horse,29.615732,-8.579413
+ViT-B/16,patch_shuffle,5382,6,horse,27.698374,-8.541819
+ViT-B/16,patch_shuffle,5408,6,horse,33.940033,3.5125403
+ViT-B/16,patch_shuffle,5580,6,horse,41.913544,0.79664797
+ViT-B/16,patch_shuffle,5729,6,horse,24.453924,0.14930674
+ViT-B/16,patch_shuffle,5857,6,horse,9.2744255,-1.1135864
+ViT-B/16,patch_shuffle,5858,6,horse,32.90498,5.4380918
+ViT-B/16,patch_shuffle,6381,6,horse,19.679558,9.235048
+ViT-B/16,patch_shuffle,6713,6,horse,27.032413,-6.6358194
+ViT-B/16,patch_shuffle,7108,6,horse,34.11688,-8.28517
+ViT-B/16,patch_shuffle,7338,6,horse,23.128077,-10.355322
+ViT-B/16,patch_shuffle,7555,6,horse,34.19282,-8.947749
+ViT-B/16,patch_shuffle,7600,6,horse,17.604713,0.77449995
+ViT-B/16,patch_shuffle,7726,6,horse,41.387405,1.3449162
+ViT-B/16,patch_shuffle,7779,6,horse,27.121649,-15.177706
+ViT-B/16,patch_shuffle,7781,6,horse,40.864708,3.9048622
+ViT-B/16,patch_shuffle,7996,6,horse,24.791367,-0.20653237
+ViT-B/16,patch_shuffle,29,7,monkey,16.35356,8.155251
+ViT-B/16,patch_shuffle,269,7,monkey,18.376295,7.3030386
+ViT-B/16,patch_shuffle,323,7,monkey,24.726618,2.5428655
+ViT-B/16,patch_shuffle,370,7,monkey,32.410553,4.429414
+ViT-B/16,patch_shuffle,1032,7,monkey,27.651817,10.930844
+ViT-B/16,patch_shuffle,1048,7,monkey,35.90255,3.0942197
+ViT-B/16,patch_shuffle,1220,7,monkey,34.610664,4.82516
+ViT-B/16,patch_shuffle,1287,7,monkey,31.123995,2.3010657
+ViT-B/16,patch_shuffle,1296,7,monkey,30.212015,8.97655
+ViT-B/16,patch_shuffle,1440,7,monkey,23.773848,8.426419
+ViT-B/16,patch_shuffle,1473,7,monkey,30.350662,-3.4943929
+ViT-B/16,patch_shuffle,1579,7,monkey,28.324999,0.70889807
+ViT-B/16,patch_shuffle,1703,7,monkey,38.3759,6.3185644
+ViT-B/16,patch_shuffle,1711,7,monkey,23.19471,1.219961
+ViT-B/16,patch_shuffle,1771,7,monkey,26.007917,9.424304
+ViT-B/16,patch_shuffle,1884,7,monkey,23.920607,11.639518
+ViT-B/16,patch_shuffle,1927,7,monkey,29.49175,1.2968787
+ViT-B/16,patch_shuffle,1956,7,monkey,32.721497,-6.208097
+ViT-B/16,patch_shuffle,2501,7,monkey,32.478416,-6.6079574
+ViT-B/16,patch_shuffle,2668,7,monkey,23.27751,7.9011273
+ViT-B/16,patch_shuffle,2746,7,monkey,29.094782,10.269018
+ViT-B/16,patch_shuffle,2854,7,monkey,40.041298,8.295592
+ViT-B/16,patch_shuffle,3153,7,monkey,39.794422,6.980078
+ViT-B/16,patch_shuffle,3288,7,monkey,25.120884,11.642784
+ViT-B/16,patch_shuffle,3404,7,monkey,17.732553,4.6991844
+ViT-B/16,patch_shuffle,3446,7,monkey,28.299524,9.6430855
+ViT-B/16,patch_shuffle,3467,7,monkey,23.345661,10.254933
+ViT-B/16,patch_shuffle,3542,7,monkey,31.979044,0.52836317
+ViT-B/16,patch_shuffle,3867,7,monkey,21.316864,8.106077
+ViT-B/16,patch_shuffle,4172,7,monkey,24.400337,8.664901
+ViT-B/16,patch_shuffle,4236,7,monkey,29.482151,10.395726
+ViT-B/16,patch_shuffle,4308,7,monkey,32.25436,-5.784422
+ViT-B/16,patch_shuffle,4403,7,monkey,31.669565,7.6165085
+ViT-B/16,patch_shuffle,4661,7,monkey,29.271154,-0.059741627
+ViT-B/16,patch_shuffle,4704,7,monkey,31.86808,5.2818103
+ViT-B/16,patch_shuffle,4748,7,monkey,27.742004,9.665714
+ViT-B/16,patch_shuffle,4791,7,monkey,25.06818,5.1300545
+ViT-B/16,patch_shuffle,5436,7,monkey,40.535328,6.9122515
+ViT-B/16,patch_shuffle,5450,7,monkey,23.228804,-0.13632628
+ViT-B/16,patch_shuffle,5719,7,monkey,25.741184,12.819908
+ViT-B/16,patch_shuffle,5848,7,monkey,32.035065,11.149134
+ViT-B/16,patch_shuffle,5977,7,monkey,28.196423,13.293159
+ViT-B/16,patch_shuffle,6084,7,monkey,28.534124,11.637183
+ViT-B/16,patch_shuffle,6190,7,monkey,36.48235,0.80965286
+ViT-B/16,patch_shuffle,6650,7,monkey,27.830797,13.763441
+ViT-B/16,patch_shuffle,6726,7,monkey,35.23295,0.62943155
+ViT-B/16,patch_shuffle,6772,7,monkey,24.046616,5.1613574
+ViT-B/16,patch_shuffle,7081,7,monkey,23.880562,2.4365616
+ViT-B/16,patch_shuffle,7270,7,monkey,24.472279,-2.389628
+ViT-B/16,patch_shuffle,7835,7,monkey,22.87312,9.377958
+ViT-B/16,patch_shuffle,151,8,ship,15.022158,-15.190748
+ViT-B/16,patch_shuffle,194,8,ship,15.445726,-10.230224
+ViT-B/16,patch_shuffle,667,8,ship,16.229187,-14.064718
+ViT-B/16,patch_shuffle,706,8,ship,18.761866,-12.332064
+ViT-B/16,patch_shuffle,716,8,ship,22.241444,-15.992711
+ViT-B/16,patch_shuffle,739,8,ship,14.3,-13.605803
+ViT-B/16,patch_shuffle,962,8,ship,10.176038,-12.705925
+ViT-B/16,patch_shuffle,1129,8,ship,20.13721,-16.75546
+ViT-B/16,patch_shuffle,1247,8,ship,9.707637,-9.030004
+ViT-B/16,patch_shuffle,1640,8,ship,11.416984,1.9275677
+ViT-B/16,patch_shuffle,1783,8,ship,15.041012,-13.763521
+ViT-B/16,patch_shuffle,1833,8,ship,11.67956,-11.3580885
+ViT-B/16,patch_shuffle,1954,8,ship,6.184349,-8.0987215
+ViT-B/16,patch_shuffle,2109,8,ship,15.735453,-12.7996235
+ViT-B/16,patch_shuffle,2191,8,ship,21.372738,-17.134657
+ViT-B/16,patch_shuffle,2230,8,ship,16.314404,-14.253189
+ViT-B/16,patch_shuffle,2340,8,ship,21.043837,-15.870506
+ViT-B/16,patch_shuffle,2342,8,ship,22.998241,-16.074785
+ViT-B/16,patch_shuffle,2745,8,ship,19.57832,-15.603375
+ViT-B/16,patch_shuffle,2844,8,ship,7.8130364,-11.3794
+ViT-B/16,patch_shuffle,3015,8,ship,13.484806,-12.44921
+ViT-B/16,patch_shuffle,3157,8,ship,14.594382,-15.1459255
+ViT-B/16,patch_shuffle,3412,8,ship,21.09807,-15.474311
+ViT-B/16,patch_shuffle,3905,8,ship,11.478434,-13.129656
+ViT-B/16,patch_shuffle,3948,8,ship,8.286383,-6.4165554
+ViT-B/16,patch_shuffle,4069,8,ship,36.424213,7.995738
+ViT-B/16,patch_shuffle,4170,8,ship,10.607543,-12.64438
+ViT-B/16,patch_shuffle,4177,8,ship,12.408228,-12.836715
+ViT-B/16,patch_shuffle,4242,8,ship,11.744321,-10.772641
+ViT-B/16,patch_shuffle,4311,8,ship,14.866166,-13.354735
+ViT-B/16,patch_shuffle,4355,8,ship,8.653933,-12.521143
+ViT-B/16,patch_shuffle,4552,8,ship,11.956163,-12.07827
+ViT-B/16,patch_shuffle,4662,8,ship,17.293573,-16.572721
+ViT-B/16,patch_shuffle,4676,8,ship,17.42861,-15.236633
+ViT-B/16,patch_shuffle,4990,8,ship,7.513101,-9.707401
+ViT-B/16,patch_shuffle,5000,8,ship,23.283606,-15.52551
+ViT-B/16,patch_shuffle,5451,8,ship,15.05484,-11.68588
+ViT-B/16,patch_shuffle,5525,8,ship,16.14447,-12.56047
+ViT-B/16,patch_shuffle,5694,8,ship,9.763918,-11.991026
+ViT-B/16,patch_shuffle,5705,8,ship,15.84056,-14.887841
+ViT-B/16,patch_shuffle,6434,8,ship,19.380623,-17.394522
+ViT-B/16,patch_shuffle,6689,8,ship,21.166538,-16.060364
+ViT-B/16,patch_shuffle,7138,8,ship,10.053156,-14.378689
+ViT-B/16,patch_shuffle,7446,8,ship,10.53343,-6.955724
+ViT-B/16,patch_shuffle,7460,8,ship,12.401591,-10.703529
+ViT-B/16,patch_shuffle,7476,8,ship,26.49183,-15.012475
+ViT-B/16,patch_shuffle,7810,8,ship,20.942759,-17.009932
+ViT-B/16,patch_shuffle,7818,8,ship,8.387232,-3.3198433
+ViT-B/16,patch_shuffle,7875,8,ship,14.89542,-11.815856
+ViT-B/16,patch_shuffle,7999,8,ship,35.133934,-7.3725615
+ViT-B/16,patch_shuffle,131,9,truck,8.2264805,-5.469004
+ViT-B/16,patch_shuffle,191,9,truck,11.479777,-1.3182288
+ViT-B/16,patch_shuffle,239,9,truck,10.581901,-9.358639
+ViT-B/16,patch_shuffle,276,9,truck,24.639637,-7.374637
+ViT-B/16,patch_shuffle,303,9,truck,18.70609,-12.075084
+ViT-B/16,patch_shuffle,419,9,truck,12.340206,-11.941845
+ViT-B/16,patch_shuffle,603,9,truck,24.089733,-2.5277245
+ViT-B/16,patch_shuffle,805,9,truck,20.761168,-7.6569858
+ViT-B/16,patch_shuffle,852,9,truck,31.297699,-9.663289
+ViT-B/16,patch_shuffle,1022,9,truck,8.669756,-5.889279
+ViT-B/16,patch_shuffle,1411,9,truck,11.105621,-10.545856
+ViT-B/16,patch_shuffle,1430,9,truck,12.152865,-9.252301
+ViT-B/16,patch_shuffle,1468,9,truck,7.9818606,-8.203022
+ViT-B/16,patch_shuffle,1515,9,truck,9.272369,-8.904963
+ViT-B/16,patch_shuffle,1654,9,truck,8.079866,-4.3552213
+ViT-B/16,patch_shuffle,1836,9,truck,16.951803,-11.071223
+ViT-B/16,patch_shuffle,2011,9,truck,8.771408,-1.2988415
+ViT-B/16,patch_shuffle,2062,9,truck,10.898882,-6.704727
+ViT-B/16,patch_shuffle,2114,9,truck,18.707912,-7.902475
+ViT-B/16,patch_shuffle,2167,9,truck,9.326493,-7.132315
+ViT-B/16,patch_shuffle,2351,9,truck,11.481568,-6.3670726
+ViT-B/16,patch_shuffle,2414,9,truck,14.679405,-6.170291
+ViT-B/16,patch_shuffle,2655,9,truck,10.57128,-7.659042
+ViT-B/16,patch_shuffle,3318,9,truck,7.580713,-8.290047
+ViT-B/16,patch_shuffle,3893,9,truck,19.996588,-7.8363147
+ViT-B/16,patch_shuffle,3942,9,truck,8.738742,-8.521492
+ViT-B/16,patch_shuffle,3996,9,truck,17.468502,-11.9344425
+ViT-B/16,patch_shuffle,4094,9,truck,16.865753,-13.369529
+ViT-B/16,patch_shuffle,4449,9,truck,14.266783,-8.462182
+ViT-B/16,patch_shuffle,4723,9,truck,30.702795,-8.787691
+ViT-B/16,patch_shuffle,5284,9,truck,15.02639,-6.8090115
+ViT-B/16,patch_shuffle,5301,9,truck,17.53575,-3.9524133
+ViT-B/16,patch_shuffle,5360,9,truck,9.332717,-9.160549
+ViT-B/16,patch_shuffle,5447,9,truck,26.185947,-14.327137
+ViT-B/16,patch_shuffle,5452,9,truck,12.645408,-6.939786
+ViT-B/16,patch_shuffle,5508,9,truck,11.61589,-7.6152053
+ViT-B/16,patch_shuffle,5572,9,truck,38.51138,3.5454173
+ViT-B/16,patch_shuffle,5590,9,truck,13.68505,-14.195888
+ViT-B/16,patch_shuffle,5788,9,truck,13.593929,-11.124677
+ViT-B/16,patch_shuffle,5851,9,truck,7.917223,-5.4735427
+ViT-B/16,patch_shuffle,5915,9,truck,13.529506,-5.55774
+ViT-B/16,patch_shuffle,5981,9,truck,22.415586,-6.6300693
+ViT-B/16,patch_shuffle,6931,9,truck,20.709745,-18.026922
+ViT-B/16,patch_shuffle,7047,9,truck,18.758148,-8.867768
+ViT-B/16,patch_shuffle,7266,9,truck,23.698298,9.318527
+ViT-B/16,patch_shuffle,7380,9,truck,17.637695,-4.5378246
+ViT-B/16,patch_shuffle,7544,9,truck,25.503172,-13.827843
+ViT-B/16,patch_shuffle,7752,9,truck,19.397995,-7.797274
+ViT-B/16,patch_shuffle,7938,9,truck,11.749881,-5.4531236
+ViT-B/16,patch_shuffle,7995,9,truck,7.5196667,-4.8538947
+CLIP ViT-B/32,clean,3,0,airplane,14.923649,-29.581099
+CLIP ViT-B/32,clean,42,0,airplane,17.977835,-29.990332
+CLIP ViT-B/32,clean,81,0,airplane,19.496965,-30.358738
+CLIP ViT-B/32,clean,484,0,airplane,18.507235,-35.40085
+CLIP ViT-B/32,clean,562,0,airplane,18.762085,-32.40699
+CLIP ViT-B/32,clean,1175,0,airplane,17.76784,-30.898224
+CLIP ViT-B/32,clean,1389,0,airplane,18.594763,-31.336466
+CLIP ViT-B/32,clean,1553,0,airplane,15.361678,-29.148844
+CLIP ViT-B/32,clean,1596,0,airplane,19.37756,-35.25732
+CLIP ViT-B/32,clean,1648,0,airplane,16.857677,-29.90749
+CLIP ViT-B/32,clean,1977,0,airplane,18.577698,-30.197712
+CLIP ViT-B/32,clean,2024,0,airplane,17.402218,-34.35193
+CLIP ViT-B/32,clean,2242,0,airplane,19.637026,-35.05428
+CLIP ViT-B/32,clean,2750,0,airplane,19.72468,-35.597214
+CLIP ViT-B/32,clean,2888,0,airplane,15.863998,-29.303951
+CLIP ViT-B/32,clean,3025,0,airplane,20.229624,-31.051723
+CLIP ViT-B/32,clean,3083,0,airplane,19.101374,-34.854763
+CLIP ViT-B/32,clean,3347,0,airplane,19.603281,-32.763515
+CLIP ViT-B/32,clean,3437,0,airplane,19.27637,-36.10735
+CLIP ViT-B/32,clean,3455,0,airplane,20.874151,-32.26029
+CLIP ViT-B/32,clean,3876,0,airplane,17.968313,-35.885994
+CLIP ViT-B/32,clean,3965,0,airplane,16.416336,-29.750011
+CLIP ViT-B/32,clean,4130,0,airplane,20.070372,-32.454876
+CLIP ViT-B/32,clean,4399,0,airplane,20.391256,-31.59855
+CLIP ViT-B/32,clean,4539,0,airplane,19.347504,-32.385056
+CLIP ViT-B/32,clean,4615,0,airplane,19.187994,-31.844555
+CLIP ViT-B/32,clean,4617,0,airplane,19.84028,-33.286957
+CLIP ViT-B/32,clean,4675,0,airplane,17.140991,-30.152857
+CLIP ViT-B/32,clean,4785,0,airplane,14.925387,-29.583393
+CLIP ViT-B/32,clean,4819,0,airplane,19.849163,-33.25933
+CLIP ViT-B/32,clean,4893,0,airplane,16.563501,-31.040438
+CLIP ViT-B/32,clean,5117,0,airplane,20.81032,-32.950386
+CLIP ViT-B/32,clean,5478,0,airplane,17.262735,-34.36558
+CLIP ViT-B/32,clean,5912,0,airplane,19.062822,-33.17606
+CLIP ViT-B/32,clean,5918,0,airplane,19.203794,-33.993668
+CLIP ViT-B/32,clean,5999,0,airplane,19.036676,-30.546339
+CLIP ViT-B/32,clean,6437,0,airplane,16.253521,-29.037653
+CLIP ViT-B/32,clean,6455,0,airplane,17.225512,-34.21441
+CLIP ViT-B/32,clean,6609,0,airplane,20.114138,-33.455154
+CLIP ViT-B/32,clean,6844,0,airplane,17.62466,-31.35888
+CLIP ViT-B/32,clean,6986,0,airplane,18.620762,-35.500843
+CLIP ViT-B/32,clean,7009,0,airplane,18.982393,-29.565672
+CLIP ViT-B/32,clean,7150,0,airplane,17.373072,-30.652407
+CLIP ViT-B/32,clean,7262,0,airplane,19.234333,-32.945885
+CLIP ViT-B/32,clean,7309,0,airplane,15.59138,-29.68769
+CLIP ViT-B/32,clean,7320,0,airplane,20.120235,-31.641623
+CLIP ViT-B/32,clean,7372,0,airplane,16.029955,-29.76288
+CLIP ViT-B/32,clean,7373,0,airplane,15.529636,-30.36572
+CLIP ViT-B/32,clean,7465,0,airplane,17.334646,-30.20022
+CLIP ViT-B/32,clean,7634,0,airplane,18.333223,-32.68778
+CLIP ViT-B/32,clean,95,1,bird,20.153282,35.25117
+CLIP ViT-B/32,clean,116,1,bird,21.273329,31.393358
+CLIP ViT-B/32,clean,198,1,bird,18.420696,33.776108
+CLIP ViT-B/32,clean,261,1,bird,23.22825,32.94959
+CLIP ViT-B/32,clean,304,1,bird,20.612646,31.549166
+CLIP ViT-B/32,clean,825,1,bird,22.421192,32.590282
+CLIP ViT-B/32,clean,1090,1,bird,22.570347,32.653988
+CLIP ViT-B/32,clean,1109,1,bird,22.58822,31.684105
+CLIP ViT-B/32,clean,1115,1,bird,18.67352,36.24542
+CLIP ViT-B/32,clean,1230,1,bird,6.782693,36.00307
+CLIP ViT-B/32,clean,1436,1,bird,20.662117,35.56417
+CLIP ViT-B/32,clean,1568,1,bird,17.735613,33.110825
+CLIP ViT-B/32,clean,1852,1,bird,17.50069,34.164955
+CLIP ViT-B/32,clean,1871,1,bird,20.061281,29.511887
+CLIP ViT-B/32,clean,1986,1,bird,20.083963,29.557047
+CLIP ViT-B/32,clean,1993,1,bird,19.927355,34.16663
+CLIP ViT-B/32,clean,2070,1,bird,18.446424,35.211464
+CLIP ViT-B/32,clean,2095,1,bird,16.64694,32.296227
+CLIP ViT-B/32,clean,2116,1,bird,16.541773,32.20957
+CLIP ViT-B/32,clean,2157,1,bird,20.26812,33.17585
+CLIP ViT-B/32,clean,2178,1,bird,21.795105,31.35209
+CLIP ViT-B/32,clean,2687,1,bird,18.722277,34.708454
+CLIP ViT-B/32,clean,2690,1,bird,18.74801,34.98763
+CLIP ViT-B/32,clean,3079,1,bird,21.069954,35.12041
+CLIP ViT-B/32,clean,3413,1,bird,18.392069,34.237343
+CLIP ViT-B/32,clean,3491,1,bird,17.10348,34.74562
+CLIP ViT-B/32,clean,3550,1,bird,21.632336,32.411434
+CLIP ViT-B/32,clean,3937,1,bird,19.61854,33.764984
+CLIP ViT-B/32,clean,4298,1,bird,18.843939,34.169743
+CLIP ViT-B/32,clean,4640,1,bird,17.835346,35.4336
+CLIP ViT-B/32,clean,5092,1,bird,21.084225,34.771286
+CLIP ViT-B/32,clean,5123,1,bird,21.901138,33.380257
+CLIP ViT-B/32,clean,5220,1,bird,12.825013,17.915716
+CLIP ViT-B/32,clean,5256,1,bird,19.642145,32.432487
+CLIP ViT-B/32,clean,5488,1,bird,7.439598,20.607449
+CLIP ViT-B/32,clean,5560,1,bird,19.412188,32.176548
+CLIP ViT-B/32,clean,6076,1,bird,19.795782,34.733047
+CLIP ViT-B/32,clean,6169,1,bird,22.900677,31.213535
+CLIP ViT-B/32,clean,6349,1,bird,17.497795,34.638115
+CLIP ViT-B/32,clean,6594,1,bird,22.623617,31.851942
+CLIP ViT-B/32,clean,6733,1,bird,20.089153,29.55531
+CLIP ViT-B/32,clean,6805,1,bird,22.972979,32.64518
+CLIP ViT-B/32,clean,6836,1,bird,20.722252,35.860367
+CLIP ViT-B/32,clean,6938,1,bird,19.521988,34.46028
+CLIP ViT-B/32,clean,6954,1,bird,16.669348,32.31353
+CLIP ViT-B/32,clean,7029,1,bird,21.133589,35.161015
+CLIP ViT-B/32,clean,7033,1,bird,17.519207,34.927734
+CLIP ViT-B/32,clean,7202,1,bird,21.303516,35.51472
+CLIP ViT-B/32,clean,7390,1,bird,20.966778,32.743973
+CLIP ViT-B/32,clean,7955,1,bird,19.347374,34.90145
+CLIP ViT-B/32,clean,35,2,car,35.486565,-21.158264
+CLIP ViT-B/32,clean,49,2,car,37.087513,-19.265078
+CLIP ViT-B/32,clean,317,2,car,39.38906,-18.40674
+CLIP ViT-B/32,clean,409,2,car,39.389606,-18.11384
+CLIP ViT-B/32,clean,470,2,car,40.37749,-18.152994
+CLIP ViT-B/32,clean,483,2,car,35.52016,-18.554184
+CLIP ViT-B/32,clean,714,2,car,33.102818,-20.511997
+CLIP ViT-B/32,clean,981,2,car,36.645214,-17.337759
+CLIP ViT-B/32,clean,1202,2,car,39.86879,-17.684378
+CLIP ViT-B/32,clean,1403,2,car,34.297394,-16.909113
+CLIP ViT-B/32,clean,1520,2,car,34.718357,-20.47942
+CLIP ViT-B/32,clean,1586,2,car,36.12527,-15.837336
+CLIP ViT-B/32,clean,1814,2,car,36.476727,-18.944757
+CLIP ViT-B/32,clean,1839,2,car,36.867973,-16.739576
+CLIP ViT-B/32,clean,2082,2,car,34.716255,-20.98515
+CLIP ViT-B/32,clean,2392,2,car,37.065556,-18.329292
+CLIP ViT-B/32,clean,2502,2,car,40.32432,-18.311085
+CLIP ViT-B/32,clean,3024,2,car,35.232647,-21.656717
+CLIP ViT-B/32,clean,3067,2,car,36.79508,-18.512829
+CLIP ViT-B/32,clean,3163,2,car,34.50382,-17.048325
+CLIP ViT-B/32,clean,3362,2,car,40.108734,-18.667238
+CLIP ViT-B/32,clean,3454,2,car,36.051983,-16.68766
+CLIP ViT-B/32,clean,3755,2,car,34.243935,-15.286928
+CLIP ViT-B/32,clean,4065,2,car,35.291386,-16.155176
+CLIP ViT-B/32,clean,4735,2,car,35.336117,-21.809196
+CLIP ViT-B/32,clean,4913,2,car,36.11087,-20.29058
+CLIP ViT-B/32,clean,4921,2,car,36.094643,-15.084421
+CLIP ViT-B/32,clean,5030,2,car,40.505966,-18.0644
+CLIP ViT-B/32,clean,5183,2,car,39.16868,-18.956686
+CLIP ViT-B/32,clean,5218,2,car,40.136,-18.311792
+CLIP ViT-B/32,clean,5237,2,car,35.83488,-20.362082
+CLIP ViT-B/32,clean,5318,2,car,32.890514,-15.409255
+CLIP ViT-B/32,clean,5333,2,car,36.537598,-18.622204
+CLIP ViT-B/32,clean,5395,2,car,34.880787,-16.539286
+CLIP ViT-B/32,clean,5512,2,car,26.066664,-16.518147
+CLIP ViT-B/32,clean,5677,2,car,34.858562,-16.638874
+CLIP ViT-B/32,clean,5756,2,car,36.335064,-15.762504
+CLIP ViT-B/32,clean,5824,2,car,33.320538,-15.22454
+CLIP ViT-B/32,clean,6028,2,car,36.52232,-16.66428
+CLIP ViT-B/32,clean,6244,2,car,35.582073,-16.10197
+CLIP ViT-B/32,clean,6264,2,car,36.799885,-15.516849
+CLIP ViT-B/32,clean,6271,2,car,40.077835,-17.828182
+CLIP ViT-B/32,clean,6332,2,car,35.380947,-21.827871
+CLIP ViT-B/32,clean,6354,2,car,34.558872,-19.893784
+CLIP ViT-B/32,clean,6426,2,car,37.387566,-16.705378
+CLIP ViT-B/32,clean,6503,2,car,35.14097,-20.619188
+CLIP ViT-B/32,clean,6616,2,car,35.74944,-17.348673
+CLIP ViT-B/32,clean,6692,2,car,35.105095,-21.36491
+CLIP ViT-B/32,clean,7084,2,car,35.46631,-15.065678
+CLIP ViT-B/32,clean,7425,2,car,37.00689,-15.679713
+CLIP ViT-B/32,clean,176,3,cat,8.634727,25.707678
+CLIP ViT-B/32,clean,365,3,cat,10.199193,18.348625
+CLIP ViT-B/32,clean,372,3,cat,11.142375,18.690823
+CLIP ViT-B/32,clean,391,3,cat,10.617512,28.797283
+CLIP ViT-B/32,clean,632,3,cat,8.750483,26.055565
+CLIP ViT-B/32,clean,672,3,cat,8.932972,28.155449
+CLIP ViT-B/32,clean,677,3,cat,9.044651,18.476639
+CLIP ViT-B/32,clean,738,3,cat,9.663387,18.50915
+CLIP ViT-B/32,clean,791,3,cat,9.0000305,18.432276
+CLIP ViT-B/32,clean,979,3,cat,9.390774,16.201853
+CLIP ViT-B/32,clean,1204,3,cat,9.336868,25.557886
+CLIP ViT-B/32,clean,1263,3,cat,8.001324,27.755814
+CLIP ViT-B/32,clean,1370,3,cat,10.379572,18.273794
+CLIP ViT-B/32,clean,1401,3,cat,8.222911,20.132647
+CLIP ViT-B/32,clean,1431,3,cat,9.964765,17.698805
+CLIP ViT-B/32,clean,1531,3,cat,17.884003,17.753786
+CLIP ViT-B/32,clean,1563,3,cat,8.654548,29.655447
+CLIP ViT-B/32,clean,2028,3,cat,9.044033,28.121717
+CLIP ViT-B/32,clean,2291,3,cat,8.756079,28.895363
+CLIP ViT-B/32,clean,2536,3,cat,8.419459,26.380728
+CLIP ViT-B/32,clean,2539,3,cat,8.387887,24.966768
+CLIP ViT-B/32,clean,2754,3,cat,9.628166,26.482052
+CLIP ViT-B/32,clean,2861,3,cat,8.513249,19.080276
+CLIP ViT-B/32,clean,3276,3,cat,7.308456,27.730919
+CLIP ViT-B/32,clean,3375,3,cat,8.107943,28.383703
+CLIP ViT-B/32,clean,3383,3,cat,8.596287,26.54925
+CLIP ViT-B/32,clean,3562,3,cat,17.23658,19.501963
+CLIP ViT-B/32,clean,3778,3,cat,8.157576,19.35332
+CLIP ViT-B/32,clean,3851,3,cat,9.245401,17.663958
+CLIP ViT-B/32,clean,3914,3,cat,9.741559,26.533812
+CLIP ViT-B/32,clean,4023,3,cat,7.1459193,29.008595
+CLIP ViT-B/32,clean,4168,3,cat,9.662606,16.587885
+CLIP ViT-B/32,clean,4215,3,cat,9.30836,16.380344
+CLIP ViT-B/32,clean,4229,3,cat,9.547076,25.814877
+CLIP ViT-B/32,clean,4323,3,cat,10.412566,17.399786
+CLIP ViT-B/32,clean,4330,3,cat,16.486439,18.21482
+CLIP ViT-B/32,clean,4463,3,cat,8.726706,20.106644
+CLIP ViT-B/32,clean,4531,3,cat,8.252303,27.924463
+CLIP ViT-B/32,clean,4590,3,cat,8.325691,18.795954
+CLIP ViT-B/32,clean,4609,3,cat,10.824035,29.04446
+CLIP ViT-B/32,clean,4821,3,cat,10.294014,19.446661
+CLIP ViT-B/32,clean,4881,3,cat,8.001831,26.197954
+CLIP ViT-B/32,clean,4908,3,cat,10.737952,19.652565
+CLIP ViT-B/32,clean,5528,3,cat,11.068935,19.277332
+CLIP ViT-B/32,clean,6490,3,cat,8.469275,25.784676
+CLIP ViT-B/32,clean,6952,3,cat,10.487656,18.269188
+CLIP ViT-B/32,clean,7416,3,cat,9.985409,18.104588
+CLIP ViT-B/32,clean,7744,3,cat,10.109158,17.428556
+CLIP ViT-B/32,clean,7793,3,cat,11.4310255,17.278515
+CLIP ViT-B/32,clean,7797,3,cat,10.265972,26.156649
+CLIP ViT-B/32,clean,171,4,deer,30.000683,20.254091
+CLIP ViT-B/32,clean,506,4,deer,31.858215,21.056847
+CLIP ViT-B/32,clean,691,4,deer,29.292133,21.664253
+CLIP ViT-B/32,clean,766,4,deer,23.757092,3.5751448
+CLIP ViT-B/32,clean,855,4,deer,29.707438,17.178541
+CLIP ViT-B/32,clean,1111,4,deer,31.303244,18.603027
+CLIP ViT-B/32,clean,1124,4,deer,28.397676,19.954733
+CLIP ViT-B/32,clean,1211,4,deer,30.12123,17.964996
+CLIP ViT-B/32,clean,1266,4,deer,29.062649,20.16501
+CLIP ViT-B/32,clean,1429,4,deer,30.59202,21.606434
+CLIP ViT-B/32,clean,1960,4,deer,28.942232,18.385895
+CLIP ViT-B/32,clean,2399,4,deer,32.915443,16.666363
+CLIP ViT-B/32,clean,2704,4,deer,29.473753,19.26643
+CLIP ViT-B/32,clean,2757,4,deer,30.242022,16.454128
+CLIP ViT-B/32,clean,2898,4,deer,30.609745,19.480684
+CLIP ViT-B/32,clean,3034,4,deer,30.89124,17.72233
+CLIP ViT-B/32,clean,3078,4,deer,32.017048,20.824038
+CLIP ViT-B/32,clean,3122,4,deer,27.542616,21.328695
+CLIP ViT-B/32,clean,3179,4,deer,33.470013,19.976835
+CLIP ViT-B/32,clean,3287,4,deer,30.85738,19.469217
+CLIP ViT-B/32,clean,3365,4,deer,32.773422,17.10283
+CLIP ViT-B/32,clean,3458,4,deer,31.819563,19.394747
+CLIP ViT-B/32,clean,3512,4,deer,28.859861,20.223146
+CLIP ViT-B/32,clean,3763,4,deer,32.70139,18.803377
+CLIP ViT-B/32,clean,3891,4,deer,29.147673,19.760801
+CLIP ViT-B/32,clean,3994,4,deer,29.320885,20.054708
+CLIP ViT-B/32,clean,4054,4,deer,33.353752,18.343618
+CLIP ViT-B/32,clean,4629,4,deer,31.250261,20.405794
+CLIP ViT-B/32,clean,4642,4,deer,29.701794,19.362537
+CLIP ViT-B/32,clean,4740,4,deer,30.632036,17.68748
+CLIP ViT-B/32,clean,5062,4,deer,29.621714,18.79263
+CLIP ViT-B/32,clean,5077,4,deer,31.771952,18.41022
+CLIP ViT-B/32,clean,5135,4,deer,29.078154,17.756035
+CLIP ViT-B/32,clean,5213,4,deer,31.87672,17.34678
+CLIP ViT-B/32,clean,5402,4,deer,32.939125,18.332699
+CLIP ViT-B/32,clean,5467,4,deer,32.209652,18.168177
+CLIP ViT-B/32,clean,5556,4,deer,31.932276,19.01737
+CLIP ViT-B/32,clean,5623,4,deer,32.996365,19.442703
+CLIP ViT-B/32,clean,5789,4,deer,33.163136,17.661514
+CLIP ViT-B/32,clean,6033,4,deer,30.986443,20.771416
+CLIP ViT-B/32,clean,6097,4,deer,32.933277,18.387278
+CLIP ViT-B/32,clean,6288,4,deer,28.674515,21.481544
+CLIP ViT-B/32,clean,6508,4,deer,32.01752,18.235851
+CLIP ViT-B/32,clean,6528,4,deer,27.914978,18.27468
+CLIP ViT-B/32,clean,7475,4,deer,33.096207,17.73419
+CLIP ViT-B/32,clean,7610,4,deer,28.662022,21.316107
+CLIP ViT-B/32,clean,7692,4,deer,32.489983,21.234087
+CLIP ViT-B/32,clean,7864,4,deer,32.989098,18.517292
+CLIP ViT-B/32,clean,7940,4,deer,29.712006,20.222448
+CLIP ViT-B/32,clean,7944,4,deer,27.664494,20.079355
+CLIP ViT-B/32,clean,97,5,dog,15.522187,14.698057
+CLIP ViT-B/32,clean,319,5,dog,13.567091,13.642739
+CLIP ViT-B/32,clean,378,5,dog,14.382389,15.665504
+CLIP ViT-B/32,clean,568,5,dog,12.392144,14.762865
+CLIP ViT-B/32,clean,645,5,dog,17.482365,15.398568
+CLIP ViT-B/32,clean,685,5,dog,14.076404,15.590018
+CLIP ViT-B/32,clean,1095,5,dog,14.090006,16.179289
+CLIP ViT-B/32,clean,1552,5,dog,18.071388,17.236801
+CLIP ViT-B/32,clean,1626,5,dog,15.180457,15.1098175
+CLIP ViT-B/32,clean,1644,5,dog,16.059202,14.388015
+CLIP ViT-B/32,clean,1877,5,dog,17.585972,15.619273
+CLIP ViT-B/32,clean,2265,5,dog,17.008131,14.763335
+CLIP ViT-B/32,clean,2268,5,dog,14.137798,14.774647
+CLIP ViT-B/32,clean,2334,5,dog,16.451164,14.273368
+CLIP ViT-B/32,clean,2391,5,dog,19.29938,15.811426
+CLIP ViT-B/32,clean,2427,5,dog,16.372763,13.888643
+CLIP ViT-B/32,clean,2458,5,dog,15.984593,15.658595
+CLIP ViT-B/32,clean,2623,5,dog,13.599471,16.28052
+CLIP ViT-B/32,clean,2766,5,dog,14.71599,14.316815
+CLIP ViT-B/32,clean,2807,5,dog,19.812151,17.43234
+CLIP ViT-B/32,clean,2950,5,dog,13.508418,15.53212
+CLIP ViT-B/32,clean,3353,5,dog,14.353913,17.93192
+CLIP ViT-B/32,clean,3852,5,dog,13.0930395,14.230103
+CLIP ViT-B/32,clean,3863,5,dog,16.015823,12.5683155
+CLIP ViT-B/32,clean,3889,5,dog,15.084973,15.047097
+CLIP ViT-B/32,clean,4106,5,dog,18.776508,16.308989
+CLIP ViT-B/32,clean,4290,5,dog,19.839666,15.962425
+CLIP ViT-B/32,clean,4547,5,dog,13.419196,14.709713
+CLIP ViT-B/32,clean,4570,5,dog,16.94942,13.764887
+CLIP ViT-B/32,clean,4850,5,dog,13.647609,15.721818
+CLIP ViT-B/32,clean,4953,5,dog,14.070075,12.892502
+CLIP ViT-B/32,clean,4966,5,dog,12.819787,13.547189
+CLIP ViT-B/32,clean,5101,5,dog,16.167849,15.128471
+CLIP ViT-B/32,clean,5332,5,dog,18.005972,15.900819
+CLIP ViT-B/32,clean,5381,5,dog,16.707434,16.89473
+CLIP ViT-B/32,clean,5496,5,dog,14.014515,13.603681
+CLIP ViT-B/32,clean,5701,5,dog,12.808858,14.800239
+CLIP ViT-B/32,clean,5924,5,dog,18.227034,18.223467
+CLIP ViT-B/32,clean,6224,5,dog,17.427717,13.255007
+CLIP ViT-B/32,clean,6358,5,dog,14.721012,18.048225
+CLIP ViT-B/32,clean,6414,5,dog,13.061697,17.331842
+CLIP ViT-B/32,clean,6716,5,dog,13.768254,12.495003
+CLIP ViT-B/32,clean,6922,5,dog,17.646492,14.75064
+CLIP ViT-B/32,clean,6989,5,dog,17.99276,12.242213
+CLIP ViT-B/32,clean,7041,5,dog,13.762486,17.849209
+CLIP ViT-B/32,clean,7130,5,dog,16.155409,13.093127
+CLIP ViT-B/32,clean,7413,5,dog,10.632639,29.047573
+CLIP ViT-B/32,clean,7474,5,dog,18.123783,15.267748
+CLIP ViT-B/32,clean,7706,5,dog,12.953435,12.525135
+CLIP ViT-B/32,clean,7776,5,dog,17.726393,13.794333
+CLIP ViT-B/32,clean,449,6,horse,23.588484,4.9759135
+CLIP ViT-B/32,clean,545,6,horse,24.486666,0.99365276
+CLIP ViT-B/32,clean,873,6,horse,28.98631,16.192188
+CLIP ViT-B/32,clean,890,6,horse,24.063593,4.4232507
+CLIP ViT-B/32,clean,920,6,horse,23.597952,6.6815343
+CLIP ViT-B/32,clean,929,6,horse,26.97013,5.085843
+CLIP ViT-B/32,clean,964,6,horse,28.331678,4.034833
+CLIP ViT-B/32,clean,977,6,horse,25.772175,5.048487
+CLIP ViT-B/32,clean,1534,6,horse,24.09197,0.79024494
+CLIP ViT-B/32,clean,1667,6,horse,24.99966,2.3656127
+CLIP ViT-B/32,clean,2003,6,horse,26.611444,4.6368303
+CLIP ViT-B/32,clean,2610,6,horse,29.078571,3.1613593
+CLIP ViT-B/32,clean,2676,6,horse,27.044483,1.7588834
+CLIP ViT-B/32,clean,2958,6,horse,25.640753,5.695287
+CLIP ViT-B/32,clean,3191,6,horse,24.390482,1.5824946
+CLIP ViT-B/32,clean,3292,6,horse,28.10283,2.0637984
+CLIP ViT-B/32,clean,3418,6,horse,26.393267,6.157976
+CLIP ViT-B/32,clean,3494,6,horse,26.743975,4.1288023
+CLIP ViT-B/32,clean,3515,6,horse,23.95689,6.5689497
+CLIP ViT-B/32,clean,3777,6,horse,24.64735,4.964337
+CLIP ViT-B/32,clean,3779,6,horse,24.279335,5.90958
+CLIP ViT-B/32,clean,3844,6,horse,25.751287,6.91696
+CLIP ViT-B/32,clean,3962,6,horse,24.565744,6.585129
+CLIP ViT-B/32,clean,4011,6,horse,27.867702,4.5107374
+CLIP ViT-B/32,clean,4093,6,horse,28.30156,3.9535787
+CLIP ViT-B/32,clean,4254,6,horse,24.325916,6.8892856
+CLIP ViT-B/32,clean,4341,6,horse,24.285091,4.83028
+CLIP ViT-B/32,clean,4411,6,horse,28.747131,2.9918435
+CLIP ViT-B/32,clean,4620,6,horse,28.018646,2.391219
+CLIP ViT-B/32,clean,4731,6,horse,26.009565,5.559325
+CLIP ViT-B/32,clean,4746,6,horse,24.192314,7.2437024
+CLIP ViT-B/32,clean,4754,6,horse,25.373,6.4018054
+CLIP ViT-B/32,clean,4827,6,horse,29.708181,4.0107417
+CLIP ViT-B/32,clean,5082,6,horse,26.24949,6.0294623
+CLIP ViT-B/32,clean,5382,6,horse,25.675518,1.1570218
+CLIP ViT-B/32,clean,5408,6,horse,25.0509,7.3251853
+CLIP ViT-B/32,clean,5580,6,horse,26.690125,5.4458957
+CLIP ViT-B/32,clean,5729,6,horse,24.87176,4.7230773
+CLIP ViT-B/32,clean,5857,6,horse,25.459251,2.8081973
+CLIP ViT-B/32,clean,5858,6,horse,24.260735,7.0424404
+CLIP ViT-B/32,clean,6381,6,horse,25.84191,1.2353194
+CLIP ViT-B/32,clean,6713,6,horse,24.970276,1.0708748
+CLIP ViT-B/32,clean,7108,6,horse,24.327726,5.4909887
+CLIP ViT-B/32,clean,7338,6,horse,25.689407,3.027876
+CLIP ViT-B/32,clean,7555,6,horse,24.296413,2.3743227
+CLIP ViT-B/32,clean,7600,6,horse,29.758224,4.1909447
+CLIP ViT-B/32,clean,7726,6,horse,24.941628,5.8896766
+CLIP ViT-B/32,clean,7779,6,horse,28.008478,3.1356745
+CLIP ViT-B/32,clean,7781,6,horse,24.060148,7.537264
+CLIP ViT-B/32,clean,7996,6,horse,26.198933,3.8835769
+CLIP ViT-B/32,clean,29,7,monkey,2.2424872,33.41906
+CLIP ViT-B/32,clean,269,7,monkey,2.0641038,33.06606
+CLIP ViT-B/32,clean,323,7,monkey,1.9601113,32.10533
+CLIP ViT-B/32,clean,370,7,monkey,3.6908119,33.32107
+CLIP ViT-B/32,clean,1032,7,monkey,6.1742496,35.208904
+CLIP ViT-B/32,clean,1048,7,monkey,7.1203556,34.131195
+CLIP ViT-B/32,clean,1220,7,monkey,5.0632133,31.204985
+CLIP ViT-B/32,clean,1287,7,monkey,6.4037104,29.708244
+CLIP ViT-B/32,clean,1296,7,monkey,5.0887017,31.953083
+CLIP ViT-B/32,clean,1440,7,monkey,4.5874963,31.735394
+CLIP ViT-B/32,clean,1473,7,monkey,3.601277,35.457848
+CLIP ViT-B/32,clean,1579,7,monkey,2.1195521,35.23353
+CLIP ViT-B/32,clean,1703,7,monkey,5.235032,29.727236
+CLIP ViT-B/32,clean,1711,7,monkey,2.2574425,35.208
+CLIP ViT-B/32,clean,1771,7,monkey,1.3206803,32.8241
+CLIP ViT-B/32,clean,1884,7,monkey,7.060839,33.10607
+CLIP ViT-B/32,clean,1927,7,monkey,2.558687,31.317064
+CLIP ViT-B/32,clean,1956,7,monkey,7.32536,31.969458
+CLIP ViT-B/32,clean,2501,7,monkey,5.645114,33.159145
+CLIP ViT-B/32,clean,2668,7,monkey,4.3415594,30.955967
+CLIP ViT-B/32,clean,2746,7,monkey,3.4861624,32.060635
+CLIP ViT-B/32,clean,2854,7,monkey,4.2074766,31.253021
+CLIP ViT-B/32,clean,3153,7,monkey,5.392129,30.640839
+CLIP ViT-B/32,clean,3288,7,monkey,4.393576,32.571835
+CLIP ViT-B/32,clean,3404,7,monkey,3.948634,33.370518
+CLIP ViT-B/32,clean,3446,7,monkey,5.677903,34.195
+CLIP ViT-B/32,clean,3467,7,monkey,4.246682,29.788576
+CLIP ViT-B/32,clean,3542,7,monkey,3.3516748,32.835335
+CLIP ViT-B/32,clean,3867,7,monkey,4.9858713,33.24362
+CLIP ViT-B/32,clean,4172,7,monkey,4.9837527,30.624077
+CLIP ViT-B/32,clean,4236,7,monkey,4.8229384,34.426483
+CLIP ViT-B/32,clean,4308,7,monkey,3.653666,34.221165
+CLIP ViT-B/32,clean,4403,7,monkey,4.2004347,32.697308
+CLIP ViT-B/32,clean,4661,7,monkey,5.3462405,31.08742
+CLIP ViT-B/32,clean,4704,7,monkey,4.9740925,32.713043
+CLIP ViT-B/32,clean,4748,7,monkey,4.3200893,34.398468
+CLIP ViT-B/32,clean,4791,7,monkey,4.167676,33.658485
+CLIP ViT-B/32,clean,5436,7,monkey,3.8882751,31.613749
+CLIP ViT-B/32,clean,5450,7,monkey,4.8634267,34.8928
+CLIP ViT-B/32,clean,5719,7,monkey,4.4571247,35.314255
+CLIP ViT-B/32,clean,5848,7,monkey,4.6828513,32.35896
+CLIP ViT-B/32,clean,5977,7,monkey,5.777633,35.092186
+CLIP ViT-B/32,clean,6084,7,monkey,6.01338,35.36762
+CLIP ViT-B/32,clean,6190,7,monkey,3.5311213,31.776064
+CLIP ViT-B/32,clean,6650,7,monkey,6.874956,32.86114
+CLIP ViT-B/32,clean,6726,7,monkey,3.3415437,30.601252
+CLIP ViT-B/32,clean,6772,7,monkey,7.2736416,32.488773
+CLIP ViT-B/32,clean,7081,7,monkey,6.3231587,33.407368
+CLIP ViT-B/32,clean,7270,7,monkey,6.9040422,31.412102
+CLIP ViT-B/32,clean,7835,7,monkey,5.3374195,33.965775
+CLIP ViT-B/32,clean,151,8,ship,0.5714743,-39.89258
+CLIP ViT-B/32,clean,194,8,ship,2.1140118,-40.169193
+CLIP ViT-B/32,clean,667,8,ship,3.1902456,-42.005882
+CLIP ViT-B/32,clean,706,8,ship,5.273883,-38.691895
+CLIP ViT-B/32,clean,716,8,ship,-0.27758762,-39.94215
+CLIP ViT-B/32,clean,739,8,ship,0.8970749,-39.344402
+CLIP ViT-B/32,clean,962,8,ship,0.66177785,-40.695
+CLIP ViT-B/32,clean,1129,8,ship,5.081834,-40.3774
+CLIP ViT-B/32,clean,1247,8,ship,-0.26916385,-38.830803
+CLIP ViT-B/32,clean,1640,8,ship,1.8377403,-41.34893
+CLIP ViT-B/32,clean,1783,8,ship,1.9614908,-40.793972
+CLIP ViT-B/32,clean,1833,8,ship,0.009828481,-39.603035
+CLIP ViT-B/32,clean,1954,8,ship,5.5461707,-41.27134
+CLIP ViT-B/32,clean,2109,8,ship,4.570601,-39.727104
+CLIP ViT-B/32,clean,2191,8,ship,2.9528186,-40.99941
+CLIP ViT-B/32,clean,2230,8,ship,-0.3157065,-40.56644
+CLIP ViT-B/32,clean,2340,8,ship,0.8026573,-41.195133
+CLIP ViT-B/32,clean,2342,8,ship,1.4959432,-41.889797
+CLIP ViT-B/32,clean,2745,8,ship,1.6055537,-39.98516
+CLIP ViT-B/32,clean,2844,8,ship,4.414044,-37.794956
+CLIP ViT-B/32,clean,3015,8,ship,1.0242535,-40.566864
+CLIP ViT-B/32,clean,3157,8,ship,0.44503042,-41.12103
+CLIP ViT-B/32,clean,3412,8,ship,2.8756683,-42.098236
+CLIP ViT-B/32,clean,3905,8,ship,3.965264,-37.61698
+CLIP ViT-B/32,clean,3948,8,ship,4.4062223,-38.13969
+CLIP ViT-B/32,clean,4069,8,ship,6.2942667,-38.883205
+CLIP ViT-B/32,clean,4170,8,ship,3.2856286,-39.48221
+CLIP ViT-B/32,clean,4177,8,ship,0.8274247,-40.18194
+CLIP ViT-B/32,clean,4242,8,ship,0.21930367,-39.50199
+CLIP ViT-B/32,clean,4311,8,ship,1.2827953,-40.753654
+CLIP ViT-B/32,clean,4355,8,ship,2.033915,-39.06998
+CLIP ViT-B/32,clean,4552,8,ship,0.7001602,-38.77909
+CLIP ViT-B/32,clean,4662,8,ship,0.809899,-41.62703
+CLIP ViT-B/32,clean,4676,8,ship,1.7653178,-40.249203
+CLIP ViT-B/32,clean,4990,8,ship,1.6299976,-38.507843
+CLIP ViT-B/32,clean,5000,8,ship,2.0600424,-39.340042
+CLIP ViT-B/32,clean,5451,8,ship,3.1277,-41.457043
+CLIP ViT-B/32,clean,5525,8,ship,5.0371327,-40.43159
+CLIP ViT-B/32,clean,5694,8,ship,4.064795,-37.510353
+CLIP ViT-B/32,clean,5705,8,ship,1.4486792,-41.0995
+CLIP ViT-B/32,clean,6434,8,ship,3.2935565,-41.766987
+CLIP ViT-B/32,clean,6689,8,ship,3.2625074,-39.534687
+CLIP ViT-B/32,clean,7138,8,ship,2.0876524,-41.978447
+CLIP ViT-B/32,clean,7446,8,ship,4.8507967,-39.350967
+CLIP ViT-B/32,clean,7460,8,ship,5.546619,-39.32804
+CLIP ViT-B/32,clean,7476,8,ship,6.0467315,-41.230457
+CLIP ViT-B/32,clean,7810,8,ship,3.9616842,-40.825855
+CLIP ViT-B/32,clean,7818,8,ship,1.0686644,-39.038784
+CLIP ViT-B/32,clean,7875,8,ship,5.6715097,-39.116055
+CLIP ViT-B/32,clean,7999,8,ship,4.0803595,-41.712124
+CLIP ViT-B/32,clean,131,9,truck,27.705305,-16.918156
+CLIP ViT-B/32,clean,191,9,truck,31.912706,-18.4573
+CLIP ViT-B/32,clean,239,9,truck,27.550531,-18.698221
+CLIP ViT-B/32,clean,276,9,truck,26.242119,-16.729502
+CLIP ViT-B/32,clean,303,9,truck,28.68414,-20.666416
+CLIP ViT-B/32,clean,419,9,truck,27.03247,-18.971125
+CLIP ViT-B/32,clean,603,9,truck,27.610502,-19.09177
+CLIP ViT-B/32,clean,805,9,truck,25.046999,-17.054281
+CLIP ViT-B/32,clean,852,9,truck,28.373579,-19.78863
+CLIP ViT-B/32,clean,1022,9,truck,29.453651,-16.97256
+CLIP ViT-B/32,clean,1411,9,truck,28.970474,-19.943937
+CLIP ViT-B/32,clean,1430,9,truck,28.143784,-17.610435
+CLIP ViT-B/32,clean,1468,9,truck,24.331568,-18.365322
+CLIP ViT-B/32,clean,1515,9,truck,30.132282,-19.901752
+CLIP ViT-B/32,clean,1654,9,truck,27.738005,-16.604908
+CLIP ViT-B/32,clean,1836,9,truck,29.363058,-18.972115
+CLIP ViT-B/32,clean,2011,9,truck,28.78347,-18.911394
+CLIP ViT-B/32,clean,2062,9,truck,28.841047,-20.868624
+CLIP ViT-B/32,clean,2114,9,truck,24.277355,-18.4925
+CLIP ViT-B/32,clean,2167,9,truck,29.454103,-19.080242
+CLIP ViT-B/32,clean,2351,9,truck,29.40295,-20.65896
+CLIP ViT-B/32,clean,2414,9,truck,26.480587,-15.010782
+CLIP ViT-B/32,clean,2655,9,truck,29.050728,-15.211745
+CLIP ViT-B/32,clean,3318,9,truck,28.771364,-15.414959
+CLIP ViT-B/32,clean,3893,9,truck,30.0632,-17.793253
+CLIP ViT-B/32,clean,3942,9,truck,27.947144,-15.904419
+CLIP ViT-B/32,clean,3996,9,truck,28.66832,-21.762573
+CLIP ViT-B/32,clean,4094,9,truck,27.763119,-20.378803
+CLIP ViT-B/32,clean,4449,9,truck,26.24559,-17.445547
+CLIP ViT-B/32,clean,4723,9,truck,26.74435,-15.251698
+CLIP ViT-B/32,clean,5284,9,truck,27.135765,-17.397512
+CLIP ViT-B/32,clean,5301,9,truck,26.93384,-17.966219
+CLIP ViT-B/32,clean,5360,9,truck,24.75037,-18.631361
+CLIP ViT-B/32,clean,5447,9,truck,28.17064,-21.293665
+CLIP ViT-B/32,clean,5452,9,truck,28.015823,-18.716421
+CLIP ViT-B/32,clean,5508,9,truck,29.791243,-21.387619
+CLIP ViT-B/32,clean,5572,9,truck,28.868168,-17.020292
+CLIP ViT-B/32,clean,5590,9,truck,27.609041,-20.773226
+CLIP ViT-B/32,clean,5788,9,truck,24.326931,-18.490347
+CLIP ViT-B/32,clean,5851,9,truck,28.928999,-20.474413
+CLIP ViT-B/32,clean,5915,9,truck,25.96524,-17.3923
+CLIP ViT-B/32,clean,5981,9,truck,28.97365,-18.140644
+CLIP ViT-B/32,clean,6931,9,truck,26.90788,-15.317703
+CLIP ViT-B/32,clean,7047,9,truck,28.587112,-20.29384
+CLIP ViT-B/32,clean,7266,9,truck,27.459333,-16.651157
+CLIP ViT-B/32,clean,7380,9,truck,28.780745,-20.785295
+CLIP ViT-B/32,clean,7544,9,truck,24.33832,-18.239948
+CLIP ViT-B/32,clean,7752,9,truck,24.254585,-18.411963
+CLIP ViT-B/32,clean,7938,9,truck,28.101135,-16.164078
+CLIP ViT-B/32,clean,7995,9,truck,30.796242,-19.785261
+CLIP ViT-B/32,patch_shuffle,3,0,airplane,-24.128685,-3.4760644
+CLIP ViT-B/32,patch_shuffle,42,0,airplane,-41.11237,8.496376
+CLIP ViT-B/32,patch_shuffle,81,0,airplane,-38.273064,-0.31082928
+CLIP ViT-B/32,patch_shuffle,484,0,airplane,-27.556156,8.327044
+CLIP ViT-B/32,patch_shuffle,562,0,airplane,-37.39268,10.286386
+CLIP ViT-B/32,patch_shuffle,1175,0,airplane,-38.46957,6.392126
+CLIP ViT-B/32,patch_shuffle,1389,0,airplane,-37.40117,6.9220314
+CLIP ViT-B/32,patch_shuffle,1553,0,airplane,-36.26288,6.1298842
+CLIP ViT-B/32,patch_shuffle,1596,0,airplane,-9.665884,6.4993486
+CLIP ViT-B/32,patch_shuffle,1648,0,airplane,-38.676666,7.0740423
+CLIP ViT-B/32,patch_shuffle,1977,0,airplane,-36.80784,5.5944614
+CLIP ViT-B/32,patch_shuffle,2024,0,airplane,-35.87396,8.970977
+CLIP ViT-B/32,patch_shuffle,2242,0,airplane,-15.470285,-12.744424
+CLIP ViT-B/32,patch_shuffle,2750,0,airplane,-6.863547,3.9317496
+CLIP ViT-B/32,patch_shuffle,2888,0,airplane,-7.217843,3.457794
+CLIP ViT-B/32,patch_shuffle,3025,0,airplane,-37.535084,-0.32595372
+CLIP ViT-B/32,patch_shuffle,3083,0,airplane,-9.647973,6.241992
+CLIP ViT-B/32,patch_shuffle,3347,0,airplane,-36.047504,2.9674475
+CLIP ViT-B/32,patch_shuffle,3437,0,airplane,-7.5970526,2.4159403
+CLIP ViT-B/32,patch_shuffle,3455,0,airplane,-34.09286,5.9856157
+CLIP ViT-B/32,patch_shuffle,3876,0,airplane,-24.790653,1.7878648
+CLIP ViT-B/32,patch_shuffle,3965,0,airplane,-38.81293,8.023716
+CLIP ViT-B/32,patch_shuffle,4130,0,airplane,-38.924374,8.209489
+CLIP ViT-B/32,patch_shuffle,4399,0,airplane,-12.654922,0.95140696
+CLIP ViT-B/32,patch_shuffle,4539,0,airplane,-38.22798,5.8057246
+CLIP ViT-B/32,patch_shuffle,4615,0,airplane,-38.414413,8.606795
+CLIP ViT-B/32,patch_shuffle,4617,0,airplane,-40.541042,7.120885
+CLIP ViT-B/32,patch_shuffle,4675,0,airplane,-37.42502,4.5240197
+CLIP ViT-B/32,patch_shuffle,4785,0,airplane,-29.581469,-2.5101392
+CLIP ViT-B/32,patch_shuffle,4819,0,airplane,-36.407997,7.328443
+CLIP ViT-B/32,patch_shuffle,4893,0,airplane,-40.16101,7.0441065
+CLIP ViT-B/32,patch_shuffle,5117,0,airplane,-37.436436,5.723514
+CLIP ViT-B/32,patch_shuffle,5478,0,airplane,-35.919514,7.897385
+CLIP ViT-B/32,patch_shuffle,5912,0,airplane,-38.63598,4.2467093
+CLIP ViT-B/32,patch_shuffle,5918,0,airplane,-39.826286,6.3590136
+CLIP ViT-B/32,patch_shuffle,5999,0,airplane,-35.771553,3.5134418
+CLIP ViT-B/32,patch_shuffle,6437,0,airplane,-37.30736,8.753444
+CLIP ViT-B/32,patch_shuffle,6455,0,airplane,-33.139427,6.4370437
+CLIP ViT-B/32,patch_shuffle,6609,0,airplane,-7.8269777,-13.476242
+CLIP ViT-B/32,patch_shuffle,6844,0,airplane,-41.468895,7.236403
+CLIP ViT-B/32,patch_shuffle,6986,0,airplane,-25.971737,7.4494715
+CLIP ViT-B/32,patch_shuffle,7009,0,airplane,-22.645283,5.86901
+CLIP ViT-B/32,patch_shuffle,7150,0,airplane,-39.853752,7.7258544
+CLIP ViT-B/32,patch_shuffle,7262,0,airplane,-41.489525,7.376756
+CLIP ViT-B/32,patch_shuffle,7309,0,airplane,-34.178314,4.544913
+CLIP ViT-B/32,patch_shuffle,7320,0,airplane,-20.06856,-2.123838
+CLIP ViT-B/32,patch_shuffle,7372,0,airplane,-40.686516,8.584643
+CLIP ViT-B/32,patch_shuffle,7373,0,airplane,-22.238192,-10.05015
+CLIP ViT-B/32,patch_shuffle,7465,0,airplane,-37.82096,7.2518535
+CLIP ViT-B/32,patch_shuffle,7634,0,airplane,-41.399876,7.4732833
+CLIP ViT-B/32,patch_shuffle,95,1,bird,-25.708683,-3.1511242
+CLIP ViT-B/32,patch_shuffle,116,1,bird,-24.173893,-0.20530644
+CLIP ViT-B/32,patch_shuffle,198,1,bird,-1.874459,-4.439158
+CLIP ViT-B/32,patch_shuffle,261,1,bird,-19.256413,6.228847
+CLIP ViT-B/32,patch_shuffle,304,1,bird,2.5328157,-3.504364
+CLIP ViT-B/32,patch_shuffle,825,1,bird,-9.365623,3.020843
+CLIP ViT-B/32,patch_shuffle,1090,1,bird,-8.783926,-1.3182145
+CLIP ViT-B/32,patch_shuffle,1109,1,bird,-40.897186,4.65772
+CLIP ViT-B/32,patch_shuffle,1115,1,bird,-17.927883,-3.8911865
+CLIP ViT-B/32,patch_shuffle,1230,1,bird,-11.814895,-1.6850102
+CLIP ViT-B/32,patch_shuffle,1436,1,bird,-9.363425,2.9333797
+CLIP ViT-B/32,patch_shuffle,1568,1,bird,-16.289495,-1.8404636
+CLIP ViT-B/32,patch_shuffle,1852,1,bird,-39.33231,9.233439
+CLIP ViT-B/32,patch_shuffle,1871,1,bird,-22.451315,-2.164122
+CLIP ViT-B/32,patch_shuffle,1986,1,bird,2.6163726,-8.455921
+CLIP ViT-B/32,patch_shuffle,1993,1,bird,-14.389752,-13.722931
+CLIP ViT-B/32,patch_shuffle,2070,1,bird,-4.4081073,-11.361322
+CLIP ViT-B/32,patch_shuffle,2095,1,bird,-7.604402,-6.38035
+CLIP ViT-B/32,patch_shuffle,2116,1,bird,-11.347778,-8.787119
+CLIP ViT-B/32,patch_shuffle,2157,1,bird,-3.368191,-12.261246
+CLIP ViT-B/32,patch_shuffle,2178,1,bird,-29.763582,8.515825
+CLIP ViT-B/32,patch_shuffle,2687,1,bird,-0.78445315,-6.4245048
+CLIP ViT-B/32,patch_shuffle,2690,1,bird,-11.684523,-3.3607929
+CLIP ViT-B/32,patch_shuffle,3079,1,bird,-4.6694045,-13.251368
+CLIP ViT-B/32,patch_shuffle,3413,1,bird,-22.04737,-0.27239156
+CLIP ViT-B/32,patch_shuffle,3491,1,bird,-12.835784,2.7318575
+CLIP ViT-B/32,patch_shuffle,3550,1,bird,-39.891895,6.6255794
+CLIP ViT-B/32,patch_shuffle,3937,1,bird,-10.530318,-9.104662
+CLIP ViT-B/32,patch_shuffle,4298,1,bird,0.18221937,-10.387915
+CLIP ViT-B/32,patch_shuffle,4640,1,bird,-13.006816,2.759157
+CLIP ViT-B/32,patch_shuffle,5092,1,bird,-6.603831,-12.672453
+CLIP ViT-B/32,patch_shuffle,5123,1,bird,-3.856373,-7.740844
+CLIP ViT-B/32,patch_shuffle,5220,1,bird,-36.594887,2.5303283
+CLIP ViT-B/32,patch_shuffle,5256,1,bird,-5.3121605,-12.490893
+CLIP ViT-B/32,patch_shuffle,5488,1,bird,-6.773797,-1.9103692
+CLIP ViT-B/32,patch_shuffle,5560,1,bird,-32.374897,-3.286249
+CLIP ViT-B/32,patch_shuffle,6076,1,bird,-4.592735,-2.2557752
+CLIP ViT-B/32,patch_shuffle,6169,1,bird,-11.256611,0.81962585
+CLIP ViT-B/32,patch_shuffle,6349,1,bird,-6.929395,-7.6287727
+CLIP ViT-B/32,patch_shuffle,6594,1,bird,-30.407507,3.9185479
+CLIP ViT-B/32,patch_shuffle,6733,1,bird,-0.84938085,-9.569711
+CLIP ViT-B/32,patch_shuffle,6805,1,bird,-37.81579,7.3991213
+CLIP ViT-B/32,patch_shuffle,6836,1,bird,-6.112795,-12.43522
+CLIP ViT-B/32,patch_shuffle,6938,1,bird,-9.185349,-8.831115
+CLIP ViT-B/32,patch_shuffle,6954,1,bird,-19.222292,1.8245345
+CLIP ViT-B/32,patch_shuffle,7029,1,bird,-4.2431073,-14.302017
+CLIP ViT-B/32,patch_shuffle,7033,1,bird,-0.8432697,-0.90165603
+CLIP ViT-B/32,patch_shuffle,7202,1,bird,-30.191095,0.7812959
+CLIP ViT-B/32,patch_shuffle,7390,1,bird,-39.207973,7.6731186
+CLIP ViT-B/32,patch_shuffle,7955,1,bird,-6.462444,-7.07391
+CLIP ViT-B/32,patch_shuffle,35,2,car,-27.847355,-9.151892
+CLIP ViT-B/32,patch_shuffle,49,2,car,-16.629696,-14.666905
+CLIP ViT-B/32,patch_shuffle,317,2,car,-21.307293,-9.968803
+CLIP ViT-B/32,patch_shuffle,409,2,car,-21.615807,-12.312254
+CLIP ViT-B/32,patch_shuffle,470,2,car,-22.417805,-10.421077
+CLIP ViT-B/32,patch_shuffle,483,2,car,-28.234911,-5.97762
+CLIP ViT-B/32,patch_shuffle,714,2,car,-25.457266,-5.8972025
+CLIP ViT-B/32,patch_shuffle,981,2,car,-31.564894,-6.130552
+CLIP ViT-B/32,patch_shuffle,1202,2,car,-26.952806,-11.295611
+CLIP ViT-B/32,patch_shuffle,1403,2,car,-28.11095,-8.714958
+CLIP ViT-B/32,patch_shuffle,1520,2,car,-29.055647,4.092079
+CLIP ViT-B/32,patch_shuffle,1586,2,car,-23.933731,9.122739
+CLIP ViT-B/32,patch_shuffle,1814,2,car,-17.424643,-13.980575
+CLIP ViT-B/32,patch_shuffle,1839,2,car,-10.084888,-0.04738907
+CLIP ViT-B/32,patch_shuffle,2082,2,car,-26.70211,9.321099
+CLIP ViT-B/32,patch_shuffle,2392,2,car,-17.637564,-13.882675
+CLIP ViT-B/32,patch_shuffle,2502,2,car,-21.246582,-12.214273
+CLIP ViT-B/32,patch_shuffle,3024,2,car,-19.580965,-10.322335
+CLIP ViT-B/32,patch_shuffle,3067,2,car,-28.913576,-5.6991024
+CLIP ViT-B/32,patch_shuffle,3163,2,car,-17.609669,-13.880996
+CLIP ViT-B/32,patch_shuffle,3362,2,car,-21.820911,-12.004521
+CLIP ViT-B/32,patch_shuffle,3454,2,car,-22.390165,3.505926
+CLIP ViT-B/32,patch_shuffle,3755,2,car,-18.66653,-13.086837
+CLIP ViT-B/32,patch_shuffle,4065,2,car,-24.50173,-0.13351065
+CLIP ViT-B/32,patch_shuffle,4735,2,car,-7.8716264,-13.504636
+CLIP ViT-B/32,patch_shuffle,4913,2,car,-16.895853,-14.286622
+CLIP ViT-B/32,patch_shuffle,4921,2,car,-13.543355,-10.253375
+CLIP ViT-B/32,patch_shuffle,5030,2,car,-23.496794,-11.556199
+CLIP ViT-B/32,patch_shuffle,5183,2,car,-16.386002,-10.979159
+CLIP ViT-B/32,patch_shuffle,5218,2,car,-12.263621,-10.118263
+CLIP ViT-B/32,patch_shuffle,5237,2,car,-16.617912,-14.227838
+CLIP ViT-B/32,patch_shuffle,5318,2,car,-9.295564,0.10651915
+CLIP ViT-B/32,patch_shuffle,5333,2,car,-28.96995,-6.429599
+CLIP ViT-B/32,patch_shuffle,5395,2,car,-11.636281,-9.601529
+CLIP ViT-B/32,patch_shuffle,5512,2,car,-22.99042,1.0611057
+CLIP ViT-B/32,patch_shuffle,5677,2,car,-25.81017,1.4635413
+CLIP ViT-B/32,patch_shuffle,5756,2,car,-36.855503,-0.35124895
+CLIP ViT-B/32,patch_shuffle,5824,2,car,-29.929409,-3.3466988
+CLIP ViT-B/32,patch_shuffle,6028,2,car,-25.730587,2.328856
+CLIP ViT-B/32,patch_shuffle,6244,2,car,-25.34262,-6.454205
+CLIP ViT-B/32,patch_shuffle,6264,2,car,-7.5944576,-0.54815906
+CLIP ViT-B/32,patch_shuffle,6271,2,car,-26.936382,-11.260388
+CLIP ViT-B/32,patch_shuffle,6332,2,car,-6.5250554,3.3074315
+CLIP ViT-B/32,patch_shuffle,6354,2,car,-27.468948,-6.1900935
+CLIP ViT-B/32,patch_shuffle,6426,2,car,-27.342667,1.2295849
+CLIP ViT-B/32,patch_shuffle,6503,2,car,-30.089306,-5.468196
+CLIP ViT-B/32,patch_shuffle,6616,2,car,-7.0386357,2.8068883
+CLIP ViT-B/32,patch_shuffle,6692,2,car,-26.52913,9.265481
+CLIP ViT-B/32,patch_shuffle,7084,2,car,-7.0543523,1.4445462
+CLIP ViT-B/32,patch_shuffle,7425,2,car,-23.148344,6.020188
+CLIP ViT-B/32,patch_shuffle,176,3,cat,-16.306023,5.255978
+CLIP ViT-B/32,patch_shuffle,365,3,cat,-12.333271,-0.20377553
+CLIP ViT-B/32,patch_shuffle,372,3,cat,-40.207233,10.048936
+CLIP ViT-B/32,patch_shuffle,391,3,cat,1.0928425,-3.3818364
+CLIP ViT-B/32,patch_shuffle,632,3,cat,-2.5321846,-10.838229
+CLIP ViT-B/32,patch_shuffle,672,3,cat,-16.221087,-0.9541001
+CLIP ViT-B/32,patch_shuffle,677,3,cat,-22.097385,-3.6314843
+CLIP ViT-B/32,patch_shuffle,738,3,cat,-26.028097,-3.382039
+CLIP ViT-B/32,patch_shuffle,791,3,cat,-19.761372,0.692119
+CLIP ViT-B/32,patch_shuffle,979,3,cat,-2.819841,-5.0530024
+CLIP ViT-B/32,patch_shuffle,1204,3,cat,0.63917136,-3.0397918
+CLIP ViT-B/32,patch_shuffle,1263,3,cat,-18.019705,-2.1737795
+CLIP ViT-B/32,patch_shuffle,1370,3,cat,-16.530645,-6.1126537
+CLIP ViT-B/32,patch_shuffle,1401,3,cat,-36.175613,1.880872
+CLIP ViT-B/32,patch_shuffle,1431,3,cat,-23.69739,6.4491897
+CLIP ViT-B/32,patch_shuffle,1531,3,cat,1.3330994,-10.235028
+CLIP ViT-B/32,patch_shuffle,1563,3,cat,-5.406211,-11.124794
+CLIP ViT-B/32,patch_shuffle,2028,3,cat,-39.06111,4.0801086
+CLIP ViT-B/32,patch_shuffle,2291,3,cat,-0.6105132,-7.772236
+CLIP ViT-B/32,patch_shuffle,2536,3,cat,-3.3969998,-8.805192
+CLIP ViT-B/32,patch_shuffle,2539,3,cat,-18.86422,6.0278153
+CLIP ViT-B/32,patch_shuffle,2754,3,cat,-14.317796,0.07466755
+CLIP ViT-B/32,patch_shuffle,2861,3,cat,-37.74943,-0.862717
+CLIP ViT-B/32,patch_shuffle,3276,3,cat,-16.652935,2.5881755
+CLIP ViT-B/32,patch_shuffle,3375,3,cat,1.1936259,-9.180091
+CLIP ViT-B/32,patch_shuffle,3383,3,cat,-13.660075,3.8940775
+CLIP ViT-B/32,patch_shuffle,3562,3,cat,-11.818571,-6.703475
+CLIP ViT-B/32,patch_shuffle,3778,3,cat,-20.401382,-3.201531
+CLIP ViT-B/32,patch_shuffle,3851,3,cat,-18.655268,5.943068
+CLIP ViT-B/32,patch_shuffle,3914,3,cat,-14.623172,-3.2777956
+CLIP ViT-B/32,patch_shuffle,4023,3,cat,-20.535975,-1.2275778
+CLIP ViT-B/32,patch_shuffle,4168,3,cat,-12.408291,-0.6127937
+CLIP ViT-B/32,patch_shuffle,4215,3,cat,-2.5354583,-10.75296
+CLIP ViT-B/32,patch_shuffle,4229,3,cat,-2.7155714,-8.390719
+CLIP ViT-B/32,patch_shuffle,4323,3,cat,-26.712318,-2.2934647
+CLIP ViT-B/32,patch_shuffle,4330,3,cat,-4.1541343,-6.556588
+CLIP ViT-B/32,patch_shuffle,4463,3,cat,-21.498281,4.487058
+CLIP ViT-B/32,patch_shuffle,4531,3,cat,-1.4192735,-2.1958768
+CLIP ViT-B/32,patch_shuffle,4590,3,cat,-30.738775,-3.9692214
+CLIP ViT-B/32,patch_shuffle,4609,3,cat,-16.877665,-0.9306723
+CLIP ViT-B/32,patch_shuffle,4821,3,cat,-16.730991,4.0643573
+CLIP ViT-B/32,patch_shuffle,4881,3,cat,-3.519977,-9.16517
+CLIP ViT-B/32,patch_shuffle,4908,3,cat,-16.740282,4.161213
+CLIP ViT-B/32,patch_shuffle,5528,3,cat,-20.724976,4.9975142
+CLIP ViT-B/32,patch_shuffle,6490,3,cat,-37.353313,4.2165837
+CLIP ViT-B/32,patch_shuffle,6952,3,cat,-18.183786,-1.5331548
+CLIP ViT-B/32,patch_shuffle,7416,3,cat,-32.05522,-3.8511884
+CLIP ViT-B/32,patch_shuffle,7744,3,cat,-39.53676,2.395729
+CLIP ViT-B/32,patch_shuffle,7793,3,cat,-18.160004,0.081779465
+CLIP ViT-B/32,patch_shuffle,7797,3,cat,-8.763371,-7.439201
+CLIP ViT-B/32,patch_shuffle,171,4,deer,2.2430234,-1.304318
+CLIP ViT-B/32,patch_shuffle,506,4,deer,-17.322025,-1.5675949
+CLIP ViT-B/32,patch_shuffle,691,4,deer,0.201149,-10.426769
+CLIP ViT-B/32,patch_shuffle,766,4,deer,-15.783894,-3.8296857
+CLIP ViT-B/32,patch_shuffle,855,4,deer,-37.2129,1.574322
+CLIP ViT-B/32,patch_shuffle,1111,4,deer,1.6828277,-6.9850874
+CLIP ViT-B/32,patch_shuffle,1124,4,deer,-0.68690044,-12.385893
+CLIP ViT-B/32,patch_shuffle,1211,4,deer,-11.084634,3.0042443
+CLIP ViT-B/32,patch_shuffle,1266,4,deer,2.1042595,-10.09795
+CLIP ViT-B/32,patch_shuffle,1429,4,deer,1.2808906,-1.0287101
+CLIP ViT-B/32,patch_shuffle,1960,4,deer,0.5076344,-9.3232765
+CLIP ViT-B/32,patch_shuffle,2399,4,deer,-15.841242,4.220811
+CLIP ViT-B/32,patch_shuffle,2704,4,deer,-39.522755,3.8769596
+CLIP ViT-B/32,patch_shuffle,2757,4,deer,-4.706147,-4.5010653
+CLIP ViT-B/32,patch_shuffle,2898,4,deer,-1.066027,-2.8452392
+CLIP ViT-B/32,patch_shuffle,3034,4,deer,-4.5245824,-5.603552
+CLIP ViT-B/32,patch_shuffle,3078,4,deer,-16.307451,5.060228
+CLIP ViT-B/32,patch_shuffle,3122,4,deer,-4.42047,-10.027145
+CLIP ViT-B/32,patch_shuffle,3179,4,deer,-19.69175,-0.45945525
+CLIP ViT-B/32,patch_shuffle,3287,4,deer,-1.0047888,-6.129076
+CLIP ViT-B/32,patch_shuffle,3365,4,deer,-19.342772,-3.4513655
+CLIP ViT-B/32,patch_shuffle,3458,4,deer,-14.403612,-1.4005713
+CLIP ViT-B/32,patch_shuffle,3512,4,deer,-0.4037189,-5.0530944
+CLIP ViT-B/32,patch_shuffle,3763,4,deer,-14.2694645,1.2216768
+CLIP ViT-B/32,patch_shuffle,3891,4,deer,1.7605401,-7.3084965
+CLIP ViT-B/32,patch_shuffle,3994,4,deer,-3.7407622,-8.330749
+CLIP ViT-B/32,patch_shuffle,4054,4,deer,-0.27167913,-0.043170556
+CLIP ViT-B/32,patch_shuffle,4629,4,deer,-2.1750164,-6.6347246
+CLIP ViT-B/32,patch_shuffle,4642,4,deer,-0.11441721,-10.603403
+CLIP ViT-B/32,patch_shuffle,4740,4,deer,-16.276316,-0.6495899
+CLIP ViT-B/32,patch_shuffle,5062,4,deer,-1.7071586,-4.64324
+CLIP ViT-B/32,patch_shuffle,5077,4,deer,-1.5009674,-5.7593694
+CLIP ViT-B/32,patch_shuffle,5135,4,deer,-40.036068,11.118733
+CLIP ViT-B/32,patch_shuffle,5213,4,deer,-5.195895,-4.6945267
+CLIP ViT-B/32,patch_shuffle,5402,4,deer,-15.685743,-0.8436294
+CLIP ViT-B/32,patch_shuffle,5467,4,deer,1.7216249,-6.5687304
+CLIP ViT-B/32,patch_shuffle,5556,4,deer,-7.4201136,-4.290057
+CLIP ViT-B/32,patch_shuffle,5623,4,deer,-17.638485,2.1182222
+CLIP ViT-B/32,patch_shuffle,5789,4,deer,-15.057839,2.6389391
+CLIP ViT-B/32,patch_shuffle,6033,4,deer,-0.17490783,-6.2461314
+CLIP ViT-B/32,patch_shuffle,6097,4,deer,-14.8805065,-0.8213408
+CLIP ViT-B/32,patch_shuffle,6288,4,deer,-18.246258,-4.848278
+CLIP ViT-B/32,patch_shuffle,6508,4,deer,0.31497112,-7.137841
+CLIP ViT-B/32,patch_shuffle,6528,4,deer,-11.237161,3.3737571
+CLIP ViT-B/32,patch_shuffle,7475,4,deer,-9.100362,-1.2738876
+CLIP ViT-B/32,patch_shuffle,7610,4,deer,-18.213478,-4.808995
+CLIP ViT-B/32,patch_shuffle,7692,4,deer,-21.590778,-0.62291306
+CLIP ViT-B/32,patch_shuffle,7864,4,deer,-0.26637504,-0.31555033
+CLIP ViT-B/32,patch_shuffle,7940,4,deer,-6.791817,-2.138162
+CLIP ViT-B/32,patch_shuffle,7944,4,deer,2.0869074,-9.035212
+CLIP ViT-B/32,patch_shuffle,97,5,dog,-10.687956,4.7410607
+CLIP ViT-B/32,patch_shuffle,319,5,dog,-20.911333,-1.5188088
+CLIP ViT-B/32,patch_shuffle,378,5,dog,-18.618786,-1.0888486
+CLIP ViT-B/32,patch_shuffle,568,5,dog,-36.268456,-0.19791587
+CLIP ViT-B/32,patch_shuffle,645,5,dog,-4.820855,-6.895069
+CLIP ViT-B/32,patch_shuffle,685,5,dog,-29.80335,-3.2525115
+CLIP ViT-B/32,patch_shuffle,1095,5,dog,-17.2482,-2.0341039
+CLIP ViT-B/32,patch_shuffle,1552,5,dog,0.6436805,-10.111413
+CLIP ViT-B/32,patch_shuffle,1626,5,dog,-10.171356,-12.5427065
+CLIP ViT-B/32,patch_shuffle,1644,5,dog,-3.6415083,-6.22921
+CLIP ViT-B/32,patch_shuffle,1877,5,dog,-0.0001889412,-5.787579
+CLIP ViT-B/32,patch_shuffle,2265,5,dog,-5.928124,-5.314868
+CLIP ViT-B/32,patch_shuffle,2268,5,dog,-27.398478,-4.0846233
+CLIP ViT-B/32,patch_shuffle,2334,5,dog,-2.6654682,-6.8512664
+CLIP ViT-B/32,patch_shuffle,2391,5,dog,-16.646738,-0.075291015
+CLIP ViT-B/32,patch_shuffle,2427,5,dog,-8.23822,-8.251784
+CLIP ViT-B/32,patch_shuffle,2458,5,dog,-20.061329,-2.747272
+CLIP ViT-B/32,patch_shuffle,2623,5,dog,-15.773377,-2.474527
+CLIP ViT-B/32,patch_shuffle,2766,5,dog,-23.75054,-1.1347829
+CLIP ViT-B/32,patch_shuffle,2807,5,dog,-9.565125,-4.810106
+CLIP ViT-B/32,patch_shuffle,2950,5,dog,-14.820427,-3.0345132
+CLIP ViT-B/32,patch_shuffle,3353,5,dog,-21.06197,1.883801
+CLIP ViT-B/32,patch_shuffle,3852,5,dog,-29.98286,0.08357182
+CLIP ViT-B/32,patch_shuffle,3863,5,dog,-12.968387,-6.8268685
+CLIP ViT-B/32,patch_shuffle,3889,5,dog,-22.17787,4.5372443
+CLIP ViT-B/32,patch_shuffle,4106,5,dog,-3.9926424,-6.0143313
+CLIP ViT-B/32,patch_shuffle,4290,5,dog,-19.135721,-2.6563258
+CLIP ViT-B/32,patch_shuffle,4547,5,dog,-22.792517,0.23980708
+CLIP ViT-B/32,patch_shuffle,4570,5,dog,-5.5797534,-9.069216
+CLIP ViT-B/32,patch_shuffle,4850,5,dog,-19.30922,0.67821
+CLIP ViT-B/32,patch_shuffle,4953,5,dog,-15.6365595,-2.2926097
+CLIP ViT-B/32,patch_shuffle,4966,5,dog,-20.757175,-4.99424
+CLIP ViT-B/32,patch_shuffle,5101,5,dog,-23.044888,-1.7399533
+CLIP ViT-B/32,patch_shuffle,5332,5,dog,-27.284313,1.9983397
+CLIP ViT-B/32,patch_shuffle,5381,5,dog,-12.869274,-1.3177933
+CLIP ViT-B/32,patch_shuffle,5496,5,dog,-20.658436,-0.5584193
+CLIP ViT-B/32,patch_shuffle,5701,5,dog,-17.525694,-9.283315
+CLIP ViT-B/32,patch_shuffle,5924,5,dog,-5.62236,-4.3675594
+CLIP ViT-B/32,patch_shuffle,6224,5,dog,-0.47910893,-4.749618
+CLIP ViT-B/32,patch_shuffle,6358,5,dog,-18.757113,-5.0519376
+CLIP ViT-B/32,patch_shuffle,6414,5,dog,-21.525452,4.3749666
+CLIP ViT-B/32,patch_shuffle,6716,5,dog,-31.529234,-5.287562
+CLIP ViT-B/32,patch_shuffle,6922,5,dog,-19.599697,-3.2114837
+CLIP ViT-B/32,patch_shuffle,6989,5,dog,-2.5949671,-6.059926
+CLIP ViT-B/32,patch_shuffle,7041,5,dog,-24.081776,-1.4819585
+CLIP ViT-B/32,patch_shuffle,7130,5,dog,-4.1462345,-3.7764792
+CLIP ViT-B/32,patch_shuffle,7413,5,dog,-7.676263,-1.707255
+CLIP ViT-B/32,patch_shuffle,7474,5,dog,-23.28428,3.1804082
+CLIP ViT-B/32,patch_shuffle,7706,5,dog,-18.121395,-9.222443
+CLIP ViT-B/32,patch_shuffle,7776,5,dog,-18.679049,-5.7417693
+CLIP ViT-B/32,patch_shuffle,449,6,horse,-5.709587,3.5780456
+CLIP ViT-B/32,patch_shuffle,545,6,horse,-22.618135,4.4310837
+CLIP ViT-B/32,patch_shuffle,873,6,horse,-37.38422,1.147911
+CLIP ViT-B/32,patch_shuffle,890,6,horse,-17.351778,-2.6374896
+CLIP ViT-B/32,patch_shuffle,920,6,horse,-3.788132,-0.67881626
+CLIP ViT-B/32,patch_shuffle,929,6,horse,-23.18334,-0.95230204
+CLIP ViT-B/32,patch_shuffle,964,6,horse,-26.933325,-1.9003747
+CLIP ViT-B/32,patch_shuffle,977,6,horse,-25.410612,-3.1471756
+CLIP ViT-B/32,patch_shuffle,1534,6,horse,-18.909636,3.3098924
+CLIP ViT-B/32,patch_shuffle,1667,6,horse,-37.83412,-0.2898506
+CLIP ViT-B/32,patch_shuffle,2003,6,horse,-23.608765,-3.4831984
+CLIP ViT-B/32,patch_shuffle,2610,6,horse,-22.52392,-5.2614975
+CLIP ViT-B/32,patch_shuffle,2676,6,horse,-9.256675,-5.2412534
+CLIP ViT-B/32,patch_shuffle,2958,6,horse,-6.5436287,-4.904519
+CLIP ViT-B/32,patch_shuffle,3191,6,horse,-23.438519,-6.153761
+CLIP ViT-B/32,patch_shuffle,3292,6,horse,-26.596605,-8.510133
+CLIP ViT-B/32,patch_shuffle,3418,6,horse,-4.348649,-2.4268174
+CLIP ViT-B/32,patch_shuffle,3494,6,horse,-7.4993844,-4.130883
+CLIP ViT-B/32,patch_shuffle,3515,6,horse,-4.8105636,-3.9855785
+CLIP ViT-B/32,patch_shuffle,3777,6,horse,-6.7780104,-5.585207
+CLIP ViT-B/32,patch_shuffle,3779,6,horse,-4.2316833,-0.40607804
+CLIP ViT-B/32,patch_shuffle,3844,6,horse,-11.0093,-6.0142155
+CLIP ViT-B/32,patch_shuffle,3962,6,horse,-3.8124127,-6.214401
+CLIP ViT-B/32,patch_shuffle,4011,6,horse,-15.164886,5.574595
+CLIP ViT-B/32,patch_shuffle,4093,6,horse,-28.61808,-4.5433226
+CLIP ViT-B/32,patch_shuffle,4254,6,horse,2.6734047,-2.2811995
+CLIP ViT-B/32,patch_shuffle,4341,6,horse,-22.150879,-2.2248297
+CLIP ViT-B/32,patch_shuffle,4411,6,horse,-6.4636526,-10.600491
+CLIP ViT-B/32,patch_shuffle,4620,6,horse,-26.162687,-8.39642
+CLIP ViT-B/32,patch_shuffle,4731,6,horse,-17.51953,-2.9477162
+CLIP ViT-B/32,patch_shuffle,4746,6,horse,-0.20660159,-8.588342
+CLIP ViT-B/32,patch_shuffle,4754,6,horse,-14.238042,-6.320802
+CLIP ViT-B/32,patch_shuffle,4827,6,horse,-5.344851,-13.904378
+CLIP ViT-B/32,patch_shuffle,5082,6,horse,-18.622936,0.8204488
+CLIP ViT-B/32,patch_shuffle,5382,6,horse,-18.420614,-8.743617
+CLIP ViT-B/32,patch_shuffle,5408,6,horse,-16.374521,1.7471528
+CLIP ViT-B/32,patch_shuffle,5580,6,horse,-9.521235,-2.423456
+CLIP ViT-B/32,patch_shuffle,5729,6,horse,-21.987486,0.7924138
+CLIP ViT-B/32,patch_shuffle,5857,6,horse,-38.686893,0.80852646
+CLIP ViT-B/32,patch_shuffle,5858,6,horse,2.0053432,-5.6368966
+CLIP ViT-B/32,patch_shuffle,6381,6,horse,-21.012232,4.8949943
+CLIP ViT-B/32,patch_shuffle,6713,6,horse,-25.587868,1.1772925
+CLIP ViT-B/32,patch_shuffle,7108,6,horse,-19.403727,-1.7008953
+CLIP ViT-B/32,patch_shuffle,7338,6,horse,-29.59202,-0.32426837
+CLIP ViT-B/32,patch_shuffle,7555,6,horse,-22.13237,1.674819
+CLIP ViT-B/32,patch_shuffle,7600,6,horse,-4.262795,-14.4490795
+CLIP ViT-B/32,patch_shuffle,7726,6,horse,-8.133877,-9.220711
+CLIP ViT-B/32,patch_shuffle,7779,6,horse,-24.201986,-5.6652107
+CLIP ViT-B/32,patch_shuffle,7781,6,horse,-3.8440146,-4.559002
+CLIP ViT-B/32,patch_shuffle,7996,6,horse,-19.7598,-4.0913095
+CLIP ViT-B/32,patch_shuffle,29,7,monkey,-38.489178,-0.48123428
+CLIP ViT-B/32,patch_shuffle,269,7,monkey,-22.789972,0.61678964
+CLIP ViT-B/32,patch_shuffle,323,7,monkey,-16.9444,2.23619
+CLIP ViT-B/32,patch_shuffle,370,7,monkey,-4.7846923,-1.1951499
+CLIP ViT-B/32,patch_shuffle,1032,7,monkey,-4.7972555,-8.218877
+CLIP ViT-B/32,patch_shuffle,1048,7,monkey,-1.6731865,-2.6165235
+CLIP ViT-B/32,patch_shuffle,1220,7,monkey,-10.66844,-5.107063
+CLIP ViT-B/32,patch_shuffle,1287,7,monkey,-11.36638,-3.5730317
+CLIP ViT-B/32,patch_shuffle,1296,7,monkey,-5.798787,-8.831021
+CLIP ViT-B/32,patch_shuffle,1440,7,monkey,-6.3813534,-3.0835223
+CLIP ViT-B/32,patch_shuffle,1473,7,monkey,-16.860672,-3.0112212
+CLIP ViT-B/32,patch_shuffle,1579,7,monkey,-13.912998,2.5104249
+CLIP ViT-B/32,patch_shuffle,1703,7,monkey,0.87245476,-8.6580105
+CLIP ViT-B/32,patch_shuffle,1711,7,monkey,-10.000554,-12.298384
+CLIP ViT-B/32,patch_shuffle,1771,7,monkey,1.9295367,-3.1872976
+CLIP ViT-B/32,patch_shuffle,1884,7,monkey,-3.3568525,-10.188785
+CLIP ViT-B/32,patch_shuffle,1927,7,monkey,-13.664484,-6.869043
+CLIP ViT-B/32,patch_shuffle,1956,7,monkey,-18.76979,1.4422313
+CLIP ViT-B/32,patch_shuffle,2501,7,monkey,-14.74235,-0.35098568
+CLIP ViT-B/32,patch_shuffle,2668,7,monkey,-6.2436485,-3.4698055
+CLIP ViT-B/32,patch_shuffle,2746,7,monkey,-1.7262435,-3.0848691
+CLIP ViT-B/32,patch_shuffle,2854,7,monkey,-1.8849833,-8.723077
+CLIP ViT-B/32,patch_shuffle,3153,7,monkey,-1.3583516,-8.432911
+CLIP ViT-B/32,patch_shuffle,3288,7,monkey,-8.61804,-7.709884
+CLIP ViT-B/32,patch_shuffle,3404,7,monkey,-23.89472,-0.67033803
+CLIP ViT-B/32,patch_shuffle,3446,7,monkey,-3.0189927,-9.190979
+CLIP ViT-B/32,patch_shuffle,3467,7,monkey,2.1056721,-3.5171242
+CLIP ViT-B/32,patch_shuffle,3542,7,monkey,-16.811384,2.8539019
+CLIP ViT-B/32,patch_shuffle,3867,7,monkey,-6.2002006,-8.304455
+CLIP ViT-B/32,patch_shuffle,4172,7,monkey,-8.396401,-2.7252886
+CLIP ViT-B/32,patch_shuffle,4236,7,monkey,-8.579795,-3.1746917
+CLIP ViT-B/32,patch_shuffle,4308,7,monkey,-13.563663,4.179148
+CLIP ViT-B/32,patch_shuffle,4403,7,monkey,-0.8365416,-9.877711
+CLIP ViT-B/32,patch_shuffle,4661,7,monkey,-21.259073,0.1930333
+CLIP ViT-B/32,patch_shuffle,4704,7,monkey,-10.970756,-4.890268
+CLIP ViT-B/32,patch_shuffle,4748,7,monkey,-3.0571792,-3.439378
+CLIP ViT-B/32,patch_shuffle,4791,7,monkey,-10.033177,-3.9738827
+CLIP ViT-B/32,patch_shuffle,5436,7,monkey,-0.26812023,-9.402799
+CLIP ViT-B/32,patch_shuffle,5450,7,monkey,-12.6339035,1.8102858
+CLIP ViT-B/32,patch_shuffle,5719,7,monkey,-6.750357,-1.6228026
+CLIP ViT-B/32,patch_shuffle,5848,7,monkey,-2.524624,-2.920173
+CLIP ViT-B/32,patch_shuffle,5977,7,monkey,-6.746146,-6.515299
+CLIP ViT-B/32,patch_shuffle,6084,7,monkey,-6.327883,-6.532186
+CLIP ViT-B/32,patch_shuffle,6190,7,monkey,-1.5037637,-2.0796473
+CLIP ViT-B/32,patch_shuffle,6650,7,monkey,-9.87737,5.0591097
+CLIP ViT-B/32,patch_shuffle,6726,7,monkey,2.1440403,-1.3303018
+CLIP ViT-B/32,patch_shuffle,6772,7,monkey,-5.875703,-10.411302
+CLIP ViT-B/32,patch_shuffle,7081,7,monkey,-15.524627,3.1120396
+CLIP ViT-B/32,patch_shuffle,7270,7,monkey,-0.19644235,-0.57414496
+CLIP ViT-B/32,patch_shuffle,7835,7,monkey,-4.2988806,-8.774876
+CLIP ViT-B/32,patch_shuffle,151,8,ship,-30.215565,1.0914438
+CLIP ViT-B/32,patch_shuffle,194,8,ship,-26.770647,4.4441705
+CLIP ViT-B/32,patch_shuffle,667,8,ship,-32.572304,4.5794115
+CLIP ViT-B/32,patch_shuffle,706,8,ship,-25.446836,9.336089
+CLIP ViT-B/32,patch_shuffle,716,8,ship,-34.54462,6.207464
+CLIP ViT-B/32,patch_shuffle,739,8,ship,-28.719404,7.9561424
+CLIP ViT-B/32,patch_shuffle,962,8,ship,-27.025944,3.4464731
+CLIP ViT-B/32,patch_shuffle,1129,8,ship,-28.368711,8.5835495
+CLIP ViT-B/32,patch_shuffle,1247,8,ship,-24.343315,4.605702
+CLIP ViT-B/32,patch_shuffle,1640,8,ship,-34.16418,9.387556
+CLIP ViT-B/32,patch_shuffle,1783,8,ship,-26.784826,6.45327
+CLIP ViT-B/32,patch_shuffle,1833,8,ship,-31.555017,5.076571
+CLIP ViT-B/32,patch_shuffle,1954,8,ship,-22.21989,-9.55874
+CLIP ViT-B/32,patch_shuffle,2109,8,ship,-28.296532,7.62302
+CLIP ViT-B/32,patch_shuffle,2191,8,ship,-32.022247,6.172251
+CLIP ViT-B/32,patch_shuffle,2230,8,ship,-28.828793,7.075074
+CLIP ViT-B/32,patch_shuffle,2340,8,ship,-31.921124,4.9732985
+CLIP ViT-B/32,patch_shuffle,2342,8,ship,-34.915916,5.127162
+CLIP ViT-B/32,patch_shuffle,2745,8,ship,-29.272028,6.5828104
+CLIP ViT-B/32,patch_shuffle,2844,8,ship,-24.191278,4.103025
+CLIP ViT-B/32,patch_shuffle,3015,8,ship,-28.20744,5.465384
+CLIP ViT-B/32,patch_shuffle,3157,8,ship,-27.111334,2.1481173
+CLIP ViT-B/32,patch_shuffle,3412,8,ship,-31.580038,-4.8593864
+CLIP ViT-B/32,patch_shuffle,3905,8,ship,-34.388214,8.009938
+CLIP ViT-B/32,patch_shuffle,3948,8,ship,-33.64785,8.532032
+CLIP ViT-B/32,patch_shuffle,4069,8,ship,-8.260213,-9.169347
+CLIP ViT-B/32,patch_shuffle,4170,8,ship,-33.13873,3.3050191
+CLIP ViT-B/32,patch_shuffle,4177,8,ship,-26.051659,-0.44140774
+CLIP ViT-B/32,patch_shuffle,4242,8,ship,-26.746622,2.8659568
+CLIP ViT-B/32,patch_shuffle,4311,8,ship,-29.796913,6.3533864
+CLIP ViT-B/32,patch_shuffle,4355,8,ship,-31.529163,7.088128
+CLIP ViT-B/32,patch_shuffle,4552,8,ship,-33.575718,4.6153584
+CLIP ViT-B/32,patch_shuffle,4662,8,ship,-33.913666,8.2444315
+CLIP ViT-B/32,patch_shuffle,4676,8,ship,-29.31339,6.4534464
+CLIP ViT-B/32,patch_shuffle,4990,8,ship,-26.80943,4.5172276
+CLIP ViT-B/32,patch_shuffle,5000,8,ship,-40.782593,4.542522
+CLIP ViT-B/32,patch_shuffle,5451,8,ship,-36.140934,7.3715444
+CLIP ViT-B/32,patch_shuffle,5525,8,ship,-29.617939,7.6605783
+CLIP ViT-B/32,patch_shuffle,5694,8,ship,-26.376453,3.348319
+CLIP ViT-B/32,patch_shuffle,5705,8,ship,-32.93121,6.5527844
+CLIP ViT-B/32,patch_shuffle,6434,8,ship,-34.960693,5.6056113
+CLIP ViT-B/32,patch_shuffle,6689,8,ship,-27.738123,8.471918
+CLIP ViT-B/32,patch_shuffle,7138,8,ship,-33.881306,4.5090203
+CLIP ViT-B/32,patch_shuffle,7446,8,ship,-29.388926,1.8996089
+CLIP ViT-B/32,patch_shuffle,7460,8,ship,-27.54686,2.810872
+CLIP ViT-B/32,patch_shuffle,7476,8,ship,-21.940119,-7.158907
+CLIP ViT-B/32,patch_shuffle,7810,8,ship,-28.809132,-9.492947
+CLIP ViT-B/32,patch_shuffle,7818,8,ship,-37.67932,0.62764907
+CLIP ViT-B/32,patch_shuffle,7875,8,ship,-29.067314,9.316701
+CLIP ViT-B/32,patch_shuffle,7999,8,ship,-34.96255,1.5856485
+CLIP ViT-B/32,patch_shuffle,131,9,truck,-25.750263,3.6949744
+CLIP ViT-B/32,patch_shuffle,191,9,truck,-25.202711,5.4129767
+CLIP ViT-B/32,patch_shuffle,239,9,truck,-29.041536,4.9111094
+CLIP ViT-B/32,patch_shuffle,276,9,truck,-8.744394,-5.4599915
+CLIP ViT-B/32,patch_shuffle,303,9,truck,-26.816216,7.735786
+CLIP ViT-B/32,patch_shuffle,419,9,truck,-29.327276,6.5568743
+CLIP ViT-B/32,patch_shuffle,603,9,truck,-39.572334,2.3530295
+CLIP ViT-B/32,patch_shuffle,805,9,truck,-27.185736,-6.005777
+CLIP ViT-B/32,patch_shuffle,852,9,truck,-27.978601,5.44327
+CLIP ViT-B/32,patch_shuffle,1022,9,truck,-25.63583,3.0337687
+CLIP ViT-B/32,patch_shuffle,1411,9,truck,-6.3907495,3.3318946
+CLIP ViT-B/32,patch_shuffle,1430,9,truck,-31.356203,4.8444247
+CLIP ViT-B/32,patch_shuffle,1468,9,truck,-27.870226,-9.337983
+CLIP ViT-B/32,patch_shuffle,1515,9,truck,-25.548315,5.624161
+CLIP ViT-B/32,patch_shuffle,1654,9,truck,-27.18557,-0.57073116
+CLIP ViT-B/32,patch_shuffle,1836,9,truck,-21.725306,-10.879022
+CLIP ViT-B/32,patch_shuffle,2011,9,truck,-36.53024,1.2663548
+CLIP ViT-B/32,patch_shuffle,2062,9,truck,-26.759125,-1.245432
+CLIP ViT-B/32,patch_shuffle,2114,9,truck,-28.62688,-5.290896
+CLIP ViT-B/32,patch_shuffle,2167,9,truck,-24.890427,1.8705571
+CLIP ViT-B/32,patch_shuffle,2351,9,truck,-25.862387,2.1169784
+CLIP ViT-B/32,patch_shuffle,2414,9,truck,-7.6462917,-0.26781332
+CLIP ViT-B/32,patch_shuffle,2655,9,truck,-25.87771,4.920725
+CLIP ViT-B/32,patch_shuffle,3318,9,truck,-10.184826,4.9807005
+CLIP ViT-B/32,patch_shuffle,3893,9,truck,-31.9393,-4.1136336
+CLIP ViT-B/32,patch_shuffle,3942,9,truck,-22.770203,-11.651776
+CLIP ViT-B/32,patch_shuffle,3996,9,truck,-36.07634,9.121631
+CLIP ViT-B/32,patch_shuffle,4094,9,truck,-37.035355,6.4468694
+CLIP ViT-B/32,patch_shuffle,4449,9,truck,-27.11321,6.729175
+CLIP ViT-B/32,patch_shuffle,4723,9,truck,-22.237043,6.340704
+CLIP ViT-B/32,patch_shuffle,5284,9,truck,-23.716215,-11.520111
+CLIP ViT-B/32,patch_shuffle,5301,9,truck,-29.153572,4.773039
+CLIP ViT-B/32,patch_shuffle,5360,9,truck,-27.801506,6.3062057
+CLIP ViT-B/32,patch_shuffle,5447,9,truck,-21.364777,-11.297531
+CLIP ViT-B/32,patch_shuffle,5452,9,truck,-21.591475,3.4246862
+CLIP ViT-B/32,patch_shuffle,5508,9,truck,-27.5848,-10.283091
+CLIP ViT-B/32,patch_shuffle,5572,9,truck,-0.75391084,-12.690727
+CLIP ViT-B/32,patch_shuffle,5590,9,truck,-27.18982,6.1316824
+CLIP ViT-B/32,patch_shuffle,5788,9,truck,-28.089603,-8.885472
+CLIP ViT-B/32,patch_shuffle,5851,9,truck,-32.63728,2.4093268
+CLIP ViT-B/32,patch_shuffle,5915,9,truck,-20.490614,-11.58026
+CLIP ViT-B/32,patch_shuffle,5981,9,truck,-31.817274,-5.778923
+CLIP ViT-B/32,patch_shuffle,6931,9,truck,-32.0582,11.008207
+CLIP ViT-B/32,patch_shuffle,7047,9,truck,-29.039917,-4.778661
+CLIP ViT-B/32,patch_shuffle,7266,9,truck,-8.346652,-9.777048
+CLIP ViT-B/32,patch_shuffle,7380,9,truck,-24.881111,9.081175
+CLIP ViT-B/32,patch_shuffle,7544,9,truck,-19.584366,-12.27768
+CLIP ViT-B/32,patch_shuffle,7752,9,truck,-17.859985,-14.8808365
+CLIP ViT-B/32,patch_shuffle,7938,9,truck,-9.079976,0.40382802
+CLIP ViT-B/32,patch_shuffle,7995,9,truck,-8.109273,0.69415873

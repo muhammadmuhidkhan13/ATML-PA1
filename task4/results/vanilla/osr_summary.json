@@ -1,0 +1,12 @@
+{
+  "model": "vanilla",
+  "closed_set_accuracy": 0.9457,
+  "known_classes": 10,
+  "total_outputs": 10,
+  "scores": [
+    "msp",
+    "mls",
+    "energy",
+    "mahalanobis"
+  ]
+}

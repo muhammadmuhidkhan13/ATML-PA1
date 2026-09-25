@@ -1,0 +1,41 @@
+model,content_class,style_class,total,shape_count,texture_count,other_count,shape_rate,texture_rate,other_rate,coverage,shape_bias,texture_bias
+CLIP ViT-B/32 linear head,airplane,monkey,20,17,0,3,0.85,0.0,0.15,0.85,1.0,0.0
+CLIP ViT-B/32 linear head,bird,dog,20,20,0,0,1.0,0.0,0.0,1.0,1.0,0.0
+CLIP ViT-B/32 linear head,car,deer,20,19,0,1,0.95,0.0,0.05,0.95,1.0,0.0
+CLIP ViT-B/32 linear head,cat,ship,20,13,0,7,0.65,0.0,0.35,0.65,1.0,0.0
+CLIP ViT-B/32 linear head,deer,car,20,11,0,9,0.55,0.0,0.45,0.55,1.0,0.0
+CLIP ViT-B/32 linear head,dog,bird,20,14,0,6,0.7,0.0,0.3,0.7,1.0,0.0
+CLIP ViT-B/32 linear head,horse,truck,20,15,1,4,0.75,0.05,0.2,0.8,0.9375,0.0625
+CLIP ViT-B/32 linear head,monkey,airplane,20,3,0,17,0.15,0.0,0.85,0.15,1.0,0.0
+CLIP ViT-B/32 linear head,ship,cat,20,14,2,4,0.7,0.1,0.2,0.8,0.875,0.125
+CLIP ViT-B/32 linear head,truck,horse,20,19,0,1,0.95,0.0,0.05,0.95,1.0,0.0
+CLIP ViT-B/32 zero-shot,airplane,monkey,20,13,0,7,0.65,0.0,0.35,0.65,1.0,0.0
+CLIP ViT-B/32 zero-shot,bird,dog,20,20,0,0,1.0,0.0,0.0,1.0,1.0,0.0
+CLIP ViT-B/32 zero-shot,car,deer,20,18,0,2,0.9,0.0,0.1,0.9,1.0,0.0
+CLIP ViT-B/32 zero-shot,cat,ship,20,8,3,9,0.4,0.15,0.45,0.55,0.7272727272727273,0.2727272727272727
+CLIP ViT-B/32 zero-shot,deer,car,20,13,0,7,0.65,0.0,0.35,0.65,1.0,0.0
+CLIP ViT-B/32 zero-shot,dog,bird,20,13,2,5,0.65,0.1,0.25,0.75,0.8666666666666667,0.13333333333333333
+CLIP ViT-B/32 zero-shot,horse,truck,20,18,0,2,0.9,0.0,0.1,0.9,1.0,0.0
+CLIP ViT-B/32 zero-shot,monkey,airplane,20,6,0,14,0.3,0.0,0.7,0.3,1.0,0.0
+CLIP ViT-B/32 zero-shot,ship,cat,20,17,0,3,0.85,0.0,0.15,0.85,1.0,0.0
+CLIP ViT-B/32 zero-shot,truck,horse,20,19,0,1,0.95,0.0,0.05,0.95,1.0,0.0
+ResNet-50 linear head,airplane,monkey,20,2,0,18,0.1,0.0,0.9,0.1,1.0,0.0
+ResNet-50 linear head,bird,dog,20,19,0,1,0.95,0.0,0.05,0.95,1.0,0.0
+ResNet-50 linear head,car,deer,20,13,1,6,0.65,0.05,0.3,0.7,0.9285714285714286,0.07142857142857142
+ResNet-50 linear head,cat,ship,20,4,10,6,0.2,0.5,0.3,0.7,0.2857142857142857,0.7142857142857143
+ResNet-50 linear head,deer,car,20,7,0,13,0.35,0.0,0.65,0.35,1.0,0.0
+ResNet-50 linear head,dog,bird,20,10,6,4,0.5,0.3,0.2,0.8,0.625,0.375
+ResNet-50 linear head,horse,truck,20,11,3,6,0.55,0.15,0.3,0.7,0.7857142857142857,0.21428571428571427
+ResNet-50 linear head,monkey,airplane,20,1,1,18,0.05,0.05,0.9,0.1,0.5,0.5
+ResNet-50 linear head,ship,cat,20,11,0,9,0.55,0.0,0.45,0.55,1.0,0.0
+ResNet-50 linear head,truck,horse,20,15,1,4,0.75,0.05,0.2,0.8,0.9375,0.0625
+ViT-B/16 linear head,airplane,monkey,20,14,0,6,0.7,0.0,0.3,0.7,1.0,0.0
+ViT-B/16 linear head,bird,dog,20,17,0,3,0.85,0.0,0.15,0.85,1.0,0.0
+ViT-B/16 linear head,car,deer,20,20,0,0,1.0,0.0,0.0,1.0,1.0,0.0
+ViT-B/16 linear head,cat,ship,20,12,1,7,0.6,0.05,0.35,0.65,0.9230769230769231,0.07692307692307693
+ViT-B/16 linear head,deer,car,20,12,0,8,0.6,0.0,0.4,0.6,1.0,0.0
+ViT-B/16 linear head,dog,bird,20,13,4,3,0.65,0.2,0.15,0.85,0.7647058823529411,0.23529411764705882
+ViT-B/16 linear head,horse,truck,20,15,0,5,0.75,0.0,0.25,0.75,1.0,0.0
+ViT-B/16 linear head,monkey,airplane,20,8,6,6,0.4,0.3,0.3,0.7,0.5714285714285714,0.42857142857142855
+ViT-B/16 linear head,ship,cat,20,12,2,6,0.6,0.1,0.3,0.7,0.8571428571428571,0.14285714285714285
+ViT-B/16 linear head,truck,horse,20,15,1,4,0.75,0.05,0.2,0.8,0.9375,0.0625

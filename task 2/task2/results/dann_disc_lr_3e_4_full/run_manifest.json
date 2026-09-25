@@ -1,0 +1,18 @@
+{
+  "method": "dann",
+  "run_name": "dann_disc_lr_3e_4_full",
+  "seed": 6304,
+  "command": "C:\\Users\\HP\\anaconda3\\python.exe C:\\Users\\HP\\Desktop\\ATML\\PA1\\task 2\\task2\\train.py --method dann --maximum-grl-strength 1 --discriminator-learning-rate 0.0003 --run-name dann_disc_lr_3e_4_full",
+  "created_utc": "2026-09-22T21:33:10.612219+00:00",
+  "python_version": "3.13.5 | packaged by Anaconda, Inc. | (main, Jun 12 2025, 16:37:03) [MSC v.1929 64 bit (AMD64)]",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "pytorch_version": "2.13.0+cu130",
+  "cuda_version": "13.0",
+  "device": "cuda",
+  "gpu": "NVIDIA GeForce RTX 3060 Laptop GPU",
+  "best_epoch": 2,
+  "best_mean_source_validation_macro_f1": 0.9003125016409652,
+  "checkpoint_selection_metric": "mean_source_validation_macro_f1",
+  "target_labels_used_during_training": false,
+  "target_labels_used_for_checkpoint_selection": false
+}

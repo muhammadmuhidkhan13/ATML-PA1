@@ -1,0 +1,1801 @@
+model,condition,image_id,class_index,class_name,tsne_1,tsne_2
+ResNet-50,Content image,0,0,airplane,-0.7547673,50.08927
+ResNet-50,Content image,1,0,airplane,3.5419686,53.758354
+ResNet-50,Content image,2,0,airplane,-0.73220277,47.793285
+ResNet-50,Content image,3,0,airplane,2.123541,55.172523
+ResNet-50,Content image,4,0,airplane,0.9767126,52.0399
+ResNet-50,Content image,5,0,airplane,-0.7067157,40.565025
+ResNet-50,Content image,6,0,airplane,-0.5669908,51.511627
+ResNet-50,Content image,7,0,airplane,0.18569511,40.34019
+ResNet-50,Content image,8,0,airplane,-2.4859312,50.91464
+ResNet-50,Content image,9,0,airplane,2.0310128,52.359337
+ResNet-50,Content image,10,0,airplane,0.97740066,42.83627
+ResNet-50,Content image,11,0,airplane,2.9364715,44.7917
+ResNet-50,Content image,12,0,airplane,-2.5975826,51.893745
+ResNet-50,Content image,13,0,airplane,-1.8131435,52.80628
+ResNet-50,Content image,14,0,airplane,-0.8654756,48.937214
+ResNet-50,Content image,15,0,airplane,1.0423228,49.39212
+ResNet-50,Content image,16,0,airplane,3.5483758,54.426533
+ResNet-50,Content image,17,0,airplane,-2.2738452,49.989544
+ResNet-50,Content image,18,0,airplane,1.0323517,41.36382
+ResNet-50,Content image,19,0,airplane,-3.598536,50.091675
+ResNet-50,Content image,20,1,bird,8.724461,-23.701815
+ResNet-50,Content image,21,1,bird,1.5792515,-40.659878
+ResNet-50,Content image,22,1,bird,11.208489,-24.879541
+ResNet-50,Content image,23,1,bird,6.0966825,-29.437244
+ResNet-50,Content image,24,1,bird,13.533811,-28.352161
+ResNet-50,Content image,25,1,bird,-12.685822,-23.146433
+ResNet-50,Content image,26,1,bird,8.705415,-26.395348
+ResNet-50,Content image,27,1,bird,5.7009864,-25.367123
+ResNet-50,Content image,28,1,bird,6.424046,-26.33438
+ResNet-50,Content image,29,1,bird,8.804974,-29.434607
+ResNet-50,Content image,30,1,bird,10.208704,-30.35261
+ResNet-50,Content image,31,1,bird,12.680871,-27.939114
+ResNet-50,Content image,32,1,bird,8.242251,-25.18854
+ResNet-50,Content image,33,1,bird,8.003164,-22.368664
+ResNet-50,Content image,34,1,bird,-13.655802,-21.491936
+ResNet-50,Content image,35,1,bird,12.429027,-19.239185
+ResNet-50,Content image,36,1,bird,-11.062722,-24.321396
+ResNet-50,Content image,37,1,bird,6.3219104,-22.872095
+ResNet-50,Content image,38,1,bird,5.175765,-22.32174
+ResNet-50,Content image,39,1,bird,10.031394,-28.988354
+ResNet-50,Content image,40,2,car,-3.0894876,30.074383
+ResNet-50,Content image,41,2,car,0.4122738,27.584114
+ResNet-50,Content image,42,2,car,-1.1598703,29.052225
+ResNet-50,Content image,43,2,car,-5.204054,31.176254
+ResNet-50,Content image,44,2,car,-9.81606,24.545618
+ResNet-50,Content image,45,2,car,-4.5233684,29.483635
+ResNet-50,Content image,46,2,car,-3.0382633,31.330828
+ResNet-50,Content image,47,2,car,-2.0573504,33.1814
+ResNet-50,Content image,48,2,car,-5.9259477,30.937757
+ResNet-50,Content image,49,2,car,-8.684088,25.33305
+ResNet-50,Content image,50,2,car,-4.3763685,28.619312
+ResNet-50,Content image,51,2,car,0.9371012,29.871983
+ResNet-50,Content image,52,2,car,-0.053981047,26.751734
+ResNet-50,Content image,53,2,car,-1.7106882,26.256603
+ResNet-50,Content image,54,2,car,-2.8103256,26.872536
+ResNet-50,Content image,55,2,car,-10.406474,25.782581
+ResNet-50,Content image,56,2,car,-2.3799598,28.74509
+ResNet-50,Content image,57,2,car,-3.168696,26.098986
+ResNet-50,Content image,58,2,car,-2.8071756,27.629435
+ResNet-50,Content image,59,2,car,-0.31022462,30.33405
+ResNet-50,Content image,60,3,cat,-14.339854,-29.403496
+ResNet-50,Content image,61,3,cat,-19.575031,-31.34923
+ResNet-50,Content image,62,3,cat,-17.14315,-31.833569
+ResNet-50,Content image,63,3,cat,-18.262045,-32.593353
+ResNet-50,Content image,64,3,cat,-20.104227,-28.669838
+ResNet-50,Content image,65,3,cat,-17.143362,-26.78289
+ResNet-50,Content image,66,3,cat,-9.922696,-31.866276
+ResNet-50,Content image,67,3,cat,-19.011694,-30.366629
+ResNet-50,Content image,68,3,cat,-20.977907,-21.372145
+ResNet-50,Content image,69,3,cat,-12.505619,-28.457253
+ResNet-50,Content image,70,3,cat,-6.6569133,-35.957382
+ResNet-50,Content image,71,3,cat,-19.99975,-20.806305
+ResNet-50,Content image,72,3,cat,-13.702438,-26.813292
+ResNet-50,Content image,73,3,cat,-17.418184,-26.520338
+ResNet-50,Content image,74,3,cat,-18.767664,-24.630325
+ResNet-50,Content image,75,3,cat,-6.1292396,-25.781569
+ResNet-50,Content image,76,3,cat,-17.2422,-22.634985
+ResNet-50,Content image,77,3,cat,-13.288673,-30.91799
+ResNet-50,Content image,78,3,cat,-11.689955,-29.44758
+ResNet-50,Content image,79,3,cat,-19.903797,-23.373552
+ResNet-50,Content image,80,4,deer,-24.111252,-10.703337
+ResNet-50,Content image,81,4,deer,-28.564516,-15.900978
+ResNet-50,Content image,82,4,deer,-25.717722,-10.101083
+ResNet-50,Content image,83,4,deer,-25.57283,-8.502795
+ResNet-50,Content image,84,4,deer,-29.139847,-15.358403
+ResNet-50,Content image,85,4,deer,-28.090647,-12.553091
+ResNet-50,Content image,86,4,deer,-29.64638,-10.679922
+ResNet-50,Content image,87,4,deer,-25.094822,-10.444468
+ResNet-50,Content image,88,4,deer,-26.096365,-15.605671
+ResNet-50,Content image,89,4,deer,-27.642628,-10.377726
+ResNet-50,Content image,90,4,deer,-30.411016,-14.84687
+ResNet-50,Content image,91,4,deer,-29.666168,-14.185803
+ResNet-50,Content image,92,4,deer,-28.039976,-11.295504
+ResNet-50,Content image,93,4,deer,-22.883713,-12.899278
+ResNet-50,Content image,94,4,deer,-25.44971,-12.408046
+ResNet-50,Content image,95,4,deer,-32.33296,-17.020742
+ResNet-50,Content image,96,4,deer,-19.645193,-14.9554825
+ResNet-50,Content image,97,4,deer,-26.92662,-11.017044
+ResNet-50,Content image,98,4,deer,-28.064629,-14.407689
+ResNet-50,Content image,99,4,deer,-27.269972,-14.302867
+ResNet-50,Content image,100,5,dog,-10.721792,-12.717936
+ResNet-50,Content image,101,5,dog,-9.376008,-18.658731
+ResNet-50,Content image,102,5,dog,-7.922046,-29.704504
+ResNet-50,Content image,103,5,dog,-7.841057,-14.828392
+ResNet-50,Content image,104,5,dog,-5.577499,-21.084484
+ResNet-50,Content image,105,5,dog,-4.794219,-17.138412
+ResNet-50,Content image,106,5,dog,-3.9765174,-28.068632
+ResNet-50,Content image,107,5,dog,-4.637901,-22.395231
+ResNet-50,Content image,108,5,dog,-7.53392,-24.70344
+ResNet-50,Content image,109,5,dog,-10.422406,-25.410622
+ResNet-50,Content image,110,5,dog,-4.928923,-23.518873
+ResNet-50,Content image,111,5,dog,-12.807583,-17.733295
+ResNet-50,Content image,112,5,dog,-14.9843235,-13.129092
+ResNet-50,Content image,113,5,dog,-6.7643814,-14.155831
+ResNet-50,Content image,114,5,dog,-7.110469,-30.710686
+ResNet-50,Content image,115,5,dog,-6.0738187,-15.096516
+ResNet-50,Content image,116,5,dog,-9.776777,-20.226465
+ResNet-50,Content image,117,5,dog,-11.718719,-14.718537
+ResNet-50,Content image,118,5,dog,-10.805697,-23.135252
+ResNet-50,Content image,119,5,dog,-15.009114,-23.705746
+ResNet-50,Content image,120,6,horse,-14.67701,1.6396434
+ResNet-50,Content image,121,6,horse,-6.4922247,0.57874155
+ResNet-50,Content image,122,6,horse,-15.929027,-3.0609047
+ResNet-50,Content image,123,6,horse,-15.975933,-5.5042877
+ResNet-50,Content image,124,6,horse,-16.526922,-4.2293167
+ResNet-50,Content image,125,6,horse,-18.150904,-4.479742
+ResNet-50,Content image,126,6,horse,-17.905092,-3.2257051
+ResNet-50,Content image,127,6,horse,-18.542828,-1.1985409
+ResNet-50,Content image,128,6,horse,-11.888291,0.34466252
+ResNet-50,Content image,129,6,horse,-16.68264,-6.0282407
+ResNet-50,Content image,130,6,horse,-19.093494,-3.7239044
+ResNet-50,Content image,131,6,horse,-12.905903,-6.805009
+ResNet-50,Content image,132,6,horse,-5.5129995,-4.406
+ResNet-50,Content image,133,6,horse,-15.4610615,-7.845546
+ResNet-50,Content image,134,6,horse,-11.887662,1.3445334
+ResNet-50,Content image,135,6,horse,-18.389078,-0.13258438
+ResNet-50,Content image,136,6,horse,-14.67664,-6.740053
+ResNet-50,Content image,137,6,horse,-17.847775,-5.9117613
+ResNet-50,Content image,138,6,horse,-10.305183,-7.516704
+ResNet-50,Content image,139,6,horse,-15.605347,-1.5188838
+ResNet-50,Content image,140,7,monkey,-5.524424,-42.234196
+ResNet-50,Content image,141,7,monkey,-2.1112955,-40.05466
+ResNet-50,Content image,142,7,monkey,0.28332067,-46.65976
+ResNet-50,Content image,143,7,monkey,1.2937297,-47.180687
+ResNet-50,Content image,144,7,monkey,0.20261613,-47.713264
+ResNet-50,Content image,145,7,monkey,-6.083164,-39.97563
+ResNet-50,Content image,146,7,monkey,-5.3410254,-39.201874
+ResNet-50,Content image,147,7,monkey,-0.979595,-45.432762
+ResNet-50,Content image,148,7,monkey,-5.8432107,-37.740314
+ResNet-50,Content image,149,7,monkey,-7.8353224,-40.945705
+ResNet-50,Content image,150,7,monkey,-7.7475777,-39.510765
+ResNet-50,Content image,151,7,monkey,-8.722632,-41.57895
+ResNet-50,Content image,152,7,monkey,-5.240648,-41.061405
+ResNet-50,Content image,153,7,monkey,-7.105492,-41.02053
+ResNet-50,Content image,154,7,monkey,-7.388582,-41.959232
+ResNet-50,Content image,155,7,monkey,-1.0089589,-41.27338
+ResNet-50,Content image,156,7,monkey,-6.3472013,-42.142727
+ResNet-50,Content image,157,7,monkey,-0.61763793,-36.316147
+ResNet-50,Content image,158,7,monkey,-2.8222363,-41.6174
+ResNet-50,Content image,159,7,monkey,-1.2280812,-46.66827
+ResNet-50,Content image,160,8,ship,17.787376,43.989635
+ResNet-50,Content image,161,8,ship,14.656098,48.53108
+ResNet-50,Content image,162,8,ship,16.355654,50.591274
+ResNet-50,Content image,163,8,ship,13.0866,45.375233
+ResNet-50,Content image,164,8,ship,-3.2162523,39.592308
+ResNet-50,Content image,165,8,ship,15.46674,44.548748
+ResNet-50,Content image,166,8,ship,-2.363372,42.75343
+ResNet-50,Content image,167,8,ship,19.94965,46.12156
+ResNet-50,Content image,168,8,ship,13.78974,47.271984
+ResNet-50,Content image,169,8,ship,15.396616,48.69084
+ResNet-50,Content image,170,8,ship,14.754366,45.164955
+ResNet-50,Content image,171,8,ship,15.081238,43.13953
+ResNet-50,Content image,172,8,ship,2.142583,39.170998
+ResNet-50,Content image,173,8,ship,14.253976,43.730263
+ResNet-50,Content image,174,8,ship,18.455812,48.674194
+ResNet-50,Content image,175,8,ship,13.689708,48.446518
+ResNet-50,Content image,176,8,ship,17.48272,42.82044
+ResNet-50,Content image,177,8,ship,17.192408,46.810738
+ResNet-50,Content image,178,8,ship,16.70223,42.51533
+ResNet-50,Content image,179,8,ship,17.246758,45.11325
+ResNet-50,Content image,180,9,truck,9.360901,35.138714
+ResNet-50,Content image,181,9,truck,9.51358,34.084133
+ResNet-50,Content image,182,9,truck,5.1666675,33.45927
+ResNet-50,Content image,183,9,truck,8.920362,31.949831
+ResNet-50,Content image,184,9,truck,13.014432,28.975536
+ResNet-50,Content image,185,9,truck,5.513702,33.284428
+ResNet-50,Content image,186,9,truck,3.0592287,35.416454
+ResNet-50,Content image,187,9,truck,13.43546,34.506397
+ResNet-50,Content image,188,9,truck,8.969505,33.17984
+ResNet-50,Content image,189,9,truck,11.9671,31.008163
+ResNet-50,Content image,190,9,truck,6.6262074,37.509285
+ResNet-50,Content image,191,9,truck,14.397793,31.830015
+ResNet-50,Content image,192,9,truck,12.280205,28.56215
+ResNet-50,Content image,193,9,truck,11.421694,31.840412
+ResNet-50,Content image,194,9,truck,13.454622,31.976213
+ResNet-50,Content image,195,9,truck,12.553175,30.479036
+ResNet-50,Content image,196,9,truck,4.973567,38.23318
+ResNet-50,Content image,197,9,truck,13.926159,28.639048
+ResNet-50,Content image,198,9,truck,7.7704,36.407246
+ResNet-50,Content image,199,9,truck,6.3658156,34.56306
+ResNet-50,Style image,0,7,monkey,-1.6617367,-38.0136
+ResNet-50,Style image,1,7,monkey,-0.5074346,-46.740955
+ResNet-50,Style image,2,7,monkey,-1.5628545,-39.248154
+ResNet-50,Style image,3,7,monkey,-0.18909699,-36.81544
+ResNet-50,Style image,4,7,monkey,-1.0549064,-36.62001
+ResNet-50,Style image,5,7,monkey,-11.787871,-23.064379
+ResNet-50,Style image,6,7,monkey,1.2937297,-47.180687
+ResNet-50,Style image,7,7,monkey,-0.5113983,-37.45706
+ResNet-50,Style image,8,7,monkey,-2.6065662,-37.20355
+ResNet-50,Style image,9,7,monkey,-1.1722574,-40.264095
+ResNet-50,Style image,10,7,monkey,-5.3588014,-36.954716
+ResNet-50,Style image,11,7,monkey,-0.979595,-45.432762
+ResNet-50,Style image,12,7,monkey,-8.722632,-41.57895
+ResNet-50,Style image,13,7,monkey,-3.4856138,-39.747097
+ResNet-50,Style image,14,7,monkey,-5.1117473,-41.206463
+ResNet-50,Style image,15,7,monkey,-7.747577,-39.510765
+ResNet-50,Style image,16,7,monkey,-2.8222363,-41.6174
+ResNet-50,Style image,17,7,monkey,-0.8566092,-47.642597
+ResNet-50,Style image,18,7,monkey,0.20261613,-47.713264
+ResNet-50,Style image,19,7,monkey,-7.5679193,-42.391796
+ResNet-50,Style image,20,5,dog,-14.223798,-13.131549
+ResNet-50,Style image,21,5,dog,-4.918771,-23.520742
+ResNet-50,Style image,22,5,dog,-8.653756,-19.210781
+ResNet-50,Style image,23,5,dog,-10.143575,-19.1923
+ResNet-50,Style image,24,5,dog,-8.37862,-29.33987
+ResNet-50,Style image,25,5,dog,-7.720306,-30.137798
+ResNet-50,Style image,26,5,dog,-12.80739,-17.733389
+ResNet-50,Style image,27,5,dog,-9.026092,-19.326649
+ResNet-50,Style image,28,5,dog,-8.899106,-18.228542
+ResNet-50,Style image,29,5,dog,-4.931273,-22.409723
+ResNet-50,Style image,30,5,dog,-10.721792,-12.717936
+ResNet-50,Style image,31,5,dog,-6.125061,-19.908772
+ResNet-50,Style image,32,5,dog,-14.238199,-13.360416
+ResNet-50,Style image,33,5,dog,-6.197758,-18.911999
+ResNet-50,Style image,34,5,dog,-5.577499,-21.084484
+ResNet-50,Style image,35,5,dog,-11.854814,-15.350033
+ResNet-50,Style image,36,5,dog,-9.50989,-23.900465
+ResNet-50,Style image,37,5,dog,-7.533929,-24.703194
+ResNet-50,Style image,38,5,dog,-8.663593,-15.31627
+ResNet-50,Style image,39,5,dog,-3.9764714,-28.06856
+ResNet-50,Style image,40,4,deer,-22.883713,-12.899278
+ResNet-50,Style image,41,4,deer,-29.729315,-12.762396
+ResNet-50,Style image,42,4,deer,-29.646383,-10.679926
+ResNet-50,Style image,43,4,deer,-28.311678,-13.650605
+ResNet-50,Style image,44,4,deer,-24.677324,-9.364193
+ResNet-50,Style image,45,4,deer,-19.645098,-14.955472
+ResNet-50,Style image,46,4,deer,-26.889297,-13.30224
+ResNet-50,Style image,47,4,deer,-26.095852,-15.605754
+ResNet-50,Style image,48,4,deer,-25.860807,-11.42762
+ResNet-50,Style image,49,4,deer,-26.680372,-17.16558
+ResNet-50,Style image,50,4,deer,-27.4967,-9.448508
+ResNet-50,Style image,51,4,deer,-32.33235,-17.020779
+ResNet-50,Style image,52,4,deer,-30.129879,-13.929929
+ResNet-50,Style image,53,4,deer,-26.452408,-8.59514
+ResNet-50,Style image,54,4,deer,-25.682518,-9.098788
+ResNet-50,Style image,55,4,deer,-28.3632,-16.733377
+ResNet-50,Style image,56,4,deer,-27.415998,-15.612912
+ResNet-50,Style image,57,4,deer,-26.528975,-9.868448
+ResNet-50,Style image,58,4,deer,-27.059208,-12.496907
+ResNet-50,Style image,59,4,deer,-24.262413,-15.49573
+ResNet-50,Style image,60,8,ship,17.246758,45.11325
+ResNet-50,Style image,61,8,ship,18.842339,46.211384
+ResNet-50,Style image,62,8,ship,18.455812,48.674194
+ResNet-50,Style image,63,8,ship,15.660816,45.892075
+ResNet-50,Style image,64,8,ship,13.08661,45.375267
+ResNet-50,Style image,65,8,ship,13.78974,47.271984
+ResNet-50,Style image,66,8,ship,17.48272,42.82044
+ResNet-50,Style image,67,8,ship,14.072379,41.54996
+ResNet-50,Style image,68,8,ship,16.242476,49.351334
+ResNet-50,Style image,69,8,ship,-3.2162523,39.592308
+ResNet-50,Style image,70,8,ship,18.364199,44.090057
+ResNet-50,Style image,71,8,ship,19.721674,47.939873
+ResNet-50,Style image,72,8,ship,17.192408,46.810738
+ResNet-50,Style image,73,8,ship,19.017496,47.021114
+ResNet-50,Style image,74,8,ship,18.460236,47.34971
+ResNet-50,Style image,75,8,ship,16.319792,45.422165
+ResNet-50,Style image,76,8,ship,13.879682,43.93441
+ResNet-50,Style image,77,8,ship,17.54498,48.366863
+ResNet-50,Style image,78,8,ship,14.953774,49.690952
+ResNet-50,Style image,79,8,ship,-2.3633497,42.7534
+ResNet-50,Style image,80,2,car,-8.773382,25.913565
+ResNet-50,Style image,81,2,car,-2.0573263,33.181602
+ResNet-50,Style image,82,2,car,0.51468927,28.316187
+ResNet-50,Style image,83,2,car,-1.9395165,27.68699
+ResNet-50,Style image,84,2,car,-3.6951034,32.119194
+ResNet-50,Style image,85,2,car,-0.15562978,33.733078
+ResNet-50,Style image,86,2,car,-0.31023052,30.334185
+ResNet-50,Style image,87,2,car,-2.8879735,24.576225
+ResNet-50,Style image,88,2,car,-4.5841837,30.819654
+ResNet-50,Style image,89,2,car,0.11592426,29.189188
+ResNet-50,Style image,90,2,car,-1.1923027,27.054146
+ResNet-50,Style image,91,2,car,-10.478286,25.163845
+ResNet-50,Style image,92,2,car,-9.744652,26.104197
+ResNet-50,Style image,93,2,car,-9.779961,25.247648
+ResNet-50,Style image,94,2,car,-0.97547024,33.585762
+ResNet-50,Style image,95,2,car,-2.5766573,33.85609
+ResNet-50,Style image,96,2,car,-2.71564,30.161774
+ResNet-50,Style image,97,2,car,-0.18714379,27.861439
+ResNet-50,Style image,98,2,car,-5.165,28.721424
+ResNet-50,Style image,99,2,car,-2.673054,31.382963
+ResNet-50,Style image,100,1,bird,5.561295,-23.435814
+ResNet-50,Style image,101,1,bird,8.705416,-26.39535
+ResNet-50,Style image,102,1,bird,9.827336,-30.372137
+ResNet-50,Style image,103,1,bird,7.868754,-24.463358
+ResNet-50,Style image,104,1,bird,12.429007,-19.23914
+ResNet-50,Style image,105,1,bird,8.837769,-24.766043
+ResNet-50,Style image,106,1,bird,-18.101599,-28.45732
+ResNet-50,Style image,107,1,bird,1.5799114,-40.662605
+ResNet-50,Style image,108,1,bird,7.1446204,-24.901999
+ResNet-50,Style image,109,1,bird,6.5600166,-24.484991
+ResNet-50,Style image,110,1,bird,6.096682,-29.43734
+ResNet-50,Style image,111,1,bird,12.440153,-28.145012
+ResNet-50,Style image,112,1,bird,-13.655802,-21.491938
+ResNet-50,Style image,113,1,bird,4.7892876,-26.703491
+ResNet-50,Style image,114,1,bird,4.281561,-26.895582
+ResNet-50,Style image,115,1,bird,10.031313,-28.98833
+ResNet-50,Style image,116,1,bird,3.6729023,-14.611233
+ResNet-50,Style image,117,1,bird,11.2039385,-24.88394
+ResNet-50,Style image,118,1,bird,-13.692768,-25.01305
+ResNet-50,Style image,119,1,bird,12.703752,-25.62568
+ResNet-50,Style image,120,9,truck,13.719543,32.440216
+ResNet-50,Style image,121,9,truck,10.653473,34.960663
+ResNet-50,Style image,122,9,truck,6.8240824,30.134789
+ResNet-50,Style image,123,9,truck,4.973474,38.23296
+ResNet-50,Style image,124,9,truck,5.2100487,35.273457
+ResNet-50,Style image,125,9,truck,13.47232,28.095129
+ResNet-50,Style image,126,9,truck,7.770228,36.40731
+ResNet-50,Style image,127,9,truck,7.6883445,32.01431
+ResNet-50,Style image,128,9,truck,10.77751,30.779459
+ResNet-50,Style image,129,9,truck,10.200651,33.543926
+ResNet-50,Style image,130,9,truck,12.803886,33.036377
+ResNet-50,Style image,131,9,truck,14.397793,31.830015
+ResNet-50,Style image,132,9,truck,2.8203435,38.274384
+ResNet-50,Style image,133,9,truck,8.001493,30.912876
+ResNet-50,Style image,134,9,truck,7.038397,33.538788
+ResNet-50,Style image,135,9,truck,13.014432,28.975536
+ResNet-50,Style image,136,9,truck,7.969663,31.738008
+ResNet-50,Style image,137,9,truck,3.0592287,35.416454
+ResNet-50,Style image,138,9,truck,13.43546,34.506397
+ResNet-50,Style image,139,9,truck,7.3310394,34.70059
+ResNet-50,Style image,140,0,airplane,-1.3370976,53.549156
+ResNet-50,Style image,141,0,airplane,2.2253234,53.760925
+ResNet-50,Style image,142,0,airplane,-0.23542105,41.36356
+ResNet-50,Style image,143,0,airplane,2.836805,43.83435
+ResNet-50,Style image,144,0,airplane,-2.953686,49.14564
+ResNet-50,Style image,145,0,airplane,3.8546646,53.72678
+ResNet-50,Style image,146,0,airplane,1.3207552,53.34689
+ResNet-50,Style image,147,0,airplane,2.1762254,51.88354
+ResNet-50,Style image,148,0,airplane,0.6172119,43.824215
+ResNet-50,Style image,149,0,airplane,-0.4803267,50.22149
+ResNet-50,Style image,150,0,airplane,3.3354802,52.31341
+ResNet-50,Style image,151,0,airplane,-1.9699152,51.51979
+ResNet-50,Style image,152,0,airplane,-0.7067181,40.565037
+ResNet-50,Style image,153,0,airplane,-0.9841426,52.22327
+ResNet-50,Style image,154,0,airplane,1.0423203,49.39212
+ResNet-50,Style image,155,0,airplane,1.1179211,51.63381
+ResNet-50,Style image,156,0,airplane,1.3909223,40.949497
+ResNet-50,Style image,157,0,airplane,0.06248711,53.668682
+ResNet-50,Style image,158,0,airplane,-3.5576963,49.685387
+ResNet-50,Style image,159,0,airplane,-0.7447838,52.97463
+ResNet-50,Style image,160,3,cat,-19.982943,-22.507563
+ResNet-50,Style image,161,3,cat,-19.99975,-20.806305
+ResNet-50,Style image,162,3,cat,-12.499708,-29.583221
+ResNet-50,Style image,163,3,cat,-17.14315,-31.833569
+ResNet-50,Style image,164,3,cat,-16.901672,-30.58742
+ResNet-50,Style image,165,3,cat,-9.44667,-28.814413
+ResNet-50,Style image,166,3,cat,-18.295715,-26.497486
+ResNet-50,Style image,167,3,cat,-19.076715,-26.800354
+ResNet-50,Style image,168,3,cat,-17.880676,-25.793528
+ResNet-50,Style image,169,3,cat,-17.785643,-30.495918
+ResNet-50,Style image,170,3,cat,-11.26348,-28.297031
+ResNet-50,Style image,171,3,cat,-20.103683,-28.667276
+ResNet-50,Style image,172,3,cat,-13.702438,-26.813292
+ResNet-50,Style image,173,3,cat,-6.129487,-25.781153
+ResNet-50,Style image,174,3,cat,-16.287325,-31.482191
+ResNet-50,Style image,175,3,cat,-9.922697,-31.866276
+ResNet-50,Style image,176,3,cat,-20.977907,-21.372143
+ResNet-50,Style image,177,3,cat,-20.912184,-27.685926
+ResNet-50,Style image,178,3,cat,-19.011694,-30.366629
+ResNet-50,Style image,179,3,cat,-14.339854,-29.403496
+ResNet-50,Style image,180,6,horse,-19.116108,-1.018464
+ResNet-50,Style image,181,6,horse,-13.276637,-0.37008327
+ResNet-50,Style image,182,6,horse,-20.436205,-4.68236
+ResNet-50,Style image,183,6,horse,-18.389078,-0.13258438
+ResNet-50,Style image,184,6,horse,-5.5130854,-4.4061356
+ResNet-50,Style image,185,6,horse,-13.10643,1.3112587
+ResNet-50,Style image,186,6,horse,-15.605522,-1.5189563
+ResNet-50,Style image,187,6,horse,-14.038558,1.9589137
+ResNet-50,Style image,188,6,horse,-12.791254,-7.0039606
+ResNet-50,Style image,189,6,horse,-19.093494,-3.7239044
+ResNet-50,Style image,190,6,horse,-17.674414,-1.1492965
+ResNet-50,Style image,191,6,horse,-16.525698,-4.227713
+ResNet-50,Style image,192,6,horse,-11.887012,1.3446145
+ResNet-50,Style image,193,6,horse,-10.305243,-7.516685
+ResNet-50,Style image,194,6,horse,-18.057512,-2.5464444
+ResNet-50,Style image,195,6,horse,-19.10996,-2.3449523
+ResNet-50,Style image,196,6,horse,-6.0681815,0.5936526
+ResNet-50,Style image,197,6,horse,-15.461045,-7.8455553
+ResNet-50,Style image,198,6,horse,-13.973184,0.07257118
+ResNet-50,Style image,199,6,horse,-12.825678,-3.233708
+ResNet-50,Cue conflict,0,0,airplane,11.49846,-5.8438845
+ResNet-50,Cue conflict,1,0,airplane,7.1489086,-8.063968
+ResNet-50,Cue conflict,2,0,airplane,7.8566084,4.524732
+ResNet-50,Cue conflict,3,0,airplane,12.719755,-6.9428606
+ResNet-50,Cue conflict,4,0,airplane,1.4196174,10.595541
+ResNet-50,Cue conflict,5,0,airplane,13.423001,11.821621
+ResNet-50,Cue conflict,6,0,airplane,10.01843,-15.887385
+ResNet-50,Cue conflict,7,0,airplane,12.752298,-10.254808
+ResNet-50,Cue conflict,8,0,airplane,13.537983,-2.3923376
+ResNet-50,Cue conflict,9,0,airplane,10.961894,-7.132352
+ResNet-50,Cue conflict,10,0,airplane,3.6219714,12.927038
+ResNet-50,Cue conflict,11,0,airplane,7.7788463,-10.404231
+ResNet-50,Cue conflict,12,0,airplane,13.725353,-24.077812
+ResNet-50,Cue conflict,13,0,airplane,8.68227,-11.083975
+ResNet-50,Cue conflict,14,0,airplane,9.378054,-10.830179
+ResNet-50,Cue conflict,15,0,airplane,5.9576654,-10.461452
+ResNet-50,Cue conflict,16,0,airplane,6.7961802,-7.264538
+ResNet-50,Cue conflict,17,0,airplane,7.070659,-10.636566
+ResNet-50,Cue conflict,18,0,airplane,14.115833,-23.12815
+ResNet-50,Cue conflict,19,0,airplane,13.391063,2.349309
+ResNet-50,Cue conflict,20,1,bird,9.591751,-23.567343
+ResNet-50,Cue conflict,21,1,bird,1.0133046,-40.67757
+ResNet-50,Cue conflict,22,1,bird,11.570514,-25.51814
+ResNet-50,Cue conflict,23,1,bird,8.340631,-14.149855
+ResNet-50,Cue conflict,24,1,bird,9.668131,-9.167915
+ResNet-50,Cue conflict,25,1,bird,7.655541,-17.24384
+ResNet-50,Cue conflict,26,1,bird,9.543083,-21.340178
+ResNet-50,Cue conflict,27,1,bird,8.868501,-15.578863
+ResNet-50,Cue conflict,28,1,bird,7.5397506,-23.626368
+ResNet-50,Cue conflict,29,1,bird,8.152749,-16.901688
+ResNet-50,Cue conflict,30,1,bird,9.16953,-5.926242
+ResNet-50,Cue conflict,31,1,bird,4.0745406,-5.6162753
+ResNet-50,Cue conflict,32,1,bird,9.2377825,-22.359966
+ResNet-50,Cue conflict,33,1,bird,4.9172196,-13.348742
+ResNet-50,Cue conflict,34,1,bird,5.693986,-16.176859
+ResNet-50,Cue conflict,35,1,bird,10.080324,-14.317058
+ResNet-50,Cue conflict,36,1,bird,7.521759,-15.439287
+ResNet-50,Cue conflict,37,1,bird,9.287631,-15.310227
+ResNet-50,Cue conflict,38,1,bird,7.6319323,-13.367876
+ResNet-50,Cue conflict,39,1,bird,12.126262,-5.12928
+ResNet-50,Cue conflict,40,2,car,2.29059,14.31385
+ResNet-50,Cue conflict,41,2,car,-1.8020233,17.73618
+ResNet-50,Cue conflict,42,2,car,-0.25294638,19.819498
+ResNet-50,Cue conflict,43,2,car,1.7067821,19.446892
+ResNet-50,Cue conflict,44,2,car,2.7298942,15.300117
+ResNet-50,Cue conflict,45,2,car,10.352609,-9.782709
+ResNet-50,Cue conflict,46,2,car,1.4498639,14.04214
+ResNet-50,Cue conflict,47,2,car,1.3025733,11.747032
+ResNet-50,Cue conflict,48,2,car,2.6905499,16.609228
+ResNet-50,Cue conflict,49,2,car,0.6318376,17.001991
+ResNet-50,Cue conflict,50,2,car,0.6843231,17.829727
+ResNet-50,Cue conflict,51,2,car,7.486417,12.481364
+ResNet-50,Cue conflict,52,2,car,-2.789822,19.254242
+ResNet-50,Cue conflict,53,2,car,-0.29629347,16.075489
+ResNet-50,Cue conflict,54,2,car,-0.51542413,17.793713
+ResNet-50,Cue conflict,55,2,car,-3.0657866,19.570711
+ResNet-50,Cue conflict,56,2,car,2.441205,17.779238
+ResNet-50,Cue conflict,57,2,car,1.8754427,16.028025
+ResNet-50,Cue conflict,58,2,car,0.80997187,15.766344
+ResNet-50,Cue conflict,59,2,car,0.7720948,14.475309
+ResNet-50,Cue conflict,60,3,cat,-14.867245,-32.42082
+ResNet-50,Cue conflict,61,3,cat,14.966464,-5.040384
+ResNet-50,Cue conflict,62,3,cat,14.201544,5.598116
+ResNet-50,Cue conflict,63,3,cat,14.837559,5.236168
+ResNet-50,Cue conflict,64,3,cat,16.427597,8.034327
+ResNet-50,Cue conflict,65,3,cat,-1.5565635,0.9772542
+ResNet-50,Cue conflict,66,3,cat,17.076025,9.221555
+ResNet-50,Cue conflict,67,3,cat,10.130111,-2.8539395
+ResNet-50,Cue conflict,68,3,cat,14.834583,6.446718
+ResNet-50,Cue conflict,69,3,cat,10.256843,7.751607
+ResNet-50,Cue conflict,70,3,cat,2.7690773,4.4980288
+ResNet-50,Cue conflict,71,3,cat,0.6582781,-4.179523
+ResNet-50,Cue conflict,72,3,cat,13.961471,6.9214644
+ResNet-50,Cue conflict,73,3,cat,5.4713483,10.096064
+ResNet-50,Cue conflict,74,3,cat,9.648691,2.9556658
+ResNet-50,Cue conflict,75,3,cat,15.547982,8.756668
+ResNet-50,Cue conflict,76,3,cat,12.767067,7.3497133
+ResNet-50,Cue conflict,77,3,cat,-13.725152,-32.37213
+ResNet-50,Cue conflict,78,3,cat,13.615885,10.35467
+ResNet-50,Cue conflict,79,3,cat,4.309004,-12.49918
+ResNet-50,Cue conflict,80,4,deer,7.7262483,1.001757
+ResNet-50,Cue conflict,81,4,deer,8.249787,-4.085046
+ResNet-50,Cue conflict,82,4,deer,5.010852,4.1885524
+ResNet-50,Cue conflict,83,4,deer,6.7659173,0.8371197
+ResNet-50,Cue conflict,84,4,deer,14.895726,7.904149
+ResNet-50,Cue conflict,85,4,deer,6.0527444,-3.15651
+ResNet-50,Cue conflict,86,4,deer,7.3452387,-2.8343365
+ResNet-50,Cue conflict,87,4,deer,6.889982,-3.553403
+ResNet-50,Cue conflict,88,4,deer,5.570075,-0.74848413
+ResNet-50,Cue conflict,89,4,deer,4.616216,-2.6329408
+ResNet-50,Cue conflict,90,4,deer,2.3662,1.245914
+ResNet-50,Cue conflict,91,4,deer,7.5957665,-0.3453948
+ResNet-50,Cue conflict,92,4,deer,8.732091,0.65012467
+ResNet-50,Cue conflict,93,4,deer,9.157619,0.08661604
+ResNet-50,Cue conflict,94,4,deer,8.688731,-2.1667354
+ResNet-50,Cue conflict,95,4,deer,8.043176,2.727855
+ResNet-50,Cue conflict,96,4,deer,12.427081,-1.6639112
+ResNet-50,Cue conflict,97,4,deer,5.7579308,3.3949761
+ResNet-50,Cue conflict,98,4,deer,3.6808116,3.4650087
+ResNet-50,Cue conflict,99,4,deer,4.7030325,-0.645327
+ResNet-50,Cue conflict,100,5,dog,11.834145,-12.912236
+ResNet-50,Cue conflict,101,5,dog,2.2713413,-16.242035
+ResNet-50,Cue conflict,102,5,dog,-6.598295,-29.920263
+ResNet-50,Cue conflict,103,5,dog,-3.0291858,-14.05873
+ResNet-50,Cue conflict,104,5,dog,1.7231923,-14.533549
+ResNet-50,Cue conflict,105,5,dog,-4.4320884,-16.80843
+ResNet-50,Cue conflict,106,5,dog,6.471969,-14.174698
+ResNet-50,Cue conflict,107,5,dog,-3.2943134,-22.094673
+ResNet-50,Cue conflict,108,5,dog,5.8335176,-14.356543
+ResNet-50,Cue conflict,109,5,dog,11.543599,-11.28751
+ResNet-50,Cue conflict,110,5,dog,14.249215,-8.110793
+ResNet-50,Cue conflict,111,5,dog,9.695748,1.9835736
+ResNet-50,Cue conflict,112,5,dog,2.958803,-7.986113
+ResNet-50,Cue conflict,113,5,dog,-6.6505165,-14.190104
+ResNet-50,Cue conflict,114,5,dog,-6.3179054,-31.137268
+ResNet-50,Cue conflict,115,5,dog,-3.3214445,-14.513368
+ResNet-50,Cue conflict,116,5,dog,3.0625978,-15.069379
+ResNet-50,Cue conflict,117,5,dog,0.84417176,-3.7979217
+ResNet-50,Cue conflict,118,5,dog,4.3970284,-14.148227
+ResNet-50,Cue conflict,119,5,dog,9.361453,-12.095023
+ResNet-50,Cue conflict,120,6,horse,3.5315452,6.6193247
+ResNet-50,Cue conflict,121,6,horse,-4.8743005,0.844981
+ResNet-50,Cue conflict,122,6,horse,-1.2955452,3.9545321
+ResNet-50,Cue conflict,123,6,horse,4.100516,-4.5838885
+ResNet-50,Cue conflict,124,6,horse,-2.1233025,3.5312119
+ResNet-50,Cue conflict,125,6,horse,1.0420207,1.1000926
+ResNet-50,Cue conflict,126,6,horse,2.7327943,-0.82871217
+ResNet-50,Cue conflict,127,6,horse,3.0242841,5.411919
+ResNet-50,Cue conflict,128,6,horse,2.0109675,6.3060155
+ResNet-50,Cue conflict,129,6,horse,-0.6052319,0.8469822
+ResNet-50,Cue conflict,130,6,horse,1.6178343,1.9996153
+ResNet-50,Cue conflict,131,6,horse,5.3277316,11.144783
+ResNet-50,Cue conflict,132,6,horse,-3.6248066,0.017481271
+ResNet-50,Cue conflict,133,6,horse,2.695205,4.885283
+ResNet-50,Cue conflict,134,6,horse,-0.5234802,4.8603272
+ResNet-50,Cue conflict,135,6,horse,-15.608987,1.4407014
+ResNet-50,Cue conflict,136,6,horse,3.9063046,0.78527415
+ResNet-50,Cue conflict,137,6,horse,0.060838304,-0.19285752
+ResNet-50,Cue conflict,138,6,horse,-9.440593,-7.3970475
+ResNet-50,Cue conflict,139,6,horse,1.2347331,4.93694
+ResNet-50,Cue conflict,140,7,monkey,11.84203,1.2293886
+ResNet-50,Cue conflict,141,7,monkey,12.6112795,0.79554325
+ResNet-50,Cue conflict,142,7,monkey,13.300415,6.1336184
+ResNet-50,Cue conflict,143,7,monkey,12.363132,2.7032123
+ResNet-50,Cue conflict,144,7,monkey,10.072687,-1.2032552
+ResNet-50,Cue conflict,145,7,monkey,15.599038,6.7487764
+ResNet-50,Cue conflict,146,7,monkey,10.939871,-12.017954
+ResNet-50,Cue conflict,147,7,monkey,10.259788,0.74715644
+ResNet-50,Cue conflict,148,7,monkey,11.381351,3.0583696
+ResNet-50,Cue conflict,149,7,monkey,14.43376,-2.5280263
+ResNet-50,Cue conflict,150,7,monkey,14.946902,9.132682
+ResNet-50,Cue conflict,151,7,monkey,12.909344,0.14642845
+ResNet-50,Cue conflict,152,7,monkey,3.7553036,-12.068764
+ResNet-50,Cue conflict,153,7,monkey,14.388682,-0.39476827
+ResNet-50,Cue conflict,154,7,monkey,11.347251,-8.354198
+ResNet-50,Cue conflict,155,7,monkey,11.100207,-4.2449727
+ResNet-50,Cue conflict,156,7,monkey,15.520955,-0.67440575
+ResNet-50,Cue conflict,157,7,monkey,12.429146,-2.431938
+ResNet-50,Cue conflict,158,7,monkey,11.26741,1.3037001
+ResNet-50,Cue conflict,159,7,monkey,12.327982,-0.6244387
+ResNet-50,Cue conflict,160,8,ship,10.13077,12.535814
+ResNet-50,Cue conflict,161,8,ship,8.702259,10.741612
+ResNet-50,Cue conflict,162,8,ship,5.9357347,1.6663604
+ResNet-50,Cue conflict,163,8,ship,11.342805,9.315227
+ResNet-50,Cue conflict,164,8,ship,8.876021,-5.9736953
+ResNet-50,Cue conflict,165,8,ship,6.42933,8.048132
+ResNet-50,Cue conflict,166,8,ship,11.067763,6.1187067
+ResNet-50,Cue conflict,167,8,ship,1.5608253,-9.812848
+ResNet-50,Cue conflict,168,8,ship,10.989877,8.779857
+ResNet-50,Cue conflict,169,8,ship,12.075879,-8.592135
+ResNet-50,Cue conflict,170,8,ship,10.978578,10.668061
+ResNet-50,Cue conflict,171,8,ship,8.559508,7.567288
+ResNet-50,Cue conflict,172,8,ship,6.719403,-11.410852
+ResNet-50,Cue conflict,173,8,ship,9.0091505,-8.946304
+ResNet-50,Cue conflict,174,8,ship,12.118755,9.06168
+ResNet-50,Cue conflict,175,8,ship,10.2812605,10.289436
+ResNet-50,Cue conflict,176,8,ship,8.138522,10.509996
+ResNet-50,Cue conflict,177,8,ship,4.85445,-9.358668
+ResNet-50,Cue conflict,178,8,ship,7.2984643,-9.200735
+ResNet-50,Cue conflict,179,8,ship,6.0736604,7.6426764
+ResNet-50,Cue conflict,180,9,truck,4.0384946,7.832723
+ResNet-50,Cue conflict,181,9,truck,6.404842,17.538885
+ResNet-50,Cue conflict,182,9,truck,6.174926,15.324319
+ResNet-50,Cue conflict,183,9,truck,8.28258,18.612152
+ResNet-50,Cue conflict,184,9,truck,7.3356953,15.460333
+ResNet-50,Cue conflict,185,9,truck,4.4211173,14.614909
+ResNet-50,Cue conflict,186,9,truck,5.5446877,12.123968
+ResNet-50,Cue conflict,187,9,truck,9.511489,8.629222
+ResNet-50,Cue conflict,188,9,truck,6.7759833,16.57256
+ResNet-50,Cue conflict,189,9,truck,5.881547,14.446985
+ResNet-50,Cue conflict,190,9,truck,9.307418,-7.729706
+ResNet-50,Cue conflict,191,9,truck,5.9942474,17.034246
+ResNet-50,Cue conflict,192,9,truck,5.6173353,13.453604
+ResNet-50,Cue conflict,193,9,truck,7.778855,12.9966135
+ResNet-50,Cue conflict,194,9,truck,8.964975,12.556526
+ResNet-50,Cue conflict,195,9,truck,3.6739147,16.415564
+ResNet-50,Cue conflict,196,9,truck,6.333389,4.995424
+ResNet-50,Cue conflict,197,9,truck,4.718503,15.801672
+ResNet-50,Cue conflict,198,9,truck,7.6990857,17.507378
+ResNet-50,Cue conflict,199,9,truck,6.35344,18.574627
+ViT-B/16,Content image,0,0,airplane,-19.361464,17.637064
+ViT-B/16,Content image,1,0,airplane,-18.390759,22.963163
+ViT-B/16,Content image,2,0,airplane,-17.663616,16.936155
+ViT-B/16,Content image,3,0,airplane,-20.722187,19.966667
+ViT-B/16,Content image,4,0,airplane,-22.1135,19.878967
+ViT-B/16,Content image,5,0,airplane,-5.525309,19.742046
+ViT-B/16,Content image,6,0,airplane,-19.362568,19.101547
+ViT-B/16,Content image,7,0,airplane,-6.1447754,18.823713
+ViT-B/16,Content image,8,0,airplane,-22.60725,18.426723
+ViT-B/16,Content image,9,0,airplane,-18.325945,19.767042
+ViT-B/16,Content image,10,0,airplane,-16.812572,23.526287
+ViT-B/16,Content image,11,0,airplane,-18.908384,13.395396
+ViT-B/16,Content image,12,0,airplane,-21.1109,18.356342
+ViT-B/16,Content image,13,0,airplane,-18.015768,20.782513
+ViT-B/16,Content image,14,0,airplane,-16.646362,19.188585
+ViT-B/16,Content image,15,0,airplane,-19.692482,16.251959
+ViT-B/16,Content image,16,0,airplane,-17.33241,21.606321
+ViT-B/16,Content image,17,0,airplane,-22.03865,17.794668
+ViT-B/16,Content image,18,0,airplane,-6.128506,17.592102
+ViT-B/16,Content image,19,0,airplane,-23.21295,17.839418
+ViT-B/16,Content image,20,1,bird,10.182834,13.58333
+ViT-B/16,Content image,21,1,bird,10.782653,-2.9515316
+ViT-B/16,Content image,22,1,bird,10.554241,16.387056
+ViT-B/16,Content image,23,1,bird,12.430249,6.240241
+ViT-B/16,Content image,24,1,bird,8.547833,3.4996107
+ViT-B/16,Content image,25,1,bird,19.023521,4.5595007
+ViT-B/16,Content image,26,1,bird,12.236782,13.291022
+ViT-B/16,Content image,27,1,bird,9.024384,12.533959
+ViT-B/16,Content image,28,1,bird,8.595571,14.351604
+ViT-B/16,Content image,29,1,bird,9.825757,2.7795436
+ViT-B/16,Content image,30,1,bird,11.406153,1.3243537
+ViT-B/16,Content image,31,1,bird,11.036534,4.4325466
+ViT-B/16,Content image,32,1,bird,11.15803,13.544779
+ViT-B/16,Content image,33,1,bird,10.557875,6.584032
+ViT-B/16,Content image,34,1,bird,19.3037,4.9409113
+ViT-B/16,Content image,35,1,bird,17.010916,8.194605
+ViT-B/16,Content image,36,1,bird,9.49158,1.162079
+ViT-B/16,Content image,37,1,bird,10.386186,10.168223
+ViT-B/16,Content image,38,1,bird,15.200895,4.722958
+ViT-B/16,Content image,39,1,bird,13.998152,11.092117
+ViT-B/16,Content image,40,2,car,-22.21864,-22.248854
+ViT-B/16,Content image,41,2,car,-23.84658,-22.041037
+ViT-B/16,Content image,42,2,car,-20.981632,-17.09781
+ViT-B/16,Content image,43,2,car,-18.718494,-14.980999
+ViT-B/16,Content image,44,2,car,-29.182686,-15.35853
+ViT-B/16,Content image,45,2,car,-21.01183,-21.440746
+ViT-B/16,Content image,46,2,car,-23.95422,-23.960945
+ViT-B/16,Content image,47,2,car,-19.600689,-19.05474
+ViT-B/16,Content image,48,2,car,-17.862278,-15.498053
+ViT-B/16,Content image,49,2,car,-30.12816,-16.612778
+ViT-B/16,Content image,50,2,car,-21.081972,-19.999744
+ViT-B/16,Content image,51,2,car,-22.497282,-24.820433
+ViT-B/16,Content image,52,2,car,-22.954655,-21.516487
+ViT-B/16,Content image,53,2,car,-19.97789,-13.979754
+ViT-B/16,Content image,54,2,car,-21.169313,-16.802063
+ViT-B/16,Content image,55,2,car,-29.124483,-16.279264
+ViT-B/16,Content image,56,2,car,-18.942774,-16.4098
+ViT-B/16,Content image,57,2,car,-19.985458,-14.780466
+ViT-B/16,Content image,58,2,car,-19.898321,-16.19406
+ViT-B/16,Content image,59,2,car,-25.698105,-22.967758
+ViT-B/16,Content image,60,3,cat,23.77578,-0.62434685
+ViT-B/16,Content image,61,3,cat,32.877327,-2.394672
+ViT-B/16,Content image,62,3,cat,26.642614,1.7656542
+ViT-B/16,Content image,63,3,cat,20.672138,-0.1178732
+ViT-B/16,Content image,64,3,cat,28.867853,1.9882708
+ViT-B/16,Content image,65,3,cat,27.84139,-1.9207056
+ViT-B/16,Content image,66,3,cat,22.194496,-5.9944973
+ViT-B/16,Content image,67,3,cat,30.914787,-0.41301405
+ViT-B/16,Content image,68,3,cat,33.533745,-3.906824
+ViT-B/16,Content image,69,3,cat,22.792162,-0.11327591
+ViT-B/16,Content image,70,3,cat,29.16366,0.44701403
+ViT-B/16,Content image,71,3,cat,33.9184,-4.8321104
+ViT-B/16,Content image,72,3,cat,23.673029,-1.838843
+ViT-B/16,Content image,73,3,cat,27.460571,-1.3070987
+ViT-B/16,Content image,74,3,cat,27.854143,-2.8026154
+ViT-B/16,Content image,75,3,cat,18.900705,-3.2445757
+ViT-B/16,Content image,76,3,cat,28.751835,-1.4901456
+ViT-B/16,Content image,77,3,cat,21.464727,-1.894808
+ViT-B/16,Content image,78,3,cat,20.812048,-0.93335724
+ViT-B/16,Content image,79,3,cat,34.704247,-2.981231
+ViT-B/16,Content image,80,4,deer,17.21822,-27.017221
+ViT-B/16,Content image,81,4,deer,22.270393,-28.586836
+ViT-B/16,Content image,82,4,deer,17.931047,-28.673307
+ViT-B/16,Content image,83,4,deer,20.565674,-31.137667
+ViT-B/16,Content image,84,4,deer,23.39254,-27.713314
+ViT-B/16,Content image,85,4,deer,21.116968,-29.143793
+ViT-B/16,Content image,86,4,deer,16.814533,-31.707712
+ViT-B/16,Content image,87,4,deer,17.065302,-28.66645
+ViT-B/16,Content image,88,4,deer,21.643383,-26.051233
+ViT-B/16,Content image,89,4,deer,19.174788,-30.679358
+ViT-B/16,Content image,90,4,deer,21.022312,-27.430529
+ViT-B/16,Content image,91,4,deer,20.672056,-28.225664
+ViT-B/16,Content image,92,4,deer,19.390585,-31.742508
+ViT-B/16,Content image,93,4,deer,22.166908,-32.06216
+ViT-B/16,Content image,94,4,deer,21.030046,-29.93444
+ViT-B/16,Content image,95,4,deer,21.06043,-23.51622
+ViT-B/16,Content image,96,4,deer,25.049007,-31.191559
+ViT-B/16,Content image,97,4,deer,18.422894,-29.736187
+ViT-B/16,Content image,98,4,deer,19.691683,-27.621319
+ViT-B/16,Content image,99,4,deer,22.055431,-27.599915
+ViT-B/16,Content image,100,5,dog,6.421581,-6.7399445
+ViT-B/16,Content image,101,5,dog,12.7030945,-13.753781
+ViT-B/16,Content image,102,5,dog,23.937698,-9.844391
+ViT-B/16,Content image,103,5,dog,3.869117,-9.247724
+ViT-B/16,Content image,104,5,dog,15.196986,-8.585623
+ViT-B/16,Content image,105,5,dog,13.727233,-0.68640524
+ViT-B/16,Content image,106,5,dog,21.65615,-13.161883
+ViT-B/16,Content image,107,5,dog,16.806116,-9.117442
+ViT-B/16,Content image,108,5,dog,14.978875,-3.3030481
+ViT-B/16,Content image,109,5,dog,7.6363254,-1.2206537
+ViT-B/16,Content image,110,5,dog,17.793182,-8.4924555
+ViT-B/16,Content image,111,5,dog,7.3778324,-9.603881
+ViT-B/16,Content image,112,5,dog,10.514952,-9.499641
+ViT-B/16,Content image,113,5,dog,3.0521357,-9.45465
+ViT-B/16,Content image,114,5,dog,24.528133,-10.528515
+ViT-B/16,Content image,115,5,dog,12.337722,-0.05876242
+ViT-B/16,Content image,116,5,dog,10.248178,-11.84559
+ViT-B/16,Content image,117,5,dog,8.05512,-8.996949
+ViT-B/16,Content image,118,5,dog,12.37084,-7.0740466
+ViT-B/16,Content image,119,5,dog,9.006375,-7.8430486
+ViT-B/16,Content image,120,6,horse,-1.7178644,-16.688118
+ViT-B/16,Content image,121,6,horse,-3.7945874,-14.761072
+ViT-B/16,Content image,122,6,horse,-2.2686977,-19.047749
+ViT-B/16,Content image,123,6,horse,3.5677032,-24.083742
+ViT-B/16,Content image,124,6,horse,1.4674989,-15.571329
+ViT-B/16,Content image,125,6,horse,1.9000382,-21.615631
+ViT-B/16,Content image,126,6,horse,-0.038972225,-19.98813
+ViT-B/16,Content image,127,6,horse,2.8079793,-23.121698
+ViT-B/16,Content image,128,6,horse,-2.9516537,-19.22739
+ViT-B/16,Content image,129,6,horse,4.664601,-17.014154
+ViT-B/16,Content image,130,6,horse,3.0785713,-21.542967
+ViT-B/16,Content image,131,6,horse,2.2935903,-18.294714
+ViT-B/16,Content image,132,6,horse,13.170963,-24.153353
+ViT-B/16,Content image,133,6,horse,3.2325683,-25.241762
+ViT-B/16,Content image,134,6,horse,-4.822859,-16.793736
+ViT-B/16,Content image,135,6,horse,1.8421123,-24.682526
+ViT-B/16,Content image,136,6,horse,2.901126,-19.792295
+ViT-B/16,Content image,137,6,horse,18.405125,-25.353226
+ViT-B/16,Content image,138,6,horse,5.3503857,-19.74587
+ViT-B/16,Content image,139,6,horse,-1.4996226,-20.342638
+ViT-B/16,Content image,140,7,monkey,26.157219,12.686795
+ViT-B/16,Content image,141,7,monkey,23.294436,12.437402
+ViT-B/16,Content image,142,7,monkey,23.164724,18.398449
+ViT-B/16,Content image,143,7,monkey,24.929039,18.019173
+ViT-B/16,Content image,144,7,monkey,24.054226,18.668945
+ViT-B/16,Content image,145,7,monkey,23.254572,10.964416
+ViT-B/16,Content image,146,7,monkey,29.942234,11.424066
+ViT-B/16,Content image,147,7,monkey,24.620378,16.859526
+ViT-B/16,Content image,148,7,monkey,28.053837,11.205738
+ViT-B/16,Content image,149,7,monkey,30.056335,12.510926
+ViT-B/16,Content image,150,7,monkey,28.498415,13.747043
+ViT-B/16,Content image,151,7,monkey,30.774542,13.153
+ViT-B/16,Content image,152,7,monkey,27.656338,12.301948
+ViT-B/16,Content image,153,7,monkey,29.695457,13.267508
+ViT-B/16,Content image,154,7,monkey,29.096386,12.469311
+ViT-B/16,Content image,155,7,monkey,23.785858,9.954066
+ViT-B/16,Content image,156,7,monkey,30.64956,11.689488
+ViT-B/16,Content image,157,7,monkey,18.574846,12.09921
+ViT-B/16,Content image,158,7,monkey,26.27182,11.332559
+ViT-B/16,Content image,159,7,monkey,23.912643,17.609108
+ViT-B/16,Content image,160,8,ship,-2.2373345,31.90274
+ViT-B/16,Content image,161,8,ship,-1.370651,27.203602
+ViT-B/16,Content image,162,8,ship,-4.6547837,28.56765
+ViT-B/16,Content image,163,8,ship,-8.832776,32.963573
+ViT-B/16,Content image,164,8,ship,-4.461575,25.94791
+ViT-B/16,Content image,165,8,ship,-4.565187,31.583155
+ViT-B/16,Content image,166,8,ship,-8.027307,26.499266
+ViT-B/16,Content image,167,8,ship,-3.2038925,29.783472
+ViT-B/16,Content image,168,8,ship,-1.1239023,24.96999
+ViT-B/16,Content image,169,8,ship,-1.9817578,27.259302
+ViT-B/16,Content image,170,8,ship,-8.0318575,32.408367
+ViT-B/16,Content image,171,8,ship,-6.2647285,29.713728
+ViT-B/16,Content image,172,8,ship,-17.161552,3.8258593
+ViT-B/16,Content image,173,8,ship,-7.5727577,29.500359
+ViT-B/16,Content image,174,8,ship,-7.158403,33.75695
+ViT-B/16,Content image,175,8,ship,-0.28190967,25.976503
+ViT-B/16,Content image,176,8,ship,-3.206013,31.768206
+ViT-B/16,Content image,177,8,ship,-7.0347576,30.8651
+ViT-B/16,Content image,178,8,ship,-3.778996,30.351244
+ViT-B/16,Content image,179,8,ship,-6.4708557,32.45492
+ViT-B/16,Content image,180,9,truck,-23.099318,-7.501744
+ViT-B/16,Content image,181,9,truck,-26.459435,-1.3780814
+ViT-B/16,Content image,182,9,truck,-24.72661,-3.3110406
+ViT-B/16,Content image,183,9,truck,-24.096516,-3.2429373
+ViT-B/16,Content image,184,9,truck,-31.225943,-0.2683308
+ViT-B/16,Content image,185,9,truck,-25.8696,-3.3446574
+ViT-B/16,Content image,186,9,truck,-29.485748,-1.8803341
+ViT-B/16,Content image,187,9,truck,-31.778246,2.9725585
+ViT-B/16,Content image,188,9,truck,-28.469456,-3.1638153
+ViT-B/16,Content image,189,9,truck,-29.82878,-0.5096047
+ViT-B/16,Content image,190,9,truck,-21.75627,0.4317407
+ViT-B/16,Content image,191,9,truck,-31.358809,0.78311974
+ViT-B/16,Content image,192,9,truck,-30.810253,-1.7673262
+ViT-B/16,Content image,193,9,truck,-30.990145,1.7370446
+ViT-B/16,Content image,194,9,truck,-32.043133,-1.270637
+ViT-B/16,Content image,195,9,truck,-32.206093,1.28297
+ViT-B/16,Content image,196,9,truck,-20.434958,-3.2188973
+ViT-B/16,Content image,197,9,truck,-32.776,0.12041593
+ViT-B/16,Content image,198,9,truck,-21.158514,-5.1226983
+ViT-B/16,Content image,199,9,truck,-27.625483,-1.7577372
+ViT-B/16,Style image,0,7,monkey,23.85631,13.238499
+ViT-B/16,Style image,1,7,monkey,23.52669,16.888512
+ViT-B/16,Style image,2,7,monkey,22.359083,10.605482
+ViT-B/16,Style image,3,7,monkey,18.840044,12.381217
+ViT-B/16,Style image,4,7,monkey,19.131618,11.42587
+ViT-B/16,Style image,5,7,monkey,23.978895,9.137023
+ViT-B/16,Style image,6,7,monkey,24.929039,18.019173
+ViT-B/16,Style image,7,7,monkey,19.346775,12.285377
+ViT-B/16,Style image,8,7,monkey,19.618517,11.399004
+ViT-B/16,Style image,9,7,monkey,23.815126,11.292679
+ViT-B/16,Style image,10,7,monkey,24.513315,12.488547
+ViT-B/16,Style image,11,7,monkey,24.620378,16.859526
+ViT-B/16,Style image,12,7,monkey,31.055687,12.461778
+ViT-B/16,Style image,13,7,monkey,24.641184,10.315343
+ViT-B/16,Style image,14,7,monkey,27.598482,12.62061
+ViT-B/16,Style image,15,7,monkey,28.877295,13.987882
+ViT-B/16,Style image,16,7,monkey,26.27182,11.332559
+ViT-B/16,Style image,17,7,monkey,23.047283,17.658411
+ViT-B/16,Style image,18,7,monkey,24.054226,18.668945
+ViT-B/16,Style image,19,7,monkey,29.198362,11.987401
+ViT-B/16,Style image,20,5,dog,10.808877,-8.008875
+ViT-B/16,Style image,21,5,dog,17.793184,-8.492624
+ViT-B/16,Style image,22,5,dog,13.286777,-14.203909
+ViT-B/16,Style image,23,5,dog,11.29586,-13.010307
+ViT-B/16,Style image,24,5,dog,24.263529,-9.667271
+ViT-B/16,Style image,25,5,dog,24.796741,-9.94666
+ViT-B/16,Style image,26,5,dog,7.3768773,-9.60301
+ViT-B/16,Style image,27,5,dog,13.424927,-13.702466
+ViT-B/16,Style image,28,5,dog,12.882572,-14.255674
+ViT-B/16,Style image,29,5,dog,16.806116,-9.117442
+ViT-B/16,Style image,30,5,dog,6.421581,-6.7399445
+ViT-B/16,Style image,31,5,dog,14.369922,-7.5006533
+ViT-B/16,Style image,32,5,dog,10.752752,-8.744026
+ViT-B/16,Style image,33,5,dog,14.263299,-7.49039
+ViT-B/16,Style image,34,5,dog,15.196987,-8.585623
+ViT-B/16,Style image,35,5,dog,8.412562,-8.074469
+ViT-B/16,Style image,36,5,dog,7.884169,-5.749117
+ViT-B/16,Style image,37,5,dog,14.979135,-3.302542
+ViT-B/16,Style image,38,5,dog,4.6345887,-8.977923
+ViT-B/16,Style image,39,5,dog,21.65615,-13.161883
+ViT-B/16,Style image,40,4,deer,22.166908,-32.06216
+ViT-B/16,Style image,41,4,deer,22.39692,-30.566788
+ViT-B/16,Style image,42,4,deer,16.814533,-31.707712
+ViT-B/16,Style image,43,4,deer,20.29565,-26.420303
+ViT-B/16,Style image,44,4,deer,18.106342,-31.69298
+ViT-B/16,Style image,45,4,deer,25.049007,-31.191559
+ViT-B/16,Style image,46,4,deer,19.208063,-26.566744
+ViT-B/16,Style image,47,4,deer,21.643383,-26.051233
+ViT-B/16,Style image,48,4,deer,21.753817,-30.576195
+ViT-B/16,Style image,49,4,deer,23.875977,-28.188597
+ViT-B/16,Style image,50,4,deer,19.466354,-29.689177
+ViT-B/16,Style image,51,4,deer,21.06043,-23.51622
+ViT-B/16,Style image,52,4,deer,20.672056,-28.225664
+ViT-B/16,Style image,53,4,deer,20.058558,-32.474632
+ViT-B/16,Style image,54,4,deer,19.998884,-30.871275
+ViT-B/16,Style image,55,4,deer,23.290995,-28.993313
+ViT-B/16,Style image,56,4,deer,23.097239,-26.372972
+ViT-B/16,Style image,57,4,deer,16.65409,-28.019733
+ViT-B/16,Style image,58,4,deer,18.945,-27.497957
+ViT-B/16,Style image,59,4,deer,23.996687,-26.028376
+ViT-B/16,Style image,60,8,ship,-6.4708557,32.45492
+ViT-B/16,Style image,61,8,ship,-4.55425,29.839802
+ViT-B/16,Style image,62,8,ship,-7.158403,33.75695
+ViT-B/16,Style image,63,8,ship,-5.4367137,30.37951
+ViT-B/16,Style image,64,8,ship,-8.832776,32.963573
+ViT-B/16,Style image,65,8,ship,-1.1232532,24.969786
+ViT-B/16,Style image,66,8,ship,-3.206013,31.768206
+ViT-B/16,Style image,67,8,ship,-18.221268,12.717306
+ViT-B/16,Style image,68,8,ship,-0.7264271,26.108006
+ViT-B/16,Style image,69,8,ship,-4.461575,25.94791
+ViT-B/16,Style image,70,8,ship,-2.272516,31.303932
+ViT-B/16,Style image,71,8,ship,-3.4516823,28.942177
+ViT-B/16,Style image,72,8,ship,-7.0347576,30.8651
+ViT-B/16,Style image,73,8,ship,-4.9429917,32.263588
+ViT-B/16,Style image,74,8,ship,-2.2568212,30.25377
+ViT-B/16,Style image,75,8,ship,-5.958396,31.173424
+ViT-B/16,Style image,76,8,ship,-8.251102,30.988113
+ViT-B/16,Style image,77,8,ship,-4.9364576,30.956621
+ViT-B/16,Style image,78,8,ship,-1.5575464,26.279032
+ViT-B/16,Style image,79,8,ship,-8.027307,26.499262
+ViT-B/16,Style image,80,2,car,-29.772692,-17.0259
+ViT-B/16,Style image,81,2,car,-19.600666,-19.054781
+ViT-B/16,Style image,82,2,car,-23.252506,-22.796959
+ViT-B/16,Style image,83,2,car,-21.949722,-20.498865
+ViT-B/16,Style image,84,2,car,-23.305258,-20.492096
+ViT-B/16,Style image,85,2,car,-16.625528,-15.029163
+ViT-B/16,Style image,86,2,car,-25.698105,-22.967758
+ViT-B/16,Style image,87,2,car,-23.15805,-16.820177
+ViT-B/16,Style image,88,2,car,-18.654217,-15.736842
+ViT-B/16,Style image,89,2,car,-23.037865,-24.327156
+ViT-B/16,Style image,90,2,car,-23.03099,-18.652382
+ViT-B/16,Style image,91,2,car,-28.860327,-16.708656
+ViT-B/16,Style image,92,2,car,-28.48001,-15.878091
+ViT-B/16,Style image,93,2,car,-29.89446,-15.856753
+ViT-B/16,Style image,94,2,car,-18.077845,-16.714544
+ViT-B/16,Style image,95,2,car,-25.387077,-24.171701
+ViT-B/16,Style image,96,2,car,-22.111156,-22.418415
+ViT-B/16,Style image,97,2,car,-23.836596,-21.813087
+ViT-B/16,Style image,98,2,car,-21.46184,-20.988558
+ViT-B/16,Style image,99,2,car,-23.99338,-24.260113
+ViT-B/16,Style image,100,1,bird,15.216034,4.853766
+ViT-B/16,Style image,101,1,bird,12.236781,13.291024
+ViT-B/16,Style image,102,1,bird,11.398286,1.1826987
+ViT-B/16,Style image,103,1,bird,10.87379,14.296207
+ViT-B/16,Style image,104,1,bird,17.010916,8.194605
+ViT-B/16,Style image,105,1,bird,10.389812,14.86422
+ViT-B/16,Style image,106,1,bird,26.21126,-1.589529
+ViT-B/16,Style image,107,1,bird,10.782653,-2.9515316
+ViT-B/16,Style image,108,1,bird,9.867597,14.234769
+ViT-B/16,Style image,109,1,bird,10.31595,10.93235
+ViT-B/16,Style image,110,1,bird,12.430512,6.240617
+ViT-B/16,Style image,111,1,bird,10.922453,2.367483
+ViT-B/16,Style image,112,1,bird,19.3037,4.9409127
+ViT-B/16,Style image,113,1,bird,12.999349,3.0539632
+ViT-B/16,Style image,114,1,bird,12.970924,3.0123992
+ViT-B/16,Style image,115,1,bird,13.9981785,11.092137
+ViT-B/16,Style image,116,1,bird,15.686175,2.234939
+ViT-B/16,Style image,117,1,bird,10.554245,16.387257
+ViT-B/16,Style image,118,1,bird,15.550008,3.1066678
+ViT-B/16,Style image,119,1,bird,9.418722,15.436938
+ViT-B/16,Style image,120,9,truck,-32.560005,-1.0825899
+ViT-B/16,Style image,121,9,truck,-20.178257,-0.36344576
+ViT-B/16,Style image,122,9,truck,-23.438213,-2.9144573
+ViT-B/16,Style image,123,9,truck,-20.435032,-3.218997
+ViT-B/16,Style image,124,9,truck,-23.592806,-7.303509
+ViT-B/16,Style image,125,9,truck,-32.219555,0.24541424
+ViT-B/16,Style image,126,9,truck,-21.158304,-5.122722
+ViT-B/16,Style image,127,9,truck,-28.144037,-6.6442003
+ViT-B/16,Style image,128,9,truck,-30.218628,0.63423884
+ViT-B/16,Style image,129,9,truck,-24.408403,-1.2716243
+ViT-B/16,Style image,130,9,truck,-33.066654,1.0027401
+ViT-B/16,Style image,131,9,truck,-31.358809,0.78311974
+ViT-B/16,Style image,132,9,truck,-20.137714,-6.3421373
+ViT-B/16,Style image,133,9,truck,-28.02609,-5.177709
+ViT-B/16,Style image,134,9,truck,-28.125137,-6.235316
+ViT-B/16,Style image,135,9,truck,-31.225943,-0.2683308
+ViT-B/16,Style image,136,9,truck,-28.437134,-6.731169
+ViT-B/16,Style image,137,9,truck,-29.485748,-1.8803341
+ViT-B/16,Style image,138,9,truck,-31.778246,2.9725585
+ViT-B/16,Style image,139,9,truck,-22.16666,-5.539328
+ViT-B/16,Style image,140,0,airplane,-19.10559,21.773594
+ViT-B/16,Style image,141,0,airplane,-19.675089,21.155321
+ViT-B/16,Style image,142,0,airplane,-6.989475,20.25358
+ViT-B/16,Style image,143,0,airplane,-19.299429,12.7743
+ViT-B/16,Style image,144,0,airplane,-22.456566,16.981716
+ViT-B/16,Style image,145,0,airplane,-18.773657,23.25972
+ViT-B/16,Style image,146,0,airplane,-21.288965,16.630968
+ViT-B/16,Style image,147,0,airplane,-17.995834,19.632145
+ViT-B/16,Style image,148,0,airplane,-17.535427,23.505253
+ViT-B/16,Style image,149,0,airplane,-19.360281,17.636967
+ViT-B/16,Style image,150,0,airplane,-16.940617,20.079695
+ViT-B/16,Style image,151,0,airplane,-21.179195,18.560177
+ViT-B/16,Style image,152,0,airplane,-5.52531,19.742048
+ViT-B/16,Style image,153,0,airplane,-19.511862,22.4546
+ViT-B/16,Style image,154,0,airplane,-19.69248,16.251957
+ViT-B/16,Style image,155,0,airplane,-22.113459,19.878977
+ViT-B/16,Style image,156,0,airplane,-5.78843,17.04961
+ViT-B/16,Style image,157,0,airplane,-18.70163,21.019913
+ViT-B/16,Style image,158,0,airplane,-23.064678,17.364664
+ViT-B/16,Style image,159,0,airplane,-18.251926,21.815912
+ViT-B/16,Style image,160,3,cat,34.19398,-3.7022216
+ViT-B/16,Style image,161,3,cat,33.9184,-4.8321104
+ViT-B/16,Style image,162,3,cat,20.715889,-1.6803817
+ViT-B/16,Style image,163,3,cat,26.642614,1.7656542
+ViT-B/16,Style image,164,3,cat,24.449886,-1.12735
+ViT-B/16,Style image,165,3,cat,17.962559,-0.49722758
+ViT-B/16,Style image,166,3,cat,29.034336,-0.8186747
+ViT-B/16,Style image,167,3,cat,28.397808,0.33322486
+ViT-B/16,Style image,168,3,cat,28.924427,-2.403289
+ViT-B/16,Style image,169,3,cat,26.40691,-0.7152862
+ViT-B/16,Style image,170,3,cat,21.94689,-4.8227654
+ViT-B/16,Style image,171,3,cat,28.867853,1.9882708
+ViT-B/16,Style image,172,3,cat,23.673029,-1.838843
+ViT-B/16,Style image,173,3,cat,18.900698,-3.2446725
+ViT-B/16,Style image,174,3,cat,22.399214,-1.5214623
+ViT-B/16,Style image,175,3,cat,22.194496,-5.994498
+ViT-B/16,Style image,176,3,cat,33.533745,-3.906824
+ViT-B/16,Style image,177,3,cat,30.866438,0.9167328
+ViT-B/16,Style image,178,3,cat,30.914787,-0.41301405
+ViT-B/16,Style image,179,3,cat,23.519236,-0.8835793
+ViT-B/16,Style image,180,6,horse,2.5121417,-23.089197
+ViT-B/16,Style image,181,6,horse,-3.4451034,-18.531954
+ViT-B/16,Style image,182,6,horse,0.8278568,-17.566862
+ViT-B/16,Style image,183,6,horse,1.8421123,-24.682526
+ViT-B/16,Style image,184,6,horse,13.171043,-24.153374
+ViT-B/16,Style image,185,6,horse,-15.864413,-8.24091
+ViT-B/16,Style image,186,6,horse,-1.4996226,-20.342638
+ViT-B/16,Style image,187,6,horse,-1.2550204,-16.595026
+ViT-B/16,Style image,188,6,horse,1.9649554,-18.087154
+ViT-B/16,Style image,189,6,horse,3.078889,-21.54339
+ViT-B/16,Style image,190,6,horse,2.3219316,-23.900139
+ViT-B/16,Style image,191,6,horse,1.4674989,-15.571329
+ViT-B/16,Style image,192,6,horse,-4.8228593,-16.793736
+ViT-B/16,Style image,193,6,horse,5.3503857,-19.74587
+ViT-B/16,Style image,194,6,horse,1.2906982,-22.920498
+ViT-B/16,Style image,195,6,horse,0.3308764,-22.729912
+ViT-B/16,Style image,196,6,horse,-3.5960984,-14.728107
+ViT-B/16,Style image,197,6,horse,3.2325497,-25.241777
+ViT-B/16,Style image,198,6,horse,-2.287782,-17.018135
+ViT-B/16,Style image,199,6,horse,0.14580281,-16.271002
+ViT-B/16,Cue conflict,0,0,airplane,1.4919319,5.281411
+ViT-B/16,Cue conflict,1,0,airplane,-10.929141,2.2677507
+ViT-B/16,Cue conflict,2,0,airplane,-11.488684,12.671531
+ViT-B/16,Cue conflict,3,0,airplane,3.2320864,7.458946
+ViT-B/16,Cue conflict,4,0,airplane,-12.094353,3.152667
+ViT-B/16,Cue conflict,5,0,airplane,-8.334497,6.598876
+ViT-B/16,Cue conflict,6,0,airplane,-14.175093,14.832372
+ViT-B/16,Cue conflict,7,0,airplane,-10.37356,12.429222
+ViT-B/16,Cue conflict,8,0,airplane,-12.539161,12.889231
+ViT-B/16,Cue conflict,9,0,airplane,-9.214321,9.994007
+ViT-B/16,Cue conflict,10,0,airplane,-11.611161,-2.647631
+ViT-B/16,Cue conflict,11,0,airplane,6.2414474,8.275955
+ViT-B/16,Cue conflict,12,0,airplane,-13.895953,11.77603
+ViT-B/16,Cue conflict,13,0,airplane,-13.412107,14.463807
+ViT-B/16,Cue conflict,14,0,airplane,-12.193337,10.4492445
+ViT-B/16,Cue conflict,15,0,airplane,-12.644538,9.165285
+ViT-B/16,Cue conflict,16,0,airplane,-14.616862,13.834978
+ViT-B/16,Cue conflict,17,0,airplane,-14.319309,12.726084
+ViT-B/16,Cue conflict,18,0,airplane,-4.132248,15.278092
+ViT-B/16,Cue conflict,19,0,airplane,-12.719093,12.61109
+ViT-B/16,Cue conflict,20,1,bird,11.0552225,12.121102
+ViT-B/16,Cue conflict,21,1,bird,10.868332,-2.8804903
+ViT-B/16,Cue conflict,22,1,bird,9.561373,16.407177
+ViT-B/16,Cue conflict,23,1,bird,9.160434,8.039919
+ViT-B/16,Cue conflict,24,1,bird,8.10666,3.7454839
+ViT-B/16,Cue conflict,25,1,bird,19.504362,0.8076284
+ViT-B/16,Cue conflict,26,1,bird,8.688568,9.990462
+ViT-B/16,Cue conflict,27,1,bird,8.093282,12.070543
+ViT-B/16,Cue conflict,28,1,bird,8.720158,13.471899
+ViT-B/16,Cue conflict,29,1,bird,17.633581,10.707807
+ViT-B/16,Cue conflict,30,1,bird,2.3569624,3.3822844
+ViT-B/16,Cue conflict,31,1,bird,10.695107,4.4303985
+ViT-B/16,Cue conflict,32,1,bird,11.476058,14.605325
+ViT-B/16,Cue conflict,33,1,bird,9.843595,6.8282914
+ViT-B/16,Cue conflict,34,1,bird,19.204208,5.6314893
+ViT-B/16,Cue conflict,35,1,bird,8.926301,7.8369207
+ViT-B/16,Cue conflict,36,1,bird,8.291982,0.9881878
+ViT-B/16,Cue conflict,37,1,bird,9.54174,9.690815
+ViT-B/16,Cue conflict,38,1,bird,4.9142127,3.8611996
+ViT-B/16,Cue conflict,39,1,bird,12.547465,10.832635
+ViT-B/16,Cue conflict,40,2,car,-26.773308,-19.794334
+ViT-B/16,Cue conflict,41,2,car,-24.814478,-19.876446
+ViT-B/16,Cue conflict,42,2,car,-24.606667,-17.443716
+ViT-B/16,Cue conflict,43,2,car,-18.917538,-13.634464
+ViT-B/16,Cue conflict,44,2,car,-25.40219,-14.853626
+ViT-B/16,Cue conflict,45,2,car,-9.085904,-0.968635
+ViT-B/16,Cue conflict,46,2,car,-25.652506,-19.738804
+ViT-B/16,Cue conflict,47,2,car,-23.80516,-13.033752
+ViT-B/16,Cue conflict,48,2,car,-16.200716,-8.526288
+ViT-B/16,Cue conflict,49,2,car,-27.02115,-15.262499
+ViT-B/16,Cue conflict,50,2,car,-26.588125,-19.066536
+ViT-B/16,Cue conflict,51,2,car,-23.745403,-15.837362
+ViT-B/16,Cue conflict,52,2,car,-24.769352,-19.05409
+ViT-B/16,Cue conflict,53,2,car,-25.574877,-18.292435
+ViT-B/16,Cue conflict,54,2,car,-24.640944,-16.93034
+ViT-B/16,Cue conflict,55,2,car,-26.409283,-16.394308
+ViT-B/16,Cue conflict,56,2,car,-23.525148,-13.063865
+ViT-B/16,Cue conflict,57,2,car,-12.383697,-2.242135
+ViT-B/16,Cue conflict,58,2,car,-18.936823,-12.79725
+ViT-B/16,Cue conflict,59,2,car,-25.972202,-21.230255
+ViT-B/16,Cue conflict,60,3,cat,1.1653521,0.9309711
+ViT-B/16,Cue conflict,61,3,cat,5.6541843,-2.7729068
+ViT-B/16,Cue conflict,62,3,cat,-5.8992724,4.993148
+ViT-B/16,Cue conflict,63,3,cat,-5.6946306,7.6500497
+ViT-B/16,Cue conflict,64,3,cat,3.4715216,10.317031
+ViT-B/16,Cue conflict,65,3,cat,-6.546691,4.0572357
+ViT-B/16,Cue conflict,66,3,cat,21.2996,-5.937848
+ViT-B/16,Cue conflict,67,3,cat,-0.27754307,0.38077462
+ViT-B/16,Cue conflict,68,3,cat,-0.9966769,-0.76018345
+ViT-B/16,Cue conflict,69,3,cat,-9.185088,3.895841
+ViT-B/16,Cue conflict,70,3,cat,-3.105255,-0.925343
+ViT-B/16,Cue conflict,71,3,cat,6.2069182,-2.4269562
+ViT-B/16,Cue conflict,72,3,cat,-4.9842253,6.3008614
+ViT-B/16,Cue conflict,73,3,cat,0.020856358,2.091562
+ViT-B/16,Cue conflict,74,3,cat,-2.6888206,7.3098335
+ViT-B/16,Cue conflict,75,3,cat,-4.3116,7.6194186
+ViT-B/16,Cue conflict,76,3,cat,-5.5336556,2.4568977
+ViT-B/16,Cue conflict,77,3,cat,0.20993246,0.922125
+ViT-B/16,Cue conflict,78,3,cat,-7.4369555,3.8475943
+ViT-B/16,Cue conflict,79,3,cat,2.2590806,12.086895
+ViT-B/16,Cue conflict,80,4,deer,-4.37153,-0.22130191
+ViT-B/16,Cue conflict,81,4,deer,-7.590002,-1.3734089
+ViT-B/16,Cue conflict,82,4,deer,-5.7239723,-2.415367
+ViT-B/16,Cue conflict,83,4,deer,-6.0180664,-0.645663
+ViT-B/16,Cue conflict,84,4,deer,-5.9437804,0.75624055
+ViT-B/16,Cue conflict,85,4,deer,-7.104884,-4.145728
+ViT-B/16,Cue conflict,86,4,deer,-7.8639483,-2.4010143
+ViT-B/16,Cue conflict,87,4,deer,-7.2384634,-3.2451074
+ViT-B/16,Cue conflict,88,4,deer,-1.7060674,-2.1846504
+ViT-B/16,Cue conflict,89,4,deer,4.4067664,0.60859084
+ViT-B/16,Cue conflict,90,4,deer,-5.365604,-4.500961
+ViT-B/16,Cue conflict,91,4,deer,-4.968532,-1.6698236
+ViT-B/16,Cue conflict,92,4,deer,-4.451821,1.1201738
+ViT-B/16,Cue conflict,93,4,deer,-4.036804,3.6660578
+ViT-B/16,Cue conflict,94,4,deer,-9.94944,1.5681741
+ViT-B/16,Cue conflict,95,4,deer,18.450314,-21.797878
+ViT-B/16,Cue conflict,96,4,deer,0.27535057,6.59475
+ViT-B/16,Cue conflict,97,4,deer,-6.628706,-2.6581154
+ViT-B/16,Cue conflict,98,4,deer,-4.019256,-2.0886128
+ViT-B/16,Cue conflict,99,4,deer,-4.685076,-3.9806376
+ViT-B/16,Cue conflict,100,5,dog,18.573292,-21.91824
+ViT-B/16,Cue conflict,101,5,dog,10.082519,-13.34573
+ViT-B/16,Cue conflict,102,5,dog,23.468084,-10.413996
+ViT-B/16,Cue conflict,103,5,dog,3.4459214,-8.893751
+ViT-B/16,Cue conflict,104,5,dog,2.5451202,-2.4220524
+ViT-B/16,Cue conflict,105,5,dog,13.629009,-0.5761128
+ViT-B/16,Cue conflict,106,5,dog,21.29544,-13.349961
+ViT-B/16,Cue conflict,107,5,dog,15.771463,-8.02403
+ViT-B/16,Cue conflict,108,5,dog,14.465797,-2.6771147
+ViT-B/16,Cue conflict,109,5,dog,7.301085,-1.2511094
+ViT-B/16,Cue conflict,110,5,dog,-1.0112909,4.3152256
+ViT-B/16,Cue conflict,111,5,dog,-3.0358288,3.476532
+ViT-B/16,Cue conflict,112,5,dog,7.9235115,7.0300765
+ViT-B/16,Cue conflict,113,5,dog,2.939605,-9.221894
+ViT-B/16,Cue conflict,114,5,dog,24.305098,-11.129131
+ViT-B/16,Cue conflict,115,5,dog,14.486052,7.87534
+ViT-B/16,Cue conflict,116,5,dog,9.90416,-11.894632
+ViT-B/16,Cue conflict,117,5,dog,6.0682673,-4.1318355
+ViT-B/16,Cue conflict,118,5,dog,12.893429,-7.208051
+ViT-B/16,Cue conflict,119,5,dog,4.2469006,4.5960336
+ViT-B/16,Cue conflict,120,6,horse,-3.5840433,0.09319194
+ViT-B/16,Cue conflict,121,6,horse,-5.492434,-8.81172
+ViT-B/16,Cue conflict,122,6,horse,-0.88355345,-14.389391
+ViT-B/16,Cue conflict,123,6,horse,1.7406676,-2.1262257
+ViT-B/16,Cue conflict,124,6,horse,0.38939878,-14.720248
+ViT-B/16,Cue conflict,125,6,horse,-2.352755,-6.215782
+ViT-B/16,Cue conflict,126,6,horse,-1.4841769,-4.0788736
+ViT-B/16,Cue conflict,127,6,horse,-2.0281518,-4.028588
+ViT-B/16,Cue conflict,128,6,horse,-5.5854855,-7.692651
+ViT-B/16,Cue conflict,129,6,horse,5.1952524,-16.114452
+ViT-B/16,Cue conflict,130,6,horse,-3.7817397,-6.304858
+ViT-B/16,Cue conflict,131,6,horse,-5.0116262,1.0592341
+ViT-B/16,Cue conflict,132,6,horse,-9.468857,1.061034
+ViT-B/16,Cue conflict,133,6,horse,-3.0992007,-1.5031127
+ViT-B/16,Cue conflict,134,6,horse,-5.280646,-15.168094
+ViT-B/16,Cue conflict,135,6,horse,1.140862,-23.979177
+ViT-B/16,Cue conflict,136,6,horse,-2.514779,-2.6966867
+ViT-B/16,Cue conflict,137,6,horse,-1.7860246,-6.74975
+ViT-B/16,Cue conflict,138,6,horse,6.728016,-16.599476
+ViT-B/16,Cue conflict,139,6,horse,-5.8279967,-7.4334908
+ViT-B/16,Cue conflict,140,7,monkey,-2.118997,5.367945
+ViT-B/16,Cue conflict,141,7,monkey,-2.9103289,5.3336735
+ViT-B/16,Cue conflict,142,7,monkey,21.673273,15.25576
+ViT-B/16,Cue conflict,143,7,monkey,-1.1585426,8.3944845
+ViT-B/16,Cue conflict,144,7,monkey,21.99543,14.125478
+ViT-B/16,Cue conflict,145,7,monkey,-5.021622,5.76671
+ViT-B/16,Cue conflict,146,7,monkey,6.3256803,4.8348126
+ViT-B/16,Cue conflict,147,7,monkey,-3.6755097,6.616787
+ViT-B/16,Cue conflict,148,7,monkey,-4.319905,5.5385427
+ViT-B/16,Cue conflict,149,7,monkey,-2.8825452,1.8704605
+ViT-B/16,Cue conflict,150,7,monkey,-4.360619,8.164909
+ViT-B/16,Cue conflict,151,7,monkey,-0.65396285,5.581093
+ViT-B/16,Cue conflict,152,7,monkey,2.1116679,12.093096
+ViT-B/16,Cue conflict,153,7,monkey,0.73214066,9.391822
+ViT-B/16,Cue conflict,154,7,monkey,5.8326073,7.8807235
+ViT-B/16,Cue conflict,155,7,monkey,-1.3982481,3.85859
+ViT-B/16,Cue conflict,156,7,monkey,29.141912,10.80779
+ViT-B/16,Cue conflict,157,7,monkey,1.3138433,5.8004
+ViT-B/16,Cue conflict,158,7,monkey,-1.8066318,6.1907563
+ViT-B/16,Cue conflict,159,7,monkey,-1.3778682,7.5633774
+ViT-B/16,Cue conflict,160,8,ship,-14.272505,7.3651257
+ViT-B/16,Cue conflict,161,8,ship,-15.589356,7.1901007
+ViT-B/16,Cue conflict,162,8,ship,-4.987636,10.687445
+ViT-B/16,Cue conflict,163,8,ship,-11.804612,9.174411
+ViT-B/16,Cue conflict,164,8,ship,-9.907233,-1.2359822
+ViT-B/16,Cue conflict,165,8,ship,-15.094945,5.4539595
+ViT-B/16,Cue conflict,166,8,ship,-9.398744,15.427655
+ViT-B/16,Cue conflict,167,8,ship,-3.209694,14.194248
+ViT-B/16,Cue conflict,168,8,ship,-10.931089,7.645634
+ViT-B/16,Cue conflict,169,8,ship,3.2334335,5.4432325
+ViT-B/16,Cue conflict,170,8,ship,-17.26417,6.331161
+ViT-B/16,Cue conflict,171,8,ship,-11.024416,4.59367
+ViT-B/16,Cue conflict,172,8,ship,-12.495209,7.7484336
+ViT-B/16,Cue conflict,173,8,ship,-11.236762,5.142139
+ViT-B/16,Cue conflict,174,8,ship,-8.046496,7.413209
+ViT-B/16,Cue conflict,175,8,ship,-17.233105,7.6995187
+ViT-B/16,Cue conflict,176,8,ship,-15.674962,6.428752
+ViT-B/16,Cue conflict,177,8,ship,-13.118782,4.7807107
+ViT-B/16,Cue conflict,178,8,ship,-12.736201,7.3467174
+ViT-B/16,Cue conflict,179,8,ship,-15.915975,5.777143
+ViT-B/16,Cue conflict,180,9,truck,-13.108522,-3.7412286
+ViT-B/16,Cue conflict,181,9,truck,-26.35116,-0.01792014
+ViT-B/16,Cue conflict,182,9,truck,-23.886322,-2.6758075
+ViT-B/16,Cue conflict,183,9,truck,-23.42826,0.17734359
+ViT-B/16,Cue conflict,184,9,truck,-29.830677,2.3142822
+ViT-B/16,Cue conflict,185,9,truck,-18.835148,-5.601499
+ViT-B/16,Cue conflict,186,9,truck,-24.678823,2.4424698
+ViT-B/16,Cue conflict,187,9,truck,-11.60696,3.4171364
+ViT-B/16,Cue conflict,188,9,truck,-23.717398,0.073586464
+ViT-B/16,Cue conflict,189,9,truck,-26.612772,1.1378342
+ViT-B/16,Cue conflict,190,9,truck,-11.1203985,0.95365214
+ViT-B/16,Cue conflict,191,9,truck,-25.357586,0.86971724
+ViT-B/16,Cue conflict,192,9,truck,-24.922539,-13.958891
+ViT-B/16,Cue conflict,193,9,truck,-19.41656,0.7798443
+ViT-B/16,Cue conflict,194,9,truck,-23.8811,1.5921173
+ViT-B/16,Cue conflict,195,9,truck,-28.686552,1.2116884
+ViT-B/16,Cue conflict,196,9,truck,-11.890799,-1.2417041
+ViT-B/16,Cue conflict,197,9,truck,-17.063557,-1.561559
+ViT-B/16,Cue conflict,198,9,truck,-20.650034,0.62453544
+ViT-B/16,Cue conflict,199,9,truck,-23.03524,2.1310976
+CLIP ViT-B/32,Content image,0,0,airplane,8.3337,-49.229115
+CLIP ViT-B/32,Content image,1,0,airplane,1.8442876,-48.895596
+CLIP ViT-B/32,Content image,2,0,airplane,9.486893,-45.024494
+CLIP ViT-B/32,Content image,3,0,airplane,2.9477937,-44.99218
+CLIP ViT-B/32,Content image,4,0,airplane,8.198163,-45.890945
+CLIP ViT-B/32,Content image,5,0,airplane,10.613096,-50.892395
+CLIP ViT-B/32,Content image,6,0,airplane,6.803826,-48.53332
+CLIP ViT-B/32,Content image,7,0,airplane,9.612421,-50.84575
+CLIP ViT-B/32,Content image,8,0,airplane,6.2208915,-47.34468
+CLIP ViT-B/32,Content image,9,0,airplane,6.324977,-45.66972
+CLIP ViT-B/32,Content image,10,0,airplane,7.6101737,-51.26797
+CLIP ViT-B/32,Content image,11,0,airplane,5.510888,-50.872856
+CLIP ViT-B/32,Content image,12,0,airplane,3.225324,-43.12785
+CLIP ViT-B/32,Content image,13,0,airplane,3.7672956,-46.612648
+CLIP ViT-B/32,Content image,14,0,airplane,7.809245,-48.207024
+CLIP ViT-B/32,Content image,15,0,airplane,5.6207924,-43.48966
+CLIP ViT-B/32,Content image,16,0,airplane,1.3447677,-47.12534
+CLIP ViT-B/32,Content image,17,0,airplane,7.742819,-47.43231
+CLIP ViT-B/32,Content image,18,0,airplane,10.402358,-49.88734
+CLIP ViT-B/32,Content image,19,0,airplane,9.633207,-46.71552
+CLIP ViT-B/32,Content image,20,1,bird,-10.241429,26.437628
+CLIP ViT-B/32,Content image,21,1,bird,-15.227756,11.913461
+CLIP ViT-B/32,Content image,22,1,bird,-11.914229,20.416769
+CLIP ViT-B/32,Content image,23,1,bird,-14.937806,22.244036
+CLIP ViT-B/32,Content image,24,1,bird,-11.145297,22.554054
+CLIP ViT-B/32,Content image,25,1,bird,-2.8623648,23.255571
+CLIP ViT-B/32,Content image,26,1,bird,-8.031039,28.922152
+CLIP ViT-B/32,Content image,27,1,bird,-7.0352244,21.933903
+CLIP ViT-B/32,Content image,28,1,bird,-9.474024,23.763824
+CLIP ViT-B/32,Content image,29,1,bird,7.218447,39.79318
+CLIP ViT-B/32,Content image,30,1,bird,-12.615124,23.459085
+CLIP ViT-B/32,Content image,31,1,bird,-11.329722,16.090685
+CLIP ViT-B/32,Content image,32,1,bird,-7.729795,27.394325
+CLIP ViT-B/32,Content image,33,1,bird,-7.667215,24.64279
+CLIP ViT-B/32,Content image,34,1,bird,-3.3036942,22.750004
+CLIP ViT-B/32,Content image,35,1,bird,-13.744324,17.872456
+CLIP ViT-B/32,Content image,36,1,bird,-6.624299,22.262163
+CLIP ViT-B/32,Content image,37,1,bird,-9.099252,23.006132
+CLIP ViT-B/32,Content image,38,1,bird,-4.8984213,27.09445
+CLIP ViT-B/32,Content image,39,1,bird,-12.429116,26.997812
+CLIP ViT-B/32,Content image,40,2,car,4.459878,-26.652626
+CLIP ViT-B/32,Content image,41,2,car,8.732257,-29.380857
+CLIP ViT-B/32,Content image,42,2,car,7.325561,-27.084425
+CLIP ViT-B/32,Content image,43,2,car,2.1254125,-21.978016
+CLIP ViT-B/32,Content image,44,2,car,13.651987,-30.005247
+CLIP ViT-B/32,Content image,45,2,car,6.433591,-25.626556
+CLIP ViT-B/32,Content image,46,2,car,3.7674391,-32.00426
+CLIP ViT-B/32,Content image,47,2,car,10.048989,-26.272997
+CLIP ViT-B/32,Content image,48,2,car,0.98792523,-22.4041
+CLIP ViT-B/32,Content image,49,2,car,12.578192,-31.044374
+CLIP ViT-B/32,Content image,50,2,car,5.9193172,-25.162615
+CLIP ViT-B/32,Content image,51,2,car,4.291154,-32.82456
+CLIP ViT-B/32,Content image,52,2,car,6.97124,-27.604856
+CLIP ViT-B/32,Content image,53,2,car,4.891403,-23.820246
+CLIP ViT-B/32,Content image,54,2,car,3.4038546,-24.379133
+CLIP ViT-B/32,Content image,55,2,car,12.824023,-29.49222
+CLIP ViT-B/32,Content image,56,2,car,3.227655,-25.100025
+CLIP ViT-B/32,Content image,57,2,car,3.956553,-24.487514
+CLIP ViT-B/32,Content image,58,2,car,2.4572644,-25.08438
+CLIP ViT-B/32,Content image,59,2,car,4.1081676,-30.324919
+CLIP ViT-B/32,Content image,60,3,cat,6.9811773,19.799522
+CLIP ViT-B/32,Content image,61,3,cat,7.879147,33.245815
+CLIP ViT-B/32,Content image,62,3,cat,3.005761,20.090965
+CLIP ViT-B/32,Content image,63,3,cat,8.520563,18.748573
+CLIP ViT-B/32,Content image,64,3,cat,2.7402353,32.41653
+CLIP ViT-B/32,Content image,65,3,cat,4.8211374,34.052364
+CLIP ViT-B/32,Content image,66,3,cat,7.43727,22.100767
+CLIP ViT-B/32,Content image,67,3,cat,6.8995605,32.327984
+CLIP ViT-B/32,Content image,68,3,cat,9.311806,31.857864
+CLIP ViT-B/32,Content image,69,3,cat,8.465863,20.211117
+CLIP ViT-B/32,Content image,70,3,cat,8.793969,36.988464
+CLIP ViT-B/32,Content image,71,3,cat,11.513425,29.750551
+CLIP ViT-B/32,Content image,72,3,cat,7.215535,24.977257
+CLIP ViT-B/32,Content image,73,3,cat,4.7485547,34.42882
+CLIP ViT-B/32,Content image,74,3,cat,7.1746964,34.449665
+CLIP ViT-B/32,Content image,75,3,cat,10.536632,21.242907
+CLIP ViT-B/32,Content image,76,3,cat,13.809073,29.33996
+CLIP ViT-B/32,Content image,77,3,cat,9.163675,22.738903
+CLIP ViT-B/32,Content image,78,3,cat,9.488392,19.785227
+CLIP ViT-B/32,Content image,79,3,cat,8.242159,34.8505
+CLIP ViT-B/32,Content image,80,4,deer,-9.775929,45.591557
+CLIP ViT-B/32,Content image,81,4,deer,-1.3236765,43.26972
+CLIP ViT-B/32,Content image,82,4,deer,-5.259841,47.82061
+CLIP ViT-B/32,Content image,83,4,deer,-7.974295,48.41632
+CLIP ViT-B/32,Content image,84,4,deer,-9.630634,43.83369
+CLIP ViT-B/32,Content image,85,4,deer,-4.9137673,43.901413
+CLIP ViT-B/32,Content image,86,4,deer,-5.0391674,50.073765
+CLIP ViT-B/32,Content image,87,4,deer,-7.0330667,46.489956
+CLIP ViT-B/32,Content image,88,4,deer,-8.39881,43.79665
+CLIP ViT-B/32,Content image,89,4,deer,-6.1279697,46.907997
+CLIP ViT-B/32,Content image,90,4,deer,-2.5690372,44.084118
+CLIP ViT-B/32,Content image,91,4,deer,-2.88123,45.02326
+CLIP ViT-B/32,Content image,92,4,deer,-8.622286,47.418495
+CLIP ViT-B/32,Content image,93,4,deer,-11.385938,43.45326
+CLIP ViT-B/32,Content image,94,4,deer,-7.6253796,42.614887
+CLIP ViT-B/32,Content image,95,4,deer,-2.6704915,38.749737
+CLIP ViT-B/32,Content image,96,4,deer,-7.87869,39.748367
+CLIP ViT-B/32,Content image,97,4,deer,-4.6530457,46.86323
+CLIP ViT-B/32,Content image,98,4,deer,-5.2523236,43.25051
+CLIP ViT-B/32,Content image,99,4,deer,-5.827059,44.243282
+CLIP ViT-B/32,Content image,100,5,dog,12.65488,20.11314
+CLIP ViT-B/32,Content image,101,5,dog,14.165798,32.429623
+CLIP ViT-B/32,Content image,102,5,dog,15.97272,20.981258
+CLIP ViT-B/32,Content image,103,5,dog,14.1472645,20.630117
+CLIP ViT-B/32,Content image,104,5,dog,18.469553,17.962835
+CLIP ViT-B/32,Content image,105,5,dog,16.408527,22.73123
+CLIP ViT-B/32,Content image,106,5,dog,19.664835,25.941742
+CLIP ViT-B/32,Content image,107,5,dog,16.227095,18.491465
+CLIP ViT-B/32,Content image,108,5,dog,17.333628,15.648469
+CLIP ViT-B/32,Content image,109,5,dog,15.201825,21.716055
+CLIP ViT-B/32,Content image,110,5,dog,14.81159,19.23666
+CLIP ViT-B/32,Content image,111,5,dog,23.751545,22.285126
+CLIP ViT-B/32,Content image,112,5,dog,16.108315,25.64459
+CLIP ViT-B/32,Content image,113,5,dog,19.58406,20.766092
+CLIP ViT-B/32,Content image,114,5,dog,8.668318,29.629488
+CLIP ViT-B/32,Content image,115,5,dog,18.749233,21.061926
+CLIP ViT-B/32,Content image,116,5,dog,17.81807,24.563
+CLIP ViT-B/32,Content image,117,5,dog,12.546992,24.966345
+CLIP ViT-B/32,Content image,118,5,dog,15.590026,15.980238
+CLIP ViT-B/32,Content image,119,5,dog,14.680899,27.324638
+CLIP ViT-B/32,Content image,120,6,horse,22.363745,1.1659328
+CLIP ViT-B/32,Content image,121,6,horse,18.840996,2.643983
+CLIP ViT-B/32,Content image,122,6,horse,19.985744,3.6176026
+CLIP ViT-B/32,Content image,123,6,horse,24.182913,8.112294
+CLIP ViT-B/32,Content image,124,6,horse,21.916212,6.848129
+CLIP ViT-B/32,Content image,125,6,horse,22.78026,5.7845817
+CLIP ViT-B/32,Content image,126,6,horse,22.63063,3.5914469
+CLIP ViT-B/32,Content image,127,6,horse,23.490911,4.5603857
+CLIP ViT-B/32,Content image,128,6,horse,16.141249,2.3463852
+CLIP ViT-B/32,Content image,129,6,horse,21.628601,4.108899
+CLIP ViT-B/32,Content image,130,6,horse,24.77976,4.703121
+CLIP ViT-B/32,Content image,131,6,horse,23.626505,7.2507353
+CLIP ViT-B/32,Content image,132,6,horse,25.243963,-0.09851381
+CLIP ViT-B/32,Content image,133,6,horse,22.92016,9.297498
+CLIP ViT-B/32,Content image,134,6,horse,17.396538,5.588496
+CLIP ViT-B/32,Content image,135,6,horse,24.206623,6.0093937
+CLIP ViT-B/32,Content image,136,6,horse,22.024271,8.912761
+CLIP ViT-B/32,Content image,137,6,horse,23.499212,8.498551
+CLIP ViT-B/32,Content image,138,6,horse,-5.979783,36.709835
+CLIP ViT-B/32,Content image,139,6,horse,16.110218,-1.6823223
+CLIP ViT-B/32,Content image,140,7,monkey,12.9997225,40.609615
+CLIP ViT-B/32,Content image,141,7,monkey,12.027345,40.08642
+CLIP ViT-B/32,Content image,142,7,monkey,12.996478,39.803143
+CLIP ViT-B/32,Content image,143,7,monkey,12.288809,38.90678
+CLIP ViT-B/32,Content image,144,7,monkey,15.126819,38.841854
+CLIP ViT-B/32,Content image,145,7,monkey,12.686424,41.59525
+CLIP ViT-B/32,Content image,146,7,monkey,12.634048,43.74535
+CLIP ViT-B/32,Content image,147,7,monkey,13.983722,38.534355
+CLIP ViT-B/32,Content image,148,7,monkey,11.53136,36.70571
+CLIP ViT-B/32,Content image,149,7,monkey,11.610262,41.511448
+CLIP ViT-B/32,Content image,150,7,monkey,18.182219,39.317028
+CLIP ViT-B/32,Content image,151,7,monkey,17.6677,36.64489
+CLIP ViT-B/32,Content image,152,7,monkey,15.025326,44.72409
+CLIP ViT-B/32,Content image,153,7,monkey,12.48276,42.66965
+CLIP ViT-B/32,Content image,154,7,monkey,14.3673725,42.572807
+CLIP ViT-B/32,Content image,155,7,monkey,10.711422,44.559986
+CLIP ViT-B/32,Content image,156,7,monkey,13.61602,41.700466
+CLIP ViT-B/32,Content image,157,7,monkey,9.162035,40.03195
+CLIP ViT-B/32,Content image,158,7,monkey,15.484648,40.7865
+CLIP ViT-B/32,Content image,159,7,monkey,13.086478,36.925133
+CLIP ViT-B/32,Content image,160,8,ship,-17.387346,-51.997814
+CLIP ViT-B/32,Content image,161,8,ship,-11.722433,-48.108826
+CLIP ViT-B/32,Content image,162,8,ship,-15.818384,-49.697464
+CLIP ViT-B/32,Content image,163,8,ship,-14.875495,-46.792477
+CLIP ViT-B/32,Content image,164,8,ship,-14.139756,-51.606834
+CLIP ViT-B/32,Content image,165,8,ship,-17.005735,-48.614452
+CLIP ViT-B/32,Content image,166,8,ship,-12.4977665,-54.256546
+CLIP ViT-B/32,Content image,167,8,ship,-16.2982,-51.433342
+CLIP ViT-B/32,Content image,168,8,ship,-11.060235,-50.361504
+CLIP ViT-B/32,Content image,169,8,ship,-13.295514,-49.04793
+CLIP ViT-B/32,Content image,170,8,ship,-17.345966,-46.78045
+CLIP ViT-B/32,Content image,171,8,ship,-16.172588,-45.999157
+CLIP ViT-B/32,Content image,172,8,ship,-11.123054,-45.77888
+CLIP ViT-B/32,Content image,173,8,ship,-18.162132,-47.663284
+CLIP ViT-B/32,Content image,174,8,ship,-17.120947,-50.175476
+CLIP ViT-B/32,Content image,175,8,ship,-10.347425,-49.014385
+CLIP ViT-B/32,Content image,176,8,ship,-18.200443,-53.106174
+CLIP ViT-B/32,Content image,177,8,ship,-14.866546,-48.655163
+CLIP ViT-B/32,Content image,178,8,ship,-18.714931,-51.79548
+CLIP ViT-B/32,Content image,179,8,ship,-16.34773,-47.260212
+CLIP ViT-B/32,Content image,180,9,truck,-8.845304,-27.870445
+CLIP ViT-B/32,Content image,181,9,truck,-6.925745,-31.000664
+CLIP ViT-B/32,Content image,182,9,truck,-10.917733,-29.79721
+CLIP ViT-B/32,Content image,183,9,truck,-9.850428,-29.9688
+CLIP ViT-B/32,Content image,184,9,truck,-7.524781,-35.02145
+CLIP ViT-B/32,Content image,185,9,truck,-7.756187,-29.36746
+CLIP ViT-B/32,Content image,186,9,truck,-10.490467,-33.250713
+CLIP ViT-B/32,Content image,187,9,truck,-6.0526047,-36.402874
+CLIP ViT-B/32,Content image,188,9,truck,-7.130904,-24.49378
+CLIP ViT-B/32,Content image,189,9,truck,-5.682534,-34.26569
+CLIP ViT-B/32,Content image,190,9,truck,-11.960373,-26.931799
+CLIP ViT-B/32,Content image,191,9,truck,-7.8536634,-33.769344
+CLIP ViT-B/32,Content image,192,9,truck,-9.192753,-32.562603
+CLIP ViT-B/32,Content image,193,9,truck,-6.3779807,-33.23334
+CLIP ViT-B/32,Content image,194,9,truck,-10.612532,-36.862244
+CLIP ViT-B/32,Content image,195,9,truck,-6.9362936,-34.410847
+CLIP ViT-B/32,Content image,196,9,truck,-12.290215,-28.73479
+CLIP ViT-B/32,Content image,197,9,truck,-8.737883,-34.99427
+CLIP ViT-B/32,Content image,198,9,truck,-11.279374,-27.726748
+CLIP ViT-B/32,Content image,199,9,truck,-7.511296,-27.203989
+CLIP ViT-B/32,Style image,0,7,monkey,9.815938,41.033783
+CLIP ViT-B/32,Style image,1,7,monkey,12.727964,37.841423
+CLIP ViT-B/32,Style image,2,7,monkey,12.781699,35.1276
+CLIP ViT-B/32,Style image,3,7,monkey,9.344188,41.92687
+CLIP ViT-B/32,Style image,4,7,monkey,9.283807,38.84251
+CLIP ViT-B/32,Style image,5,7,monkey,12.127838,34.707657
+CLIP ViT-B/32,Style image,6,7,monkey,12.288809,38.90678
+CLIP ViT-B/32,Style image,7,7,monkey,11.06553,40.988297
+CLIP ViT-B/32,Style image,8,7,monkey,9.944143,38.734447
+CLIP ViT-B/32,Style image,9,7,monkey,10.192713,42.9343
+CLIP ViT-B/32,Style image,10,7,monkey,10.887085,39.947598
+CLIP ViT-B/32,Style image,11,7,monkey,14.092511,38.181995
+CLIP ViT-B/32,Style image,12,7,monkey,17.667435,36.644913
+CLIP ViT-B/32,Style image,13,7,monkey,14.10067,40.34392
+CLIP ViT-B/32,Style image,14,7,monkey,15.025326,44.72409
+CLIP ViT-B/32,Style image,15,7,monkey,18.182219,39.317028
+CLIP ViT-B/32,Style image,16,7,monkey,15.484648,40.7865
+CLIP ViT-B/32,Style image,17,7,monkey,13.370052,33.053764
+CLIP ViT-B/32,Style image,18,7,monkey,15.126819,38.841854
+CLIP ViT-B/32,Style image,19,7,monkey,14.423355,42.54104
+CLIP ViT-B/32,Style image,20,5,dog,15.18651,25.919197
+CLIP ViT-B/32,Style image,21,5,dog,14.811978,19.236439
+CLIP ViT-B/32,Style image,22,5,dog,18.901745,23.001585
+CLIP ViT-B/32,Style image,23,5,dog,17.239098,24.246845
+CLIP ViT-B/32,Style image,24,5,dog,14.204149,22.192228
+CLIP ViT-B/32,Style image,25,5,dog,13.173508,23.080984
+CLIP ViT-B/32,Style image,26,5,dog,23.751545,22.285126
+CLIP ViT-B/32,Style image,27,5,dog,18.449717,22.343422
+CLIP ViT-B/32,Style image,28,5,dog,17.883587,23.193544
+CLIP ViT-B/32,Style image,29,5,dog,16.226856,18.491018
+CLIP ViT-B/32,Style image,30,5,dog,12.65488,20.11314
+CLIP ViT-B/32,Style image,31,5,dog,17.415642,22.169455
+CLIP ViT-B/32,Style image,32,5,dog,15.594744,23.682745
+CLIP ViT-B/32,Style image,33,5,dog,20.235834,17.716372
+CLIP ViT-B/32,Style image,34,5,dog,18.469576,17.962776
+CLIP ViT-B/32,Style image,35,5,dog,16.321394,24.497816
+CLIP ViT-B/32,Style image,36,5,dog,14.617576,17.2364
+CLIP ViT-B/32,Style image,37,5,dog,17.333628,15.648469
+CLIP ViT-B/32,Style image,38,5,dog,13.980321,21.387934
+CLIP ViT-B/32,Style image,39,5,dog,19.664835,25.941742
+CLIP ViT-B/32,Style image,40,4,deer,-11.385938,43.45326
+CLIP ViT-B/32,Style image,41,4,deer,-7.759472,45.647182
+CLIP ViT-B/32,Style image,42,4,deer,-5.0390477,50.07365
+CLIP ViT-B/32,Style image,43,4,deer,-6.659922,43.878796
+CLIP ViT-B/32,Style image,44,4,deer,-7.2223825,47.546722
+CLIP ViT-B/32,Style image,45,4,deer,-7.878679,39.748425
+CLIP ViT-B/32,Style image,46,4,deer,-5.186487,45.54033
+CLIP ViT-B/32,Style image,47,4,deer,-8.301254,43.57617
+CLIP ViT-B/32,Style image,48,4,deer,-7.374183,44.736702
+CLIP ViT-B/32,Style image,49,4,deer,-9.440695,42.875484
+CLIP ViT-B/32,Style image,50,4,deer,-6.3596764,48.067158
+CLIP ViT-B/32,Style image,51,4,deer,-2.670501,38.749763
+CLIP ViT-B/32,Style image,52,4,deer,-2.88123,45.02326
+CLIP ViT-B/32,Style image,53,4,deer,-7.801426,47.225937
+CLIP ViT-B/32,Style image,54,4,deer,-7.216359,48.474075
+CLIP ViT-B/32,Style image,55,4,deer,-4.731977,42.584747
+CLIP ViT-B/32,Style image,56,4,deer,-5.8049173,42.621796
+CLIP ViT-B/32,Style image,57,4,deer,-6.109189,45.596947
+CLIP ViT-B/32,Style image,58,4,deer,-4.144593,43.17288
+CLIP ViT-B/32,Style image,59,4,deer,-2.904059,42.23481
+CLIP ViT-B/32,Style image,60,8,ship,-16.34773,-47.260212
+CLIP ViT-B/32,Style image,61,8,ship,-15.51398,-50.43108
+CLIP ViT-B/32,Style image,62,8,ship,-16.785322,-49.845806
+CLIP ViT-B/32,Style image,63,8,ship,-18.491173,-49.11742
+CLIP ViT-B/32,Style image,64,8,ship,-14.875495,-46.792477
+CLIP ViT-B/32,Style image,65,8,ship,-11.060235,-50.361504
+CLIP ViT-B/32,Style image,66,8,ship,-18.200443,-53.106174
+CLIP ViT-B/32,Style image,67,8,ship,-14.041586,-50.18486
+CLIP ViT-B/32,Style image,68,8,ship,-11.10748,-49.14471
+CLIP ViT-B/32,Style image,69,8,ship,-14.139756,-51.606834
+CLIP ViT-B/32,Style image,70,8,ship,-17.387346,-51.997814
+CLIP ViT-B/32,Style image,71,8,ship,-16.463552,-53.32861
+CLIP ViT-B/32,Style image,72,8,ship,-14.866546,-48.655163
+CLIP ViT-B/32,Style image,73,8,ship,-17.568192,-49.193615
+CLIP ViT-B/32,Style image,74,8,ship,-15.852706,-52.45632
+CLIP ViT-B/32,Style image,75,8,ship,-15.9600525,-48.550667
+CLIP ViT-B/32,Style image,76,8,ship,-13.741507,-47.61651
+CLIP ViT-B/32,Style image,77,8,ship,-18.347795,-50.194168
+CLIP ViT-B/32,Style image,78,8,ship,-9.950772,-50.1113
+CLIP ViT-B/32,Style image,79,8,ship,-12.4977665,-54.256546
+CLIP ViT-B/32,Style image,80,2,car,12.593093,-31.059513
+CLIP ViT-B/32,Style image,81,2,car,10.048968,-26.272999
+CLIP ViT-B/32,Style image,82,2,car,6.775903,-28.455784
+CLIP ViT-B/32,Style image,83,2,car,7.1874895,-24.984879
+CLIP ViT-B/32,Style image,84,2,car,11.488337,-29.937073
+CLIP ViT-B/32,Style image,85,2,car,-0.35835207,-30.028582
+CLIP ViT-B/32,Style image,86,2,car,4.1081676,-30.324919
+CLIP ViT-B/32,Style image,87,2,car,5.1320953,-30.555534
+CLIP ViT-B/32,Style image,88,2,car,4.484783,-22.412985
+CLIP ViT-B/32,Style image,89,2,car,4.869364,-32.381336
+CLIP ViT-B/32,Style image,90,2,car,5.96026,-23.699741
+CLIP ViT-B/32,Style image,91,2,car,12.732247,-29.667318
+CLIP ViT-B/32,Style image,92,2,car,10.844012,-29.746382
+CLIP ViT-B/32,Style image,93,2,car,13.56213,-30.771902
+CLIP ViT-B/32,Style image,94,2,car,0.6806993,-23.478334
+CLIP ViT-B/32,Style image,95,2,car,3.161243,-30.93632
+CLIP ViT-B/32,Style image,96,2,car,4.4598775,-26.652798
+CLIP ViT-B/32,Style image,97,2,car,8.732255,-29.380877
+CLIP ViT-B/32,Style image,98,2,car,6.2078843,-26.285074
+CLIP ViT-B/32,Style image,99,2,car,4.1167192,-31.838194
+CLIP ViT-B/32,Style image,100,1,bird,-4.916641,27.31049
+CLIP ViT-B/32,Style image,101,1,bird,-8.031039,28.922155
+CLIP ViT-B/32,Style image,102,1,bird,-12.591645,24.180107
+CLIP ViT-B/32,Style image,103,1,bird,-8.924604,27.347971
+CLIP ViT-B/32,Style image,104,1,bird,-13.744323,17.87247
+CLIP ViT-B/32,Style image,105,1,bird,-9.272355,26.862469
+CLIP ViT-B/32,Style image,106,1,bird,-4.44919,27.54039
+CLIP ViT-B/32,Style image,107,1,bird,-15.227612,11.91362
+CLIP ViT-B/32,Style image,108,1,bird,-9.427656,25.306929
+CLIP ViT-B/32,Style image,109,1,bird,-9.073227,25.896572
+CLIP ViT-B/32,Style image,110,1,bird,-14.937797,22.243483
+CLIP ViT-B/32,Style image,111,1,bird,-12.770072,22.51426
+CLIP ViT-B/32,Style image,112,1,bird,-3.3036368,22.75008
+CLIP ViT-B/32,Style image,113,1,bird,-9.051257,24.502815
+CLIP ViT-B/32,Style image,114,1,bird,-10.238613,25.057371
+CLIP ViT-B/32,Style image,115,1,bird,-12.429652,26.997997
+CLIP ViT-B/32,Style image,116,1,bird,3.7678077,9.193884
+CLIP ViT-B/32,Style image,117,1,bird,-11.914229,20.416794
+CLIP ViT-B/32,Style image,118,1,bird,-6.2910957,25.961206
+CLIP ViT-B/32,Style image,119,1,bird,-10.21082,18.729046
+CLIP ViT-B/32,Style image,120,9,truck,-10.61262,-36.861385
+CLIP ViT-B/32,Style image,121,9,truck,-6.8170333,-30.084484
+CLIP ViT-B/32,Style image,122,9,truck,-7.0045347,-23.370531
+CLIP ViT-B/32,Style image,123,9,truck,-12.2907295,-28.734243
+CLIP ViT-B/32,Style image,124,9,truck,-6.5889406,-28.52184
+CLIP ViT-B/32,Style image,125,9,truck,-8.833773,-34.48434
+CLIP ViT-B/32,Style image,126,9,truck,-11.279386,-27.724894
+CLIP ViT-B/32,Style image,127,9,truck,-3.3081136,-29.789011
+CLIP ViT-B/32,Style image,128,9,truck,-7.287577,-32.437584
+CLIP ViT-B/32,Style image,129,9,truck,-9.013475,-30.161003
+CLIP ViT-B/32,Style image,130,9,truck,-7.96267,-31.23051
+CLIP ViT-B/32,Style image,131,9,truck,-7.8536634,-33.769344
+CLIP ViT-B/32,Style image,132,9,truck,-9.006354,-28.96248
+CLIP ViT-B/32,Style image,133,9,truck,-3.5746195,-30.07867
+CLIP ViT-B/32,Style image,134,9,truck,-4.2400546,-30.513695
+CLIP ViT-B/32,Style image,135,9,truck,-7.814603,-35.351612
+CLIP ViT-B/32,Style image,136,9,truck,-3.9713607,-29.594843
+CLIP ViT-B/32,Style image,137,9,truck,-10.49089,-33.251286
+CLIP ViT-B/32,Style image,138,9,truck,-6.0526047,-36.402874
+CLIP ViT-B/32,Style image,139,9,truck,-4.9322314,-28.57627
+CLIP ViT-B/32,Style image,140,0,airplane,2.1867304,-46.753143
+CLIP ViT-B/32,Style image,141,0,airplane,3.890471,-45.6054
+CLIP ViT-B/32,Style image,142,0,airplane,8.564763,-50.562122
+CLIP ViT-B/32,Style image,143,0,airplane,5.836389,-50.941845
+CLIP ViT-B/32,Style image,144,0,airplane,8.510034,-47.093296
+CLIP ViT-B/32,Style image,145,0,airplane,1.8442281,-48.89482
+CLIP ViT-B/32,Style image,146,0,airplane,8.033764,-44.71454
+CLIP ViT-B/32,Style image,147,0,airplane,6.3243885,-45.67006
+CLIP ViT-B/32,Style image,148,0,airplane,0.6941521,-47.865524
+CLIP ViT-B/32,Style image,149,0,airplane,8.576191,-49.09599
+CLIP ViT-B/32,Style image,150,0,airplane,4.921493,-44.842472
+CLIP ViT-B/32,Style image,151,0,airplane,3.2253273,-43.127888
+CLIP ViT-B/32,Style image,152,0,airplane,10.6132,-50.892315
+CLIP ViT-B/32,Style image,153,0,airplane,3.4706228,-47.81053
+CLIP ViT-B/32,Style image,154,0,airplane,5.6207843,-43.492588
+CLIP ViT-B/32,Style image,155,0,airplane,8.35229,-45.820206
+CLIP ViT-B/32,Style image,156,0,airplane,10.720288,-52.206894
+CLIP ViT-B/32,Style image,157,0,airplane,2.3522196,-46.105156
+CLIP ViT-B/32,Style image,158,0,airplane,9.56886,-46.934803
+CLIP ViT-B/32,Style image,159,0,airplane,2.9807336,-46.110676
+CLIP ViT-B/32,Style image,160,3,cat,12.277153,31.616695
+CLIP ViT-B/32,Style image,161,3,cat,11.513893,29.750591
+CLIP ViT-B/32,Style image,162,3,cat,8.787036,21.09172
+CLIP ViT-B/32,Style image,163,3,cat,3.0051937,20.091017
+CLIP ViT-B/32,Style image,164,3,cat,5.487254,19.032328
+CLIP ViT-B/32,Style image,165,3,cat,4.5652223,19.155045
+CLIP ViT-B/32,Style image,166,3,cat,4.4704294,32.889576
+CLIP ViT-B/32,Style image,167,3,cat,6.5993166,36.19533
+CLIP ViT-B/32,Style image,168,3,cat,6.0139112,35.06636
+CLIP ViT-B/32,Style image,169,3,cat,3.4755318,34.06153
+CLIP ViT-B/32,Style image,170,3,cat,6.394168,21.76854
+CLIP ViT-B/32,Style image,171,3,cat,2.7402353,32.41653
+CLIP ViT-B/32,Style image,172,3,cat,7.216354,24.977312
+CLIP ViT-B/32,Style image,173,3,cat,10.536629,21.242884
+CLIP ViT-B/32,Style image,174,3,cat,5.3232203,19.959026
+CLIP ViT-B/32,Style image,175,3,cat,7.4373307,22.100483
+CLIP ViT-B/32,Style image,176,3,cat,9.311806,31.857864
+CLIP ViT-B/32,Style image,177,3,cat,8.088794,28.946934
+CLIP ViT-B/32,Style image,178,3,cat,6.8995605,32.327984
+CLIP ViT-B/32,Style image,179,3,cat,6.9811807,19.799578
+CLIP ViT-B/32,Style image,180,6,horse,23.490911,4.5603857
+CLIP ViT-B/32,Style image,181,6,horse,17.65062,4.388181
+CLIP ViT-B/32,Style image,182,6,horse,24.997938,6.957143
+CLIP ViT-B/32,Style image,183,6,horse,24.206623,6.0093937
+CLIP ViT-B/32,Style image,184,6,horse,25.243963,-0.09851381
+CLIP ViT-B/32,Style image,185,6,horse,20.199236,6.8854117
+CLIP ViT-B/32,Style image,186,6,horse,16.110218,-1.6823223
+CLIP ViT-B/32,Style image,187,6,horse,22.22804,-0.8422044
+CLIP ViT-B/32,Style image,188,6,horse,24.41749,9.202167
+CLIP ViT-B/32,Style image,189,6,horse,24.687544,4.488759
+CLIP ViT-B/32,Style image,190,6,horse,23.049658,2.511053
+CLIP ViT-B/32,Style image,191,6,horse,21.916212,6.848129
+CLIP ViT-B/32,Style image,192,6,horse,17.395742,5.5882792
+CLIP ViT-B/32,Style image,193,6,horse,-5.9797726,36.709843
+CLIP ViT-B/32,Style image,194,6,horse,26.176468,5.6955705
+CLIP ViT-B/32,Style image,195,6,horse,25.794785,7.8067207
+CLIP ViT-B/32,Style image,196,6,horse,19.191147,2.6290183
+CLIP ViT-B/32,Style image,197,6,horse,22.920017,9.297237
+CLIP ViT-B/32,Style image,198,6,horse,20.83042,1.1487386
+CLIP ViT-B/32,Style image,199,6,horse,24.220955,1.0593957
+CLIP ViT-B/32,Cue conflict,0,0,airplane,-5.929092,5.855503
+CLIP ViT-B/32,Cue conflict,1,0,airplane,-11.827403,-8.35793
+CLIP ViT-B/32,Cue conflict,2,0,airplane,-12.367645,-9.653666
+CLIP ViT-B/32,Cue conflict,3,0,airplane,-10.620503,-5.59209
+CLIP ViT-B/32,Cue conflict,4,0,airplane,-12.43423,-7.2808805
+CLIP ViT-B/32,Cue conflict,5,0,airplane,-8.308977,-7.315979
+CLIP ViT-B/32,Cue conflict,6,0,airplane,-14.086467,-9.75864
+CLIP ViT-B/32,Cue conflict,7,0,airplane,-12.63328,-5.4150352
+CLIP ViT-B/32,Cue conflict,8,0,airplane,-14.679296,-11.00427
+CLIP ViT-B/32,Cue conflict,9,0,airplane,-12.248099,-0.7654936
+CLIP ViT-B/32,Cue conflict,10,0,airplane,-11.576268,-9.944614
+CLIP ViT-B/32,Cue conflict,11,0,airplane,-10.209206,-10.518658
+CLIP ViT-B/32,Cue conflict,12,0,airplane,-9.379967,-8.337455
+CLIP ViT-B/32,Cue conflict,13,0,airplane,-12.956428,-8.463667
+CLIP ViT-B/32,Cue conflict,14,0,airplane,-14.370229,-9.067863
+CLIP ViT-B/32,Cue conflict,15,0,airplane,-10.24739,-8.17562
+CLIP ViT-B/32,Cue conflict,16,0,airplane,-14.491754,-11.235387
+CLIP ViT-B/32,Cue conflict,17,0,airplane,-13.3567505,-11.357566
+CLIP ViT-B/32,Cue conflict,18,0,airplane,-9.339715,-13.008598
+CLIP ViT-B/32,Cue conflict,19,0,airplane,-11.613024,-7.7802405
+CLIP ViT-B/32,Cue conflict,20,1,bird,-8.529878,20.939756
+CLIP ViT-B/32,Cue conflict,21,1,bird,-14.912148,11.219331
+CLIP ViT-B/32,Cue conflict,22,1,bird,-9.6642065,18.120092
+CLIP ViT-B/32,Cue conflict,23,1,bird,-8.934518,12.017704
+CLIP ViT-B/32,Cue conflict,24,1,bird,-7.3219833,11.016059
+CLIP ViT-B/32,Cue conflict,25,1,bird,-9.860116,12.334011
+CLIP ViT-B/32,Cue conflict,26,1,bird,-7.1187325,13.183141
+CLIP ViT-B/32,Cue conflict,27,1,bird,-7.028566,17.515234
+CLIP ViT-B/32,Cue conflict,28,1,bird,-8.377549,17.65572
+CLIP ViT-B/32,Cue conflict,29,1,bird,-6.914425,9.508719
+CLIP ViT-B/32,Cue conflict,30,1,bird,-8.68858,10.544058
+CLIP ViT-B/32,Cue conflict,31,1,bird,-5.9176407,12.343477
+CLIP ViT-B/32,Cue conflict,32,1,bird,-8.853443,20.399729
+CLIP ViT-B/32,Cue conflict,33,1,bird,-5.0918493,12.398459
+CLIP ViT-B/32,Cue conflict,34,1,bird,-10.028589,13.29616
+CLIP ViT-B/32,Cue conflict,35,1,bird,-5.5062013,10.081886
+CLIP ViT-B/32,Cue conflict,36,1,bird,-6.5082846,16.647068
+CLIP ViT-B/32,Cue conflict,37,1,bird,-7.5217175,12.160145
+CLIP ViT-B/32,Cue conflict,38,1,bird,-12.697947,4.2409563
+CLIP ViT-B/32,Cue conflict,39,1,bird,-8.166722,19.141914
+CLIP ViT-B/32,Cue conflict,40,2,car,-3.8562953,-13.511042
+CLIP ViT-B/32,Cue conflict,41,2,car,-1.9730986,-14.088607
+CLIP ViT-B/32,Cue conflict,42,2,car,-0.06109035,-14.748509
+CLIP ViT-B/32,Cue conflict,43,2,car,0.83307874,-20.291645
+CLIP ViT-B/32,Cue conflict,44,2,car,-5.712504,-15.895293
+CLIP ViT-B/32,Cue conflict,45,2,car,-3.6800957,4.1143126
+CLIP ViT-B/32,Cue conflict,46,2,car,-3.1611838,-16.135012
+CLIP ViT-B/32,Cue conflict,47,2,car,-1.9501309,-17.043465
+CLIP ViT-B/32,Cue conflict,48,2,car,0.13487294,-19.339123
+CLIP ViT-B/32,Cue conflict,49,2,car,-4.44477,-10.231954
+CLIP ViT-B/32,Cue conflict,50,2,car,1.0473164,-15.956496
+CLIP ViT-B/32,Cue conflict,51,2,car,-2.632241,-14.914673
+CLIP ViT-B/32,Cue conflict,52,2,car,-0.20427878,-13.229226
+CLIP ViT-B/32,Cue conflict,53,2,car,-1.0462787,-12.685927
+CLIP ViT-B/32,Cue conflict,54,2,car,-0.82274675,-16.137854
+CLIP ViT-B/32,Cue conflict,55,2,car,0.3597763,-13.493429
+CLIP ViT-B/32,Cue conflict,56,2,car,-2.0248632,-15.693071
+CLIP ViT-B/32,Cue conflict,57,2,car,-3.839607,-17.952753
+CLIP ViT-B/32,Cue conflict,58,2,car,-0.81719434,-17.391268
+CLIP ViT-B/32,Cue conflict,59,2,car,-3.8267248,-15.208959
+CLIP ViT-B/32,Cue conflict,60,3,cat,3.8014317,17.365065
+CLIP ViT-B/32,Cue conflict,61,3,cat,-4.8588724,-3.6629093
+CLIP ViT-B/32,Cue conflict,62,3,cat,-5.070383,1.2891657
+CLIP ViT-B/32,Cue conflict,63,3,cat,-7.5580454,-1.9485312
+CLIP ViT-B/32,Cue conflict,64,3,cat,-3.2268364,-3.2169244
+CLIP ViT-B/32,Cue conflict,65,3,cat,-1.2220299,6.1892347
+CLIP ViT-B/32,Cue conflict,66,3,cat,-2.2450564,5.1921206
+CLIP ViT-B/32,Cue conflict,67,3,cat,-10.838652,4.340476
+CLIP ViT-B/32,Cue conflict,68,3,cat,-5.261212,2.4246035
+CLIP ViT-B/32,Cue conflict,69,3,cat,-1.66158,9.999966
+CLIP ViT-B/32,Cue conflict,70,3,cat,-6.8337893,-2.5560124
+CLIP ViT-B/32,Cue conflict,71,3,cat,6.060519,4.5158377
+CLIP ViT-B/32,Cue conflict,72,3,cat,-4.1931863,-0.7366317
+CLIP ViT-B/32,Cue conflict,73,3,cat,-8.235432,-3.2654624
+CLIP ViT-B/32,Cue conflict,74,3,cat,5.2685394,0.9988076
+CLIP ViT-B/32,Cue conflict,75,3,cat,-3.6873293,2.408033
+CLIP ViT-B/32,Cue conflict,76,3,cat,-3.6594722,-2.1252074
+CLIP ViT-B/32,Cue conflict,77,3,cat,-1.5204105,6.8573856
+CLIP ViT-B/32,Cue conflict,78,3,cat,-3.7033641,-6.102169
+CLIP ViT-B/32,Cue conflict,79,3,cat,-0.92918825,9.806172
+CLIP ViT-B/32,Cue conflict,80,4,deer,-2.118911,0.9595364
+CLIP ViT-B/32,Cue conflict,81,4,deer,4.5791774,-1.050658
+CLIP ViT-B/32,Cue conflict,82,4,deer,-5.448329,-1.4714657
+CLIP ViT-B/32,Cue conflict,83,4,deer,1.8114398,0.7951925
+CLIP ViT-B/32,Cue conflict,84,4,deer,-4.576964,5.369809
+CLIP ViT-B/32,Cue conflict,85,4,deer,3.952953,0.746912
+CLIP ViT-B/32,Cue conflict,86,4,deer,3.8500128,-1.8664423
+CLIP ViT-B/32,Cue conflict,87,4,deer,4.7388897,0.99326956
+CLIP ViT-B/32,Cue conflict,88,4,deer,2.0670037,2.8261561
+CLIP ViT-B/32,Cue conflict,89,4,deer,1.9328187,2.3194246
+CLIP ViT-B/32,Cue conflict,90,4,deer,-1.1214274,1.7013862
+CLIP ViT-B/32,Cue conflict,91,4,deer,-9.69034,10.406246
+CLIP ViT-B/32,Cue conflict,92,4,deer,-2.58827,-0.89082605
+CLIP ViT-B/32,Cue conflict,93,4,deer,-12.071555,2.0567775
+CLIP ViT-B/32,Cue conflict,94,4,deer,1.167206,-1.3010815
+CLIP ViT-B/32,Cue conflict,95,4,deer,4.2662387,1.9630971
+CLIP ViT-B/32,Cue conflict,96,4,deer,1.5989485,-0.61843526
+CLIP ViT-B/32,Cue conflict,97,4,deer,3.4794157,-1.6716267
+CLIP ViT-B/32,Cue conflict,98,4,deer,-3.507932,1.0563211
+CLIP ViT-B/32,Cue conflict,99,4,deer,-6.2244034,-1.8580273
+CLIP ViT-B/32,Cue conflict,100,5,dog,5.0720873,2.7928197
+CLIP ViT-B/32,Cue conflict,101,5,dog,3.7398767,4.240974
+CLIP ViT-B/32,Cue conflict,102,5,dog,7.7405086,13.533419
+CLIP ViT-B/32,Cue conflict,103,5,dog,6.162318,11.839341
+CLIP ViT-B/32,Cue conflict,104,5,dog,2.6758108,9.140418
+CLIP ViT-B/32,Cue conflict,105,5,dog,4.869235,13.061481
+CLIP ViT-B/32,Cue conflict,106,5,dog,19.870289,27.310297
+CLIP ViT-B/32,Cue conflict,107,5,dog,2.1933012,10.054624
+CLIP ViT-B/32,Cue conflict,108,5,dog,1.6181668,10.944747
+CLIP ViT-B/32,Cue conflict,109,5,dog,4.0135083,13.114377
+CLIP ViT-B/32,Cue conflict,110,5,dog,-8.656643,0.24869323
+CLIP ViT-B/32,Cue conflict,111,5,dog,-0.33797878,3.80768
+CLIP ViT-B/32,Cue conflict,112,5,dog,-4.903287,8.218269
+CLIP ViT-B/32,Cue conflict,113,5,dog,6.0728087,12.876401
+CLIP ViT-B/32,Cue conflict,114,5,dog,0.68874454,12.404576
+CLIP ViT-B/32,Cue conflict,115,5,dog,-4.5351515,9.228749
+CLIP ViT-B/32,Cue conflict,116,5,dog,7.2132163,10.553063
+CLIP ViT-B/32,Cue conflict,117,5,dog,-2.0736232,2.6513672
+CLIP ViT-B/32,Cue conflict,118,5,dog,0.04864064,9.904377
+CLIP ViT-B/32,Cue conflict,119,5,dog,-3.9251747,7.014088
+CLIP ViT-B/32,Cue conflict,120,6,horse,-6.4333463,-4.252816
+CLIP ViT-B/32,Cue conflict,121,6,horse,7.9047856,-1.7446164
+CLIP ViT-B/32,Cue conflict,122,6,horse,12.1388445,0.54225755
+CLIP ViT-B/32,Cue conflict,123,6,horse,0.7808256,8.824369
+CLIP ViT-B/32,Cue conflict,124,6,horse,10.786128,1.1860707
+CLIP ViT-B/32,Cue conflict,125,6,horse,2.6623325,6.2235045
+CLIP ViT-B/32,Cue conflict,126,6,horse,14.101078,2.0002162
+CLIP ViT-B/32,Cue conflict,127,6,horse,12.573665,2.4709628
+CLIP ViT-B/32,Cue conflict,128,6,horse,-0.18197519,1.6590517
+CLIP ViT-B/32,Cue conflict,129,6,horse,3.4563155,6.7807407
+CLIP ViT-B/32,Cue conflict,130,6,horse,-0.8768449,-0.13553974
+CLIP ViT-B/32,Cue conflict,131,6,horse,11.055052,-0.9990001
+CLIP ViT-B/32,Cue conflict,132,6,horse,11.254858,-0.355824
+CLIP ViT-B/32,Cue conflict,133,6,horse,-4.142538,0.7598472
+CLIP ViT-B/32,Cue conflict,134,6,horse,-0.55735415,-3.0624053
+CLIP ViT-B/32,Cue conflict,135,6,horse,12.407354,-0.2937766
+CLIP ViT-B/32,Cue conflict,136,6,horse,12.820361,2.1614134
+CLIP ViT-B/32,Cue conflict,137,6,horse,8.682179,0.2621256
+CLIP ViT-B/32,Cue conflict,138,6,horse,6.747144,2.2163272
+CLIP ViT-B/32,Cue conflict,139,6,horse,14.9451685,-1.2139723
+CLIP ViT-B/32,Cue conflict,140,7,monkey,-6.4519496,0.2978571
+CLIP ViT-B/32,Cue conflict,141,7,monkey,-7.4945226,0.7742111
+CLIP ViT-B/32,Cue conflict,142,7,monkey,-4.936484,2.9358792
+CLIP ViT-B/32,Cue conflict,143,7,monkey,-8.849503,-1.0644027
+CLIP ViT-B/32,Cue conflict,144,7,monkey,-9.736482,5.801044
+CLIP ViT-B/32,Cue conflict,145,7,monkey,-4.726434,0.22244354
+CLIP ViT-B/32,Cue conflict,146,7,monkey,-6.4719625,4.492047
+CLIP ViT-B/32,Cue conflict,147,7,monkey,-5.7622337,-0.282898
+CLIP ViT-B/32,Cue conflict,148,7,monkey,-11.464655,3.39396
+CLIP ViT-B/32,Cue conflict,149,7,monkey,-7.0362887,2.5557983
+CLIP ViT-B/32,Cue conflict,150,7,monkey,-1.4378849,-3.564821
+CLIP ViT-B/32,Cue conflict,151,7,monkey,-7.142891,-0.9610862
+CLIP ViT-B/32,Cue conflict,152,7,monkey,-4.894377,-2.7482166
+CLIP ViT-B/32,Cue conflict,153,7,monkey,-8.016649,3.7644546
+CLIP ViT-B/32,Cue conflict,154,7,monkey,-9.077168,1.6640728
+CLIP ViT-B/32,Cue conflict,155,7,monkey,-11.821473,3.9821317
+CLIP ViT-B/32,Cue conflict,156,7,monkey,-8.167043,4.5607295
+CLIP ViT-B/32,Cue conflict,157,7,monkey,-5.3036942,5.5012555
+CLIP ViT-B/32,Cue conflict,158,7,monkey,-7.949337,-0.6002367
+CLIP ViT-B/32,Cue conflict,159,7,monkey,-7.2476597,-0.08753904
+CLIP ViT-B/32,Cue conflict,160,8,ship,-18.892437,-7.33576
+CLIP ViT-B/32,Cue conflict,161,8,ship,-19.023895,-5.2529955
+CLIP ViT-B/32,Cue conflict,162,8,ship,-20.666924,-8.038287
+CLIP ViT-B/32,Cue conflict,163,8,ship,-17.650911,-7.837405
+CLIP ViT-B/32,Cue conflict,164,8,ship,-10.347483,-2.3380256
+CLIP ViT-B/32,Cue conflict,165,8,ship,-18.079138,-4.528261
+CLIP ViT-B/32,Cue conflict,166,8,ship,-9.919811,-12.671048
+CLIP ViT-B/32,Cue conflict,167,8,ship,-8.234463,-5.402788
+CLIP ViT-B/32,Cue conflict,168,8,ship,-16.943289,-6.959309
+CLIP ViT-B/32,Cue conflict,169,8,ship,-13.501321,-3.5780268
+CLIP ViT-B/32,Cue conflict,170,8,ship,-17.34628,-4.4814615
+CLIP ViT-B/32,Cue conflict,171,8,ship,-16.513994,-6.623036
+CLIP ViT-B/32,Cue conflict,172,8,ship,-14.691717,-6.7285156
+CLIP ViT-B/32,Cue conflict,173,8,ship,-16.803406,-5.243667
+CLIP ViT-B/32,Cue conflict,174,8,ship,-18.925709,-8.581039
+CLIP ViT-B/32,Cue conflict,175,8,ship,-7.0410724,-8.831132
+CLIP ViT-B/32,Cue conflict,176,8,ship,-10.257691,-3.7494922
+CLIP ViT-B/32,Cue conflict,177,8,ship,-18.660242,-6.8470187
+CLIP ViT-B/32,Cue conflict,178,8,ship,-11.975213,-1.6432714
+CLIP ViT-B/32,Cue conflict,179,8,ship,-18.44111,-3.7931426
+CLIP ViT-B/32,Cue conflict,180,9,truck,-6.329266,-6.859452
+CLIP ViT-B/32,Cue conflict,181,9,truck,-9.51081,-17.487041
+CLIP ViT-B/32,Cue conflict,182,9,truck,-6.9043264,-22.138353
+CLIP ViT-B/32,Cue conflict,183,9,truck,-8.518069,-17.773832
+CLIP ViT-B/32,Cue conflict,184,9,truck,-8.976083,-19.486656
+CLIP ViT-B/32,Cue conflict,185,9,truck,-5.4598975,-16.755316
+CLIP ViT-B/32,Cue conflict,186,9,truck,-5.9736214,-12.124805
+CLIP ViT-B/32,Cue conflict,187,9,truck,-9.77279,-6.202658
+CLIP ViT-B/32,Cue conflict,188,9,truck,-6.758273,-21.785616
+CLIP ViT-B/32,Cue conflict,189,9,truck,-9.1054125,-18.973335
+CLIP ViT-B/32,Cue conflict,190,9,truck,-7.067625,-6.880877
+CLIP ViT-B/32,Cue conflict,191,9,truck,-7.0599723,-17.857393
+CLIP ViT-B/32,Cue conflict,192,9,truck,-4.3856573,-12.8964615
+CLIP ViT-B/32,Cue conflict,193,9,truck,-6.7311134,-9.703231
+CLIP ViT-B/32,Cue conflict,194,9,truck,-10.658174,-17.969288
+CLIP ViT-B/32,Cue conflict,195,9,truck,-9.87125,-18.759747
+CLIP ViT-B/32,Cue conflict,196,9,truck,-7.2942123,-6.069351
+CLIP ViT-B/32,Cue conflict,197,9,truck,-7.4841533,-18.243435
+CLIP ViT-B/32,Cue conflict,198,9,truck,-8.163223,-15.989165
+CLIP ViT-B/32,Cue conflict,199,9,truck,-7.2474947,-19.486115

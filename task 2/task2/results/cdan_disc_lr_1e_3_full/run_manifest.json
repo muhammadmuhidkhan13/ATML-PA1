@@ -1,0 +1,18 @@
+{
+  "method": "cdan",
+  "run_name": "cdan_disc_lr_1e_3_full",
+  "seed": 6304,
+  "command": "C:\\Users\\HP\\anaconda3\\python.exe C:\\Users\\HP\\Desktop\\ATML\\PA1\\task 2\\task2\\train.py --method cdan --maximum-grl-strength 1 --discriminator-learning-rate 0.001 --run-name cdan_disc_lr_1e_3_full",
+  "created_utc": "2026-09-23T04:46:42.044347+00:00",
+  "python_version": "3.13.5 | packaged by Anaconda, Inc. | (main, Jun 12 2025, 16:37:03) [MSC v.1929 64 bit (AMD64)]",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "pytorch_version": "2.13.0+cu130",
+  "cuda_version": "13.0",
+  "device": "cuda",
+  "gpu": "NVIDIA GeForce RTX 3060 Laptop GPU",
+  "best_epoch": 7,
+  "best_mean_source_validation_macro_f1": 0.9359225692795853,
+  "checkpoint_selection_metric": "mean_source_validation_macro_f1",
+  "target_labels_used_during_training": false,
+  "target_labels_used_for_checkpoint_selection": false
+}

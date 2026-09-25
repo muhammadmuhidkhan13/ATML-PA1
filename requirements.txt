@@ -1,0 +1,13 @@
+# Install PyTorch and torchvision builds suited to your CPU/CUDA environment first.
+torch
+torchvision
+numpy
+pandas
+scikit-learn
+PyYAML
+matplotlib
+Pillow
+tqdm
+openpyxl
+open_clip_torch
+jupyter

@@ -1,0 +1,38 @@
+seed: 6304
+data:
+  images_root: data/pacs/images
+  split_path: shared/splits/pacs_sketch_seed6304.json
+  source_domains:
+  - art_painting
+  - cartoon
+  - photo
+  target_domain: sketch
+  source_batch_size_per_domain: 8
+  target_batch_size: 24
+  num_workers: 0
+model:
+  backbone: resnet18
+  pretrained_weights: IMAGENET1K_V1
+  feature_dimension: 512
+  number_of_classes: 7
+  freeze_batchnorm_statistics: true
+training:
+  optimizer: adamw
+  learning_rate: 0.0001
+  weight_decay: 0.0001
+  maximum_epochs: 30
+  grl_schedule_epochs: 30
+  early_stopping_patience: 5
+  checkpoint_metric: mean_source_validation_macro_f1
+  steps_per_epoch: longest_source_loader
+output:
+  results_root: task2/results
+method:
+  name: dan
+  uses_unlabeled_target: true
+  mmd_weight: 1.0
+  kernel_multipliers:
+  - 0.5
+  - 1.0
+  - 2.0
+run_name: dan_final

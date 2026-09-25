@@ -1,0 +1,12 @@
+{
+  "method": "proser",
+  "seed": 6304,
+  "best_epoch": 6,
+  "best_validation_accuracy": 0.9526,
+  "cifar10_test_accuracy": 0.9431,
+  "cifar10_test_loss": 0.22659740545749665,
+  "known_classes": 10,
+  "dummy_classes": 5,
+  "initialization_checkpoint": "task4\\checkpoints\\vanilla_best.pt",
+  "checkpoint": "task4\\checkpoints\\proser_best.pt"
+}

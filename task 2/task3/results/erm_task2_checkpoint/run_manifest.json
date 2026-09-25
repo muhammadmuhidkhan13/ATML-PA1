@@ -1,0 +1,10 @@
+{
+  "method": "erm",
+  "status": "complete",
+  "retrained": false,
+  "original_checkpoint": "task2\\results\\source_only_final\\best_checkpoint.pt",
+  "copied_checkpoint": "task3\\results\\erm_task2_checkpoint\\best_checkpoint.pt",
+  "checkpoint_epoch": 8,
+  "checkpoint_selection": "Task 2 mean source-validation macro-F1",
+  "sketch_used": false
+}

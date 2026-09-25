@@ -1,0 +1,30 @@
+method:
+  name: erm
+  retrain: false
+
+seed: 6304
+
+data:
+  images_root: data/pacs/images
+  split_path: shared/splits/pacs_sketch_seed6304.json
+  source_domains:
+    - art_painting
+    - cartoon
+    - photo
+  source_batch_size_per_domain: 8
+  num_workers: 0
+
+model:
+  feature_dimension: 512
+  number_of_classes: 7
+  freeze_batchnorm_statistics: true
+
+baseline:
+  checkpoint_path: task2/results/source_only_final/best_checkpoint.pt
+
+evaluation:
+  checkpoint_metric: mean_source_validation_macro_f1
+
+output:
+  results_root: task3/results
+  run_name: erm_task2_checkpoint

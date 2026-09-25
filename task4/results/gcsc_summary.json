@@ -1,0 +1,9 @@
+{
+  "method": "gcsc",
+  "seed": 6304,
+  "best_epoch": 96,
+  "best_validation_accuracy": 0.9624,
+  "cifar10_test_accuracy": 0.952,
+  "cifar10_test_loss": 0.1593592084169388,
+  "checkpoint": "task4\\checkpoints\\gcsc_best.pt"
+}
